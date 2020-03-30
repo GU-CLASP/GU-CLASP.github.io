@@ -22,7 +22,7 @@ class Header extends Component {
           width: "100%",
           height: (menuOpen && !sidebarDocked) ? nMenuItem*32 + 50 : 55,
           marginBottom: 20,
-          background: 'cornflowerblue',
+          background: 'linear-gradient(267.38deg, #B40707 0%, rgba(255, 255, 255, 0) 100%), #1890FF',
         }}
       >
         <div
@@ -41,7 +41,7 @@ class Header extends Component {
               <Link
                 to="/"
                 style={{
-                  color: 'white',
+                  color: 'black',
                   textDecoration: 'none',
                 }}
               >

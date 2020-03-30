@@ -32,5 +32,28 @@
       "blog/first-blog",
       "blog/second-blog"
     ]
-  }
+  },
+
+
+    {"entry": "Research",
+     "name": "Research",
+     "child_entries": [
+	 "Dialogue Research Group",
+	 "Situated Language and Perception Research Group"
+     ]
+    },
+  {
+    "entry": "Dialogue Research Group",
+    "name": "Dialogue Research Group",
+    "items": [
+      "research/dialogue/reading-group"
+    ]
+  },
+  {
+    "entry": "Situated Language and Perception Research Group",
+    "name": "Situated Language and Perception Research Group",
+    "items": [
+	"research/lap/reading-group"
+    ]
+  }            
 ]

@@ -1,10 +1,22 @@
 [
+  {
+    "name": "Events",
+    "link":  "/research/clasp/research-in-clasp"
+  },
   { 
-    "name": "Docs",
-    "link":  "/docs/get-started/introduction"
+    "name": "Research",
+    "link":  "/research/clasp/research-in-clasp"
   },
   {
-    "name": "Blog",
-    "link": "/blog"
+    "name": "Projects",
+    "link":  "/research/clasp/research-in-clasp"
+  },
+  {
+    "name": "Publications",
+    "link":  "/research/clasp/research-in-clasp"
+  },
+  {
+    "name": "People",
+    "link":  "/research/clasp/research-in-clasp"
   }
 ]
