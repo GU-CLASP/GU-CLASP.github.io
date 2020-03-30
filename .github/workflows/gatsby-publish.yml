@@ -1,6 +1,9 @@
 name: Gatsby Publish
 
 on: push
+  push:
+    branches:
+      - dev
 
 jobs:
   build:
