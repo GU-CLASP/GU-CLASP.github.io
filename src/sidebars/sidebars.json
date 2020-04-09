@@ -33,15 +33,73 @@
       "blog/second-blog"
     ]
   },
-
-
-    {"entry": "Research",
-     "name": "Research",
-     "child_entries": [
-	 "Dialogue Research Group",
-	 "Situated Language and Perception Research Group"
-     ]
-    },
+  {
+    "entry": "Events",
+    "name": "Events",
+    "items": [
+      "events/calendar/calendar"
+    ],
+    "child_entries": [
+      "Seminars",
+      "Conferences",
+      "Workshops"
+    ]
+  },
+  {
+    "entry": "Seminars",
+    "name": "Seminars",
+    "items": [
+      "events/seminars/2020-seminars",
+      "events/seminars/2019-seminars"
+    ]
+  },
+  {
+    "entry": "Conferences",
+    "name": "Conferences",
+    "items": [
+      "events/conferences/2020-conferences",
+      "events/conferences/2019-conferences"
+    ]
+  },
+  {
+    "entry": "Workshops",
+    "name": "Workshops",
+    "items": [
+      "events/workshops/2020-workshops",
+      "events/workshops/2019-workshops",
+      "events/workshops/Dialogue_and_Perception_2018"
+    ]
+  },
+  {
+    "entry": "Peoples",
+    "name": "Peoples",
+    "items": [
+      "peoples/peoples"
+    ]
+  },
+  {
+    "entry": "Publications",
+    "name": "Publications",
+    "items": [
+      "publications/publications"
+    ]
+  },
+  {
+    "entry": "Projects",
+    "name": "Projects",
+    "items": [
+      "projects/projects"
+    ]
+  },
+  {
+    "entry": "Research",
+    "name": "Research",
+    "child_entries": [
+      "Dialogue Research Group",
+      "Situated Language and Perception Research Group",
+      "Machine Learning Group"
+    ]
+  },
   {
     "entry": "Dialogue Research Group",
     "name": "Dialogue Research Group",
@@ -53,7 +111,14 @@
     "entry": "Situated Language and Perception Research Group",
     "name": "Situated Language and Perception Research Group",
     "items": [
-	"research/lap/reading-group"
+      "research/lap/reading-group"
     ]
-  }            
+  },
+  {
+    "entry": "Machine Learning Group",
+    "name": "Machine Learning Group",
+    "items": [
+      "research/mlr/machine-learning-group"
+    ]
+  }
 ]
