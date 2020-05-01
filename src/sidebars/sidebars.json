@@ -71,10 +71,10 @@
     ]
   },
   {
-    "entry": "Peoples",
-    "name": "Peoples",
+    "entry": "People",
+    "name": "People",
     "items": [
-      "peoples/peoples"
+      "people/people"
     ]
   },
   {
