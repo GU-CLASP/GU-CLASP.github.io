@@ -1,28 +1,22 @@
 ---
-title: Peoples in CLASP
-sidebar: Peoples
+title: People in CLASP
+sidebar: People
 showTitle: true
 hideAnchor: true
 ---
 
 ## People at CLASP
-<br/>
-
-
 
 #### Director of CLASP
 Shalom Lappin, Professor
-<br/>
 
-####Associate Director and Researcher
+#### Associate Director and Researcher
 Stergios Chatzikyriakidis, Associate Director and Researcher (Docent in Computational Linguistics)
-<br/>
 
-####Administrator
+#### Administrator
 Susanna Myyry
-<br/>
 
-####Researchers
+#### Researchers
 - Robin Cooper, Senior Professor
 - Ellen Breitholtz, Researcher
 - Simon Dobnik, Senior Lecturer in Computational Linguistics(Docent in Computational Linguistics)
@@ -31,9 +25,8 @@ Susanna Myyry
 - Staffan Larsson, Professor of Computational Linguistics
 - Jean-Philippe Bernardy, Researcher (Docent in Computer Science)
 - Aram Karimi, Researcher
-<br/>
 
-####Doctoral Students
+#### Doctoral Students
 - Wafia Adouane, PhD student
 - Mehdi Ghanimifard, PhD student
 - Kathrein Abu Kwaik, PhD student
@@ -45,9 +38,8 @@ Susanna Myyry
 - Axel Almquist, PhD student
 - Tewodros Gebreselassie, PhD student
 - Nikolai Ilinykh, PhD student
-<br/>
 
-####Past Members
+#### Past Members
 - Yuri Bizzoni, PhD student, defended February 2019 (now in Saarbrücken)
 - Charalambos Themistocleous, Post-doc 2016-2018 (now at John Hopkins)
 - Aleksandre Maskharashvili, Post-doc 2018-2020 (now at Ohio State University)
