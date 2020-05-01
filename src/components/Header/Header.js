@@ -20,7 +20,7 @@ class Header extends Component {
             // position: "fixed",
             // top: 0,
           width: "100%",
-          height: (menuOpen && !sidebarDocked) ? nMenuItem*32 + 50 : 55,
+          height: (menuOpen && !sidebarDocked) ? nMenuItem * 32 + 35 : 40,
           marginBottom: 40,
           marginTop: 20,
           background: '#FFF',
@@ -33,8 +33,8 @@ class Header extends Component {
         <div
           style={{
             margin: '0 auto',
-            maxWidth: 1360,
-            padding: '15px 18px',
+            maxWidth: 976,
+            padding: '0px 18px',
             whiteSpace: 'nowrap',
           }}
         >
@@ -42,12 +42,14 @@ class Header extends Component {
             float: 'left',
             marginBottom: '10px',
           }}>
-            <h1 style={{ margin: 0, fontSize: "1.25rem" }}>
+            <h1 style={{ margin: 0, fontSize: "1.5rem" }}>
               <Link
                 to="/"
                 style={{
                   color: 'black',
                   textDecoration: 'none',
+                  lineHeight: "150%",
+                  fontFamily: "'NimbusSanNovCon-Med', 'Nimbus Sans Novus Cond Medium', 'TeXGyreHerosCnBold', 'Arial Narrow', 'Helvetica', 'Arial', 'Lucida Grande', 'sans-serif'",
                 }}
               >
                 {siteTitle}
