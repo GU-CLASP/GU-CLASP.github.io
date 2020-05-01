@@ -27,14 +27,13 @@ Currently meeting remotely by video conference.
 
 ### Previous sessions:
 
-##### 17 January 2020 \-- [13h-15h]{style="color: #993300;"}
+##### 17 January 2020 \-- [13h-15h]
 
 -   **Led by:** Bill Noble
 -   Lev-Ari, Shiri. "Social Network Size Can Influence Linguistic
     Malleability and the Propagation of Linguistic Change." *Cognition*,
     vol. 176, July 2018, pp. 31--39.
-    []{.Z3988
-    title="url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzotero.org%3A2&rft_id=info%3Adoi%2F10.1016%2Fj.cognition.2018.03.003&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Social%20network%20size%20can%20influence%20linguistic%20malleability%20and%20the%20propagation%20of%20linguistic%20change&rft.jtitle=Cognition&rft.stitle=Cognition&rft.volume=176&rft.aufirst=Shiri&rft.aulast=Lev-Ari&rft.au=Shiri%20Lev-Ari&rft.date=2018-07&rft.pages=31-39&rft.spage=31&rft.epage=39&rft.issn=00100277&rft.language=en"}
+    [GU UB Access](https://www-sciencedirect-com.ezproxy.ub.gu.se/science/article/pii/S0010027718300659)
 
 ##### 08 Novemeber 2019
 
@@ -50,8 +49,7 @@ Currently meeting remotely by video conference.
     Convergence and Conventionalization." *New Ideas in Psychology*,
     vol. 32, Jan. 2014, pp. 158--73. 
 
-    []{.Z3988
-    title="url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzotero.org%3A2&rft_id=info%3Adoi%2F10.1016%2Fj.newideapsych.2013.03.006&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Dialogue%20in%20joint%20activity%3A%20Complementarity%2C%20convergence%20and%20conventionalization&rft.jtitle=New%20Ideas%20in%20Psychology&rft.stitle=New%20Ideas%20in%20Psychology&rft.volume=32&rft.aufirst=Gregory%20J.&rft.aulast=Mills&rft.au=Gregory%20J.%20Mills&rft.date=2014-01-01&rft.pages=158-173&rft.spage=158&rft.epage=173&rft.issn=0732-118X&rft.language=en"}
+    [GU UB Access](https://www-sciencedirect-com.ezproxy.ub.gu.se/science/article/pii/S0732118X13000354)
 
 ##### 27th September 2019
 
@@ -182,7 +180,7 @@ Currently meeting remotely by video conference.
     with dialogue](https://core.ac.uk/download/pdf/20652081.pdf).
     *Cognitive Science*, *27*(2), 195-225.
 
-##### 8th June 2018 - [10h-12h]{style="color: #993300;"}
+##### 8th June 2018 - [10h-12h]
 
 -   **Led** **by:** Vlad Maraev
 -   Hempelmann, C. F., & Attardo, S. (2011).
@@ -227,7 +225,7 @@ Currently meeting remotely by video conference.
     Person]{.nodeLink}.](http://jdbsc.rug.nl/article/viewFile/29196/26540)
     *Journal of Deafblind Studies on Communication*, *3*(1).
 
-##### 23rd March 2018 - [10h-12h []{style="color: #000000;"}]{style="color: #993300;"}- joint Dialogue and Language and Perception reading group
+##### 23rd March 2018 - [10h-12h] - joint Dialogue and Language and Perception reading group
 
 -   **Led** **by:** Sylvie Saget**\
     **
