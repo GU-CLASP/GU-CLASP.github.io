@@ -21,8 +21,13 @@ class Header extends Component {
             // top: 0,
           width: "100%",
           height: (menuOpen && !sidebarDocked) ? nMenuItem*32 + 50 : 55,
-          marginBottom: 20,
-          background: 'linear-gradient(267.38deg, #B40707 0%, rgba(255, 255, 255, 0) 100%), #1890FF',
+          marginBottom: 40,
+          marginTop: 20,
+          background: '#FFF',
+          borderTop: '1px solid #666', 
+          borderBottom: '1px solid #666',
+          borderLeft: 0,
+          border-right: 0,
         }}
       >
         <div
