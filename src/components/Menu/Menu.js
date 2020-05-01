@@ -44,10 +44,15 @@ class Menu extends Component {
                     style={{ marginLeft: "2em", float: "right" }}
                     key={menuItems.indexOf(item)}
                   >
-                    <p style={{ margin:0, fontSize: "1rem" }}>
+                    <p style={{ margin:0, fontSize: "1.05rem" }}>
                       <Link
                         to={item.link}
-                        style={{ color: 'black', textDecoration: 'none' }}
+                        style={{ 
+                               color: 'black',
+                               textDecoration: 'none', 
+                               lineHeight: "210%",
+                               fontFamily: "'NimbusSanNovCon-Med', 'Nimbus Sans Novus Cond Medium', 'TeXGyreHerosCnBold', 'Arial Narrow', 'Helvetica', 'Arial', 'Lucida Grande', 'sans-serif'",
+                              }}
                       >
                         {item.name}
                       </Link>
