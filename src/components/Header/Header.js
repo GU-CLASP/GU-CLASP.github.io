@@ -21,7 +21,7 @@ class Header extends Component {
             // top: 0,
           width: "100%",
           height: (menuOpen && !sidebarDocked) ? nMenuItem * 32 + 35 : 40,
-          marginBottom: 40,
+          marginBottom: 25,
           marginTop: 20,
           background: '#FFF',
           borderTop: '1px solid #666', 
