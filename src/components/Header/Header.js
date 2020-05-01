@@ -27,7 +27,7 @@ class Header extends Component {
           borderTop: '1px solid #666', 
           borderBottom: '1px solid #666',
           borderLeft: 0,
-          border-right: 0,
+          borderRight: 0,
         }}
       >
         <div
