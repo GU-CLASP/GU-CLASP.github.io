@@ -55,6 +55,11 @@ class SidebarContents extends Component {
                 entry
                 child_entries
                 items
+                links{
+                    id
+                    name
+                    link
+                }
               }
             }
           }
@@ -75,6 +80,13 @@ class SidebarContents extends Component {
             let children = itemToNode(rootEntry)
             if (children && child_dir) children = children.concat(child_dir)
             else if (children === null) children = child_dir
+
+            let links  = linkToNode(rootEntry)
+            if (links && children)
+                children = children.concat(links)
+            else if(links)
+                children = links
+
             const node = {
               key: rootEntry.id,
               title: rootEntry.name,
@@ -103,6 +115,24 @@ class SidebarContents extends Component {
             return entry.items.map(item => {
               return getPage("/" + item, entry.id)
             })
+          }
+
+          const linkToNode = (entry) => {
+            if (entry.links == null) return null
+            return entry.links.map(link => {
+              return getPageLink("/" + link.link, link.name, link.id, entry.id)
+          })
+          }
+
+          const getPageLink = (path, title, id, parent) => {
+              const node = ({
+                  path: path,
+                  key: id,
+                  title: title,
+                  parent: parent
+              })
+              dir.push(node)
+              return node
           }
 
           const getPage = (path, parent) => {
@@ -149,7 +179,7 @@ class SidebarContents extends Component {
                   )
                 }
                 return (
-                  <SubMenu 
+                  <SubMenu
                     key={item.key}
                     title={<span style={{fontWeight:750}}
                   >{item.title}</span>}>
@@ -160,7 +190,7 @@ class SidebarContents extends Component {
             }
           }
           return (
-            <Menu 
+            <Menu
               mode="inline"
               defaultOpenKeys={defaultOpenKeys}
               selectedKeys={selectedKeys}

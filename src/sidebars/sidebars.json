@@ -39,19 +39,23 @@
     "items": [
       "events/calendar/calendar"
     ],
-    "child_entries": [
-      "Seminars",
-      "Conferences",
-      "Workshops"
-    ]
-  },
-  {
-    "entry": "Seminars",
-    "name": "Seminars",
-    "items": [
-      "events/seminars/2020-seminars",
-      "events/seminars/2019-seminars"
-    ]
+      "links":[
+          {
+              "id": "seminars-categories-collection",
+              "name": "Seminars",
+              "link": "categories/seminars"
+          },
+          {
+              "id": "conferences-categories-collection",
+              "name": "Conferences",
+              "link": "categories/conferences"
+          },
+          {
+              "id": "workshops-categories-collection",
+              "name": "Workshops",
+              "link": "categories/workshops"
+          }
+      ]
   },
   {
     "entry": "Conferences",

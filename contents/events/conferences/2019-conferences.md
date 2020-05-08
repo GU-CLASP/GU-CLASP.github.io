@@ -2,6 +2,9 @@
 title: Conference on Logic and Machine Learning in Natural Language (LaML)
 sidebar: Events
 showTitle: true
+date: 2017-06-12
+categories: ["Conferences"]
+tags: ["Logic",Machine Learning", "Natural Language"]
 ---
 
 We are very happy to announce the first official conference organized by CLASP, Logic and Machine Learning in Natural Language (LaML). The conference hopes to bring together researchers working in both logical  and machine learning/deep learning approaches to Computational Linguistics. We aim  at initiating a discussion with the two sets  of researchers that have been largely unconnected up to now. The conference will take place on June the 12th-14th 2017 in Gothenburg, Sweden. For more information please take a look here.
@@ -26,7 +29,7 @@ The conference proceedings will be published online, with an ISSN, on the CLASP 
 Registration is free and participation is open. We warmly invite everyone to attend.
 <br/>
 
-###Invited Speakers:
+###Invited Speakers
 
 - Marco Baroni, Trento
 - Alexander Clark, King’s College London
@@ -37,7 +40,7 @@ Registration is free and participation is open. We warmly invite everyone to att
 - Mehrnoosh Sadrzadeh, Queen Mary University of London
 <br/>
 
-###Submission of papers:
+###Submission of papers
 EasyChair submission address: https://easychair.org/conferences/?conf=laml2017
 
 Contact email address: laml2017@easychair.org
@@ -59,7 +62,7 @@ Important dates:
 4. Camera ready papers due: May 9, 2017
 <br/>
 
-###The LaML Programme Committee:
+###The LaML Programme Committee
 - Marco Baroni, Trento
 - Islam Beltagy, University of Texas, Austin
 - Jean-Philippe Bernardy, Gothenburg

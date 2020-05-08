@@ -2,6 +2,8 @@
 title: Workshop on Dialogue and Perception 2018
 sidebar: Events
 showTitle: true
+date: 2018-06-14
+categories: ["Workshops"]
 ---
 ####Date
 June 14–15, 2018 in Gothenburg, Sweden
