@@ -27,7 +27,7 @@ function Template({
   const { frontmatter} = allMarkdownRemark.edges[0].node
   const {html, id} = allMarkdownRemark
 
-  const hideAnchor = (frontmatter.hideAnchor === null) ? false : frontmatter.hideAnchor
+  const hideAnchor =  false
   const hideSidebar = (frontmatter.sidebar === null) ? true : false
 
   onSetAnchorHide(hideAnchor)
@@ -53,7 +53,7 @@ function Template({
             const summary = node.excerpt
             return (
               <li key={slug}>
-                <h2><Link to={slug}>{title}</Link></h2>
+                <h2 id="title" class="post-toc-anchor"><Link to={slug}>{title}</Link></h2>
                 <p> {date} </p>
                 <p> {summary} </p>
               </li>
