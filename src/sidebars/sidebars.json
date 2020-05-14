@@ -43,17 +43,17 @@
           {
               "id": "seminars-categories-collection",
               "name": "Seminars",
-              "link": "categories/seminars"
+              "link": "events/seminars"
           },
           {
               "id": "conferences-categories-collection",
               "name": "Conferences",
-              "link": "categories/conferences"
+              "link": "events/conferences"
           },
           {
               "id": "workshops-categories-collection",
               "name": "Workshops",
-              "link": "categories/workshops"
+              "link": "events/workshops"
           }
       ]
   },

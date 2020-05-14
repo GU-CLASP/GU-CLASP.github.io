@@ -1,8 +1,11 @@
 ---
+name: CLASP
 title: People in CLASP
 sidebar: People
 showTitle: true
 hideAnchor: true
+Position: Doctoral
+isPersonalPage: true
 ---
 
 ## People at CLASP
