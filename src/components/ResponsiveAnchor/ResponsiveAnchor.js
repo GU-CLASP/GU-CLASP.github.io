@@ -16,7 +16,7 @@ class ResponsiveAnchor extends Component {
           position: "absolute",
           left: 10,
           right: 0,
-          top: 0,
+          top: 120,
           bottom: 0
         }}>
           <TableOfContents offsetTop={80} affix={true}/>

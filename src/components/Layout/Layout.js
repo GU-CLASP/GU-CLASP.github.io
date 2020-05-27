@@ -75,7 +75,7 @@ class Layout extends Component {
                   </AntdLayout.Header>
                   {(!matches && onPostPage) ?
                     <AntdLayout>
-                      {!sidebarHide && 
+                      {!sidebarHide &&
                         <AntdLayout.Sider>
                           <ResponsiveSidebar/>
                         </AntdLayout.Sider>
@@ -85,6 +85,7 @@ class Layout extends Component {
                           position: "absolute",
                           left: "20%",
                           right: "15%",
+                          top:"15%",
                         }}
                       >
                         <Container sidebarDocked={!matches} onPostPage={onPostPage}>
@@ -103,6 +104,7 @@ class Layout extends Component {
                         position: "absolute",
                         left: 0,
                         right: 0,
+                        top:160,
                       }}
                     >
                       <Container sidebarDocked={!matches} onPostPage={onPostPage}>

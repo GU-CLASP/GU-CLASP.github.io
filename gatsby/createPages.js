@@ -52,7 +52,7 @@ module.exports = exports.createPages = ({ actions, graphql }) => {
     // Make category pages
     categories.forEach(category => {
       createPage({
-        path: `/categories/${_.kebabCase(category.fieldValue)}/`,
+        path: `/events/${_.kebabCase(category.fieldValue)}/`,
         component: categoryTemplate,
         context: {
           category: category.fieldValue,

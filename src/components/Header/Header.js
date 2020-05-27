@@ -3,6 +3,8 @@ import { Link } from 'gatsby';
 import Menu from '../Menu';
 import { getMenuState } from '../../store/selectors';
 import { connect } from 'react-redux';
+import Row from 'antd/lib/row';
+import Col from 'antd/lib/col';
 
 class Header extends Component {
 
@@ -15,48 +17,70 @@ class Header extends Component {
     } = this.props
     
     return (
-      <div
-        style={{
-            // position: "fixed",
-            // top: 0,
-          width: "100%",
-          height: (menuOpen && !sidebarDocked) ? nMenuItem * 32 + 35 : 40,
-          marginBottom: 25,
-          marginTop: 20,
-          background: '#FFF',
-          borderTop: '1px solid #666', 
-          borderBottom: '1px solid #666',
-          borderLeft: 0,
-          borderRight: 0,
-        }}
-      >
+      <div>
         <div
           style={{
-            margin: '0 auto',
-            maxWidth: 976,
-            padding: '0px 18px',
-            whiteSpace: 'nowrap',
+            paddingTop:20,
+            paddingBottom: 20,
+            background: '#FFF',
           }}
         >
-          <div style={{
-            float: 'left',
-            marginBottom: '10px',
-          }}>
-            <h1 style={{ margin: 0, fontSize: "1.5rem" }}>
-              <Link
-                to="/"
+          <Row justify="start" align="middle" type="flex" >
+            <Col span={4}>
+              <img
                 style={{
-                  color: 'black',
-                  textDecoration: 'none',
-                  lineHeight: "150%",
-                  fontFamily: "'NimbusSanNovCon-Med', 'Nimbus Sans Novus Cond Medium', 'TeXGyreHerosCnBold', 'Arial Narrow', 'Helvetica', 'Arial', 'Lucida Grande', 'sans-serif'",
+                  marginLeft:20,
+                  marginBottom:0,
+                  maxHeight:100,
                 }}
-              >
-                {siteTitle}
-              </Link>
-            </h1>
+                src={
+                  `../../images/1200px-Goteborgs_universitet_seal.svg.png`
+                  }
+              />
+            </Col>
+            <Col span={8}>
+              <img
+                style={{
+                  marginLeft:30,
+                  marginBottom:0,
+                  maxHeight:100,
+                }}
+                src={
+                  `../../images/1561330_clasp_webbanner.jpg`
+                  }
+              />
+            </Col>
+          </Row>
+        </div>
+        <div
+          style={{
+              // position: "fixed",
+              // top: 0,
+            width: "100%",
+            height: (menuOpen && !sidebarDocked) ? nMenuItem * 32 + 50 : 40,
+            marginBottom: 25,
+            background: '#FFF',
+            borderTop: '1px solid #666', 
+            borderBottom: '1px solid #666',
+            borderLeft: 0,
+            borderRight: 0,
+          }}
+        >
+          <div
+            style={{
+              margin: '0 auto',
+              // maxWidth: 976,
+              padding: '0px 18px',
+              whiteSpace: 'nowrap',
+            }}
+          >
+            <div style={{
+              float: 'left',
+              marginBottom: '10px',
+            }}>
+            </div>
+            <Menu sidebarDocked={sidebarDocked}/>
           </div>
-          <Menu sidebarDocked={sidebarDocked}/>
         </div>
       </div>
     )

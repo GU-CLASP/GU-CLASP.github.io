@@ -38,10 +38,10 @@ class Menu extends Component {
             <div>
             {sidebarDocked &&
             <div>
-              {menuItems.reverse().map(item => {
+              {menuItems.map(item => {
                 return (
                   <div 
-                    style={{ marginLeft: "2em", float: "right" }}
+                    style={{ marginLeft: "2em", float: "left" }}
                     key={menuItems.indexOf(item)}
                   >
                     <p style={{ margin:0, fontSize: "1.05rem" }}>
@@ -67,8 +67,8 @@ class Menu extends Component {
                 style={{
                   position: 'fixed',
                   right: 10,
-                  top: 12,
-                  color: 'white',
+                  top: 205,
+                  color: '#000',
                 }}
                 type='link'
                 onClick={() => {this.onChangeMenuState(menuItems.length)}}
@@ -91,7 +91,7 @@ class Menu extends Component {
                       title={
                         <Link
                           to={item.link}
-                          style={{ color: 'white', textDecoration: 'none' }}
+                          style={{ color: '#000', textDecoration: 'none' }}
                           onClick={() => {this.onChangeMenuState(menuItems.length)}}
                         >
                           {item.name}

@@ -7,7 +7,7 @@ class ResponsiveSidebar extends Component {
     return (
       <div style={{
         position: "fixed",
-        top: 80,
+        top: 100,
         left: 10,
         right: "80%",
         bottom: 0,
@@ -17,7 +17,7 @@ class ResponsiveSidebar extends Component {
           position:"absolute", 
           left:0,
           right:10,
-          top:0,
+          top:100,
           bottom:0
         }}>
           <SidebarContents/>
