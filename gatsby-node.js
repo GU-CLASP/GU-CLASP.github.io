@@ -1,10 +1,131 @@
-/**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/node-apis/
- */
+const { createFilePath } = require(`gatsby-source-filesystem`)
 
-// You can delete this file if you're not using it
+exports.onCreateNode = ({ node, getNode, actions }) => {
+    const { createNodeField } = actions
+    if (node.internal.type === `MarkdownRemark`) {
+        const slug = createFilePath({ node, getNode, basePath: `pages` })
+        createNodeField({
+            node,
+            name: `slug`,
+            value: slug,
+        })
+    }
+}
 
-exports.createPages = require('./gatsby/createPages')
-exports.onCreateNode = require('./gatsby/onCreateNode')
+exports.createPages = async ({ actions, graphql, reporter }) => {
+    const { createPage } = actions
+
+    const markdownTemplate = require.resolve(`./src/templates/markdownTemplate.js`)
+    const newsTemplate = require.resolve(`./src/templates/newsTemplate.js`)
+    const staffTemplate = require.resolve(`./src/templates/staffTemplate.js`)
+    const seminarTemplate = require.resolve(`./src/templates/seminarTemplate.js`)
+    const workshopTemplate = require.resolve(`./src/templates/workshopTemplate.js`)
+    const conferenceTemplate = require.resolve(`./src/templates/conferenceTemplate.js`)
+
+    const result = await graphql(`
+      {
+        allMarkdownRemark {
+          edges {
+            node {
+              fields {
+                slug
+              }
+            }
+          }
+        }
+      }
+    `)
+
+    // Handle errors
+    if (result.errors) {
+        reporter.panicOnBuild(`Error while running GraphQL query.`)
+        return
+    }
+
+    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+        const pageType = getMarkdownType(node.fields.slug)
+        switch (pageType) {
+            case "people":
+                createPage({
+                    path: node.fields.slug,
+                    component: staffTemplate,
+                    context: {
+                        // additional data can be passed via context
+                        slug: node.fields.slug,
+                    },
+                })
+                break
+            case "workshop":
+                createPage({
+                    path: node.fields.slug,
+                    component: workshopTemplate,
+                    context: {
+                        // additional data can be passed via context
+                        slug: node.fields.slug,
+                    },
+                })
+                break
+            case "conference":
+                createPage({
+                    path: node.fields.slug,
+                    component: conferenceTemplate,
+                    context: {
+                        // additional data can be passed via context
+                        slug: node.fields.slug,
+                    },
+                })
+                break
+            case "seminar":
+                createPage({
+                    path: node.fields.slug,
+                    component: seminarTemplate,
+                    context: {
+                        // additional data can be passed via context
+                        slug: node.fields.slug,
+                    },
+                })
+                break
+            case "news":
+                createPage({
+                    path: node.fields.slug,
+                    component: newsTemplate,
+                    context: {
+                        // additional data can be passed via context
+                        slug: node.fields.slug,
+                    },
+                })
+                break
+            default:
+                createPage({
+                    path: node.fields.slug,
+                    component: markdownTemplate,
+                    context: {
+                        // additional data can be passed via context
+                        slug: node.fields.slug,
+                    },
+                })
+                break
+        }
+    })
+}
+
+function getMarkdownType(slug) {
+    if (slug.startsWith("/events/seminars/")) {
+        return "seminar"
+    }
+    else if (slug.startsWith("/events/conferences/")) {
+        return "conference"
+    }
+    else if (slug.startsWith("/events/workshops/")) {
+        return "workshop"
+    }
+    else if (slug.startsWith("/people/")) {
+        return "people"
+    }
+    else if (slug.startsWith("/news/")) {
+        return "news"
+    }
+    else {
+        return ""
+    }
+}

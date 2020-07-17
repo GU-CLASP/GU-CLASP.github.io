@@ -1,59 +1,47 @@
 {
-  "name": "gatsby-starter-markdown",
-  "description": "Gatsby markdown starter",
-  "version": "1.0.0",
-  "author": "Luca(Wei) Chen <wei@cvluca.com>",
-  "dependencies": {
-    "antd": "^3.23.2",
-    "eslint-plugin-flowtype": "^2.50.3",
-    "gatsby": "^2.15.15",
-    "gatsby-cli": "^2.7.47",
-    "gatsby-image": "^2.3.1",
-    "gatsby-plugin-manifest": "^2.2.16",
-    "gatsby-plugin-offline": "^2.2.10",
-    "gatsby-plugin-react-helmet": "^3.1.7",
-    "gatsby-plugin-sharp": "^2.5.3",
-    "gatsby-plugin-styled-components": "^3.2.1",
-    "gatsby-plugin-typography": "^2.4.1",
-    "gatsby-remark-autolink-headers": "^2.1.10",
-    "gatsby-remark-images": "^3.1.22",
-    "gatsby-remark-katex": "^3.1.8",
-    "gatsby-source-filesystem": "^2.1.22",
-    "gatsby-transformer-json": "^2.2.8",
-    "gatsby-transformer-remark": "^2.6.22",
-    "gatsby-transformer-sharp": "^2.4.3",
-    "katex": "^0.10.2",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "react-helmet": "^5.2.1",
-    "react-redux": "^7.1.1",
-    "react-responsive": "^6.1.2",
-    "react-typography": "^0.16.19",
-    "styled-components": "^5.0.1",
-    "typescript": "^3.6.3",
-    "typography": "^0.16.19",
-    "typography-theme-fairy-gates": "^0.16.19"
-  },
-  "keywords": [
-    "gatsby"
-  ],
+  "name": "gatsby-starter-hello-world",
+  "private": true,
+  "description": "A simplified bare-bones starter for Gatsby",
+  "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
-    "format": "prettier --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.4.4",
+    "bootstrap": "^4.1.3",
+    "gatsby": "^2.21.37",
+    "gatsby-plugin-mdx": "^1.2.25",
+    "gatsby-plugin-react-helmet": "^3.3.2",
+    "gatsby-plugin-sharp": "^2.6.19",
+    "gatsby-remark-copy-linked-files": "^2.3.11",
+    "gatsby-remark-images": "^3.3.19",
+    "gatsby-source-filesystem": "^2.3.10",
+    "gatsby-transformer-json": "^2.4.7",
+    "gatsby-transformer-remark": "^2.8.14",
+    "jquery": "^3.5.1",
+    "mdbreact": "^4.27.0",
+    "popper.js": "^1.16.1",
+    "react": "^16.12.0",
+    "react-bootstrap": "^1.0.1",
+    "react-bootstrap-icons": "^1.0.3-alpha5",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.0.0"
   },
   "devDependencies": {
-    "gatsby-plugin-remove-trailing-slashes": "^2.1.6",
-    "gh-pages": "^2.1.1",
-    "mem": "^5.1.1",
-    "prettier": "^1.18.2"
+    "prettier": "2.0.5"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cvluca/gatsby-starter-markdown"
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
   }
 }
