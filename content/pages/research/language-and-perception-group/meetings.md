@@ -1,5 +1,5 @@
 ---
-MDFileCustomID: "language-and-perception-group-reading-id"
+MDFileCustomID: "reading-lap"
 ---
 
 The situated language and perception reading group meets on even Fridays 10-12 in the seminar room on the 5th floor of Humanistiska fakulteten, Renströmsgatan 6. 
