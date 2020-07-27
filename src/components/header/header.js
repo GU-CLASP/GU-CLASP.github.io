@@ -173,14 +173,14 @@ var menuData = [
                         "title": "About",
                         "href": null,
                         "linkToMDFile": true,
-                        "MDFileCustomID": "language-and-perception-group-id",
+                        "MDFileCustomID": "research-group-lap",
                         "hasSubmenu": false
                     },
                     {
                         "title": "Reading group",
                         "href": null,
                         "linkToMDFile": true,
-                        "MDFileCustomID": "language-and-perception-group-id",
+                        "MDFileCustomID": "reading-group-lap",
                         "hasSubmenu": false
                     },
                     {
@@ -191,31 +191,31 @@ var menuData = [
                         "hasSubmenu": true,
                         "submenu": [
                             {
-                                "title": "RoM",
+                                "title": "Representations of Meaning",
                                 "href": null,
                                 "linkToMDFile": true,
-                                "MDFileCustomID": "RoM",
+                                "MDFileCustomID": "course-rom",
                                 "hasSubmenu": false
                             },
                             {
-                                "title": "APL",
+                                "title": "Language, Action, and Perception",
                                 "href": null,
                                 "linkToMDFile": true,
-                                "MDFileCustomID": "APL",
+                                "MDFileCustomID": "course-apl",
                                 "hasSubmenu": false
                             },
                             {
-                                "title": "CSoc",
+                                "title": "Sociolinguistics and Bilingualism for NLP",
                                 "href": null,
                                 "linkToMDFile": true,
-                                "MDFileCustomID": "CSoc",
+                                "MDFileCustomID": "course-csoc",
                                 "hasSubmenu": false
                             },
                             {
-                                "title": "ML-V&L",
+                                "title": "ML Methods for Vision and Language",
                                 "href": null,
                                 "linkToMDFile": true,
-                                "MDFileCustomID": "ML-V&L",
+                                "MDFileCustomID": "course-ml-vl",
                                 "hasSubmenu": false
                             }
                         ]

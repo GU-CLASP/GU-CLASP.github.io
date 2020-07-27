@@ -3,7 +3,7 @@ layout: page
 title: Sociolinguistics and bilingualism for natural language processing (CSoc)
 short_title: CSoc
 permalink: /courses/csoc/
-MDFileCustomID: "CSoc"
+MDFileCustomID: "course-csoc"
 ---
 
 CSoc starting in VT18, Sociolinguistics and bilingualism for natural language processing, 7.5 HEC, Sociolingvistik och tvåspråkighet för grundläggande språkteknologi, 7,5hp, part of [Doctoral Degree in Computational

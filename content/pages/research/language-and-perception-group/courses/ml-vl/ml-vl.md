@@ -3,7 +3,7 @@ layout: page
 title: Machine Learning Methods For Vision and Language (ML-V&L)
 short_title: ML-V&L
 permalink: /courses/ml-vl/
-MDFileCustomID: "ML-V&L"
+MDFileCustomID: "course-ml-vl"
 ---
 
 <img align="right" width="320" src="pics/tree.jpeg"/>

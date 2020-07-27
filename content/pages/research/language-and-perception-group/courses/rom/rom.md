@@ -3,7 +3,7 @@ layout: page
 title: Representations of Meaning (RoM)
 short_title: RoM
 permalink: /courses/rom/
-MDFileCustomID: "RoM"
+MDFileCustomID: "course-rom"
 ---
 
 <img align="right" width="300" src="pics/rom-img_5624.jpg"/>

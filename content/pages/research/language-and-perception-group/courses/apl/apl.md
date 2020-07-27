@@ -3,7 +3,7 @@ layout: page
 title: Language, Action, and Perception (APL)
 short_title: APL
 permalink: /courses/apl/
-MDFileCustomID: "APL"
+MDFileCustomID: "course-apl"
 ---
 
 <img align="right" width="300" src="pics/IMG_5943.JPG"/>
