@@ -1,9 +1,9 @@
 ---
-title: Dialogue reading group
+title: Dialogue
 sidebar: Research
 showTitle: true
 showSidebarEntity: 'research'
-MDFileCustomID: "Dialogue-reading-group-id"
+MDFileCustomID: "dialogue-group-id"
 ---
 
 Meetings: Alternate Fridays, 10.15-12.00.

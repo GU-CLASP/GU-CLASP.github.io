@@ -156,14 +156,14 @@ var menuData = [
         "hasSubmenu": false
     },
     {
-        "title": "Research",
+        "title": "Research Groups",
         "href": null,
         "linkToMDFile": false,
         "MDFileCustomID": null,
         "hasSubmenu": true,
         "submenu": [
             {
-                "title": "Language and Perception group",
+                "title": "Language and Perception",
                 "href": null,
                 "linkToMDFile": false,
                 "MDFileCustomID": null,
@@ -173,14 +173,14 @@ var menuData = [
                         "title": "About",
                         "href": null,
                         "linkToMDFile": true,
-                        "MDFileCustomID": "about-Language-and-Perception-research-group-id",
+                        "MDFileCustomID": "language-and-perception-group-id",
                         "hasSubmenu": false
                     },
                     {
                         "title": "Reading group",
                         "href": null,
                         "linkToMDFile": true,
-                        "MDFileCustomID": "reading-group-Language-and-Perception-research-group-id",
+                        "MDFileCustomID": "language-and-perception-group-id",
                         "hasSubmenu": false
                     },
                     {
@@ -223,17 +223,24 @@ var menuData = [
                 ]
             },
             {
-                "title": "Dialogue reading group",
+                "title": "Dialogue",
                 "href": null,
                 "linkToMDFile": true,
-                "MDFileCustomID": "Dialogue-reading-group-id",
+                "MDFileCustomID": "dialogue-group-id",
                 "hasSubmenu": false
             },
             {
-                "title": "Machine Learning Group",
+                "title": "Machine Learning",
                 "href": null,
                 "linkToMDFile": true,
-                "MDFileCustomID": "Machine-learning-group",
+                "MDFileCustomID": "machine-learning-group-id",
+                "hasSubmenu": false
+            },
+	    {
+                "title": "Type Theory",
+                "href": null,
+                "linkToMDFile": true,
+                "MDFileCustomID": "type-theory-group-id",
                 "hasSubmenu": false
             }
         ]

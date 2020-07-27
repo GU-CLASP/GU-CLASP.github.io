@@ -1,5 +1,5 @@
 ---
-MDFileCustomID: "about-Language-and-Perception-research-group-id"
+MDFileCustomID: "language-and-perception-group-id"
 ---
 
 ![Blue apple](./pics/blue-apple.jpg)
