@@ -24,6 +24,9 @@ export default function SeminarTemplate({
                         <Col>
                             <p>Presented by: {frontmatter.lecturer}</p>
                         </Col>
+                        <Col>
+	                    {frontmatter.slides && <p><a href={frontmatter.slides.publicURL}>Slides</a></p>}
+                        </Col>
                     </Row>
                     <Row>
                         <Col xs={12} md={4}>
@@ -57,8 +60,11 @@ export const pageQuery = graphql`
                 title
                 lecturer
                 duration
-                date
+          	date(formatString: "DD MMM, YYYY")
                 venue
+		slides {
+		    publicURL
+		}
             }
             fields {
                 slug

@@ -146,6 +146,9 @@ function getSeminar(seminar) {
                     <Col>
                         <p>Presented by: {seminar.frontmatter.lecturer}</p>
                     </Col>
+                    <Col>
+	                {seminar.frontmatter.slides && <p><a href={seminar.frontmatter.slides.publicURL}>Slides</a></p>}
+                    </Col>
                 </Row>
                 <Row>
                     <Col xs={12} md={4}>
@@ -262,6 +265,9 @@ export const query = graphql`
           lecturer
           venue
           duration
+	  slides {
+	      publicURL
+    	  }
         }
         excerpt
       }
