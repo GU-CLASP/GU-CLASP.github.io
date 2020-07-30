@@ -22,4 +22,8 @@ $(document).ready(function () {
     //     var selector = $(this).attr('data-target');
     //     $(selector).toggleClass('show');
     // });
+    $(".nav a.nav-link").on("click", function(){
+        $(".nav").find(".active").removeClass("active");
+        $(this).addClass("active");
+     });
 });
