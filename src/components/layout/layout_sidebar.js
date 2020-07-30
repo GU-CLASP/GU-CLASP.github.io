@@ -33,9 +33,9 @@ export default function LayoutSidebar(props) {
             <Col xs={6} md={4}>
                 <div class="row-fluid">
                     <nav class="span3 bs-docs-sidebar" id="myScrollspy"> 
-                        <ul class="nav nav-list bs-docs-sidenav make-me-sticky" >
+                        <ul class="nav nav-list bs-docs-sidenav make-me-sticky">
                             {props.sidebarData.map((item, index) => {
-                                return <li class="nav-item"><a class="nav-link" href={item.link}> {item.title} </a></li>
+                                return <li class="nav-item"><a class="nav-link sidebarItem" href={item.link}> {item.title} </a></li>
                             })}
                         </ul>
                     </nav>
