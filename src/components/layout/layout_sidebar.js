@@ -28,11 +28,11 @@ export default function LayoutSidebar(props) {
         <HeaderComponent></HeaderComponent>
       </Row>
       <Row>
-        <Container data-spy="scroll" data-target="#myScrollspy" data-offset="1">
+        <Container>
           <Row style={{ paddingTop: 20, paddingBottom: 20 }}>
             <Col xs={6} md={4}>
                 <div class="row-fluid">
-                    <nav class="span3 bs-docs-sidebar" id="myScrollspy"> 
+                    <nav class="span3 bs-docs-sidebar"> 
                         <ul class="nav nav-list bs-docs-sidenav make-me-sticky">
                             {props.sidebarData.map((item, index) => {
                                 return <li class="nav-item"><a class="nav-link sidebarItem" href={item.link}> {item.title} </a></li>
