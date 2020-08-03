@@ -20,12 +20,24 @@ export default function ConferenceTemplate({
                             </h4>
                         </Col>
                     </Row>
+	    	    <Row>
+	                {frontmatter.externalSite && 
+	    			<Col>
+				<p><a href={frontmatter.externalSite}>External Website</a></p>
+				</Col>
+			}
+	                {frontmatter.proceedings && 
+				<Col>
+				<p><a href={frontmatter.proceedings}>Proceedings</a></p>
+	    	  	</Col>
+			}
+	            </Row>
                     <Row>
                         <Col xs={12} md={4}>
-                            <p>Duration: {frontmatter.duration}</p>
+                            <p>On: {frontmatter.date}</p>
                         </Col>
                         <Col xs={12} md={4}>
-                            <p>On: {frontmatter.date}</p>
+                            <p>Duration: {frontmatter.duration}</p>
                         </Col>
                         <Col xs={12} md={4}>
                             <p>Location: {frontmatter.venue}</p>
@@ -51,8 +63,10 @@ export const pageQuery = graphql`
             frontmatter {
                 title
                 duration
-                date
+          	date(formatString: "DD MMM, YYYY")
                 venue
+		externalSite
+		proceedings
             }
             fields {
                 slug

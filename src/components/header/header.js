@@ -133,19 +133,19 @@ var menuData = [
                 "hasSubmenu": false
             },
             {
-                "title": "Conference",
+                "title": "Conferences & Workshops",
                 "href": "/event?type=conference",
                 "linkToMDFile": false,
                 "MDFileCustomID": null,
                 "hasSubmenu": false
             },
-            {
-                "title": "Workshops",
-                "href": "/event?type=workshops",
+	    {
+                "title": "PaM 2020",
+                "href": "https://sites.google.com/view/pam2020/home",
                 "linkToMDFile": false,
                 "MDFileCustomID": null,
                 "hasSubmenu": false
-            }
+            },
         ]
     },
     {
