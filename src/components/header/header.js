@@ -1,6 +1,7 @@
 import React from "react"
 import { Row, Col, Container } from 'react-bootstrap';
 import { useStaticQuery, graphql } from "gatsby"
+import { Helmet } from "react-helmet"
 
 var markdownData
 
@@ -23,16 +24,37 @@ export default function HeaderComponent(props) {
     `)
     return (
         <Container>
-            <Row>
-                <Col>
-                    <header class="jumbotron subhead mb-0" id="overview" >
-                        <p class="lead"> University of Gothenburg  </p>
-                        <br></br>
-                        <div style={{ fontSize: "2rem" }}>The Centre for Linguistic Theory and Studies in Probability</div>
-                        {/* <h1>The Centre for Linguistic Theory and Studies in Probability</h1> */}
-                    </header>
-                </Col>
-            </Row>
+            <Helmet>
+                <script type="text/javascript" src="/js/jquery-3.5.1.min.js"></script>
+                <link rel="stylesheet" type="text/css" media="all" href="/css/bootstrap.min.css" />
+                <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+                {props.showTOC &&
+                    <link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css" />
+                }
+                {props.showTOC &&
+                    <script type="text/javascript" src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
+                }
+                <link rel="stylesheet" type="text/css" media="all" href="/css/theme.css" />
+                <link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+                <link rel="stylesheet" type="text/css" media="all" href="/css/menu.css" />
+                <script type="text/javascript" src="/js/base.js"></script>
+            </Helmet>
+
+            <header class="jumbotron subhead mb-0" id="overview" >
+                <Row>
+                    <Col xs={12} md={3} id="clasp-header-logo" className="align-self-center">
+                        <img src="/img/clasp.png" href="https://clasp.gu.se" alt="The Centre for Linguistic Theory and Studies in Probability" />
+                    </Col>
+                    <Col xs={12} md={6} className="align-self-center">
+                        <div style={{ fontSize: "1.5rem" }}>The Centre for Linguistic Theory and Studies in Probability</div>
+                    </Col>
+                    <Col xs={12} md={3}>
+                        <img id="gu-header-logo" src="/img/gu-logo.png" href="gu.se" alt="University of Gothenburh" />
+                    </Col>
+                </Row>
+            </header>
+
+
             <nav class="navbar navbar-light navbar-expand-lg mainmenu border rounded-lg">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -243,8 +265,8 @@ var menuData = [
                         "MDFileCustomID": "reading-dialogue",
                         "hasSubmenu": false
                     },
-		]
-	    },
+                ]
+            },
             {
                 "title": "Machine Learning",
                 "href": null,
@@ -252,7 +274,7 @@ var menuData = [
                 "MDFileCustomID": "research-machine-learning",
                 "hasSubmenu": false
             },
-	    {
+            {
                 "title": "Type Theory",
                 "href": null,
                 "linkToMDFile": true,

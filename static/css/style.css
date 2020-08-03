@@ -11,6 +11,7 @@ h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-bottom: 30px;
 }
 
+
 .feature-item:hover{
     box-shadow: 0px 1px 5px 1px rgb(216, 216, 216)
 }
@@ -22,4 +23,13 @@ h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     object-fit: cover;
     height: 250px;
     width: auto;
+}
+
+.people-col-margin{
+    margin-top: 25px;
+}
+
+.position-margin{
+    margin-top: 25px;
+    margin-bottom: 25px;
 }

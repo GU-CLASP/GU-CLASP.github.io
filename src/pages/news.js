@@ -7,52 +7,57 @@ export default function News(props) {
     return (
         <Layout>
             {props.data.news.totalCount > 0 &&
-                <Row>
-                    <Col>
-                        {props.data.news.news.map((entry, index) => {
-                            const news_entry = entry.news_entry
-                            return getNewsEntry(news_entry)
-                            // return getPerson(person, index != 0)
-                        })}
-                    </Col>
-                </Row>
+                <div id="media">
+                    {props.data.news.news.map((entry, index) => {
+                        if (index % 2 == 0) {
+                            return getNewsRow(props.data.news.news, index)
+                        }
+                    })}
+                </div>
             }
         </Layout>
     )
 }
 
-function getNewsEntry(entry) {
+
+function getNewsRow(items, startEntryIndex) {
     return (
-        <Row className="event-row">
-            {entry.frontmatter.bannerImage &&
-                <Col xs={12} md={3}>
-                    <Image style={{ maxHeight: "100%", maxWidth: "100%" }} src={entry.frontmatter.bannerImage.publicURL} />
+        <Row className="post_row">
+            <Col>
+                {getNewsEntry(items[startEntryIndex].news_entry)}
+            </Col>
+            {items[startEntryIndex + 1] !== undefined &&
+                <Col>
+                    {getNewsEntry(items[startEntryIndex + 1].news_entry)}
                 </Col>
             }
-            <Col>
-                <Row>
-                    <Col>
-                        <h4>
+        </Row>
+    )
+}
+
+function getNewsEntry(entry) {
+    return (
+        <div class="span6 post">
+            {entry.frontmatter.bannerImage &&
+                <div>
+                    <div class="text">
+                        <h5>
                             <Link to={entry.fields.slug}>
                                 {entry.frontmatter.title}
                             </Link>
-                        </h4>
-                    </Col>
-                </Row>
-                <Row>
-                    <Col>
-                        <p>Posted on: {entry.frontmatter.date}</p>
-                    </Col>
-                </Row>
-                <Row>
-                    <Col>
-                        <p>
-                            {entry.excerpt}
-                        </p>
-                    </Col>
-                </Row>
-            </Col>
-        </Row>
+                            <br></br>
+                            <span class="date">Posted on: {entry.frontmatter.date}</span>
+                        </h5>
+                    </div>
+                    <div class="img">
+                        <img src={entry.frontmatter.bannerImage.publicURL} />
+                    </div>
+                    <div class="text">
+                        {entry.excerpt}
+                    </div>
+                </div>
+            }
+        </div>
     )
 }
 
