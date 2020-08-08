@@ -23,11 +23,11 @@ export default function News(props) {
 function getNewsRow(items, startEntryIndex) {
     return (
         <Row className="post_row">
-            <Col>
+            <Col className="col-12 col-md-6">
                 {getNewsEntry(items[startEntryIndex].news_entry)}
             </Col>
             {items[startEntryIndex + 1] !== undefined &&
-                <Col>
+                <Col className="col-12 col-md-6">
                     {getNewsEntry(items[startEntryIndex + 1].news_entry)}
                 </Col>
             }

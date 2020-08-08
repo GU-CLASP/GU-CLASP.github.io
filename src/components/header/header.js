@@ -289,5 +289,12 @@ var menuData = [
         "linkToMDFile": false,
         "MDFileCustomID": null,
         "hasSubmenu": false
+    },
+    {
+        "title": "Contact",
+        "href": "/contact",
+        "linkToMDFile": false,
+        "MDFileCustomID": null,
+        "hasSubmenu": false
     }
 ]
