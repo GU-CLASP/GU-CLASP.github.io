@@ -63,16 +63,18 @@ export default function Event(props) {
                 content = (
                     <div>
                         {isEmpty ?
-                            <Row>
+                            <Row className="m-0">
                                 No seminars at the time
                             </Row>
                             :
-                            <div>
-                                {seminars.map((seminar, index) => {
-                                    seminar = seminar.seminar
-                                    return getSeminar(seminar)
-                                })}
-                            </div>
+                            <Row>
+                                <Col className="m-0">
+                                    {seminars.map((seminar, index) => {
+                                        seminar = seminar.seminar
+                                        return getSeminar(seminar)
+                                    })}
+                                </Col>
+                            </Row>
                         }
                     </div>
                 )
@@ -131,7 +133,7 @@ export default function Event(props) {
 
 function getSeminar(seminar) {
     return (
-        <Row className="event-row">
+        <Row className="event-row m-0">
             <Col>
                 <Row>
                     <Col>
@@ -151,13 +153,13 @@ function getSeminar(seminar) {
                     </Col>
                 </Row>
                 <Row>
-                    <Col xs={12} md={4}>
+                    <Col md={4} xs={12} >
                         <p>Duration: {seminar.frontmatter.duration}</p>
                     </Col>
-                    <Col xs={12} md={4}>
+                    <Col md={4} xs={12}>
                         <p>On: {seminar.frontmatter.date}</p>
                     </Col>
-                    <Col xs={12} md={4}>
+                    <Col md={4} xs={12}>
                         <p>Location: {seminar.frontmatter.venue}</p>
                     </Col>
                 </Row>
@@ -175,7 +177,7 @@ function getSeminar(seminar) {
 
 function getConference(conference) {
     return (
-        <Row className="event-row">
+        <Row className="event-row m-0">
             <Col>
                 <Row>
                     <Col>
@@ -187,13 +189,13 @@ function getConference(conference) {
                     </Col>
                 </Row>
                 <Row>
-                    <Col xs={12} md={4}>
+                    <Col md={4} xs={12}>
                         <p>Duration: {conference.frontmatter.duration}</p>
                     </Col>
-                    <Col xs={12} md={4}>
+                    <Col md={4} xs={12}>
                         <p>On: {conference.frontmatter.date}</p>
                     </Col>
-                    <Col xs={12} md={4}>
+                    <Col md={4} xs={12}>
                         <p>Location: {conference.frontmatter.venue}</p>
                     </Col>
                 </Row>
@@ -211,7 +213,7 @@ function getConference(conference) {
 
 function getWorkshop(workshop) {
     return (
-        <Row className="event-row">
+        <Row className="event-row m-0">
             <Col>
                 <Row>
                     <Col>
@@ -228,13 +230,13 @@ function getWorkshop(workshop) {
                     </Col>
                 </Row>
                 <Row>
-                    <Col xs={12} md={4}>
+                    <Col md={4} xs={12}>
                         <p>Duration: {workshop.frontmatter.duration}</p>
                     </Col>
-                    <Col xs={12} md={4}>
+                    <Col md={4} xs={12}>
                         <p>On: {workshop.frontmatter.date}</p>
                     </Col>
-                    <Col xs={12} md={4}>
+                    <Col md={4} xs={12}>
                         <p>Location: {workshop.frontmatter.venue}</p>
                     </Col>
                 </Row>
