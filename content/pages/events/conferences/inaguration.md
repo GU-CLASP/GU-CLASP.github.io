@@ -3,6 +3,7 @@ title: "Conference on Logic and Machine Learning in Natural Language (LaML)"
 date: 2017-06-12
 venue: "Gothenburg"
 duration: "2 days"
+proceedings: "https://gupea.ub.gu.se/handle/2077/54911"
 ---
 
 We are very happy to announce the first official conference organized by CLASP, Logic and Machine Learning in Natural Language (LaML). The conference hopes to bring together researchers working in both logical  and machine learning/deep learning approaches to Computational Linguistics. We aim  at initiating a discussion with the two sets  of researchers that have been largely unconnected up to now. The conference will take place on June the 12th-14th 2017 in Gothenburg, Sweden. For more information please take a look here.
@@ -10,11 +11,9 @@ We are very happy to announce the first official conference organized by CLASP, 
 ### Call for Papers
 Conference on Logic and Machine Learning in Natural Language (LaML)
 
-Conference dates: June 12-14, 2017
-
-Venue: Wallenberg Conference Centre, University of Gothenburg
-
-Organised by CLASP, University of Gothenburg
+* Conference dates: June 12-14, 2017
+* Venue: Wallenberg Conference Centre, University of Gothenburg
+* Organised by CLASP, University of Gothenburg
 
 The past two decades have seen impressive progress in a variety of areas of AI, particularly NLP, through the application of machine learning methods to a wide range of tasks. With the intensive use of deep learning methods in recent years this work has produced significant improvements in the coverage and accuracy of NLP systems in such domains as speech recognition, topic identification, semantic interpretation, and image description generation.
 
@@ -27,15 +26,17 @@ The conference proceedings will be published online, with an ISSN, on the CLASP 
 Registration is free and participation is open. We warmly invite everyone to attend.
 
 ### Invited Speakers:
-Marco Baroni, Trento
-Alexander Clark, King’s College London
-Devdatt Dubhashi, Chalmers
-Katrin Erk, University of Texas, Austin
-Joakim Nivre, Uppsala
-Aarne Ranta, Gothenburg
-Mehrnoosh Sadrzadeh, Queen Mary University of London
 
+- Marco Baroni, Trento
+- Alexander Clark, King’s College London
+- Devdatt Dubhashi, Chalmers
+- Katrin Erk, University of Texas, Austin
+- Joakim Nivre, Uppsala
+- Aarne Ranta, Gothenburg
+- Mehrnoosh Sadrzadeh, Queen Mary University of London
+  
 ### Submission of papers:
+
 EasyChair submission address: https://easychair.org/conferences/?conf=laml2017
 
 Contact email address: laml2017@easychair.org
@@ -48,38 +49,34 @@ We anticipate accepting 17 papers for oral presentation, and up to 20 papers for
 
 ### Important dates:
 1. Deadline for submission: April 4, 2017
-
 2. Extended deadline for submission: April 14, 2017
-
 3. Notification of authors: April 27, 2017
-
 4. Camera ready papers due: May 9, 2017
 
-The LaML Programme Committee:
+### The LaML Programme Committee:
 
-Marco Baroni, Trento
-Islam Beltagy, University of Texas, Austin
-Jean-Philippe Bernardy, Gothenburg
-Gemma Boleda, Universitat Pompeu Fabra
-Stergios Chatzikyriakidis, Gothenburg
-Alexander Clark, King’s College London
-Robin Cooper, Gothenburg
-Simon Dobnik, Gothenburg
-Devdatt Dubhashi, Chalmers
-Katrin Erk, University of Texas, Austin
-Julian Hough, Bielefeld
-Christine Howes, Gothenburg
-John D. Kelleher, Dublin Institute of Technology
-Shalom Lappin, Gothenburg
-Staffan Larsson, Gothenburg
-Julian Michael, Washington
-Joakim Nivre, Uppsala  
-Stephan Oepen, Oslo
-Barbara Plank, Groningen
-Matthew Purver, Queen Mary University of London
-Aarne Ranta, Gothenburg
-Mehrnoosh Sadrzadeh, Queen Mary University of London
-Anders Søgaard, Copenhagen
-Charalambos Themistocleous, Gothenburg
+- Marco Baroni, Trento
+- Islam Beltagy, University of Texas, Austin
+- Jean-Philippe Bernardy, Gothenburg
+- Gemma Boleda, Universitat Pompeu Fabra
+- Stergios Chatzikyriakidis, Gothenburg
+- Alexander Clark, King’s College London
+- Robin Cooper, Gothenburg
+- Simon Dobnik, Gothenburg
+- Devdatt Dubhashi, Chalmers
+- Katrin Erk, University of Texas, Austin
+- Julian Hough, Bielefeld
+- Christine Howes, Gothenburg
+- John D. Kelleher, Dublin Institute of Technology
+- Shalom Lappin, Gothenburg
+- Staffan Larsson, Gothenburg
+- Julian Michael, Washington
+- Joakim Nivre, Uppsala  
+- Stephan Oepen, Oslo
+- Barbara Plank, Groningen
+- Matthew Purver, Queen Mary University of London
+- Aarne Ranta, Gothenburg
+- Mehrnoosh Sadrzadeh, Queen Mary University of London
+- Anders Søgaard, Copenhagen
+- Charalambos Themistocleous, Gothenburg
 
-[See more info here](https://clasp.gu.se/news-events/conference-on-logic-and-machine-learning-in-natural-language--laml-)
