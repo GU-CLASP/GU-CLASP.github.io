@@ -1,6 +1,6 @@
 ---
 name: "Sharid Loáiciga"
 role: 5 
-title: "Post-doc 2018-2020 (now at the University of Potsdam)"
+title: "Post-doc"
 ---
-Sharid Loáiciga is a Post-doc 2018-2020 (now at the University of Potsdam) at CLASP
+Sharid Loáiciga was a Post-doc at CLASP (2018-2020). She is now at the University of Potsdam.

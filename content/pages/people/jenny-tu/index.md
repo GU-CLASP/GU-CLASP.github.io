@@ -1,6 +1,6 @@
 ---
 name: "Jenny Tu"
 role: 5 
-title: "past administrator"
+title: "Administrator"
 ---
-Jenny Tu is a past administrator at CLASP
+Jenny Tu is a past administrator at CLASP.
