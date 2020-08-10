@@ -3,10 +3,6 @@ import { Container, Row, Col } from 'react-bootstrap'
 import HeaderComponent from "../header/header"
 import FooterComponent from "../footer/footer"
 import { Helmet } from "react-helmet"
-// import 'bootstrap/dist/css/bootstrap.css'
-// import 'bootstrap/dist/js/bootstrap'
-// import "../../static_files/css/theme.css"
-
 
 export default function Layout(props) {
   return (
@@ -27,6 +23,7 @@ export default function Layout(props) {
         <link rel="stylesheet" type="text/css" media="all" href="/css/theme.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/menu.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"></link>
         <script type="text/javascript" src="/js/base.js"></script>
       </Helmet>
       <Row>

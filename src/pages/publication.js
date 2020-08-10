@@ -2,11 +2,11 @@ import React from "react"
 import Layout from "../components/layout/layout"
 
 export default function Project(props) {
-    return (
-      <Layout>
-          <div>
-            Clasp's Publication
+  return (
+    <Layout>
+      <div>
+        Clasp's Publication
           </div>
-      </Layout>
-    )
-  }
+    </Layout>
+  )
+}

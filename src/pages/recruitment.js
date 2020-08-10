@@ -1,10 +1,12 @@
 import React from "react"
 import Layout from "../components/layout/layout"
 
-export default function NotFound() {
+export default function Recruitment(props) {
   return (
     <Layout>
-      Not found
+      <div>
+        Clasp's Recruitment
+      </div>
     </Layout>
   )
 }
