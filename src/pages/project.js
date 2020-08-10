@@ -5,7 +5,7 @@ export default function Project(props) {
   return (
     <Layout>
       <div>
-          Clasp's projects
+        Clasp's projects
       </div>
     </Layout>
   )

@@ -26,4 +26,13 @@ $(document).ready(function () {
         $(".nav").find(".active").removeClass("active");
         $(this).addClass("active");
      });
+
+     $(".sidebarItem").on("click", function(e){
+        var href = $(this).attr('href');
+        $([document.documentElement, document.body]).animate({
+            scrollTop: $(href).offset().top
+        }, 800);
+        e.preventDefault();
+     });
+     
 });

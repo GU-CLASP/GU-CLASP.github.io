@@ -4,6 +4,10 @@ body {
 	overflow-x: hidden;
 }
 
+.event-col{
+	display:block!important;
+}
+
 
 /*  header  */
 
@@ -198,7 +202,7 @@ body>.navbar .brand:hover {
 }
 
 #media {
-	margin-top: 70px
+	margin-top: 30px
 }
 
 #media .header {
@@ -222,7 +226,6 @@ body>.navbar .brand:hover {
     margin-right: 20px;*/
 	border-radius: 4px;
 	box-shadow: 1px 1px 2px 0px #E0E0E0;
-	width: 450px;
 	height: 550px;
 }
 
@@ -252,8 +255,7 @@ body>.navbar .brand:hover {
 }
 
 #media .post_row .post .img img {
-	height: 275px;
-	width: 410px;
+	width: 90%;
 }
 
 #media .post_row .post .text {

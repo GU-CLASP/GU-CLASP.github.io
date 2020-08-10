@@ -1,9 +1,8 @@
 import React from "react"
-import { Container, Row, Col, Badge} from 'react-bootstrap'
+import { Container, Row, Col } from 'react-bootstrap'
 import HeaderComponent from "../header/header"
 import FooterComponent from "../footer/footer"
 import { Helmet } from "react-helmet"
-
 
 export default function LayoutSidebar(props) {
   return (
@@ -21,9 +20,9 @@ export default function LayoutSidebar(props) {
         <link rel="stylesheet" type="text/css" media="all" href="/css/theme.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/menu.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"></link>
         <script type="text/javascript" src="/js/base.js"></script>
       </Helmet>
-
       <Row>
         <HeaderComponent></HeaderComponent>
       </Row>
@@ -31,17 +30,16 @@ export default function LayoutSidebar(props) {
         <Container>
           <Row style={{ paddingTop: 20, paddingBottom: 20 }}>
             <Col xs={6} md={4}>
-                <div class="row-fluid">
-                    <nav class="span3 bs-docs-sidebar"> 
-                        <ul class="nav nav-list bs-docs-sidenav make-me-sticky">
-                            {props.sidebarData.map((item, index) => {
-                                return <li class="nav-item"><a class="nav-link sidebarItem" href={item.link}> {item.title} </a></li>
-                            })}
-                        </ul>
-                    </nav>
-                </div>
+              <div class="row-fluid">
+                <nav class="span3 bs-docs-sidebar">
+                  <ul class="nav nav-list bs-docs-sidenav make-me-sticky">
+                    {props.sidebarData.map((item, index) => {
+                      return <li class="nav-item"><a class="nav-link sidebarItem" href={item.link}> {item.title} </a></li>
+                    })}
+                  </ul>
+                </nav>
+              </div>
             </Col>
-
             <Col xs={12} md={8}>
               {props.children}
             </Col>
