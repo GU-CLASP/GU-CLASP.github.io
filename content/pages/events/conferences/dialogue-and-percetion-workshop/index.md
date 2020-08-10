@@ -6,7 +6,13 @@ duration: "2 days"
 proceedings: ./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf 
 ---
 
-![Älvsborgsbron](./1691570_alvsborgsbron460pxl.jpg)
+* [Call for papers](./call)
+* [Registration](./registration)
+* [Accomodation](./accomodation)
+* [Invited abstracts](./invited-abstracts)
+* [Programme](./programme)
+
+![Älvsborgsbron](./pics/1691570_alvsborgsbron460pxl.jpg)
 
 The study of dialogue investigates how natural language is used in interaction between interlocutors and how coordination and successful communication is achieved. Dialogue is multimodal, situated and embodied, with non-linguistic factors such as attention, eye gaze and gesture critical to understanding communication. However, studies on dialogue and computational models such as dialogue systems have often taken for granted that we align our perceptual representations, which are taken to be part of common ground (grounding in dialogue, Clark, 1996). They have also typically remained silent about how we integrate information from different sources and modalities and the different contribution of each of these. These assumptions are unsustainable when we consider interactions between agents with obviously different perceptual capabilities, as in the case in dialogues between humans and artificial agents, such as avatars or robots.
 
@@ -18,4 +24,4 @@ The workshop is collocated with [The Tenth Scandinavian Logic Symposium (SLS 201
 
 Contact email address: <dap2018@easychair.org>
 
-![Järntorget](./1686776_hanamijarntorget-460pxl.jpg)
+![Järntorget](./pics/1686776_hanamijarntorget-460pxl.jpg)

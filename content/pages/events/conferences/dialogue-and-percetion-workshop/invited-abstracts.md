@@ -1,6 +1,14 @@
 ---
-title: Invited abstracts
+title: "Workshop on Dialogue and Perception 2018"
+date: 2018-06-14
+venue: "Wallenberg Conference Centre (Gothenburg)"
+duration: "2 days"
+proceedings: ./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf 
+hideInSearchResults: true
 ---
+
+
+# Invited abstracts
 
 * Gabriel Skantze -- [Towards Real-time Coordination in Spoken Human-Robot Interaction](./abstracts/gabriel-skantze.pdf)
 * Jacob Andreas -- [Reasoning About Decisions/Reasoning About Language](./abstracts/jacob-andreas.pdf)

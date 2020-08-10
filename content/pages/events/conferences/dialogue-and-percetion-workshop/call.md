@@ -1,6 +1,13 @@
 ---
-title: Call for Papers
+title: "Workshop on Dialogue and Perception 2018"
+hideInSearchResults: true
+date: 2018-06-14
+venue: "Wallenberg Conference Centre (Gothenburg)"
+duration: "2 days"
+proceedings: ./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf 
 ---
+
+# Call for papers
 
 We invite anonymous papers of between 2-4 pages of content and up to one
 additional page for references, following the ACL style guidelines. The

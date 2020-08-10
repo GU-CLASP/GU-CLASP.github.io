@@ -1,8 +1,15 @@
 ---
-title: Accommodation and other useful information
+title: "Workshop on Dialogue and Perception 2018"
+hideInSearchResults: true
+date: 2018-06-14
+venue: "Wallenberg Conference Centre (Gothenburg)"
+duration: "2 days"
+proceedings: ./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf 
 ---
 
-### Accommodation
+# Accommodation and other useful information
+
+### Accomodation
 
 We have negotiated a special rate with the following hotel:
 
