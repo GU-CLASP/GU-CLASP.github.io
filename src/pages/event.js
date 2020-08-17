@@ -7,6 +7,7 @@ import { Helmet } from "react-helmet"
 
 export default function Event(props) {
   var search = props.location.search ? queryString.parse(props.location.search) : {}
+  const postsPerPage = 10
   var content
   switch (search.type) {
     case "calendar":
@@ -34,21 +35,80 @@ export default function Event(props) {
       break;
     case "seminars":
       var seminars = props.data.seminars.seminars
+      var numPages = Math.ceil(props.data.seminars.totalCount / postsPerPage)
+      var page = search.page
+      if (isNaN(page)) {
+        page = 1
+      }
+      var upperBound = (page * postsPerPage) - 1
+      var lowerBound = (page - 1) * postsPerPage
       var isEmpty = props.data.seminars.totalCount > 0 ? false : true
       content = (
         <div>
           {isEmpty ?
             <div class="row">
               No seminars at the time
-                            </div>
+            </div>
             :
             <div>
               {seminars.map((seminar, index) => {
-                seminar = seminar.seminar
-                return getSeminar(seminar)
+                if (index <= upperBound && index >= lowerBound) {
+                  seminar = seminar.seminar
+                  return getSeminar(seminar)
+                }
               })}
+              <ul class="pagination" style={{
+                display: 'flex',
+                flexWrap: 'wrap',
+                justifyContent: 'center',
+                alignItems: 'center',
+                listStyle: 'none',
+                padding: 0,
+              }}>
+                {page == 1 ?
+                  <li class="page-item disabled">
+                    <a class="page-link" href={"/event?type=seminars&page=" + (page - 1)} aria-label="Previous">
+                      <span aria-hidden="true">&laquo;</span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                  </li>
+                  :
+                  <li class="page-item">
+                    <a class="page-link" href={"/event?type=seminars&page=" + (page - 1)} aria-label="Previous">
+                      <span aria-hidden="true">&laquo;</span>
+                      <span class="sr-only">Previous</span>
+                    </a>
+                  </li>
+                }
+
+                {Array.apply(0, Array(numPages)).map(function (x, i) {
+                  var href = "/event?type=seminars&page=" + (i + 1)
+                  if (page == (i + 1)) {
+                    return (<li class="page-item active"><a class="page-link" href={href}>{i + 1}</a></li>)
+                  }
+                  else {
+                    return (<li class="page-item"><a class="page-link" href={href}>{i + 1}</a></li>)
+                  }
+                })}
+                {page == numPages ?
+                  <li class="page-item disabled">
+                    <a class="page-link" href={"/event?type=seminars&page=" + (parseInt(page) + 1)} aria-label="Previous">
+                      <span aria-hidden="true">&raquo;</span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </li>
+                  :
+                  <li class="page-item">
+                    <a class="page-link" href={"/event?type=seminars&page=" + (parseInt(page) + 1)} aria-label="Previous">
+                      <span aria-hidden="true">&raquo;</span>
+                      <span class="sr-only">Next</span>
+                    </a>
+                  </li>
+                }
+              </ul>
             </div>
           }
+
         </div>
       )
       break;
@@ -60,7 +120,7 @@ export default function Event(props) {
           {isEmpty ?
             <div class="row">
               No conferences at the time
-                            </div>
+            </div>
             :
             <div>
               {conferences.map((conference, index) => {
@@ -80,7 +140,7 @@ export default function Event(props) {
           {isEmpty ?
             <div class="row">
               No workshops at the time
-                            </div>
+            </div>
             :
             <div>
               {workshops.map((workshop, index) => {
