@@ -70,8 +70,13 @@ export default function Home(props) {
         <Col
           className="main-page-col-margin"
         >
-          <p>CLASP is concerned both with understanding the cognitive foundations of language and developing efficient language technology. We work at the interface of computational linguistics/natural language processing, theoretical linguistics, and cognitive science.
-The centre is funded by a 10 year grant from the Swedish Research Council (2015-2025). The funding from the Swedish Research Council and GU grant allows recruitment of prof. Shalom Lappin, a senior lecturer, a researcher/project coordinator, 12 PhD and 9 postdoctoral research positions. The funding also provides means for workshops, conferences and visits of guest researchers to Gothenburg. CLASP will bring together researchers in theoretical linguistics, computational linguistics, logic, AI, cognitive psychology, and robotics.</p>
+          <p>
+	  The Centre for Linguistic Theory and Studies in Probability (CLASP) focuses its research on the application of probabilistic and information theoretic methods to the analysis of natural language.
+	  CLASP is concerned both with understanding the cognitive foundations of language and developing efficient language technology. We work at the interface of computational linguistics/natural language processing, theoretical linguistics, and cognitive science.
+	  </p>
+	  <p>
+	  CLASP is located in Gothenburg, Sweden at the University of Gothenburg. We are part of the Department of Philosophy, Linguistics and Theory of Science (<a href="https://flov.gu.se/english">FLoV</a>).
+	  </p>
         </Col>
       </Row>
       {props.data.latest_news.totalCount > 0 &&
@@ -166,11 +171,11 @@ The centre is funded by a 10 year grant from the Swedish Research Council (2015-
       <hr />
       <Row>
         <Col sm={2}>
-          <p> Founded By</p>
+          <p> Funded By</p>
           <img src="img/1278654_vr_logo.png"></img>
         </Col>
-        <Col sm={10}>
-          <p>The centre is funded by a 10 year grant from the Swedish Research Council (2015-2025). The funding from the Swedish Research Council and GU grant allows recruitment of prof. Shalom Lappin, a senior lecturer, a researcher/project coordinator, 12 PhD and 9 postdoctoral research positions. The funding also provides means for workshops, conferences and visits of guest researchers to Gothenburg. CLASP will bring together researchers in theoretical linguistics, computational linguistics, logic, AI, cognitive psychology, and robotics.</p>
+	  <Col sm={10}>
+	  <p>CLASP is funded by a 10 year grant from the Swedish Research Council (2015-2025). The funding from the Swedish Research Council and GU grant allows recruitment of prof. Shalom Lappin, a senior lecturer, a researcher/project coordinator, 12 PhD and 9 postdoctoral research positions. The funding also provides means for workshops, conferences and visits of guest researchers to Gothenburg. CLASP will bring together researchers in theoretical linguistics, computational linguistics, logic, AI, cognitive psychology, and robotics.</p>
         </Col>
       </Row>
     </Layout>
