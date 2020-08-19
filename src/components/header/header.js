@@ -126,10 +126,26 @@ var menuData = [
   },
   {
     "title": "News",
-    "href": "/news",
+    "href": "null",
     "linkToMDFile": false,
     "MDFileCustomID": null,
-    "hasSubmenu": false,
+    "hasSubmenu": true,
+    "submenu": [
+      {
+        "title": "News",
+        "href": "/news",
+        "linkToMDFile": false,
+        "MDFileCustomID": null,
+        "hasSubmenu": false
+      },
+      {
+        "title": "Recruitment",
+        "href": "/recruitment",
+        "linkToMDFile": false,
+        "MDFileCustomID": null,
+        "hasSubmenu": false
+      },
+    ] 
   },
   {
     "title": "Events",

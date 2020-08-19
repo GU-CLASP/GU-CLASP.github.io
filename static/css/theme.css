@@ -102,13 +102,22 @@ body>.navbar .brand:hover {
 	width: 100%;
 }
 
+
+.bs-docs-sidebar-non-sticky{
+	width: 228px;
+	margin: 30px 0 0;
+	padding: 0;
+	background-color: #fff;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
 .bs-docs-sidenav {
 	width: 228px;
 	margin: 30px 0 0;
 	
-	position: fixed; /* Fixed Sidebar (stay in place on scroll) */
 	z-index: 1; /* Stay on top */
-	top: 0; /* Stay at the top */
 
 
 	padding: 0;

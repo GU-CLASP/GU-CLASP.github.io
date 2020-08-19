@@ -21,6 +21,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     const seminarTemplate = require.resolve(`./src/templates/seminarTemplate.js`)
     const workshopTemplate = require.resolve(`./src/templates/workshopTemplate.js`)
     const conferenceTemplate = require.resolve(`./src/templates/conferenceTemplate.js`)
+    const recruitmentsTemplate = require.resolve(`./src/templates/recruitmentsTemplate.js`)
 
     const result = await graphql(`
       {
@@ -95,6 +96,16 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
                     },
                 })
                 break
+            case "recruitment":
+                createPage({
+                    path: node.fields.slug,
+                    component: recruitmentsTemplate,
+                    context: {
+                        // additional data can be passed via context
+                        slug: node.fields.slug,
+                    },
+                })
+                break
             default:
                 createPage({
                     path: node.fields.slug,
@@ -124,6 +135,9 @@ function getMarkdownType(slug) {
     }
     else if (slug.startsWith("/news/")) {
         return "news"
+    }
+    else if (slug.startsWith("/recruitments/")) {
+        return "recruitment"
     }
     else {
         return ""

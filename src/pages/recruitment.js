@@ -1,12 +1,58 @@
 import React from "react"
-import Layout from "../components/layout/layout"
+import LayoutSidebarNonSticky from "../components/layout/layout_sidebar_without_sticky"
+import { Row, Col } from "react-bootstrap"
+
 
 export default function Recruitment(props) {
+  var sidebarData = []
+  const totalCount = props.data.recruitments.totalCount
+  if (totalCount > 0) {
+    for (var i = 0; i < totalCount; i++) {
+      var title = props.data.recruitments.recruitments[i].recruitments_entry.frontmatter.title
+      var link = props.data.recruitments.recruitments[i].recruitments_entry.fields.slug
+      sidebarData.push({
+        "title": title,
+        "link": link
+      })
+    }
+
+  }
   return (
-    <Layout>
-      <div>
-        Clasp's Recruitment
-      </div>
-    </Layout>
+    <LayoutSidebarNonSticky sidebarData={sidebarData}>
+      {props.data.recruitments.totalCount > 0 &&
+        <div>
+          <Row style={{height:"500px",}}>
+            <Col style={{marginTop:"40px",}}>
+              <h1>Recruitment</h1>
+              <p>Check this page regularly for news about recruiting possibilities at CLASP. </p>
+            </Col>
+          </Row>
+        </div>
+      }
+    </LayoutSidebarNonSticky>
   )
 }
+
+
+
+export const query = graphql`
+{
+  recruitments: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/recruitments//"}}, frontmatter: {hideInSearchResults: {ne: true}}}, sort: {fields: frontmatter___date, order: DESC}) {
+    recruitments: edges {
+      recruitments_entry: node {
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          permalink
+          date(formatString: "MMMM DD, YYYY")
+        }
+        excerpt
+      }
+    }
+    totalCount
+  }
+}
+
+`
