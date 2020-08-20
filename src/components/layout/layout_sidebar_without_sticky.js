@@ -32,9 +32,29 @@ export default function LayoutSidebarNonSticky(props) {
             <Col xs={6} md={4}>
               <div class="row-fluid">
                 <nav class="span3 bs-docs-sidebar">
-                  <ul class="nav nav-list bs-docs-sidenav ">
-                    {props.sidebarData.map((item, index) => {
-                      return <li class="nav-item"><a class="nav-link sidebarItem" href={item.link}> {item.title} </a></li>
+                  <ul class="nav nav-list bs-docs-sidenav">
+                    {props.sidebarData.active.length > 0 &&
+                      <li class="nav-item"><a class="nav-link sidebarItem">Active</a></li>
+                    }
+                    {props.sidebarData.active.map((item, index) => {
+                      if (props.slug == item.link) {
+                        return <li class="nav-item"><a class="nav-link sidebarIte active" style={{ paddingLeft: 35 }} href={item.link}> {item.title} </a></li>
+                      }
+                      else {
+                        return <li class="nav-item"><a class="nav-link sidebarItem" style={{ paddingLeft: 35 }} href={item.link}> {item.title} </a></li>
+                      }
+                    })}
+                    {props.sidebarData.past.length > 0 &&
+                      <li class="nav-item"><a class="nav-link sidebarItem">Past</a></li>
+                    }
+                    {props.sidebarData.past.map((item, index) => {
+                      if (props.slug == item.link) {
+                        return <li class="nav-item"><a class="nav-link sidebarItem active" style={{ paddingLeft: 35 }} href={item.link}> {item.title} </a></li>
+                      }
+                      else {
+                        return <li class="nav-item"><a class="nav-link sidebarItem" style={{ paddingLeft: 35 }} href={item.link}> {item.title} </a></li>
+
+                      }
                     })}
                   </ul>
                 </nav>

@@ -1,18 +1,16 @@
 ---
-title: "Doctoral studentship position"
+title: "Doctoral studentship position 2018"
 date: 2018-06-10
-Diary id:  PAR 2018/459
-Employment level:  Time limited employment (temporary)
-Location: Dept of Philosophy, Linguistics & Theory of Sci.
 MDFileCustomID: "doctoral-studentship-position-2018/459"
+expired: true
 ---
 
 
-Doctoral studentship position, one or several, in Computational Linguistics
-Diary id: PAR 2018/459
-Employment level: Time limited employment (temporary)
-Location: Dept of Philosophy, Linguistics & Theory of Sci.
-Apply by: 2018-06-10
+###### Doctoral studentship position, one or several, in Computational Linguistics
+###### Diary id: PAR 2018/459
+###### Employment level: Time limited employment (temporary)
+###### Location: Dept of Philosophy, Linguistics & Theory of Sci.
+###### Apply by: 2018-06-10
 
 Doctoral studentship position, one or several, in Computational Linguistics
 

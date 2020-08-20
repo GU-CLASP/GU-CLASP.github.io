@@ -1,29 +1,28 @@
 ---
 title: "Postdoctoral Researcher-2020"
 date: 2020-04-30
-Diary id: PAR 2019/1592
-Employment level: Fixed term
-Location: Dept of Philosophy, Linguistics & Theory of Sci.
 MDFileCustomID: "postdoctoral-researcher-2019/1592"
+expired: false
 ---
 
-Diary id: PAR 2019/1592
-Employment level: Fixed term
-Location: Dept of Philosophy, Linguistics & Theory of Sci.
-Apply by: 2020-04-30
+###### Diary id: PAR 2019/1592
+###### Employment level: Fixed term
+###### Location: Dept of Philosophy, Linguistics & Theory of Sci.
+###### Apply by: 2020-04-30
+
 
 The successful applicant will be employed by the Department of Philosophy, Linguistics, and Theory of science (FloV). The department was founded in 2009, and offers teaching and research in theoretical and practical philosophy, linguistics, and theory of science. The department also hosts several big research programs, including The Gothenburg Responsibility Project, CLASP, and Representation & Reality.
 
  
 
-Subject area
+##### Subject area:
 Computational linguistics
 
 Subject area description
 The Centre for Linguistic Theory and Studies in Probability (CLASP) is based in FLoV at the University of Gothenburg, and is funded by a 10 year grant from the Swedish Research Council (2015-2025). CLASP is devoted to research and advanced training in the application of probabilistic modeling and machine learning methods to core issues in linguistic theory and cognition. It also addresses topics in dialogue and linguistic interaction. For a description of CLASP see clasp.gu.se
 
 
-Job assignments
+#### Job assignments
 The postdoctoral researcher is expected to conduct research in CLASP's core areas of research in cooperation with the research group. More specifically, people in CLASP are currently conducting research in linguistics and computational linguistics using ideas from the following research areas:
 
 Type Theory (or logics) and probability

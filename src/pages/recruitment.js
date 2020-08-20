@@ -4,16 +4,25 @@ import { Row, Col } from "react-bootstrap"
 
 
 export default function Recruitment(props) {
-  var sidebarData = []
+  var sidebarData = {"active":[],"past":[]}
   const totalCount = props.data.recruitments.totalCount
   if (totalCount > 0) {
     for (var i = 0; i < totalCount; i++) {
       var title = props.data.recruitments.recruitments[i].recruitments_entry.frontmatter.title
       var link = props.data.recruitments.recruitments[i].recruitments_entry.fields.slug
-      sidebarData.push({
-        "title": title,
-        "link": link
-      })
+      var status = props.data.recruitments.recruitments[i].recruitments_entry.frontmatter.expired
+      if (status){
+        sidebarData.past.push({
+          "title": title,
+          "link": link,
+        })
+      }
+      else{
+        sidebarData.active.push({
+          "title": title,
+          "link": link,
+        })
+      }
     }
 
   }
@@ -45,7 +54,7 @@ export const query = graphql`
         }
         frontmatter {
           title
-          permalink
+          expired
           date(formatString: "MMMM DD, YYYY")
         }
         excerpt
