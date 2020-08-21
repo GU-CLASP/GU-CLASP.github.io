@@ -4,7 +4,7 @@ import HeaderComponent from "../header/header"
 import FooterComponent from "../footer/footer"
 import { Helmet } from "react-helmet"
 
-export default function LayoutSidebarNonSticky(props) {
+export default function LayoutSidebarCourses(props) {
   return (
     <Container fluid>
       <Helmet>
@@ -33,27 +33,12 @@ export default function LayoutSidebarNonSticky(props) {
               <div class="row-fluid">
                 <nav class="span3 bs-docs-sidebar">
                   <ul class="nav nav-list bs-docs-sidenav">
-                    {props.sidebarData.active.length > 0 &&
-                      <li class="nav-item"><a class="nav-link sidebarItem">Active</a></li>
-                    }
-                    {props.sidebarData.active.map((item, index) => {
+                    {props.sidebarData.map((item, index) => {
                       if (props.slug == item.link) {
-                        return <li class="nav-item"><a class="nav-link sidebarItem active" style={{ paddingLeft: 35 }} href={item.link}> {item.title} </a></li>
+                        return <li class="nav-item"><a class="nav-link sidebarItem active" href={item.link}> {item.title} </a></li>
                       }
                       else {
-                        return <li class="nav-item"><a class="nav-link sidebarItem" style={{ paddingLeft: 35 }} href={item.link}> {item.title} </a></li>
-                      }
-                    })}
-                    {props.sidebarData.past.length > 0 &&
-                      <li class="nav-item"><a class="nav-link sidebarItem">Past</a></li>
-                    }
-                    {props.sidebarData.past.map((item, index) => {
-                      if (props.slug == item.link) {
-                        return <li class="nav-item"><a class="nav-link sidebarItem active" style={{ paddingLeft: 35 }} href={item.link}> {item.title} </a></li>
-                      }
-                      else {
-                        return <li class="nav-item"><a class="nav-link sidebarItem" style={{ paddingLeft: 35 }} href={item.link}> {item.title} </a></li>
-
+                        return <li class="nav-item"><a class="nav-link sidebarItem" href={item.link}> {item.title} </a></li>
                       }
                     })}
                   </ul>

@@ -191,6 +191,13 @@ var menuData = [
     "MDFileCustomID": null,
     "hasSubmenu": false
   },
+
+  {
+    "title": "Courses",
+    "href": "/phd-courses",
+    "linkToMDFile": false,
+    "hasSubmenu": false,
+  },
   {
     "title": "Research Groups",
     "href": null,
