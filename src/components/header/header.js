@@ -186,12 +186,28 @@ var menuData = [
   },
   {
     "title": "Projects",
-    "href": "/project",
+    "href": null,
     "linkToMDFile": false,
     "MDFileCustomID": null,
-    "hasSubmenu": false
+    "hasSubmenu": true,
+    "submenu": [
+      {
+	"title": "Dialogical Reasoning in Patients with Schizophrenia (DRiPS)",
+	"href": "http://www.christinehowes.com/research/drips",
+        "hasSubmenu": false
+      },
+      {
+	"title": "Incremental Reasoning in Dialogue (IncReD)",
+	"href": "http://www.christinehowes.com/research/incred",
+        "hasSubmenu": false
+      },
+      {
+	"title": "Gothenburg research initiative for politically emergent systems (GRIPES)",
+	"href": "https://wasp-hs.org/projects/gothenburg-research-initiative-for-politically-emergent-systems-gripes/",
+        "hasSubmenu": false
+      }
+    ]	
   },
-
   {
     "title": "Courses",
     "href": "/phd-courses",
