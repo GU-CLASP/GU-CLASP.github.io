@@ -8,7 +8,7 @@ Audience can also join in Lilla Hörsalen (C350) at Humanisten, but only a limit
 Doctoral candidate: Wafia Adouane, University of Gothenburg
 
 Supervisor: Jean-Philippe Bernardy, University of Gothenburg
-Assistant supervisor: , University of Gothenburg
+Assistant supervisor: Shalom Lappin, University of Gothenburg
 
 Opponent: Professor Mona Diab, George Washington University
 
