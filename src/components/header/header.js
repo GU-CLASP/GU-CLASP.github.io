@@ -38,6 +38,8 @@ export default function HeaderComponent(props) {
         <link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/menu.css" />
         <script type="text/javascript" src="/js/base.js"></script>
+	<meta name='google-site-verification'
+	      content='aLbLg9i2oE98fQuvzFSYrW6xSSAyrCk7cZxLPzDiz4s'/>
       </Helmet>
 
       <header class="jumbotron subhead mb-0" id="overview" >
