@@ -22,39 +22,69 @@ export default function LayoutSidebarCourses(props) {
         <link rel="stylesheet" type="text/css" media="all" href="/css/menu.css" />
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"></link>
         <script type="text/javascript" src="/js/base.js"></script>
+        <script type="text/javascript" defer="defer" src="/js/course.js"></script>
+
       </Helmet>
       <Row>
         <HeaderComponent></HeaderComponent>
       </Row>
-      <Row>
+      <Row id="course-page">
         <Container>
-          <Row style={{ paddingTop: 20, paddingBottom: 20 }}>
-            <Col xs={6} md={4}>
-              <div class="row-fluid">
-                <nav class="span3 bs-docs-sidebar">
-                  <ul class="nav nav-list bs-docs-sidenav">
-                    {props.sidebarData.map((item, index) => {
-                      if (props.slug == item.link) {
-                        return <li class="nav-item"><a class="nav-link sidebarItem active" href={item.link}> {item.title} </a></li>
-                      }
-                      else {
-                        return <li class="nav-item"><a class="nav-link sidebarItem" href={item.link}> {item.title} </a></li>
-                      }
-                    })}
-                  </ul>
-                </nav>
-              </div>
-            </Col>
-            <Col xs={12} md={8}>
-              {props.children}
-            </Col>
-            {props.showTOC &&
-              <Col lg={2}>
-                {props.headerText}
-                <nav id="toc" data-toggle="toc" class="sticky-top"></nav>
+          {props.mainPage ?
+            <Row style={{ paddingTop: 20, paddingBottom: 20 }}>
+              <Col class="col-12 col-md-4">
+                  <nav class="bs-docs-sidebar">
+                    <ul id="courses-list" class="nav nav-list bs-docs-sidenav">
+                      {props.sidebarData.map((item, index) => {
+                        if (props.slug == item.link) {
+                          return <li class="nav-item"><a class="nav-link sidebarItem active" href={item.link}> {item.title} </a></li>
+                        }
+                        else {
+                          return <li class="nav-item"><a class="nav-link sidebarItem" href={item.link}> {item.title} </a></li>
+                        }
+                      })}
+                    </ul>
+                  </nav>
               </Col>
-            }
-          </Row>
+              <Col id="course-content" class="col-md-8 d-none d-md-block">
+                {props.children}
+              </Col>
+              {props.showTOC &&
+                <Col lg={2}>
+                  {props.headerText}
+                  <nav id="toc" data-toggle="toc" class="sticky-top"></nav>
+                </Col>
+              }
+            </Row>
+            :
+            <Row id="course-page" style={{ paddingTop: 20, paddingBottom: 20 }}>
+              <Col class="col-md-4 d-none d-md-block">
+                <div class="row-fluid">
+                  <nav class="span3 bs-docs-sidebar">
+                    <ul id="courses-list" class="nav nav-list bs-docs-sidenav">
+                      {props.sidebarData.map((item, index) => {
+                        if (props.slug == item.link) {
+                          return <li class="nav-item"><a class="nav-link sidebarItem active" href={item.link}> {item.title} </a></li>
+                        }
+                        else {
+                          return <li class="nav-item"><a class="nav-link sidebarItem" href={item.link}> {item.title} </a></li>
+                        }
+                      })}
+                    </ul>
+                  </nav>
+                </div>
+              </Col>
+              <Col id="course-content" class="col-12 col-md-8">
+                {props.children}
+              </Col>
+              {props.showTOC &&
+                <Col lg={2}>
+                  {props.headerText}
+                  <nav id="toc" data-toggle="toc" class="sticky-top"></nav>
+                </Col>
+              }
+            </Row>
+          }
         </Container>
       </Row>
       <Row>

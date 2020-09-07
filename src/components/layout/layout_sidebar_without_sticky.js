@@ -11,6 +11,7 @@ export default function LayoutSidebarNonSticky(props) {
         <script type="text/javascript" src="/js/jquery-3.5.1.min.js"></script>
         <link rel="stylesheet" type="text/css" media="all" href="/css/bootstrap.min.css" />
         <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+
         {props.showTOC &&
           <link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css" />
         }
@@ -22,17 +23,18 @@ export default function LayoutSidebarNonSticky(props) {
         <link rel="stylesheet" type="text/css" media="all" href="/css/menu.css" />
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet"></link>
         <script type="text/javascript" src="/js/base.js"></script>
+        <script type="text/javascript" defer="defer" src="/js/recruitments.js"></script>
       </Helmet>
       <Row>
         <HeaderComponent></HeaderComponent>
       </Row>
-      <Row>
+      <Row id="recruitments-page">
         <Container>
-          <Row style={{ paddingTop: 20, paddingBottom: 20 }}>
-            <Col xs={6} md={4}>
-              <div class="row-fluid">
-                <nav class="span3 bs-docs-sidebar">
-                  <ul class="nav nav-list bs-docs-sidenav">
+          {props.mainPage ?
+            <div class="row" style={{ paddingTop: 20, paddingBottom: 20 }}>
+              <Col class="col-12 col-md-4">
+                <nav class="bs-docs-sidebar">
+                  <ul id="recruitment-nav" class="nav nav-list bs-docs-sidenav">
                     {props.sidebarData.active.length > 0 &&
                       <li class="nav-item"><a class="nav-link sidebarItem">Active</a></li>
                     }
@@ -58,18 +60,48 @@ export default function LayoutSidebarNonSticky(props) {
                     })}
                   </ul>
                 </nav>
-              </div>
-            </Col>
-            <Col xs={12} md={8}>
-              {props.children}
-            </Col>
-            {props.showTOC &&
-              <Col lg={2}>
-                {props.headerText}
-                <nav id="toc" data-toggle="toc" class="sticky-top"></nav>
               </Col>
-            }
-          </Row>
+              <div id="recruitments-content" class="col-md-8 d-none d-md-block">
+                {props.children}
+              </div>
+            </div>
+            :
+              <div class="row" style={{ paddingTop: 20, paddingBottom: 20 }}>
+              <Col class="col-md-4 d-none d-md-block">
+                <nav class="bs-docs-sidebar">
+                  <ul id="recruitment-nav" class="nav nav-list bs-docs-sidenav">
+                    {props.sidebarData.active.length > 0 &&
+                      <li class="nav-item"><a class="nav-link sidebarItem">Active</a></li>
+                    }
+                    {props.sidebarData.active.map((item, index) => {
+                      if (props.slug == item.link) {
+                        return <li class="nav-item"><a class="nav-link sidebarItem active" style={{ paddingLeft: 35, fontSize: 14 }} href={item.link}> {item.title} </a></li>
+                      }
+                      else {
+                        return <li class="nav-item"><a class="nav-link sidebarItem" style={{ paddingLeft: 35, fontSize: 14 }} href={item.link}> {item.title} </a></li>
+                      }
+                    })}
+                    {props.sidebarData.past.length > 0 &&
+                      <li class="nav-item"><a class="nav-link sidebarItem" >Past</a></li>
+                    }
+                    {props.sidebarData.past.map((item, index) => {
+                      if (props.slug == item.link) {
+                        return <li class="nav-item"><a class="nav-link sidebarItem active" style={{ paddingLeft: 35, fontSize: 14 }} href={item.link}> {item.title} </a></li>
+                      }
+                      else {
+                        return <li class="nav-item"><a class="nav-link sidebarItem" style={{ paddingLeft: 35, fontSize: 14 }} href={item.link}> {item.title} </a></li>
+
+                      }
+                    })}
+                  </ul>
+                </nav>
+              </Col>
+              <div id="recruitments-content" class="col-12 col-md-8">
+                {props.children}
+              </div>
+
+            </div>
+          }
         </Container>
       </Row>
       <Row>

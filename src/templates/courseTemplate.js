@@ -29,7 +29,7 @@ export default function courseTemplate({
             }
         }
         return (
-            <LayoutSidebarCourses slug={slug} sidebarData={sidebarData}>
+            <LayoutSidebarCourses slug={slug} sidebarData={sidebarData} mainPage={false}>
                 <Row style={{ marginTop: "40px", }}>
                     <Col>
                         <h1>{page_title}</h1>

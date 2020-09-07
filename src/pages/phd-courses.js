@@ -17,10 +17,10 @@ export default function Course(props) {
   }
 
   return (
-    <LayoutSidebarCourses sidebarData={sidebarData}>
+    <LayoutSidebarCourses sidebarData={sidebarData} mainPage={true}>
       {props.data.phd_course.totalCount > 0 &&
         <div>
-          <Row style={{ height: "500px", }}>
+          <Row>
             <Col style={{ marginTop: "30px", }}>
               <h1>PhD courses</h1>
               <p>Here you can find a number of courses that are offered at PhD level at CLASP. Some of the courses are reading courses. See each course for more details on the format.

@@ -40,7 +40,7 @@ export default function RecruitmentsTemplate({
 
     }
     return (
-      <LayoutSidebarNonSticky slug={slug} sidebarData={sidebarData}>
+      <LayoutSidebarNonSticky slug={slug} sidebarData={sidebarData} mainPage={false}>
         <Row style={{ marginTop: "40px", }}>
           <Col>
             <h1>{page_title}</h1>

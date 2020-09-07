@@ -27,10 +27,10 @@ export default function Recruitment(props) {
 
   }
   return (
-    <LayoutSidebarNonSticky sidebarData={sidebarData}>
+    <LayoutSidebarNonSticky sidebarData={sidebarData} mainPage={true}>
       {props.data.recruitments.totalCount > 0 &&
         <div>
-          <Row style={{height:"1000px",}}>
+          <Row>
             <Col style={{marginTop:"40px",}}>
               <h1>Recruitment</h1>
               <p>Check this page regularly for news about recruiting possibilities at CLASP. </p>
