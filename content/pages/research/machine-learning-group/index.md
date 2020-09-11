@@ -5,4 +5,4 @@ showTitle: true
 showSidebarEntity: 'research'
 MDFileCustomID: "research-machine-learning"
 ---
-![Picture](./the-SORONPFRBS,-a-fictional-band-from-the-movie-Frank-(2014).jpg) 
+![Picture]/the-SORONPFRBS,-a-fictional-band-from-the-movie-Frank-(2014).jpg 
