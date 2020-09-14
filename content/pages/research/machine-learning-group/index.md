@@ -1,5 +1,5 @@
 ---
-title: Machine Learning group
+title: Machine Learning, Cognitive Modeling, and Natural Language Processing Group (MLCMNLP)
 sidebar: Research
 showTitle: true
 showSidebarEntity: 'research'
