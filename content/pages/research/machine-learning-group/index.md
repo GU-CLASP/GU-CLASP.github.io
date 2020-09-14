@@ -43,4 +43,4 @@ International collaborations
 
 
 Funded projects
- * Gothenberg Research Initiative for Politically Emergent Systems (GRIPES) -- Marianne och Marcus Wallenbergstiftelsen, WASP-HS
+ * Gothenburg Research Initiative for Politically Emergent Systems (GRIPES) -- Marianne och Marcus Wallenbergstiftelsen, WASP-HS
