@@ -10,4 +10,4 @@ Practically, the course oveviews contemporary computer vision and natural langua
 ---
 The course webpage can be accessed 
 
-The course syllabus can be found
+The course syllabus can be found here.
