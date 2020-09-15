@@ -6,7 +6,6 @@ showSidebarEntity: 'research'
 MDFileCustomID: "research-machine-learning"
 ---
 ![The SORONPFRBS](./pics/the-SORONPFRBS,-a-fictional-band-from-the-movie-Frank-(2014).jpg)
-
 *"The SORONPFRBS, a fictional band from the movie Frank."*
 ---
 In the "Machine Learning, Cognitive Modeling, and Natural Language Processing" (MLCMNLP) group, we are looking at bringing cognitive modeling and theoretical linguistics together with corpus-based, machine learning approaches to both traditional and recent natural language processing problems.  We cover a variety of activities with a particular emphasis on language resource development and applications of human-collected data, be it annotations or experimental results from psycholinguistic research.
