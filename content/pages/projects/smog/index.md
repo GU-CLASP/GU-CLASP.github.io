@@ -26,10 +26,10 @@ and run our experiments on your own corpora, modifying parameters and
 changing the design of the model as you think appropriate.
 
 # Site Map
-- [About](./smog/about)
-- [People](./smog/people) 
-- [Papers](./smog/papers)
-- [Software](./smog/software)
-- [Experiments and datasets](./smog/experiments)
+- [About](about)
+- [People](people) 
+- [Papers](papers)
+- [Software](software)
+- [Experiments and datasets](experiments)
 
 [![ESRC Logo](esrc_logo.png)](https://esrc.ukri.org/)
