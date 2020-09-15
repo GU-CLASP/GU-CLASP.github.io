@@ -8,7 +8,7 @@ The course gives a survey of theory and practical computational implementations 
 As the course studies how humans structure and interact with the physical world and express it in language, it bridges into the domains of cognitive science, computer vision, robotics and therefore more broadly belongs to the field of cognitive artificial intelligence. Typical applications of computational models of language, action, and perception are image search and retrieval on the web, navigation systems that provide more natural, human-like instructions, and personal robots and situated conversational agents that interact with us in our home environment through language.
 
 The learning outcomes of the course are based on covering 3 topics: (i) the relation between language and perception in human interaction, (ii) how language and perception is modelled with formal and computational models and methods and how these are integrated with different applications, and (iii) how research in the field is communicated scientifically.
----
+
 The course webpage can be accessed 
 
 The course syllabus can be found 
