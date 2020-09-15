@@ -11,7 +11,7 @@ hideInSearchResults: true
 
 ### ESRC Professorial Fellowship Research Project
 
-October 1, 2012 - September 30, 2015
+October 1, 2012 - January 31, 2016
 
 In this research project we are focussing on the problem of how to
 specify the class of representations that encode human knowledge of the
