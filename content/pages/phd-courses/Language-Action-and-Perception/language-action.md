@@ -9,6 +9,7 @@ As the course studies how humans structure and interact with the physical world 
 
 The learning outcomes of the course are based on covering 3 topics: (i) the relation between language and perception in human interaction, (ii) how language and perception is modelled with formal and computational models and methods and how these are integrated with different applications, and (iii) how research in the field is communicated scientifically.
 
+---
 The course webpage can be accessed 
 
 The course syllabus can be found 
