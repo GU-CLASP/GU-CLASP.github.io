@@ -10,4 +10,4 @@ Practically, the course oveviews contemporary computer vision and natural langua
 ---
 The course webpage can be accessed 
 
-The course syllabus can be found here.
+The course syllabus can be found [here](https://gu-clasp.github.io/2fa647f2b6d18ffe822064c111cec63e/course-plan-ml-vl.pdf).
