@@ -2,6 +2,8 @@
 title: "Welcome to SMOG"
 ---
 
+[![SMOG](smog.png)](/projects/smog)
+
 Welcome to the website of the Statistical Models of Grammaticality
 (SMOG) project in the [Department of Philosophy at King\'s College
 London](http://www.kcl.ac.uk/artshums/depts/philosophy/).
@@ -24,8 +26,10 @@ and run our experiments on your own corpora, modifying parameters and
 changing the design of the model as you think appropriate.
 
 # Site Map
-- [About](./about)
-- [People](./people) 
-- [Papers](./papers)
-- [Software](./software)
-- [Experiments and datasets](./experiments)
+- [About](./smog/about)
+- [People](./smog/people) 
+- [Papers](./smog/papers)
+- [Software](./smog/software)
+- [Experiments and datasets](./smog/experiments)
+
+[![ESRC Logo](esrc_logo.png)](https://esrc.ukri.org/)

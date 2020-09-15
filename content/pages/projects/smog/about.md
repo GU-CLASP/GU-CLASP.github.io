@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+[![SMOG](smog.png)](/projects/smog)
+
 ### **ESRC Research Project ES/J022969/1**
 
 October 1, 2012 - January 31, 2016
@@ -46,3 +48,5 @@ This research holds out the prospect of important impact in two areas. 
     humans represent the syntactic properties of sentences in their
     language. To the extent that natural language processing systems
     take account of this class of representations they will provide more
+
+[![ESRC Logo](esrc_logo.png)](https://esrc.ukri.org/)

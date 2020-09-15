@@ -2,6 +2,8 @@
 title: "Software"
 ---
 
+[![SMOG](smog.png)](/projects/smog)
+
 You can download our software and run our experiments on your own
 corpora, modifying parameters and changing the design of the model as
 you think appropriate.
@@ -27,3 +29,5 @@ and you agree to abide by them.
 
 The toolkit is hosted on Github:
 [link](https://github.com/jhlau/acceptability_prediction)
+
+[![ESRC Logo](esrc_logo.png)](https://esrc.ukri.org/)
