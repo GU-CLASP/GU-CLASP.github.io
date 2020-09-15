@@ -16,7 +16,7 @@ Emeritus Professor of Computational Linguistics\
 King's College London\
 <shalom.lappin@kcl.ac.uk>
 
-Visiting Professor\
+Professor of Natural Language Processing\
 School of Electronic Engineering and Computer Science\
 Queen Mary University of London\
 <s.lappin@qmul.ac.uk>
