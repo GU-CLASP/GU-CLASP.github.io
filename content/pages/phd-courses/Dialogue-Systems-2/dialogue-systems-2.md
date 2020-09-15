@@ -11,6 +11,7 @@ The course gives in-depth knowledge about theories and methods for the design, i
 - Evaluation of dialogue systems
 - Advanced implementation techniques
 
+---
 The course webpage can be accessed 
 
 The course syllabus can be found 
