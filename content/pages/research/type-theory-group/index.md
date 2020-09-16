@@ -5,7 +5,8 @@ showTitle: true
 showSidebarEntity: 'research'
 MDFileCustomID: "research-type-theory"
 ---
-
+![LAMBDA-CALCULUS](./pics/LAMBDA-CALCULUS-EST.-1936.png)
+---
 The Type Theory group is devoted to the study of Type Theoretical methods for NLP and Formal Semantics. The group is led by Stergios Chatzikyriakidis.
 
 Group members:
