@@ -6,4 +6,4 @@ The course concentrates on the use of constructive type theories to the study of
 
 ---
 
-The course syllabus can be found [here](Syllabus/Constructive Type Theories and Natural Language Semantics.pdf)
+The course syllabus can be found [here](./Syllabus/Constructive Type Theories and Natural Language Semantics.pdf)
