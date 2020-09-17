@@ -6,4 +6,4 @@ The course overviews basic concepts and theories in sociolinguistics and bilingu
 ---
 The course webpage can be accessed 
 
-The course syllabus can be found
+The course syllabus can be found [here](./Syllabus/Sociolinguistics and Bilingualism for Natural Language Processing.pdf)
