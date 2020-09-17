@@ -11,4 +11,4 @@ Course content for the advanced version: Advanced applications of deep machine l
 ---
 The course webpage can be accessed 
 
-The course syllabus can be found 
+The course syllabus can be found [here](./Syllabus/Topics in Deep Machine Learning.pdf)
