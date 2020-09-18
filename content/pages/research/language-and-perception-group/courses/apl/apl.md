@@ -44,7 +44,7 @@ Please read [this document](../requirements.md) and talk to Simon.
 
 ## Lecturers
 
-  - [Simon Dobnik](https://clasp.gu.se/about/people/simon-dobnik) (course organiser), office hours: by appointment
+  - [Simon Dobnik](https://www.gu.se/en/about/find-staff/simondobnik) (course organiser), office hours: by appointment
 
 
 ## Course literature
