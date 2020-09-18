@@ -13,7 +13,7 @@ The course overviews basic concepts and theories in sociolinguistics and bilingu
 
 Course syllabus
 
-  - [In English](https://flov.gu.se/digitalAssets/1692/1692605_syllabus-grad-course-sociolx-and-biling.pdf)
+  - [In English](./Syllabus/Sociolinguistics and Bilingualism for Natural Language Processing.pdf)
 
 Instructors
 
