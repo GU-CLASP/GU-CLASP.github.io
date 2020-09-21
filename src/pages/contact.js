@@ -39,7 +39,7 @@ export default function Project(props) {
                 <p>E-mail: <a href="mailto: stergios.chatzikyriakidis@gu.se"> stergios.chatzikyriakidis@gu.se</a></p>
                 <br></br>
 
-                <h5>Susanna Myyry, Administrato</h5>
+                <h5>Susanna Myyry, Administrator</h5>
                                 E-mail: <a href="mailto: susanna.myyry@gu.se">susanna.myyry@gu.se</a>
                 <hr></hr>
                 <h4>Visiting address</h4>
@@ -52,7 +52,7 @@ export default function Project(props) {
 
                 <hr></hr>
                 <h4>Other website</h4>
-                <a href="clasp.gu.se">clasp.gu.se</a>
+                <a href=" https://www.gu.se/en/clasp">clasp.gu.se</a>
 
                 <hr></hr>
                 <h4>Office Hours:</h4>

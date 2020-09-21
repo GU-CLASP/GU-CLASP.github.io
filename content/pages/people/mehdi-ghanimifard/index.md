@@ -1,6 +1,6 @@
 ---
 name: "Mehdi Ghanimifard"
-role: 4 
+role: 5 
 title: "PhD Student"
 ---
-Mehdi Ghanimifard is a PhD Student at CLASP.
+Mehdi Ghanimifard was a PhD Student at CLASP.

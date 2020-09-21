@@ -75,7 +75,7 @@ export default function Home(props) {
 	  CLASP is concerned both with understanding the cognitive foundations of language and developing efficient language technology. We work at the interface of computational linguistics/natural language processing, theoretical linguistics, and cognitive science.
 	  </p>
 	  <p>
-	  CLASP is located in Gothenburg, Sweden at the University of Gothenburg. We are part of the Department of Philosophy, Linguistics and Theory of Science (<a href="https://flov.gu.se/english">FLoV</a>).
+	  CLASP is located in Gothenburg, Sweden at the University of Gothenburg. We are part of the Department of Philosophy, Linguistics and Theory of Science (<a href="https://www.gu.se/en/flov">FLoV</a>).
 	  </p>
         </Col>
       </Row>

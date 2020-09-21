@@ -1,6 +1,6 @@
 ---
 name: "Wafia Adouane"
-role: 4 
+role: 5 
 title: "PhD Student"
 ---
-Wafia Adouane is a PhD Student at CLASP.
+Wafia Adouane was a PhD Student at CLASP.

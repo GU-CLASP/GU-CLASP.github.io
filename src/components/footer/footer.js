@@ -14,9 +14,9 @@ export default function FooterComponent({ props }) {
         <Col className="col-12 col-md-4">
           <div class="footer-header-type-style">Quick Links</div>
           <p><a href="/news">News</a></p>
-          <p><a href="https://clasp.gu.se/recruitment" target="_blank">Recruitment</a></p>
+          <p><a href="https://gu-clasp.github.io/recruitment/" target="_blank">Recruitment</a></p>
           <p><a href="https://clasp.gu.se" target="_blank">CLASP GU page</a></p>
-          <p><a href="https://www.gu.se" target="_blank">University of Gothenburg</a></p>
+          <p><a href="https://www.gu.se/en" target="_blank">University of Gothenburg</a></p>
         </Col>
         <Col className="col-12 col-md-4">
           <div class="footer-header-type-style">Address</div>
