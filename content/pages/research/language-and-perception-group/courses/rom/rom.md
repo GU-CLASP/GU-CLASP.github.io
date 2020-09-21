@@ -43,7 +43,7 @@ level:
 
 Course syllabus
 
-  - [In Swedish](https://flov.gu.se/digitalAssets/1578/1578778_representationer-av-spr--klig-betydelse--7-5-hp.pdf)
+  - [In Swedish](./Syllabus/Representations of Meaning.pdf)
 
 
 ## Requirements
