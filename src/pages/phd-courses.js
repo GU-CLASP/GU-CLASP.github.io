@@ -23,8 +23,7 @@ export default function Course(props) {
           <Row>
             <Col style={{ marginTop: "30px", }}>
               <h1>PhD courses</h1>
-              <p>Here you can find a number of courses that are offered at PhD level at CLASP. Some of the courses are reading courses. See each course for more details on the format.
-                <br></br> The  syllabus for the PhD in Computational Linguistics can be found here </p>
+              <p>Here you can find a number of courses that are offered at PhD level at CLASP. Some of the courses are reading courses. See each course for more details on the format.</p>
             </Col>
           </Row>
         </div>
