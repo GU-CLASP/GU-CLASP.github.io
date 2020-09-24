@@ -10,4 +10,4 @@ PhD Project: "Language as a tool: A rational and cognitive approach"
 
 Sylvie's approach is to refashion rationality starting from a distinction between two types of information (facts and infos related to what to do or use/how to behave) and the specification of corresponding information containers (epistemic mental attitude and memory-box). Based on this distinction regarding types of information & information-containers, she is developing a cognitive and rational approach of cognition, a rational dialog model as well as a cognitive architecture. Sylvie has a transdisciplinary approach mixing Philosophy of Mind, Formal Models, Cognitive and social psychology as well as robotics.
 
-Her research interests include Social Cognition, Dialogue modeling/Pragmatics, Cognitive Agent, Language and cognition, Philosophy of Mind, Interaction Design, Ethics and AI
+Her research interests include Social Cognition, Dialogue modeling/Pragmatics, Cognitive Agent, Language and cognition, Philosophy of Mind, Design & Conception Methods, Ethics and AI
