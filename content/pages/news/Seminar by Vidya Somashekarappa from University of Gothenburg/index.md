@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Vidya Somashekarappa from University of Gothenburg"
 date: 2020-10-07
+bannerImage: "meeting-311355_1280.png"
 ---
 Cordially welcome to a seminar by Vidya Somashekarappa from University of Gothenburg on Wednesday 7th of October, at 13:15 online via Zoom. 
 
