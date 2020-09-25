@@ -11,4 +11,5 @@ Temporal patterns of non-verbal behaviour cue detection and interpretation in a 
 The ultimate goal of this research project is to understand higher level behaviours, such as attention and eye gaze during conversation and how these findings are synthesized and can be utilized in the domains of Human–Robot Interaction and Human–Computer Interaction.
  
 Time: 13.15-15.00
+
 Location: via Zoom, https://gu-se.zoom.us/j/63017385241?pwd=NEdYMkRCUnRUTVQ4UUtuUTM3aDdEUT09
