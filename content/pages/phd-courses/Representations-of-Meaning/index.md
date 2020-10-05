@@ -6,4 +6,4 @@ The course gives a survey of theory and computational implementations of represe
 ---
 The course webpage can be accessed 
 
-The course syllabus can be found [here](./Syllabus/Representations of Meaning.pdf)
+The course syllabus can be found [here](./Syllabus/Representations of Meaning.pdf).
