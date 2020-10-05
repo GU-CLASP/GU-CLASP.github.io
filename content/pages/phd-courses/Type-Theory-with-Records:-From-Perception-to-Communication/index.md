@@ -7,4 +7,4 @@ The course introduces TTR, a Type Theory with Records, as a framework for natura
 ---
 The course webpage can be accessed 
 
-The course syllabus can be found [here](./Syllabus/Type Theory with Records- from Perception to Communication.pdf)
+The course syllabus can be found [here](./Syllabus/Type Theory with Records- from Perception to Communication.pdf).
