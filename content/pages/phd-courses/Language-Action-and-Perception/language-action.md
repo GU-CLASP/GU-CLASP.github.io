@@ -12,4 +12,4 @@ The learning outcomes of the course are based on covering 3 topics: (i) the rela
 ---
 The course webpage can be accessed 
 
-The course syllabus can be found [here](./Syllabus/Language, Action and Perception.pdf)
+The course syllabus can be found [here](./Syllabus/Language, Action and Perception.pdf).
