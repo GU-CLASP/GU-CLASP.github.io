@@ -14,4 +14,4 @@ The course gives in-depth knowledge about theories and methods for the design, i
 ---
 The course webpage can be accessed 
 
-The course syllabus can be found [here](./Syllabus/Dialogue Systems 2.pdf)
+The course syllabus can be found [here](./Syllabus/Dialogue Systems 2.pdf).
