@@ -12,4 +12,4 @@ Sylvie's approach is to refashion rationality starting from a distinction betwee
 
 Her research interests include Social Cognition, Dialogue modeling/Pragmatics, Cognitive Agent, Language and cognition, Philosophy of Mind, Design & Conception Methods, Ethics and AI
 
-Publications available on FLOV personnal Webpage
+[Publications available on FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget)
