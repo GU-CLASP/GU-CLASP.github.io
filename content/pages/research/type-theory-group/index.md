@@ -14,6 +14,8 @@ Group members:
 
 -	Stergios Chatzikyriakidis
 -	Jean-Philippe Bernardy
+- Julian Grove
+- Shalom Lappin
 -	Robin Cooper
 -	Staffan Larsson
 -	Vlad Maraev 
