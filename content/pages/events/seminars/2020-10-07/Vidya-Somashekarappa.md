@@ -4,7 +4,7 @@ title: "What's your occipital lobe looking at? Gaze patterns and non-verbal cue 
 lecturer: "Vidya Somashekarappa"
 duration: "2 hours"
 venue: "Gothenburg"
-slides: 
+slides: ./Vidya Somashekarappa 7.10.pdf
 ---
 
 
