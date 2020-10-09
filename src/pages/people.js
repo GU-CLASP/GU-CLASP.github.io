@@ -30,6 +30,12 @@ export default function People(props) {
       "link": "#researchers"
     })
   }
+  if (props.data.post_docs.totalCount > 0) {
+    sidebarData.push({
+      "title": "Post Doctoral Researchers",
+      "link": "#post-doc"
+    })
+  }
   if (props.data.students.totalCount > 0) {
     sidebarData.push({
       "title": "Doctoral Students",
@@ -103,6 +109,22 @@ export default function People(props) {
                 </Col>
               </Row>
               {props.data.researchers.people.map((person, index) => {
+                return getPerson(person, index != 0)
+              })}
+            </Col>
+          </Row>
+        }
+        {props.data.post_docs.totalCount > 0 &&
+          <Row>
+            <Col>
+              <Row>
+                <Col className="people-col-margin" id="post-doc">
+                  <hr />
+                  <h4 className="position-margin">Post Doctoral Researchers</h4>
+                  <hr />
+                </Col>
+              </Row>
+              {props.data.post_docs.people.map((person, index) => {
                 return getPerson(person, index != 0)
               })}
             </Col>
@@ -280,6 +302,24 @@ export const query = graphql`
       totalCount
     }
     past_members: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/people//"}}, frontmatter: {role: {eq: 5}, hideInSearchResults: {ne: true}}}) {
+      people: edges {
+        person: node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            name
+            profileImage {
+              publicURL
+            }
+          }
+          excerpt
+        }
+      }
+      totalCount
+    }
+    post_docs: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/people//"}}, frontmatter: {role: {eq: 6}, hideInSearchResults: {ne: true}}}) {
       people: edges {
         person: node {
           fields {
