@@ -10,7 +10,7 @@ MDFileCustomID: "course-rom"
 
 ROM HT18, Representations of meaning, 7.5 HEC, Representationer av
 språklig betydelse, 7,5hp, part of [Doctoral Degree in Computational
-Linguistics](https://medarbetarportalen.gu.se/digitalAssets/1656/1656982_asp-fd-datalingvistik-2016-eng.pdf).
+Linguistics](./Syllabus/Degree of Doctor in Computational Linguistics.pdf).
 
 The course gives a survey of theory and computational implementations
 of representing and reasoning with meaning in natural languages from
