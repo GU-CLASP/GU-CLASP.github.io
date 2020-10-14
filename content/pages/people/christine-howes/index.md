@@ -1,7 +1,7 @@
 ---
 name: "Christine Howes"
 role: 3 
-title: "Associate Senior Lecturer in Computational Linguistics (Docent in Computational Linguistics)"
+title: "Senior Lecturer in Computational Linguistics (Docent in Computational Linguistics)"
 profileImage: "Chris.jpg"
 ---
 
