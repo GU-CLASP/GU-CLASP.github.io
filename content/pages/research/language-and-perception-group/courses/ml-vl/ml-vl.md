@@ -9,7 +9,7 @@ MDFileCustomID: "course-ml-vl"
 <img align="right" width="320" src="pics/tree.jpeg"/>
 
 ML-V&L HT18 and onwards, Machine Leanring for Vision and Language, 7.5 HEC, Maskininlärningsmetoder för datorseende och språkteknologi, 7,5hp, part of [Doctoral Degree in Computational
-Linguistics](https://flov.gu.se/digitalAssets/1605/1605989_asp-fd-datalingvistik-2016ver2.pdf).
+Linguistics](./documents/Degree of Doctor in Computational Linguistics.pdf).
 
 The course focuses on machine learning/deep learning models and techniques such as Recurrent Neural Networks (RNNs), Long-Short Term Memory Networks (LSTMs), Convolutional Neural Networks (ConvNets), Neural Auto-Encoders, Memory Networks, and others applied to computational modeling of natural language and images, and other sensory information. 
 
