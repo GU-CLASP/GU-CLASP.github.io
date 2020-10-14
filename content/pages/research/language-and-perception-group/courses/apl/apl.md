@@ -9,7 +9,7 @@ MDFileCustomID: "course-apl"
 <img align="right" width="300" src="pics/IMG_5943.JPG"/>
 
 APL HT18 and onwards, Language, Action, and Perception, 7.5 HEC, Språk, handling och perception, 7,5hp, part of [Doctoral Degree in Computational
-Linguistics](https://flov.gu.se/digitalAssets/1605/1605989_asp-fd-datalingvistik-2016ver2.pdf).
+Linguistics](./Syllabus/Degree of Doctor in Computational Linguistics.pdf).
 
 This is PhD course that explores computational modelling of language and vision in particular in relation to situated dialogue agents and image classification. There is a parallel course at the masters level which this course may partially overlap with: LT2308 ESLP: Embodied and Situated Language Processing or LT2318: Artificial Intelligence: Cognitive Systems.
 
