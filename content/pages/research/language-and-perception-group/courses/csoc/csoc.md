@@ -7,7 +7,7 @@ MDFileCustomID: "course-csoc"
 ---
 
 CSoc starting in VT18, Sociolinguistics and bilingualism for natural language processing, 7.5 HEC, Sociolingvistik och tvåspråkighet för grundläggande språkteknologi, 7,5hp, part of [Doctoral Degree in Computational
-Linguistics](https://flov.gu.se/digitalAssets/1605/1605989_asp-fd-datalingvistik-2016ver2.pdf).
+Linguistics](./Syllabus/Degree of Doctor in Computational Linguistics.pdf).
 
 The course overviews basic concepts and theories in sociolinguistics and bilingualism. It examines their implications for computational approaches to language in respect to the collection and processing of corpora of speech, writing or social media displaying sociolinguistic variation and/or code- switching, borrowing and similar phenomena of multilingual communities.
 
