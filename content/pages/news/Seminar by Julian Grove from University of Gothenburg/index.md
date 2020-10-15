@@ -1,17 +1,17 @@
 ---
-title: "Seminar by Vidya Somashekarappa from University of Gothenburg"
-date: 2020-10-07
+title: "Seminar by Julian Grove from University of Gothenburg"
+date: 2020-10-28
 bannerImage: "meeting-311355_1280.png"
 ---
-Cordially welcome to a seminar by Vidya Somashekarappa from University of Gothenburg on Wednesday 7th of October, at 13:15 online via Zoom. 
+Cordially welcome to a seminar by Julian Grove from University of Gothenburg on Wednesday 28th of October, at 13:15 online via Zoom. 
 
-Title: "What's your occipital lobe looking at? Gaze patterns and non-verbal cue detection".
+Title: "Algebraic effects in Montague semantics".
 
-Abstract: In this talk, I will discuss the topic of gaze prediction and my annotation effort to produce a data source that can help with automated dialogue systems. Specifically, dialogue systems need a way to distinguish between social and referential gaze in order to react more naturally to the cues given by human users.  I will present an annotation scheme as well as an analysis of collected data for dyadic conversations that reveal gaze behaviour patterns that are significant to the question of the role of gaze in interaction.
+Abstract: Within the last two decades, research into the multifaceted nature of linguistic meaning from the perspective of dynamic semantics has gained insight from the theoretical-computer-science notion of computational side effect. The side effects of a computer program may include, for example, reading or writing to the environment, computing non-deterministically, accepting input, or producing output. Theories of side effects have provided useful design patterns in linguistic semantics that allow traditional tools, like the simply typed lambda-calculus, to deal with otherwise unruly dynamic phenomena like indefiniteness, binding, anaphora, and presupposition, as well as apparently non-compositional phenomena, like quantification, in a systematic, elegant, and compositional way.
 
-Temporal patterns of non-verbal behaviour cue detection and interpretation in a given scenario are natural for humans and mostly an unconscious process, but identifying them is difficult for a robot or avatar.  Research has shown that from birth on, humans prefer to look at faces that engage in reciprocated gaze, and that healthy babies show enhanced neural processing of direct eye gaze. Eye movements have been shown in many domains to have significant effects on decision-making. Machines that can sense and respond to these in a meaningful way are welcomed by the users because of the efficient interaction and bonding experience. Unsurprisingly, eye contact is closely linked to our emotions and consequently affects our behaviors.
+More recently, the theory of algebraic effects has provided an approach to side effects in programming languages that allows very different notions of effect (for example, input/output and non-determinism) to be combined in a relatively seamless way. In this talk, I will show how algebraic effects may be used to combine analyses of *linguistic side effects*, focusing on anaphora and quantification. The approach lends itself to a simple encoding using traditional tools, as well as fairly conservative analyses of the individual phenomena at play. In addition, it leads to some interesting empirical predictions about how quantification and anaphora interact.
 
-The ultimate goal of this research project is to understand higher level behaviours, such as attention and eye gaze during conversation and how these findings are synthesized and can be utilized in the domains of Human–Robot Interaction and Human–Computer Interaction.
+The talk is accompanied by a blog post, which is available at: https://juliangrove.github.io/blog/algebraic_effects_montague.html
  
 Time: 13.15-15.00
 
