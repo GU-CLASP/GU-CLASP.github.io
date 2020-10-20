@@ -32,7 +32,7 @@ It offers two standing PhD courses:
   - Language, Action, and Perception (for more info: [English](https://gul.gu.se/public/courseId/82742/lang-en/publicPage.do) and [Swedish](./Syllabus/Language, Action and Perception.pdf). 
   - Representation of Meaning (for more info: [English](https://gul.gu.se/public/courseId/82744/lang-en/publicPage.do) and [Swedish](./Syllabus/Representations of Meaning.pdf).
 
-In 2018 we also organised (together with the Dialogue group) Workshop on Dialogue and Perception. For more details, please see [here](https://clasp.gu.se/news-events/workshop-on-dialogue-and-perception-2018).
+In 2018 we also organised (together with the Dialogue group) Workshop on Dialogue and Perception. For more details, please see [here](https://gu-clasp.github.io/events/conferences/dialogue-and-percetion-workshop/).
 
 ### News
 
