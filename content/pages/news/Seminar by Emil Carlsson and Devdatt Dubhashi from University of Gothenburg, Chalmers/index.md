@@ -7,7 +7,7 @@ Cordially welcome to a joint seminar by Emil Carlsson and Devdatt Dubhashi from 
 
 Title: "Learning numeral systems by interaction".
 
-Abstract: "TBA"
+Abstract: Human languages differ qualitatively in their numeral systems. At one extreme, some languages have a small set of number terms, which denote approximate or inexact numerosities; at the other extreme, many languages have forms for exact numerosities over a very large range, through a recursively defined counting system. Why do numeral systems vary as they do? An influential proposal has suggested that this arises from  a functional need for efficient communication and framed it in an information-theoretic setting. Here we adopt a machine learning perspective and show that a simple reinforcement learning mechanism produces numeral systems with properties very similar to human systems of similar complexity. 
  
 Time: 13.15-15.00
 
