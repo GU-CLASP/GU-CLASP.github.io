@@ -85,14 +85,4 @@ Any documents that are not available in electronic format should be mailed to: H
 
 Application deadline: February 1, 2021
 
-
-The University of Gothenburg promotes equal opportunities, equality and diversity.
-
-Salary is determined on an individual basis.
-
-Applications will be destroyed or returned (upon request) two years after the decision of employment has become final. Applications from the employed and from those who appeal the decision will not be returned.
-
-In connection to this recruitment, we have already decided which recruitment channels we should use. We therefore decline further contact with vendors, recruitment and staffing companies.
-
-
 More information as well as a link to the application portal can be found here: https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=17580
