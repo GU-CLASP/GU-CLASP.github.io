@@ -11,7 +11,9 @@ expired: false
 ###### Apply by: 2021-02-01
 
 
-The successful applicant will be employed by the Department of Philosophy, Linguistics, and Theory of science (FloV). The department was founded in 2009, and offers teaching and research in theoretical and practical philosophy, linguistics, and theory of science. The department also hosts several big research programs, including The Gothenburg Responsibility Project, CLASP, and Representation & Reality.
+The University of Gothenburg tackles society’s challenges with diverse knowledge. 49 000 students and 6 400 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract scientists and students from around the world. With new knowledge and new perspectives, the University contributes to a better future.
+
+The successful applicant will be employed by the Department of Philosophy, Linguistics, and Theory of science (FloV), as a postdoctoral researcher in the Centre for Linguistic Theory and Studies in Probability (CLASP). The department was founded in 2009, and offers teaching and research in theoretical and practical philosophy, linguistics, and theory of science. 
 
  
 
@@ -23,18 +25,6 @@ The Centre for Linguistic Theory and Studies in Probability (CLASP) is based in 
 
 #### Job assignments
 The researcher will contribute to CLASP's ongoing research. They will also serve as Associate Director of CLASP, working with the Director, and the other members of CLASP, in a senior leadership and organizational role. They will devote 60% of their time to research, and they will we expected to take on organizational work related to CLASP equivalent to 40% of a full-time position. The Associate Director's role includes organizing CLASP’s research activities. The appointed candidate is expected to carry out the vast majority of her/his duties in Gothenburg.
-Type Theory (or logics) and probability
-Machine Learning including Deep Learning and Neural Networks
-Theorem Proving and Bayesian Reasoning
-Formal Models of Dialogue and Linguistic Interaction
-Combining logical and Machine Learning/Deep Learning approaches
-Models combining language and perception
- 
-
-Apart from research, duties may include mentoring graduate students, course design, and/or teaching-related activities; such supplementary duties will not exceed 20% of the position’s responsibilities.
-
-The holder of the position is expected to carry out the vast majority of her/his research in Gothenburg and to actively participate in the research group's workshops, seminars, and conferences.
-
 
 Eligibility
 Eligible for a research position are those with a PhD or other foreign degree that is deemed equivalent to PhD. The subject of the doctoral thesis and/or other research publications should be in a research area relevant to the subject description above.
@@ -44,7 +34,6 @@ Scientific proficiency will be given priority in the evaluation of the qualifica
 
 The recruitment process may include interviews by video link and contacting references.
 
-
 Employment
 Type of employment: Permanent position
 
@@ -53,7 +42,6 @@ Extent: 100%
 Location: Department of Philosophy, Linguistics and Theory of Science, Gothenburg University
 
 First day of employment: June 1, 2021
-
  
 
 For further information:
