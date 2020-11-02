@@ -38,7 +38,6 @@ Scientific proficiency will be given priority in the evaluation of the qualifica
 
 The recruitment process may include interviews by video link and contacting references.
 
-Employment
 Type of employment: Permanent position
 
 Extent: 100%
