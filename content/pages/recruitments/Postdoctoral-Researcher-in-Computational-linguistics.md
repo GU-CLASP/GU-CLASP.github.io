@@ -40,7 +40,7 @@ The postdoctoral researcher is expected to conduct research in CLASP's core area
  • Combining Logical, Machine Learning/Deep Learning, and Psycholinguistic approaches
 
  • Computational Models of Language, Vision, and Situated Interaction/Social Robotics
-
+ 
 Apart from research, duties may include mentoring graduate students, course design, and/or teaching-related activities; such supplementary duties will not exceed 20% of the position’s responsibilities.
 
 The holder of the position is expected to carry out the vast majority of her/his research in Gothenburg and to actively participate in the research group's workshops, seminars, and conferences.
@@ -104,6 +104,7 @@ The application should include:
  • Contact details for two referees
 
  • List of scholarly writing, including the PhD thesis, referenced in the application and a separate complete list of scholarly work
+
 
 
 For more information, please the instructions for Qualifications Portfolio at the Faculty of Arts:
