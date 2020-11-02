@@ -53,7 +53,6 @@ Scientific proficiency is the most important criterion for assessment, and speci
 The recruitment process may include interviews (possibly by video link) and contacting references.
 
 
-Employment
 Type of employment: Fixed-term employment, 2 years
 
 Extent: 100%
