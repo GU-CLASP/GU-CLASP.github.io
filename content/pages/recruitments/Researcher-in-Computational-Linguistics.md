@@ -11,6 +11,7 @@ expired: false
 ###### Apply by: 2021-02-01
 
 
+
 The University of Gothenburg tackles society’s challenges with diverse knowledge. 49 000 students and 6 400 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract scientists and students from around the world. With new knowledge and new perspectives, the University contributes to a better future.
 
 The successful applicant will be employed by the Department of Philosophy, Linguistics, and Theory of science (FloV), as a postdoctoral researcher in the Centre for Linguistic Theory and Studies in Probability (CLASP). The department was founded in 2009, and offers teaching and research in theoretical and practical philosophy, linguistics, and theory of science. 
@@ -27,11 +28,9 @@ The Centre for Linguistic Theory and Studies in Probability (CLASP) is based in 
 The researcher will contribute to CLASP's ongoing research. They will also serve as Associate Director of CLASP, working with the Director, and the other members of CLASP, in a senior leadership and organizational role. They will devote 60% of their time to research, and they will we expected to take on organizational work related to CLASP equivalent to 40% of a full-time position. The Associate Director's role includes organizing CLASP’s research activities. The appointed candidate is expected to carry out the vast majority of her/his duties in Gothenburg.
 
 Eligibility
-
 Eligible for a research position are those with a PhD or other foreign degree that is deemed equivalent to PhD. The subject of the doctoral thesis and/or other research publications should be in a research area relevant to the subject description above.
 
 Assessment
-
 Scientific proficiency will be given priority in the evaluation of the qualifications of the applicants, and it is assessed primarily on the basis of the applicant’s publications. A substantial publication record demonstrating close links to the research group's core activities will be considered an important qualification. A record of academic leadership applied to planning and organizing research is also a central criterion of assessment.
 
 The recruitment process may include interviews by video link and contacting references.
