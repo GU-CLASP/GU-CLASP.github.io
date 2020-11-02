@@ -26,13 +26,13 @@ The Centre for Linguistic Theory and Studies in Probability (CLASP) is based in 
 #### Job assignments
 The postdoctoral researcher is expected to conduct research in CLASP's core areas of research in cooperation with the research group. More specifically, people in CLASP are currently conducting research in linguistics and computational linguistics using ideas from the following research areas:
 
-•Machine Learning including Deep Learning and Neural Networks
-•Computational and Experimental Methods in Psycholinguistics
-•Theorem Proving and Bayesian Reasoning
-•Neurolinguistic and Formal Models of Dialogue and Interaction
-•Type Theory (or logics) and Probability
-•Combining Logical, Machine Learning/Deep Learning, and Psycholinguistic approaches
-•Computational Models of Language, Vision, and Situated Interaction/Social Robotics
+ • Machine Learning including Deep Learning and Neural Networks
+ • Computational and Experimental Methods in Psycholinguistics
+ • Theorem Proving and Bayesian Reasoning
+ • Neurolinguistic and Formal Models of Dialogue and Interaction
+ • Type Theory (or logics) and Probability
+ • Combining Logical, Machine Learning/Deep Learning, and Psycholinguistic approaches
+ • Computational Models of Language, Vision, and Situated Interaction/Social Robotics
 
 Apart from research, duties may include mentoring graduate students, course design, and/or teaching-related activities; such supplementary duties will not exceed 20% of the position’s responsibilities.
 
