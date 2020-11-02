@@ -21,6 +21,7 @@ The successful applicant will be employed by the Department of Philosophy, Lingu
 Computational linguistics
 
 Subject area description
+
 The Centre for Linguistic Theory and Studies in Probability (CLASP) is based in FLoV at the University of Gothenburg, and is funded by a 10-year grant from the Swedish Research Council (2015-2025). CLASP is devoted to research and advanced training in the application of probabilistic modeling and machine learning methods to core issues in linguistic theory and cognition. It also addresses topics in dialogue and linguistic interaction. For a description of CLASP see https://gu-clasp.github.io/.
 
 #### Job assignments
