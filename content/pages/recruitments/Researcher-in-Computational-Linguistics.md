@@ -59,12 +59,17 @@ How to apply
 In order to apply for a position at the University of Gothenburg, you have to register an account in our online recruitment system. It is the responsibility of the applicant to ensure that the application is complete in accordance with the instructions in the job advertisement, and that it is submitted before the deadline. The selection of candidates is made on the basis of the qualifications registered in the application.
 
 The following documents should be attached to the application (in pdf):
-1.Project plan: The applicant must attach a research plan of at most 5 pages to the application, detailing the research the applicant plans to conduct during his/her time as a researcher. This description should also explain how the proposed research contributes to state-of-the-art research on the subject.
-2.A personal statement specifying how the candidate is qualified for both the research and the organizational tasks that the position involves. The statement should contain relevant details of the candidate’s experience in leadership roles for academic and research activities.
-3.A PhD certificate.
-4.A CV listing academic degrees, employments, publications, and other relevant merits.
-5.At most three scientific publications, plus the applicant’s PhD thesis.
-6.Contact information for two academics familiar with the research work of the applicant for further contact/reference. 
+ 1.Project plan: The applicant must attach a research plan of at most 5 pages to the application, detailing the research the applicant plans to conduct during his/her time as a researcher. This description should also explain how the proposed research contributes to state-of-the-art research on the subject.
+
+ 2.A personal statement specifying how the candidate is qualified for both the research and the organizational tasks that the position involves. The statement should contain relevant details of the candidate’s experience in leadership roles for academic and research activities.
+
+ 3.A PhD certificate.
+ 
+ 4.A CV listing academic degrees, employments, publications, and other relevant merits.
+
+ 5.At most three scientific publications, plus the applicant’s PhD thesis.
+
+ 6.Contact information for two academics familiar with the research work of the applicant for further contact/reference. 
 
 We welcome applications written in English, since a non-Swedish speaking person may be appointed as external expert in the recruitment process.
 
