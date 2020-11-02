@@ -1,6 +1,6 @@
 ---
 title: "Researcher in Computational Linguistics"
-date: 2021-02-01
+date: 2020-11-02
 MDFileCustomID: "researcher-in-computational-linguistics-2020/1202"
 expired: false
 ---
