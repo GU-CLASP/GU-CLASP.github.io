@@ -77,16 +77,16 @@ How to apply
 In order to apply for a position at the University of Gothenburg, you have to register an account in our online recruitment system. It is the responsibility of the applicant to ensure that the application is complete in accordance with the instructions in the job advertisement, and that it is submitted before the deadline. The selection of candidates is made on the basis of the qualifications registered in the application.
 
 The application should include:
-•Description of scientific and teaching experience
-•A list of degrees completed and positions held
-•A list of scientific qualifications
-•A list of teaching qualifications
-•A list of leadership and administrative qualifications
-•A list of qualifications relating to outreach collaboration with society
-•A project plan which describes the research the applicant plans to carry out during the postdoctoral appointment
-•PhD degree certificate
-•Contact details for two referees
-•List of scholarly writing, including the PhD thesis, referenced in the application and a separate complete list of scholarly work
+ • Description of scientific and teaching experience
+ • A list of degrees completed and positions held
+ • A list of scientific qualifications
+ • A list of teaching qualifications
+ • A list of leadership and administrative qualifications
+ • A list of qualifications relating to outreach collaboration with society
+ • A project plan which describes the research the applicant plans to carry out during the postdoctoral appointment
+ • PhD degree certificate
+ • Contact details for two referees
+ • List of scholarly writing, including the PhD thesis, referenced in the application and a separate complete list of scholarly work
 
 
 For more information, please the instructions for Qualifications Portfolio at the Faculty of Arts:
