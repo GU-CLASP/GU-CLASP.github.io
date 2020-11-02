@@ -27,9 +27,11 @@ The Centre for Linguistic Theory and Studies in Probability (CLASP) is based in 
 The researcher will contribute to CLASP's ongoing research. They will also serve as Associate Director of CLASP, working with the Director, and the other members of CLASP, in a senior leadership and organizational role. They will devote 60% of their time to research, and they will we expected to take on organizational work related to CLASP equivalent to 40% of a full-time position. The Associate Director's role includes organizing CLASP’s research activities. The appointed candidate is expected to carry out the vast majority of her/his duties in Gothenburg.
 
 Eligibility
+
 Eligible for a research position are those with a PhD or other foreign degree that is deemed equivalent to PhD. The subject of the doctoral thesis and/or other research publications should be in a research area relevant to the subject description above.
 
 Assessment
+
 Scientific proficiency will be given priority in the evaluation of the qualifications of the applicants, and it is assessed primarily on the basis of the applicant’s publications. A substantial publication record demonstrating close links to the research group's core activities will be considered an important qualification. A record of academic leadership applied to planning and organizing research is also a central criterion of assessment.
 
 The recruitment process may include interviews by video link and contacting references.
