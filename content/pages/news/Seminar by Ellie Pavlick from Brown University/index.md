@@ -1,6 +1,6 @@
 ---
 title: "Seminar by Ellie Pavlick from Brown University"
-date: 2020-11-18
+date: 2020-11-09
 bannerImage: "meeting-311355_1280.png"
 ---
 Cordially welcome to a seminar by Ellie Pavlick from Brown University on Wednesday 18th of November, at 15:00 online via Zoom. 
