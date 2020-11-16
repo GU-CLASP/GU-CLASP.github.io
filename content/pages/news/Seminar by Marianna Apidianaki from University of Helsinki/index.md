@@ -3,7 +3,7 @@ title: "Seminar by Marianna Apidianaki from University of Helsinki"
 date: 2020-11-10
 bannerImage: "meeting-311355_1280.png"
 ---
-Cordially welcome to a seminar by Marianna Apidianaki from University of Helsinki on Wednesday 20th of January, at 13:15 online via Zoom. 
+Cordially welcome to a seminar by Marianna Apidianaki from University of Helsinki on Wednesday 10th of February, at 13:15 online via Zoom. 
 
 Title: "TBA".
 
