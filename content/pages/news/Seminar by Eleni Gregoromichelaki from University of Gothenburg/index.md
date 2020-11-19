@@ -1,9 +1,9 @@
 ---
-title: "Seminar by Eleni Gregoromichelaki from University of Gothenburg"
+title: "Joint CLASP and Linguistics seminar by Eleni Gregoromichelaki from University of Gothenburg"
 date: 2020-11-16
 bannerImage: "meeting-311355_1280.png"
 ---
-Cordially welcome to a seminar by Eleni Gregoromichelaki from University of Gothenburg on Wednesday 2nd of December, at 13:15 online via Zoom. 
+Cordially welcome to a a joint CLASP and Linguistics seminar by Eleni Gregoromichelaki from University of Gothenburg on Wednesday 2nd of December, at 13:15 online via Zoom. 
 
 Title: "TBA".
 
