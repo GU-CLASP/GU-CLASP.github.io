@@ -4,7 +4,7 @@ title: "Composing Byte-Pair Encodings for Morphological Sequence Classification"
 lecturer: "Adam Ek"
 duration: "2 hours"
 venue: "Gothenburg"
-slides: ./Adm Ek 11.11.pdf
+slides: ./Adam Ek 11.11.pdf
 ---
 
 
