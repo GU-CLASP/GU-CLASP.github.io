@@ -16,6 +16,7 @@ relative to (groups of) human agents who can explore or exploit them to gain acc
 settings. I will present the formal architecture of a syntactic model (DS, Kempson et al. [2001])
 that provides a way of capturing (joint) linguistic and physical actions by relying on the goaldirected,
 predictive nature of cognition.
+
 Since linguistic phenomena also show that there is continuity between low-level “syntactic”
 and conceptual mechanisms, I will address various ways to unify DS with TTR (Cooper
 [2012], in prep) under a single formalism. In my view, TTR types, like syntactic DS types,
