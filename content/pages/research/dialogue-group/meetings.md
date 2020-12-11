@@ -29,6 +29,15 @@ Currently meeting remotely by video conference.
 
 ### Previous sessions:
 
+##### 11 December 2020 \-- [13h-15h]
+
+-  **Led by:** Robin Cooper
+- Erk, K., & Herbelot, A. (n.d.). How to marry a star: Probabilistic constraints for meaning in context. 
+ (in prep.)
+ [ArXiv](https://arxiv.org/abs/2009.07936)
+
+##### MISSING SOME....
+
 ##### 17 January 2020 \-- [13h-15h]
 
 -   **Led by:** Bill Noble
