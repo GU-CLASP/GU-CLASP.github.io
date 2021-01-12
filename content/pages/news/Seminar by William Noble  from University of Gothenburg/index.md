@@ -1,6 +1,6 @@
 ---
 title: "Seminar by William Noble from University of Gothenburg"
-date: 2021-01-07
+date: 2021-01-27
 bannerImage: "meeting-311355_1280.png"
 ---
 Cordially welcome to a seminar by William Noble from University of Gothenburg on Wednesday 27th of January, at 13:15 online via Zoom. 
