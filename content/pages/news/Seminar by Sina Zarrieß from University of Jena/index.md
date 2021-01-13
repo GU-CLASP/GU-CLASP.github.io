@@ -1,6 +1,6 @@
 ---
 title: "Seminar by Sina Zarrieß from University of Jena, Germany"
-date: 2020-12-02
+date: 2021-02-17
 bannerImage: "meeting-311355_1280.png"
 ---
 Cordially welcome to a seminar by Sina Zarrieß from University of Jena, Germany on Wednesday 17th of February, at 13:15 online via Zoom. 
