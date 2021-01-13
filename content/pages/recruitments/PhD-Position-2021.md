@@ -37,7 +37,7 @@ devoted to research and advanced training in the application of
 probabilistic modelling and machine learning methods to core issues in
 linguistic theory and cognition. It also addresses topics in dialogue
 and linguistic interaction. For a description of CLASP see
-http://flov.gu.se/clasp
+https://gu-clasp.github.io/
 
  
 
@@ -231,7 +231,7 @@ University of Gothenburg, Att: HR Administrator, FLoV, Box 200, SE-405
 
 Applications should be written in English.
 
-[Application portal](https://web103.reachmee.com/ext/I005/1035/apply?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=18569)
+[Application here](https://web103.reachmee.com/ext/I005/1035/apply?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=18569)
 
 **Closing date:** 2021-06-07
  
