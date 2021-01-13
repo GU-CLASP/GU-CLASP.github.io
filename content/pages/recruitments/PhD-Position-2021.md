@@ -10,9 +10,9 @@ expired: false
 ###### Location: Dept of Philosophy, Linguistics & Theory of Sci.
 ###### Apply by: 2021-06-07
 
-
 Doctoral position in Computational Linguistics 
 ==============================================
+
 
 The University of Gothenburg tackles society's challenges with diverse
 knowledge. 49 000 students and 6 400 employees make the university a
@@ -230,6 +230,8 @@ University of Gothenburg, Att: HR Administrator, FLoV, Box 200, SE-405
 30 Gothenburg, Sweden.
 
 Applications should be written in English.
+
+[Application portal](https://web103.reachmee.com/ext/I005/1035/apply?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=18569)
 
 **Closing date:** 2021-06-07
  
