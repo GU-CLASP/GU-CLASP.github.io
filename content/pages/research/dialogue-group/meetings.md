@@ -17,6 +17,8 @@ Currently meeting remotely by video conference.
 - Venhuizen, Noortje J., et al. "Expectation-Based Comprehension: Modeling the Interaction of World Knowledge and Linguistic Experience." Discourse Processes, vol. 56, no. 3, Apr. 2019, pp. 229--55. (Suggested by Robin)
 - Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of the English Bare Plural in *Formal Semantics: The Essential Readings.* 2008. (Suggested by Ellen)
 - Ducrot, O., & Žagar, I. Ž. (2009). Slovenian lectures introduction into argumentative semantics. Pedagoški inštitut. (Suggested by Bill)
+- Pustejovsky, J. and Krishnaswamy, N. (to appear) "Embodied Human Computer Interaction" Ms. (Suggested by Eleni)
+  https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
 
 ### Previous sessions:
 
