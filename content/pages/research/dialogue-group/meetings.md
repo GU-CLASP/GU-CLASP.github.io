@@ -6,26 +6,17 @@ showSidebarEntity: 'research'
 MDFileCustomID: "reading-dialogue"
 ---
 
-Meetings: Alternate Fridays, 10.15-12.00.
+Meetings: Alternate Fridays (odd weeks), 10.15-12.00.
 
 Currently meeting remotely by video conference.
 
-### Future paper suggestions
+### Future paper suggestions:
 
--   **Suggested by:** Bill Noble
-    -   Xu; Y., & Reitter, D. (2018). [Information density converges in
-        dialogue: Towards an information-theoretic
-        model](http://www.david-reitter.com/pub/xu2017cognition-journalversion.pdf).
-        Cognition, 170, 147-163. 
--   **Suggested by:** Robin Cooper
-    -   *Venhuizen, Noortje J., et al. "Expectation-Based Comprehension:
-        Modeling the Interaction of World Knowledge and Linguistic
-        Experience." Discourse Processes, vol. 56, no. 3, Apr. 2019, pp.
-        229--55. DOI.org (Crossref), doi:10.1080/0163853X.2018.1448677.*
--   **Suggested by**: Ellen Breitholtz
-    -   Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of
-        the English Bare Plural in *Formal Semantics: The Essential
-        Readings.* 2008.
+[Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
+
+- Venhuizen, Noortje J., et al. "Expectation-Based Comprehension: Modeling the Interaction of World Knowledge and Linguistic Experience." Discourse Processes, vol. 56, no. 3, Apr. 2019, pp. 229--55. (Suggested by Robin)
+- Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of the English Bare Plural in *Formal Semantics: The Essential Readings.* 2008. (Suggested by Ellen)
+- Ducrot, O., & Žagar, I. Ž. (2009). Slovenian lectures introduction into argumentative semantics. Pedagoški inštitut. (Suggested by Bill)
 
 ### Previous sessions:
 
@@ -36,7 +27,21 @@ Currently meeting remotely by video conference.
  (in prep.)
  [ArXiv](https://arxiv.org/abs/2009.07936)
 
-##### MISSING SOME....
+##### 9 October 2020
+- Jonathan Ginzburg (2012). _The Interactive Stance_. Chapter 4
+
+##### 8 May 2020
+- Jonathan Ginzburg (2012). _The Interactive Stance_. Chapters 2 & 3
+
+##### 24 April 2020
+- Jonathan Ginzburg (2012). _The Interactive Stance_. Chapters 1 & 2
+
+##### 8 April 2020 
+- **Led by:** Bill Noble
+- Eckert, Penelope (2019). The limits of meaning: Social indexicality, variation, and the cline of interiority
+
+##### 27 March 2020
+- **Organizational meeting**
 
 ##### 17 January 2020 \-- [13h-15h]
 
