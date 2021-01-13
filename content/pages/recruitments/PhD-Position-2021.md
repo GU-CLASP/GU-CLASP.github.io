@@ -1,14 +1,18 @@
 ---
 title: "PhD position 2021"
-date: 
+date: 2021-01-13
 MDFileCustomID: "recruitment-PhD-position-2021"
 expired: false
 ---
 
+###### Diary id: PAR 2020/1484
+###### Employment level: Fixed term
+###### Location: Dept of Philosophy, Linguistics & Theory of Sci.
+###### Apply by: 2021-06-07
+
+
 Doctoral position in Computational Linguistics 
 ==============================================
-
-Ref PAR 2020/1484
 
 The University of Gothenburg tackles society's challenges with diverse
 knowledge. 49 000 students and 6 400 employees make the university a
@@ -228,16 +232,15 @@ University of Gothenburg, Att: HR Administrator, FLoV, Box 200, SE-405
 Applications should be written in English.
 
 **Closing date:** 2021-06-07
-
  
 
-*[The University of Gothenburg promotes equal opportunities, equality
-and diversity.]{lang="EN-US"}*
+* The University of Gothenburg promotes equal opportunities, equality
+and diversity.
 
-*[Applications will be destroyed or returned (upon request) two years
+* Applications will be destroyed or returned (upon request) two years
 after the decision of employment has become final. Applications from the
 employed and from those who appeal the decision will not be
-returned.]{lang="EN-US"}*
+returned.
 
 In connection to this recruitment, we have already decided which
 recruitment channels we should use. We therefore decline further contact
