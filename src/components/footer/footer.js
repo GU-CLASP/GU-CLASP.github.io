@@ -8,8 +8,8 @@ export default function FooterComponent({ props }) {
         <Col className="col-12 col-md-4">
           <div class="footer-header-type-style">Contact Information</div>
           <p><b>Office Hours: </b>Monday-Friday (9.00am - 5.00pm)</p>
-          <p><b>Phone: </b>Phone +46 31-786 0000</p>
-          <p><b>E-mail: </b><a href="mailto:susanna.myyry@gu.se">susanna.myyry@gu.se</a></p>
+          <p><b>Phone: </b> +46 31-786 0000</p>
+          <p><b>E-mail: </b><a href="mailto:hanna.edblom@gu.se"> Hanna Edblom</a></p>
         </Col>
         <Col className="col-12 col-md-4">
           <div class="footer-header-type-style">Quick Links</div>
@@ -24,7 +24,7 @@ export default function FooterComponent({ props }) {
                         Department of Philosophy, Linguistics and Theory of Science <br />
                         CLASP - Centre for Linguistic Theory and Studies in Probability<br />
                         P.o. Box 200<br />
-                        se-405 30 GOTHENBURG<br />
+                        SE-405 30 GOTHENBURG<br />
                         SWEDEN</p>
           <a href="https://goo.gl/maps/kga7QHae7wfKfKNfA" target="_blank">Show Map</a>
         </Col>

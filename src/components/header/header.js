@@ -44,11 +44,15 @@ export default function HeaderComponent(props) {
 
       <header class="jumbotron subhead mb-0" id="overview" >
         <Row>
+          {/* <!-- I have to change CLASP's logo --> */}
           <Col xs={12} md={3} id="clasp-header-logo" className="align-self-center">
             <img src="/img/clasp.png" href="https://clasp.gu.se" alt="The Centre for Linguistic Theory and Studies in Probability" />
           </Col>
           <Col xs={12} md={6} className="align-self-center">
-            <div style={{ fontSize: "1.5rem" }}>The Centre for Linguistic Theory and Studies in Probability</div>
+            <div style={{ fontSize: "1.5rem",  fontWeight:"bold"}}>
+              The Centre for Linguistic Theory <br></br>
+              and Studies in Probability
+            </div>
           </Col>
           <Col xs={12} md={3}>
             <img id="gu-header-logo" src="/img/gu-logo.png" href="gu.se" alt="University of Gothenburh" />
