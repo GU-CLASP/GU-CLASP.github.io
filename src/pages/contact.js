@@ -35,16 +35,16 @@ export default function Project(props) {
                                 <p>E-mail: <a href="mailto:shalom.lappin@gu.se">shalom.lappin@gu.se</a></p>
                 <br></br>
 
-                <h5>Stergios Chatzikyriakidis, Associate Director and Researcher</h5>
-                <p>E-mail: <a href="mailto: stergios.chatzikyriakidis@gu.se"> stergios.chatzikyriakidis@gu.se</a></p>
+                <h5>Sharid Loáiciga, Associate Director and Researcher</h5>
+                <p>E-mail: <a href="mailto: sharid.loaiciga@gu.se"> sharid.loaiciga@gu.se</a></p>
                 <br></br>
 
-                <h5>Susanna Myyry, Administrator</h5>
-                                E-mail: <a href="mailto: susanna.myyry@gu.se">susanna.myyry@gu.se</a>
+                <h5>Hanna Edblom, Administrator</h5>
+                                E-mail: <a href="mailto: hanna.edblom@gu.se">hanna.edblom@gu.se</a>
                 <hr></hr>
                 <h4>Visiting address</h4>
-                <p>University of Gothenburg, Sweden<br></br>
-                                Renströmsgatan 6<br></br>
+                <p>Renströmsgatan 6 <br></br>
+                  University of Gothenburg, Sweden <br></br>
                 </p>
                 <hr></hr>
                 <h4>Phone</h4>
