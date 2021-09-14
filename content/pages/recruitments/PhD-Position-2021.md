@@ -2,7 +2,7 @@
 title: "PhD position 2021"
 date: 2021-01-13
 MDFileCustomID: "recruitment-PhD-position-2021"
-expired: false
+expired: true
 ---
 
 ###### Diary id: PAR 2020/1484
