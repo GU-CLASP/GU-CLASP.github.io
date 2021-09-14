@@ -2,7 +2,7 @@
 title: "Postdoctoral Researcher in Computational linguistics"
 date: 2020-11-02
 MDFileCustomID: "postdoctoral-researcher-in-computational-linguistics-2020/1140"
-expired: false
+expired: true
 ---
 
 ###### Diary id: PAR 2020/1140
