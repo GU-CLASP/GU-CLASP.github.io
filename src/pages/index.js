@@ -85,7 +85,7 @@ export default function Home(props) {
             <Col
               className="main-page-col-margin"
             >
-              <h1 className="text-center">Recent News</h1>
+              <h1 className="text-center">News</h1>
               <hr />
             </Col>
           </Row>
