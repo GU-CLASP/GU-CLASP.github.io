@@ -26,7 +26,7 @@ export default function News(props) {
               }
             }
           })}
-          {getPagination("/news?type=press", numPagesNews, page)}
+          {getPagination("/news?type=news", numPagesNews, page)}
         </div>
       }
     </Layout>
@@ -271,7 +271,7 @@ function getPagination(link, number_of_pages, current_page) {
 
 export const query = graphql`
   {
-    news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news/"}}, frontmatter: {hideInSearchResults: {ne: true}}}, sort: {fields: frontmatter___date, order: DESC}) {
+    news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {hideInSearchResults: {ne: true}}}, sort: {fields: frontmatter___date, order: DESC}) {
       news: edges {
         news_entry: node {
           fields {
