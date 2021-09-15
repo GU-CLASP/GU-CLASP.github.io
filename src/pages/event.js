@@ -88,7 +88,7 @@ export default function Event(props) {
                   return getConference(conference)
                 }
               })}
-              {getPagination("/event?type=conferences", numPagesConferences, page)}
+              {getPagination("/event?type=conference", numPagesConferences, page)}
             </div>
           }
         </div>
