@@ -139,7 +139,8 @@ var menuData = [
     "submenu": [
       {
         "title": "News",
-        "href": "/news",
+        // "href": "/news",
+        "href": "/news?type=news&page=1",
         "linkToMDFile": false,
         "MDFileCustomID": null,
         "hasSubmenu": false
@@ -176,7 +177,7 @@ var menuData = [
       },
       {
         "title": "Conferences & Workshops",
-        "href": "/event?type=conference",
+        "href": "/event?type=conference&page=1",
         "linkToMDFile": false,
         "MDFileCustomID": null,
         "hasSubmenu": false
