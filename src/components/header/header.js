@@ -139,7 +139,6 @@ var menuData = [
     "submenu": [
       {
         "title": "News",
-        // "href": "/news",
         "href": "/news?type=news&page=1",
         "linkToMDFile": false,
         "MDFileCustomID": null,
