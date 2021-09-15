@@ -1,7 +1,8 @@
 import React from "react"
-import queryString from 'query-string'
 import Layout from "../components/layout/layout"
 import { graphql, Link } from "gatsby"
+import queryString from 'query-string'
+import NotFound from "./404"
 import { Row, Col } from "react-bootstrap"
 
 export default function News(props) {
