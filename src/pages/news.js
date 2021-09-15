@@ -26,7 +26,7 @@ export default function News(props) {
               }
             }
           })}
-          {getPagination("/news", numPagesNews, page)}
+          {getPagination("/news?type=news", numPagesNews, page)}
 
         </div>
       }
