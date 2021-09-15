@@ -26,7 +26,7 @@ export default function News(props) {
               }
             }
           })}
-          {getPagination("/news?type=news", numPagesNews, page)}
+          {getPagination("/news?type=press", numPagesNews, page)}
         </div>
       }
     </Layout>
@@ -63,7 +63,7 @@ function getNewsEntry(entry) {
             </h5>
           </div>
           <div class="img">
-            <img src={entry.frontmatter.bannerImage.publicURL} />
+            <img src={entry.frontmatter.bannerImage.publicURL} alt="News Picture"/>
           </div>
           <div class="text">
             {entry.excerpt}
