@@ -78,7 +78,7 @@ function getNewsEntry(entry) {
 function getPagination(link, number_of_pages, current_page) {
   current_page = parseInt(current_page)
   number_of_pages = parseInt(number_of_pages)
-  if (number_of_pages <= 5) {
+  if (number_of_pages <= 3) {
     return (
       <ul class="pagination" style={{
         display: 'flex',
