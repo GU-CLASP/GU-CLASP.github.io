@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout/layout"
 import { graphql, Link } from "gatsby"
 import queryString from 'query-string'
-import { Row, Col } from "react-bootstrap"
+import { Row, Col, Image } from "react-bootstrap"
 
 export default function News(props) {
   var search = props.location.search ? queryString.parse(props.location.search) : {}
@@ -63,7 +63,7 @@ function getNewsEntry(entry) {
             </h5>
           </div>
           <div class="img">
-            <img src={entry.frontmatter.bannerImage.publicURL} alt="News Picture"/>
+            <Image src={entry.frontmatter.bannerImage.publicURL} alt="News Picture" />
           </div>
           <div class="text">
             {entry.excerpt}
