@@ -48,25 +48,25 @@ function getNewsRow(items, startEntryIndex) {
   )
 }
 
-function getNewsEntry(entry) {
+function getNewsEntry(newsPage) {
   return (
     <div class="span6 post">
-      {entry.frontmatter.bannerImage &&
+      {newsPage.frontmatter.bannerImage &&
         <div>
           <div class="text">
             <h5>
-              <Link to={entry.fields.slug}>
-                {entry.frontmatter.title}
+              <Link to={newsPage.fields.slug}>
+                {newsPage.frontmatter.title}
               </Link>
               <br></br>
-              <span class="date">Posted on: {entry.frontmatter.date}</span>
+              <span class="date">Posted on: {newsPage.frontmatter.date}</span>
             </h5>
           </div>
           <div class="img">
-            <Image src={entry.frontmatter.bannerImage.publicURL} alt="News Picture" />
+            <Image src={newsPage.frontmatter.bannerImage.publicURL} alt="News Picture" />
           </div>
           <div class="text">
-            {entry.excerpt}
+            {newsPage.excerpt}
           </div>
         </div>
       }
