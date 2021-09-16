@@ -78,7 +78,60 @@ function getNewsEntry(entry) {
 function getPagination(link, number_of_pages, current_page) {
   current_page = parseInt(current_page)
   number_of_pages = parseInt(number_of_pages)
+  if (number_of_pages <= 3) {
+    return (
+      <ul class="pagination" style={{
+        display: 'flex',
+        flexWrap: 'wrap',
+        justifyContent: 'center',
+        alignItems: 'center',
+        listStyle: 'none',
+        padding: 0,
+      }}>
+        {current_page == 1 ?
+          <li class="page-item disabled">
+            <a class="page-link pagination-prev" href={link + "&page=" + (current_page - 1)} aria-label="Previous">
+              <span aria-hidden="true">&laquo;</span>
+              <span class="sr-only">Previous</span>
+            </a>
+          </li>
+          :
+          <li class="page-item">
+            <a class="page-link pagination-next" href={link + "&page=" + (current_page - 1)} aria-label="Previous">
+              <span aria-hidden="true">&laquo;</span>
+              <span class="sr-only">Previous</span>
+            </a>
+          </li>
+        }
 
+        {Array.apply(0, Array(number_of_pages)).map(function (x, i) {
+          var href = link + "&page=" + (i + 1)
+          if (current_page == (i + 1)) {
+            return (<li class="page-item active"><a class="page-link" href={href}>{i + 1}</a></li>)
+          }
+          else {
+            return (<li class="page-item"><a class="page-link" href={href}>{i + 1}</a></li>)
+          }
+        })}
+        {current_page == number_of_pages ?
+          <li class="page-item disabled">
+            <a class="page-link pagination-next" href={link + "&page=" + (current_page + 1)} aria-label="Next">
+              <span aria-hidden="true">&raquo;</span>
+              <span class="sr-only">Next</span>
+            </a>
+          </li>
+          :
+          <li class="page-item">
+            <a class="page-link pagination-next" href={link + "&page=" + (current_page + 1)} aria-label="Next">
+              <span aria-hidden="true">&raquo;</span>
+              <span class="sr-only">Next</span>
+            </a>
+          </li>
+        }
+      </ul>
+    )
+  }
+  else {
     var items = []
 
     if (current_page == 1) {
@@ -212,7 +265,7 @@ function getPagination(link, number_of_pages, current_page) {
         {items}
       </ul>
     )
-  
+  }
 
 }
 
