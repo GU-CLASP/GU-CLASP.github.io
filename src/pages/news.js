@@ -7,23 +7,42 @@ import { Row, Col, Image } from "react-bootstrap"
 export default function News(props) {
   var search = props.location.search ? queryString.parse(props.location.search) : {}
   const postsPerPage = 20
-  var numPagesNews = Math.ceil(props.data.news.totalCount / postsPerPage)
+  const newsPublished = props.data.news.news
+  var count = 0
+
+  {newsPublished.map((i, j) => {
+    const entry = i.news_entry
+    const slugNews = entry.fields.slug
+    const publishedDate = entry.frontmatter.date
+    if (!slugNews.includes('Seminar') && new Date(publishedDate) < new Date(getCurrentDate())){
+      count = count + 1
+    }
+  })}
+  
+  var numPagesNews = Math.ceil(count / postsPerPage)
   var page = search.page
   if (isNaN(page)) {
     page = 1
   }
+
   var upperBound = (page * postsPerPage) - 1
   var lowerBound = (page - 1) * postsPerPage
 
+  
+
   return (
+    
     <Layout>
       {props.data.news.totalCount > 0 &&
+     
         // <div id="media">
         <div>
           {props.data.news.news.map((entry, index) => {
-              if (index <= upperBound && index >= lowerBound) {
+            
+              
+                
               return getNewsList(props.data.news.news, index)
-              }
+              
           })}
           {getPagination("/news?type=news", numPagesNews, page)}
         </div>
@@ -83,27 +102,48 @@ function getNewsEntry(newsPage) {
   )
 }
 
+function getCurrentDate() {
+  const d = new Date()
+  let month = (d.getMonth() + 1).toString()
+  if (month.length < 2) {
+    month = `0${month}`
+  }
+  let day = d.getDate().toString()
+  if (day.length < 2) {
+    day = `0${day}`
+  }
+  return `${d.getFullYear()}-${month}-${day}`
+}
+
 function getNewsEntryList(newsPage) {
-  return (
-    <div class="span6 post">
-      {newsPage.frontmatter.bannerImage &&
-        <div>
-          <div class="text">
-            <h5>
-              <Link to={newsPage.fields.slug}>
-                {newsPage.frontmatter.title}
-              </Link>
-              <br></br>
-              <span class="date">Posted on: {newsPage.frontmatter.date}</span>
-            </h5>
+  console.log(newsPage.fields.slug)
+  const slugNews = newsPage.fields.slug
+  const publishedDate = newsPage.frontmatter.date
+  if (slugNews.includes('Seminar') && new Date(publishedDate) < new Date(getCurrentDate())){
+    console.log("yes")
+  }
+  else {
+    return (
+      <div class="span6 post">
+        {newsPage.frontmatter.bannerImage &&
+          <div>
+            <div class="text">
+              <h5>
+                <Link to={slugNews}>
+                  {newsPage.frontmatter.title}
+                </Link>
+                <br></br>
+                <span class="date">Posted on: {publishedDate}</span>
+              </h5>
+            </div>
+            {/* <div class="text">
+              {newsPage.excerpt}
+            </div> */}
           </div>
-          {/* <div class="text">
-            {newsPage.excerpt}
-          </div> */}
-        </div>
-      }
-    </div>
-  )
+        }
+      </div>
+    )
+  }
 }
 
 
