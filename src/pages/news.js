@@ -6,7 +6,7 @@ import { Row, Col, Image } from "react-bootstrap"
 
 export default function News(props) {
   var search = props.location.search ? queryString.parse(props.location.search) : {}
-  const postsPerPage = 10
+  const postsPerPage = 20
   var numPagesNews = Math.ceil(props.data.news.totalCount / postsPerPage)
   var page = search.page
   if (isNaN(page)) {
@@ -18,18 +18,27 @@ export default function News(props) {
   return (
     <Layout>
       {props.data.news.totalCount > 0 &&
-        <div id="media">
+        // <div id="media">
+        <div>
           {props.data.news.news.map((entry, index) => {
-            if (index % 2 == 0) {
               if (index <= upperBound && index >= lowerBound) {
-              return getNewsRow(props.data.news.news, index)
+              return getNewsList(props.data.news.news, index)
               }
-            }
           })}
           {getPagination("/news?type=news", numPagesNews, page)}
         </div>
       }
     </Layout>
+  )
+}
+
+function getNewsList(items, startEntryIndex) {
+  return (
+    <Row className="post_row">
+      <Col className="col">
+        {getNewsEntryList(items[startEntryIndex].news_entry)}
+      </Col>
+    </Row>
   )
 }
 
@@ -68,6 +77,29 @@ function getNewsEntry(newsPage) {
           <div class="text">
             {newsPage.excerpt}
           </div>
+        </div>
+      }
+    </div>
+  )
+}
+
+function getNewsEntryList(newsPage) {
+  return (
+    <div class="span6 post">
+      {newsPage.frontmatter.bannerImage &&
+        <div>
+          <div class="text">
+            <h5>
+              <Link to={newsPage.fields.slug}>
+                {newsPage.frontmatter.title}
+              </Link>
+              <br></br>
+              <span class="date">Posted on: {newsPage.frontmatter.date}</span>
+            </h5>
+          </div>
+          {/* <div class="text">
+            {newsPage.excerpt}
+          </div> */}
         </div>
       }
     </div>
