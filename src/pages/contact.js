@@ -31,24 +31,32 @@ export default function Project(props) {
                 <h4>Contact</h4>
                 <br></br>
                 <h5>Shalom Lappin, Director</h5>
-                                Phone: 46 (0)31 786 5019
+                                Phone: +46 31 786 5019
                                 <p>E-mail: <a href="mailto:shalom.lappin@gu.se">shalom.lappin@gu.se</a></p>
                 <br></br>
 
                 <h5>Sharid Loáiciga, Associate Director and Researcher</h5>
+                Phone +46 31 786 2536
                 <p>E-mail: <a href="mailto: sharid.loaiciga@gu.se"> sharid.loaiciga@gu.se</a></p>
                 <br></br>
 
                 <h5>Hanna Edblom, Administrator</h5>
-                                E-mail: <a href="mailto: hanna.edblom@gu.se">hanna.edblom@gu.se</a>
+                                Phone: +46 31 786 49 38
+                                <p>E-mail: <a href="mailto: hanna.edblom@gu.se">hanna.edblom@gu.se</a></p>
                 <hr></hr>
                 <h4>Visiting address</h4>
                 <p>Renströmsgatan 6 <br></br>
-                  University of Gothenburg, Sweden <br></br>
+                  41255 Göteborg <br></br>
                 </p>
+
                 <hr></hr>
+                <h4>Postal address</h4>
+                <p> P.O. Box 200<br />
+                        SE-405 30 Göteborg<br /></p>
+                <hr></hr>
+
                 <h4>Phone</h4>
-                <p>+46 31-786 0000<br></br></p>
+                <p>+46 31 786 0000<br></br></p>
 
                 <hr></hr>
                 <h4>Other website</h4>
@@ -56,7 +64,7 @@ export default function Project(props) {
 
                 <hr></hr>
                 <h4>Office Hours:</h4>
-                <p>Monday-Friday (9:00am - 5:00pm)</p>
+                <p>Monday-Friday 9:00am - 5:00pm</p>
                 <hr></hr>
                 <br></br>
                 <p>
