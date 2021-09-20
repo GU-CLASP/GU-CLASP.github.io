@@ -168,7 +168,7 @@ var menuData = [
         "hasSubmenu": false
       },
       {
-        "title": "Seminars",
+        "title": "Past Seminars",
         "href": "/event?type=seminars&page=1",
         "linkToMDFile": false,
         "MDFileCustomID": null,
