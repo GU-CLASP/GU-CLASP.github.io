@@ -89,18 +89,18 @@ export default function Home(props) {
               <hr />
             </Col>
           </Row>
-          <Row>
+          <Row className="news-entry">
             {props.data.latest_news.news.map((entry, index) => {
               const news_entry = entry.news_entry
               return (
                 <Col
-                  className="feature-item col-12 col-md-4">
+                  className="feature-item ">
                   <p className="p-0 ml-0">{news_entry.frontmatter.date}</p>
                   <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
                   <hr />
-                  <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img>
-                  <hr />
-                  <p>{news_entry.excerpt}</p>
+                  {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
+                  {/* <hr /> */}
+                  {/* <p>{news_entry.excerpt}</p> */}
                 </Col>
               )
             })}
