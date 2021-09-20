@@ -1,6 +1,7 @@
 ---
 title: "Exploring Reasoning Capabilities of NLP systems using Recognizing Textual Entailment"
 date:  2021-06-09
+lecturer: "Adam Poliak"
 bannerImage: "meeting-311355_1280.png"
 duration: "2 hours"
 venue: "Gothenburg"

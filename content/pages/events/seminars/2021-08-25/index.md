@@ -1,6 +1,7 @@
 ---
 title: "Annotating Anaphoric Phenomena in Situated Dialog"
 date:  2021-08-25
+lecturer: "Sharid Loáiciga"
 bannerImage: "meeting-311355_1280.png"
 duration: "2 hours"
 venue: "Gothenburg"
