@@ -4,6 +4,10 @@ import { graphql, Link } from "gatsby"
 import queryString from 'query-string'
 import { Row, Col, Image } from "react-bootstrap"
 
+const monthNames = ["January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December"
+];
+
 export default function News(props) {
   var search = props.location.search ? queryString.parse(props.location.search) : {}
   const postsPerPage = 20
@@ -116,24 +120,27 @@ function getCurrentDate() {
 }
 
 function getNewsEntryList(newsPage) {
-  console.log(newsPage.fields.slug)
   const slugNews = newsPage.fields.slug
   const publishedDate = newsPage.frontmatter.date
+  const d = new Date(publishedDate)
+  console.log("The current month is " + monthNames[d.getMonth()])
   if (slugNews.includes('Seminar') && new Date(publishedDate) < new Date(getCurrentDate())){
-    console.log("yes")
+    
   }
   else {
     return (
       <div class="span6 post">
+        <span class="date">{monthNames[d.getMonth()]}</span>
         {newsPage.frontmatter.bannerImage &&
           <div>
             <div class="text">
               <h5>
+                {newsPage.frontmatter.title}
                 <Link to={slugNews}>
-                  {newsPage.frontmatter.title}
+                  "link"
                 </Link>
                 <br></br>
-                <span class="date">Posted on: {publishedDate}</span>
+                
               </h5>
             </div>
             {/* <div class="text">
