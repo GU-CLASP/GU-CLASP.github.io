@@ -2,6 +2,7 @@
 title: "Seminar by Marianna Apidianaki from University of Helsinki"
 date: 2020-11-10
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Marianna Apidianaki from University of Helsinki on Wednesday 10th of February, at 13:15 online via Zoom. 
 

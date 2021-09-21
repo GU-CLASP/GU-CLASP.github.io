@@ -2,6 +2,7 @@
 title: "Seminar by Richard Johansson and Lovisa Hagström from Chalmers University of Technology"
 date: 2021-06-02
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Richard Johansson and Lovisa Hagström on Wednesday 2nd of June, at 13:15 online via Zoom.
 

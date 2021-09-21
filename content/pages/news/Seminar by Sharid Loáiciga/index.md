@@ -2,6 +2,7 @@
 title: "Seminar by Sharid Loáiciga from University of Potsdam"
 date: 2021-08-25
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Sharid Loáiciga on Wednesday 25th of August, at 13:15 online via Zoom.
 

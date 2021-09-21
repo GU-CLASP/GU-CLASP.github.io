@@ -2,6 +2,7 @@
 title: "Using and comparing contextual embeddings across languages"
 date: 2020-06-10 
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 
 ### Matthew Purver "Transferable skills: using and comparing contextual embeddings across languages"

@@ -2,6 +2,7 @@
 title: "Seminar by Daisuke Bekki from Ochanomizu University"
 date: 2020-11-17
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Daisuke Bekki from Ochanomizu University on Wednesday 9th of December, at 13:15 online via Zoom. 
 

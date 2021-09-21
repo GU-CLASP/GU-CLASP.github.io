@@ -2,6 +2,7 @@
 title: "Seminar by Nikolai Ilinykh from University of Gothenburg"
 date: 2021-03-10
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Nikolai Ilinykh from the University of Gothenburg on Wednesday 10th of March, at 13:15 online via Zoom. 
 

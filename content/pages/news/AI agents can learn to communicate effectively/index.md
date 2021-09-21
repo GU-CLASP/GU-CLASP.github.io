@@ -2,6 +2,7 @@
 title: "AI agents can learn to communicate effectively"
 date: 2020-07-15
 bannerImage: "1775132_tsafiki_artificial_lang2.png"
+expired: false
 ---
 On top is an illustration of the language Tsafiki with six colour words. It is spoken by the Tsáchila people of Ecuador. The image below shows an artificial language with the same number of colour words created by the researchers' agents. The Tsáchila people and the artificial agents seem to divide the spectrum in similar ways. A quantitative study of similarities in human and artificial language is found in the study.
 

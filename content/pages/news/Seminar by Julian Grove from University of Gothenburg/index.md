@@ -2,6 +2,7 @@
 title: "Seminar by Julian Grove from University of Gothenburg"
 date: 2020-10-28
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Julian Grove from University of Gothenburg on Wednesday 28th of October, at 13:15 online via Zoom. 
 

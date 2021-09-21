@@ -2,6 +2,7 @@
 title: "Seminar by Mark Steedman from University of Edinburgh"
 date: 2021-04-28
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Mark Steedman on Wednesday 28th of April, at 13:15 online via Zoom.
 

@@ -11,22 +11,8 @@ const monthNames = ["January", "February", "March", "April", "May", "June",
 export default function News(props) {
   var search = props.location.search ? queryString.parse(props.location.search) : {}
   const postsPerPage = 30
-  const newsPublished = props.data.news.news
-  var count = 0
-  {newsPublished.map((i, j) => {
-    const entry = i.news_entry
-    const slugNews = entry.fields.slug
-    const publishedDate = entry.frontmatter.date
-    if (!slugNews.includes('Seminar') && new Date(publishedDate) < new Date(getCurrentDate())){
-      count = count + 1
-    }
-    else{
 
-    }
-  })}
-
-  console.log(newsPublished)
-  var numPagesNews = Math.ceil(count / postsPerPage)
+  var numPagesNews = Math.ceil(props.data.news.totalCount / postsPerPage)
   var page = search.page
   if (isNaN(page)) {
     page = 1
@@ -40,15 +26,11 @@ export default function News(props) {
         // <div id="media">
         <div>
           {props.data.news.news.map((entry, index) => {
-              const date = new Date(publishedDate)
-              const year = date.getFullYear()
-              const month = date.getMonth
-              const publishedDate = entry.news_entry.frontmatter.date
-              if (!entry.news_entry.fields.slug.includes('Seminar') && new Date(publishedDate) < new Date(getCurrentDate())){
+            if (index <= upperBound && index >= lowerBound) {
                 return getNewsEntryList(entry.news_entry)
-              }
+            }
           })}
-          {/* {getPagination("/news?type=news", numPagesNews, page)} */}
+          {getPagination("/news?type=news", numPagesNews, page)}
         </div>
       }
     </Layout>
@@ -290,24 +272,24 @@ function getPagination(link, number_of_pages, current_page) {
 }
 
 export const query = graphql`
-  {
-    news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {hideInSearchResults: {ne: true}}}, sort: {fields: frontmatter___date, order: DESC}) {
-      news: edges {
-        news_entry: node {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            date(formatString: "MMMM DD, YYYY")
-            bannerImage {
-              publicURL
-            }
-          }
-          excerpt
+{
+  news: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {hideInSearchResults: {ne: true}, expired: {in: false}, date: {}}}) {
+    news: edges {
+      news_entry: node {
+        fields {
+          slug
         }
+        frontmatter {
+          title
+          date(formatString: "MMMM DD, YYYY")
+          bannerImage {
+            publicURL
+          }
+        }
+        excerpt
       }
-      totalCount
     }
+    totalCount
   }
+}
 `

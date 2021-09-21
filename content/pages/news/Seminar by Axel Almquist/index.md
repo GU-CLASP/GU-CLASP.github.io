@@ -2,6 +2,7 @@
 title: "Seminar by Axel Almquist from University of Gothenburg"
 date: 2021-02-03
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Axel Almquist from the University of Gothenburg on Wednesday 3rd of February, at 13:15 online via Zoom. 
 

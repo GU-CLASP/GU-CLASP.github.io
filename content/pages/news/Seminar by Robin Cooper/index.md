@@ -2,6 +2,7 @@
 title: "Seminar by Robin Cooper from University of Gothenburg"
 date: 2021-04-14
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Robin Cooper on Wednesday 14th of April, at 13:15 online via Zoom.
 

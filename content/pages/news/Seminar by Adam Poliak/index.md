@@ -2,6 +2,7 @@
 title: "Seminar by Adam Poliak from Barnard College"
 date: 2021-06-09
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Adam Poliak on Wednesday 9th of June, at 14:00 online via Zoom.
 

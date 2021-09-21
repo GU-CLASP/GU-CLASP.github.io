@@ -2,6 +2,7 @@
 title: "Seminar by Jörg Tiedemann from University of Helsinki"
 date: 2021-05-19
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Jörg Tiedemann on Wednesday 19th of May, at 13:15 online via Zoom.
 

@@ -2,6 +2,7 @@
 title: "Seminar by Xudong (Tony) Hong"
 date: 2021-03-03
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Xudong (Tony) Hong on Wednesday 3rd of March, at 13:15 online via Zoom.
 

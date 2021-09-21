@@ -2,6 +2,7 @@
 title: "Seminar by Julia Hockenmaier from University of Illinois at Urbana-Champaign"
 date: 2021-03-24
 bannerImage: "meeting-311355_1280.png"
+expired: true
 ---
 Cordially welcome to a seminar by Julia Hockenmaier on Wednesday 24th of March, at 15:00 online via Zoom.
 
