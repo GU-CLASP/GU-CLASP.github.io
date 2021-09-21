@@ -10,10 +10,9 @@ const monthNames = ["January", "February", "March", "April", "May", "June",
 
 export default function News(props) {
   var search = props.location.search ? queryString.parse(props.location.search) : {}
-  const postsPerPage = 20
+  const postsPerPage = 30
   const newsPublished = props.data.news.news
   var count = 0
-
   {newsPublished.map((i, j) => {
     const entry = i.news_entry
     const slugNews = entry.fields.slug
@@ -21,8 +20,12 @@ export default function News(props) {
     if (!slugNews.includes('Seminar') && new Date(publishedDate) < new Date(getCurrentDate())){
       count = count + 1
     }
+    else{
+
+    }
   })}
-  
+
+  console.log(newsPublished)
   var numPagesNews = Math.ceil(count / postsPerPage)
   var page = search.page
   if (isNaN(page)) {
@@ -31,78 +34,24 @@ export default function News(props) {
 
   var upperBound = (page * postsPerPage) - 1
   var lowerBound = (page - 1) * postsPerPage
-
-  
-
   return (
-    
     <Layout>
       {props.data.news.totalCount > 0 &&
-     
         // <div id="media">
         <div>
           {props.data.news.news.map((entry, index) => {
-            
-              
-                
-              return getNewsList(props.data.news.news, index)
-              
+              const date = new Date(publishedDate)
+              const year = date.getFullYear()
+              const month = date.getMonth
+              const publishedDate = entry.news_entry.frontmatter.date
+              if (!entry.news_entry.fields.slug.includes('Seminar') && new Date(publishedDate) < new Date(getCurrentDate())){
+                return getNewsEntryList(entry.news_entry)
+              }
           })}
-          {getPagination("/news?type=news", numPagesNews, page)}
+          {/* {getPagination("/news?type=news", numPagesNews, page)} */}
         </div>
       }
     </Layout>
-  )
-}
-
-function getNewsList(items, startEntryIndex) {
-  return (
-    <Row className="post_row">
-      <Col className="col">
-        {getNewsEntryList(items[startEntryIndex].news_entry)}
-      </Col>
-    </Row>
-  )
-}
-
-function getNewsRow(items, startEntryIndex) {
-  return (
-    <Row className="post_row">
-      <Col className="col-12 col-md-6">
-        {getNewsEntry(items[startEntryIndex].news_entry)}
-      </Col>
-      {items[startEntryIndex + 1] !== undefined &&
-        <Col className="col-12 col-md-6">
-          {getNewsEntry(items[startEntryIndex + 1].news_entry)}
-        </Col>
-      }
-    </Row>
-  )
-}
-
-function getNewsEntry(newsPage) {
-  return (
-    <div class="span6 post">
-      {newsPage.frontmatter.bannerImage &&
-        <div>
-          <div class="text">
-            <h5>
-              <Link to={newsPage.fields.slug}>
-                {newsPage.frontmatter.title}
-              </Link>
-              <br></br>
-              <span class="date">Posted on: {newsPage.frontmatter.date}</span>
-            </h5>
-          </div>
-          <div class="img">
-            <Image src={newsPage.frontmatter.bannerImage.publicURL} alt="News Picture" />
-          </div>
-          <div class="text">
-            {newsPage.excerpt}
-          </div>
-        </div>
-      }
-    </div>
   )
 }
 
@@ -123,34 +72,26 @@ function getNewsEntryList(newsPage) {
   const slugNews = newsPage.fields.slug
   const publishedDate = newsPage.frontmatter.date
   const d = new Date(publishedDate)
-  console.log("The current month is " + monthNames[d.getMonth()])
-  if (slugNews.includes('Seminar') && new Date(publishedDate) < new Date(getCurrentDate())){
-    
-  }
-  else {
-    return (
-      <div class="span6 post">
-        <span class="date">{monthNames[d.getMonth()]}</span>
-        {newsPage.frontmatter.bannerImage &&
-          <div>
-            <div class="text">
-              <h5>
-                {newsPage.frontmatter.title}
-                <Link to={slugNews}>
-                  "link"
-                </Link>
-                <br></br>
-                
-              </h5>
-            </div>
-            {/* <div class="text">
-              {newsPage.excerpt}
-            </div> */}
+  const year = d.getFullYear()
+  return (
+    <div class="span6 post">
+      <span class="date">{year + ", " + monthNames[d.getMonth()]}</span>
+      {newsPage.frontmatter.bannerImage &&
+        <div>
+          <div class="text">
+            <h5>
+              {newsPage.frontmatter.title}
+              <Link to={slugNews}>
+                "link"
+              </Link>
+              <br></br>
+              
+            </h5>
           </div>
-        }
-      </div>
-    )
-  }
+        </div>
+      }
+    </div>
+  )
 }
 
 
