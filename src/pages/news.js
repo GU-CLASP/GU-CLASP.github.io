@@ -25,11 +25,12 @@ export default function News(props) {
       {props.data.news.totalCount > 0 &&
         // <div id="media">
         <div>
-          {props.data.news.news.map((entry, index) => {
+          {props.data.news.group.map((entry, index) => {
             if (index <= upperBound && index >= lowerBound) {
-                return getNewsEntryList(entry.news_entry)
+              return getNewsEntryList(entry)
             }
-          })}
+          })
+        }
           {getPagination("/news?type=news", numPagesNews, page)}
         </div>
       }
@@ -37,28 +38,41 @@ export default function News(props) {
   )
 }
 
-function getNewsEntryList(newsPage) {
-  const slugNews = newsPage.fields.slug
-  const publishedDate = newsPage.frontmatter.date
-  const d = new Date(publishedDate)
-  const year = d.getFullYear()
+function printYear(year_value){
+  return(
+    <Row>
+      <Col>
+      <span class="date">{year_value}</span>
+      </Col>
+    </Row>
+  )
+}
+
+function getNewsEntryList(newsList) {
   return (
-    <div class="span6 post">
-      <span class="date">{year + ", " + monthNames[d.getMonth()]}</span>
-      {newsPage.frontmatter.bannerImage &&
-        <div>
-          <div class="text">
-            <h5>
-              <Link to={slugNews}>
-              {newsPage.frontmatter.title}
-              </Link>
-              <br></br>
-              
-            </h5>
+    <div>
+      <div class="span6 post">
+        <span class="date">{newsList.news[0].news_entry.frontmatter.year}</span>
+      </div>
+      <div>
+      {newsList.news.map((newsPage, index) =>{
+        return(
+          <div>
+            <div class="text">
+              <h5>
+                <Link to={newsPage.news_entry.fields.slug}>
+                {newsPage.news_entry.frontmatter.title}
+                </Link>
+                <br></br>
+              </h5>
+              {/* <hr/> */}
+            </div>
           </div>
-        </div>
-      }
-    </div>
+        )
+    })
+  }
+  </div>
+  </div>
   )
 }
 
@@ -258,25 +272,27 @@ function getPagination(link, number_of_pages, current_page) {
 }
 
 export const query = graphql`
-{
-  news: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {hideInSearchResults: {ne: true}, expired: {in: false}, date: {}}}) {
-    news: edges {
-      news_entry: node {
-        fields {
-          slug
-        }
-        frontmatter {
-          title
-          date(formatString: "MMMM DD, YYYY")
-          expired
-          bannerImage {
-            publicURL
+{news: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {hideInSearchResults: {ne: true}, expired: {in: false}, date: {}}}) {
+  group(field: frontmatter___year){
+  news: edges {
+        news_entry: node {
+          fields {
+            slug
           }
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+            expired
+            year
+            bannerImage {
+              publicURL
+            }
+          }
+          excerpt
         }
-        excerpt
       }
     }
-    totalCount
-  }
+  totalCount
+	}
 }
 `
