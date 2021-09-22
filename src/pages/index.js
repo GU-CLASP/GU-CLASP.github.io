@@ -4,7 +4,7 @@ import { Row, Col, Image } from 'react-bootstrap';
 import { Person } from 'react-bootstrap-icons';
 import { MDBCarousel, MDBCarouselCaption, MDBCarouselInner, MDBCarouselItem, MDBView, MDBMask, MDBContainer } from
   "mdbreact";
-
+var ex_news = 0
 export default function Home(props) {
   return (
     <Layout>
@@ -96,30 +96,43 @@ export default function Home(props) {
       </Row>
       {props.data.latest_news.totalCount > 0 &&
         <div>
-          <Row>
-            <Col
-              className="main-page-col-margin"
-            >
-              <h1 className="text-center">News</h1>
-              <hr />
-            </Col>
-          </Row>
-          <Row className="news-entry">
-            {props.data.latest_news.news.map((entry, index) => {
-              const news_entry = entry.news_entry
-              return (
-                <Col
-                  className="feature-item ">
-                  <p className="p-0 ml-0">{news_entry.frontmatter.date}</p>
-                  <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
-                  <hr />
-                  {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
-                  {/* <hr /> */}
-                  {/* <p>{news_entry.excerpt}</p> */}
-                </Col>
-              )
-            })}
-          </Row>
+          {props.data.latest_news.news.map((entry, index) => {
+            const news_entry = entry.news_entry
+            console.log(new Date(news_entry.frontmatter.date))
+            if(news_entry.frontmatter.expired = false && new Date(news_entry.frontmatter.date) < new Date(getCurrentDate())){
+              ex_news = ex_news + 1 
+            }
+          })}
+          {ex_news > 0 &&
+            <Row>
+              <Col
+                className="main-page-col-margin"
+              >
+                <h1 className="text-center">News</h1>
+                <hr />
+              </Col>
+            </Row>
+          }
+          {props.data.latest_news.news.map((entry, index) => {
+            const news_entry = entry.news_entry
+            console.log(new Date(news_entry.frontmatter.date))
+            if(news_entry.frontmatter.expired = false && new Date(news_entry.frontmatter.date) < new Date(getCurrentDate())){
+            return (
+
+              <Row className="news-entry">
+              <Col
+                className="feature-item ">
+                <p className="p-0 ml-0">{news_entry.frontmatter.date}</p>
+                <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
+                <hr />
+                {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
+                {/* <hr /> */}
+                {/* <p>{news_entry.excerpt}</p> */}
+              </Col>
+              </Row>
+            )
+            }
+          })}
         </div>
       }
 
@@ -197,6 +210,19 @@ export default function Home(props) {
   )
 }
 
+function getCurrentDate() {
+  const d = new Date()
+  let month = (d.getMonth() + 1).toString()
+  if (month.length < 2) {
+    month = `0${month}`
+  }
+  let day = d.getDate().toString()
+  if (day.length < 2) {
+    day = `0${day}`
+  }
+  return `${d.getFullYear()}-${month}-${day}`
+}
+
 export const query = graphql`
   {
     directors: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/people//"}}, frontmatter: {role: {eq: 0}}}) {
@@ -262,6 +288,7 @@ export const query = graphql`
           frontmatter {
             title
             date(formatString: "MMMM DD, YYYY")
+            expired
             bannerImage {
               publicURL
             }
