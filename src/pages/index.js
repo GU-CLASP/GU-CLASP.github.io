@@ -45,7 +45,7 @@ export default function Home(props) {
               </MDBView>
               <MDBCarouselCaption>
                 <h3 className="h3-responsive">Reasoning and Interaction Conference</h3>
-                <a href="https://sites.google.com/view/reinact2021/home">ReInAct</a>
+                <a href="https://sites.google.com/view/reinact2021/home">ReInAct 2021</a>
               </MDBCarouselCaption>
             </MDBCarouselItem>
 
