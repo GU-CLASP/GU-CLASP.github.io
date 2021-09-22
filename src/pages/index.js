@@ -13,7 +13,7 @@ export default function Home(props) {
       >
         <MDBCarousel
           activeItem={1}
-          length={3}
+          length={4}
           showControls={true}
           showIndicators={true}
           className="z-depth-1 p-0"
@@ -37,9 +37,24 @@ export default function Home(props) {
             <MDBCarouselItem itemId="2">
               <MDBView>
                 <img
+                  className="d-block w-100"
+                  src="/img/reinact.jpeg"
+                  alt="Second slide"
+                />
+                <MDBMask overlay="black-slight" />
+              </MDBView>
+              <MDBCarouselCaption>
+                <h3 className="h3-responsive">Reasoning and Interaction Conference</h3>
+                <a href="https://sites.google.com/view/reinact2021/home">ReInAct</a>
+              </MDBCarouselCaption>
+            </MDBCarouselItem>
+
+            <MDBCarouselItem itemId="3">
+              <MDBView>
+                <img
                   className="img-fluid d-block w-100"
                   src="/img/unnamed.jpg"
-                  alt="Second slide"
+                  alt="Third slide"
                 />
                 <MDBMask overlay="black-strong" />
               </MDBView>
@@ -49,12 +64,12 @@ export default function Home(props) {
               </MDBCarouselCaption>
             </MDBCarouselItem>
 
-            <MDBCarouselItem itemId="3">
+            <MDBCarouselItem itemId="4">
               <MDBView>
                 <img
                   className="d-block w-100"
                   src="/img/unnamed -2.jpg"
-                  alt="Third slide"
+                  alt="Forth slide"
                 />
                 <MDBMask overlay="black-slight" />
               </MDBView>
