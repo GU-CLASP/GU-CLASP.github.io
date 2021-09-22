@@ -1,7 +1,7 @@
 ---
 title: "Seminar by Nick Chater from Warwick Business School"
 date: 2021-04-07
-year: 2020
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---
