@@ -2,6 +2,7 @@
 title: "Seminar by Bill Noble from University of Gothenburg"
 date: 2021-01-27
 bannerImage: "meeting-311355_1280.png"
+year: 2021
 expired: true
 ---
 Cordially welcome to a seminar by Bill Noble from University of Gothenburg on Wednesday 27th of January, at 13:15 online via Zoom. 

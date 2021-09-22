@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Staffan Larsson from University of Gothenburg"
 date: 2021-05-12
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

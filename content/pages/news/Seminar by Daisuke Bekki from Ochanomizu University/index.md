@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Daisuke Bekki from Ochanomizu University"
 date: 2020-11-17
+year: 2020
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

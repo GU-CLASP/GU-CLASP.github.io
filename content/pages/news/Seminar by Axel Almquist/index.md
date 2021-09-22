@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Axel Almquist from University of Gothenburg"
 date: 2021-02-03
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

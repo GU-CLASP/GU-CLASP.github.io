@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Nikolai Ilinykh from University of Gothenburg"
 date: 2021-03-10
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Public defence of Wafia Adouane's doctoral thesis"
 date: 2020-09-02
+year: 2020
 bannerImage: "1776555_wafias-bok-500pxl_crop.jpg"
 expired: false
 ---

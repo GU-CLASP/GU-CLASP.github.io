@@ -1,6 +1,7 @@
 ---
 title: "Using and comparing contextual embeddings across languages"
-date: 2020-06-10 
+date: 2020-06-10
+year: 2020
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

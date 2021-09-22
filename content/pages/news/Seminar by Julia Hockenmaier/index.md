@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Julia Hockenmaier from University of Illinois at Urbana-Champaign"
 date: 2021-03-24
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

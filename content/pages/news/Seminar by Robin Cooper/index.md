@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Robin Cooper from University of Gothenburg"
 date: 2021-04-14
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

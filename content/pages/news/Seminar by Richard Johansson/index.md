@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Richard Johansson and Lovisa Hagström from Chalmers University of Technology"
 date: 2021-06-02
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

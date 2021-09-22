@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Jörg Tiedemann from University of Helsinki"
 date: 2021-05-19
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Giulia Perugia from Uppsala University"
 date: 2021-03-31
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

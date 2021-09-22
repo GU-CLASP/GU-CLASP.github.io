@@ -1,6 +1,7 @@
 ---
 title: "AI agents can learn to communicate effectively"
 date: 2020-07-15
+year: 2020
 bannerImage: "1775132_tsafiki_artificial_lang2.png"
 expired: true
 ---

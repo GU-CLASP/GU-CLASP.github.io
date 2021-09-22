@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Mark Steedman from University of Edinburgh"
 date: 2021-04-28
+year: 2020
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

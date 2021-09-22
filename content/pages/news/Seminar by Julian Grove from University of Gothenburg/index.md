@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Julian Grove from University of Gothenburg"
 date: 2020-10-28
+year: 2020
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Olof Mogren from RISE Research institutes of Sweden"
 date: 2021-01-20
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

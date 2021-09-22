@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Adam Poliak from Barnard College"
 date: 2021-06-09
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

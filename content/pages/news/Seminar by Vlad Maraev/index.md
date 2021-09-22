@@ -1,6 +1,7 @@
 ---
 title: "Seminar by Vlad Maraev from University of Gothenburg"
 date: 2021-02-24
+year: 2021
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

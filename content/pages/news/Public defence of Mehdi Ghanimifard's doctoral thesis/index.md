@@ -1,6 +1,7 @@
 ---
 title: "Public defence of Mehdi Ghanimifard's doctoral thesis"
 date: 2020-05-18
+year: 2020
 bannerImage: "1771544_mehdi-ghanimifard-900-pxl.jpg"
 expired: false
 ---

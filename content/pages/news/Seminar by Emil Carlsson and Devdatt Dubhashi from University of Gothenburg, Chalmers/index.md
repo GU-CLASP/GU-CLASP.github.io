@@ -1,6 +1,7 @@
 ---
 title: "Joint seminar by Emil Carlsson and Devdatt Dubhashi from University of Gothenburg, Chalmers"
 date: 2020-11-04
+year: 2020
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---

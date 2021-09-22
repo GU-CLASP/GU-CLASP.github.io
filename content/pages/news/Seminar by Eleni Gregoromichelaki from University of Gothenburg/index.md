@@ -1,6 +1,7 @@
 ---
 title: "Joint CLASP and Linguistics seminar by Eleni Gregoromichelaki from University of Gothenburg"
 date: 2020-11-16
+year: 2020
 bannerImage: "meeting-311355_1280.png"
 expired: true
 ---
