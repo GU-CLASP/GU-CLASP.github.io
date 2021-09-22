@@ -20,6 +20,9 @@ body {
 	padding-left: 40px;
 }
 
+#log-size{
+	height: 70px;
+}
 /* Custom container */
 
 .container {

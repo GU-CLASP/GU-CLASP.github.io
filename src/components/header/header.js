@@ -46,7 +46,7 @@ export default function HeaderComponent(props) {
         <Row>
           {/* <!-- I have to change CLASP's logo --> */}
           <Col xs={12} md={3} id="clasp-header-logo" className="align-self-center">
-            <img src="/img/clasp.png" href="https://clasp.gu.se" alt="The Centre for Linguistic Theory and Studies in Probability" />
+            <img id="log-size" src="/img/CLASP-orange.png" href="https://clasp.gu.se" alt="The Centre for Linguistic Theory and Studies in Probability" />
           </Col>
           <Col xs={12} md={6} className="align-self-center">
             <div style={{ fontSize: "1.5rem",  fontWeight:"bold"}}>
