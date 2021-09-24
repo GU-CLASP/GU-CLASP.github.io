@@ -1,0 +1,501 @@
+MOP	language	text	length	rating_list	mean_rating
+MOP4	en	Bolívar es las zonas más afectadas de Colombia .	8	3, 4, 3, 3, 3, 1, 3, 4, 2, 2, 3, 3, 3, 2, 2	2.73333333333
+MOP4	en	Le sobreviven sus tres hijos, y nietos y bisnietos .	9	3, 4, 3, 3, 4, 4, 3, 4, 4, 4, 3, 3, 4, 3, 3	3.46666666667
+MOP4	en	Según el censo de 2010, había 239 personas que residían en la ciudad de Howard .	15	3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.86666666667
+MOP4	en	Sin efecto especial se utiliza , excepto durante una breve escena al final de la película .	15	3, 1, 2, 3, 2, 2, 2, 1, 2, 4, 2, 3, 1, 3, 1	2.13333333333
+MOP4	en	Los machos pueden alcanzar 7,9 cm de longitud total .	9	4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3	3.83333333333
+MOP4	en	Este asalto marcó el comienzo de la campaña de Beijing para integrar el Tíbet en la República Popular de China .	20	4, 4, 4, 3, 4, 4, 3, 3, 4, 4, 4, 2	3.58333333333
+MOP4	en	El propósito de una hackspace es concentrar los recursos y conocimientos para promover la investigación y el desarrollo .	18	3, 4, 4, 3, 4, 4, 4, 4, 4, 3, 3, 4, 3, 3	3.57142857143
+MOP4	en	En la actualidad, todo el trabajo del grupo se ha centrado en esta empresa y ha dejado de actuar como grupo .	21	2, 4, 4, 4, 4, 3, 3, 2, 4, 4, 4, 4, 4	3.53846153846
+MOP4	en	Para llevar a cabo este trabajo , el alcalde Mariano de Vedia y Mitre decidió demoler la iglesia de San Nicolás .	20	3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 3, 4, 4	3.78571428571
+MOP4	en	El único álbum de un sello , It Takes a Nation de lechones para contarnos En por extranjero residente, nunca fue lanzado oficialmente a la venta .	23	4, 2, 1, 1, 2, 3, 1, 1, 1, 1, 2, 1, 4, 1	1.78571428571
+MOP4	en	El ingreso per cápita para la ciudad era $ 24.441 .	9	3, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3	3.8
+MOP4	en	Los misterios dolorosos son parte de la oración del rosario católico .	11	4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4	3.93333333333
+MOP4	en	En agosto de 2011 , regresa a Argentina para jugar en Club Atlético Chacarita Juniors en enero de 2012 y pasó Patronato Paraná .	22	3, 1, 2, 2, 3, 4, 1, 3, 2, 3, 3, 3, 4, 1, 2	2.46666666667
+MOP4	en	Lo que encontramos son los restos de fauna del Pleistoceno .	10	3, 4, 4, 4, 4, 4, 4, 2, 4, 4, 3, 4, 4, 3, 3	3.6
+MOP4	en	Esta fue una consecuencia de la limitada apoyo electoral de la derecha chilena en su conjunto las elecciones al Congreso en 1965 .	22	2, 1, 2, 2, 3, 3, 1, 3, 2, 1, 2, 2, 3, 3, 2	2.13333333333
+MOP4	en	Congreso Constitucional del Estado Libre y Soberano de México declaró " ciudadano del Estado de México . "	15	3, 2, 3, 4, 3, 4, 3, 3, 4, 4, 3, 2, 3, 3, 3, 1	3.0
+MOP4	en	Formuló el alcance general de las operaciones y fue la inspiración para la organización en general .	16	2, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 3, 4	3.69230769231
+MOP4	en	Estas radiaciones se distinguen por sus diferentes longitudes de onda .	10	3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.85714285714
+MOP4	en	A principios de 2008 preparado una edición de la poesía completa de Rubén Darío .	14	2, 2, 3, 2, 3, 3, 3, 3, 3, 4, 2, 3, 3, 1	2.64285714286
+MOP4	en	Población total de 1.78 % eran hispanos o latinos de cualquier raza .	11	4, 3, 3, 3, 2, 4, 2, 2, 3, 4, 3, 2, 1, 2, 3	2.73333333333
+MOP4	en	Con 12 goles Heynckes fue el máximo goleador de la competición .	11	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.85714285714
+MOP4	en	En 1888 Ignacio Escobar , el periódico dijo que el nuevo propietario, la venta al gobierno italiano, que instaló su embajada en el edificio .	23	3, 1, 2, 2, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 3, 1	1.5
+MOP4	en	En nuestro escritor vivió Colonia Emma Godoy Notas .	8	3, 3, 1, 3, 1, 3, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1	1.6875
+MOP4	en	Sporting Clube Campomaiorense es un club de fútbol portugués de la ciudad de Campo Maior , en el distrito de Portalegre .	20	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3	3.85714285714
+MOP4	en	Después de la rendición , el primer batallón de la 36 ª partió el estuario en septiembre y llegó a Cork en diciembre 1807 .	22	3, 3, 2, 3, 4, 2, 4, 3, 1, 4, 4, 3, 3, 4	3.07142857143
+MOP4	en	La Plaza de los Dolores es una histórica plaza extramuros situado en Jerez de la Frontera (Andalucía , España ) .	17	4, 3, 4, 4, 3, 2, 4, 3, 3, 3, 2, 3, 3, 4, 3	3.2
+MOP4	en	Localmente abundante en el sotobosque de las selvas tropicales en suelos de pizarra (200-1000 m ) .	14	3, 3, 3, 4, 2, 4, 1, 4, 4, 3, 4, 2, 2, 2, 4, 1	2.875
+MOP4	en	La continuación de los arquitectos y arquitectos profesores islámicos apropiadas , según todos los indicios , la riqueza del mudéjar aragonés , declarado Patrimonio de la Humanidad .	24	2, 1, 1, 2, 3, 3, 1, 1, 2, 3, 3, 2, 3, 1, 2, 2	2.0
+MOP4	en	Codo Jones rompió la cara Vera ' s en tres partes .	10	2, 3, 3, 2, 3, 3, 2, 1, 2, 3, 1, 2, 1, 1	2.07142857143
+MOP4	en	Me disculpo con ustedes por todo esto que pasó .	9	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.93333333333
+MOP4	en	Fue la canción más tocada 14a de 2008 sobre Christian Contemporary Hit Radio .	13	3, 3, 2, 2, 1, 2, 3, 2, 3, 3, 2, 1, 2, 3	2.28571428571
+MOP4	en	Las unidades oscila entre 3,4 y 3,85 metros .	8	2, 1, 3, 2, 2, 1, 4, 4, 3, 4, 2, 2, 1, 3, 1	2.33333333333
+MOP4	en	El duque era el nieto , en su madre ( Isabel de Borja ) de San Francisco de Borja ( III General de la Compañía de Jesús ) .	23	3, 3, 2, 2, 3, 2, 1, 4, 3, 3, 2, 2, 2	2.46153846154
+MOP4	en	Ella ha tenido varios papeles en películas y series de televisión .	11	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.86666666667
+MOP4	en	Después de la caída del Imperio Romano de Occidente , en las que se desarrolló como una ciudad floreciente , se sustrajo al dominio Lombardo .	23	3, 1, 2, 3, 4, 3, 3, 4, 2, 4, 3, 4, 2, 2	2.85714285714
+MOP4	en	El 26 de noviembre 1994 Maciel celebró sus cincuenta sacerdotal .	10	4, 4, 3, 3, 2, 2, 3, 2, 2, 2, 3, 2, 3, 3, 2, 2	2.625
+MOP4	en	Diwaniya (o Diwaniya ) es la capital de la provincia iraquí de Al Qadisyah .	12	4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.9375
+MOP4	en	Ingresó en la carrera militar de los jóvenes y recibió el grado de coronel .	14	2, 3, 4, 4, 4, 2, 4, 4, 2, 3, 2, 4, 3, 1, 2	2.93333333333
+MOP4	en	Tanto Sam Prekop y Archer Prewitt , los miembros del grupo han lanzado álbumes en solitario .	14	2, 1, 3, 4, 3, 4, 3, 4, 4, 3, 1, 4, 4, 3	3.07142857143
+MOP4	en	Una vez revelado , la ejecución de todos los nobles recibieron la orden de recibir este evento llamado " Bloody Día Arad . "	20	4, 2, 3, 3, 3, 3, 3, 1, 1, 4, 2, 3, 2, 1, 2	2.46666666667
+MOP4	en	La economía europea depende de la circulación de la moneda de oro y plata, pero su escasez había sumido a Europa en la recesión .	24	3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4	3.83333333333
+MOP4	en	Dirección: C / / n Vallecas (Madrid ) Teléfono Puerto Reinosa s : 91 331 14 86 Miembros / Suscriptores : 300 aprox .	16	2, 1, 1, 2, 3, 3, 3, 3, 3, 1, 1, 2, 3, 4, 1, 1	2.125
+MOP4	en	El primer autor que consiguió entrar en el Salón de la Fama fue el RWA Nora Roberts .	17	4, 4, 4, 4, 4, 3, 4, 3, 4, 3, 4, 4, 4, 3, 3	3.66666666667
+MOP4	en	La suite consta de dos herramientas : BizAgi Studio , construcción de módulos , y BizAgi BPM Server para la ejecución y el control .	21	3, 4, 4, 4, 1, 1, 4, 4, 4, 3, 4, 3, 1, 1	2.92857142857
+MOP4	en	Su mayor éxito en el escenario llegó en 1914 cuando protagonizó " Daddy Long Legs ", adaptación de la novela de Jean Webster .	20	3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4	3.8
+MOP4	en	Cuba es una molécula de hidrocarburo sintético con ocho átomos de carbono dispuestos formó los vértices de un cubo , de ahí su nombre .	22	3, 3, 1, 2, 2, 3, 3, 3, 1, 1, 2, 2, 3, 4, 2	2.33333333333
+MOP4	en	Sin embargo , esto sólo tiene una duración de un mes , ya que es el momento en que Homer pasa todo el ejercicio presupuestario .	23	3, 2, 4, 4, 4, 3, 3, 1, 4, 4, 3, 3, 3, 2	3.07142857143
+MOP4	en	Jiandi lo tomó y lo puso en la boca , pero se tragó por error .	14	3, 3, 4, 3, 3, 3, 2, 3, 4, 3, 3, 3, 3, 3	3.07142857143
+MOP4	en	También es uno de los distritos de negocios de Shanghai .	10	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 2	3.66666666667
+MOP4	en	Y añade , es útil contra la fiebre , para purificar la garganta y el pecho .	13	3, 4, 4, 4, 3, 3, 4, 4, 4, 4, 2, 4, 3, 4, 3	3.53333333333
+MOP4	en	Si dos o más países de la igualdad de medallas , en orden alfabético .	13	2, 1, 2, 3, 1, 2, 3, 1, 1, 3, 1, 1, 1, 2, 1	1.66666666667
+MOP4	en	Mariana ganó el primer lugar en sus respectivas carrera con un tiempo de 38.491 segundos .	15	3, 4, 3, 4, 3, 3, 3, 1, 2, 3, 3, 4, 4, 3, 3	3.06666666667
+MOP4	en	Con datos de 2005 , la sustitución del reactor OPAL se está construyendo en un sitio adyacente .	16	4, 3, 2, 4, 2, 3, 4, 4, 4, 2, 3, 3, 3, 3	3.14285714286
+MOP4	en	Recientemente, el gobierno de Moscú anunció planes para una reconstrucción a gran escala del famoso monasterio .	16	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.85714285714
+MOP4	en	" ' Honda de Canadá " es la división canadiense de Honda Motor Company .	11	4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4	3.86666666667
+MOP4	en	Se retiró de la política activa en 2002 .	8	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3	3.92307692308
+MOP4	en	Otros testigos de esta tradición son Ireneo , Clemente de Alejandría y Tertuliano .	12	3, 4, 4, 4, 4, 2, 3, 4, 4, 4, 4, 4, 3, 3, 4	3.6
+MOP4	en	En 1934 una nueva Constitución fue promulgada sistema presidencial que entró en vigencia plena hasta 1942 .	16	3, 2, 2, 2, 3, 3, 4, 3, 2, 2, 3, 2, 3, 2	2.57142857143
+MOP4	en	Según el censo de 2010, había 423 personas que residían en la ciudad de Empire .	15	4, 2, 4, 4, 4, 3, 4, 4, 4, 4, 3, 3, 4, 4, 3, 4	3.625
+MOP4	en	La ciudad creció hacia el oeste y al sur , con la ciudadela como centro administrativo .	15	3, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.875
+MOP4	en	Fue ascendido al grado de general por su legislatura .	9	3, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 3, 4, 4, 4	3.73333333333
+MOP4	en	Desde entonces , Disturbing Tha Peace mantuvo con otra estrella en ascenso de R & B, Bobby Valentino , que obtuvo un gran éxito con el single " Slow Down" .	25	3, 2, 1, 2, 3, 3, 1, 3, 3, 4, 2, 2, 3, 1	2.35714285714
+MOP4	en	En el Censo de 2010 tenía una población de 1.782 habitantes y una densidad poblacional de 398,86 personas por km ² .	20	4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 4	3.81818181818
+MOP4	en	También ejerce con unidades del Ejército Argentino , el Comerciante Prefectura Naval Argentina y la Argentina .	15	3, 3, 2, 3, 2, 3, 2, 4, 1, 2, 3, 3, 3, 2	2.57142857143
+MOP4	en	Se trata de un tipo de piedra a base de virus y plagas con un " " ADN selectiva Progenitor del filósofo .	20	2, 2, 1, 2, 1, 1, 3, 2, 1, 2, 3, 1, 1	1.69230769231
+MOP4	en	La estructura musical subyacente es un Abbaa casi invariable , con las primeras y últimas secciones que comparten la misma letra .	19	2, 2, 4, 2, 3, 4, 4, 4, 4, 1, 3, 4, 3, 3, 2	3.0
+MOP4	en	Sallis alcanzó un gran éxito cuando , en 1989 , dijo Wallace , el inventor excéntrico en Aardman Animations Wallace y Gromit : A Grand Day Out .	22	3, 4, 1, 1, 1, 1, 1, 1, 2, 1, 2, 3, 2, 2	1.78571428571
+MOP4	en	Él nació en 1787 de la Tercera Edad del Sol y es el hijo del rey Calimehtar .	16	3, 4, 1, 3, 4, 3, 4, 4, 4, 4, 4, 3, 1, 3	3.21428571429
+MOP4	en	Prionispa sinica es una especie de la familia Chrysomelidae escarabajo bug .	11	3, 2, 3, 3, 3, 1, 3, 4, 2, 2, 2, 3, 4, 1	2.57142857143
+MOP4	en	Además, se han encontrado algunos punzones, espátulas o anillos de hueso , aunque este material se utiliza cada vez menos frecuente en el territorio .	23	4, 3, 4, 4, 4, 4, 4, 4, 2, 2, 4, 3, 3, 3	3.42857142857
+MOP4	en	Se celebra el domingo , es muy concurrido por los lugareños y personas del estado de Querétaro .	16	4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 2, 3, 4	3.64285714286
+MOP4	en	Cossio actuó en la película " No se lo digas a nadie", en 1998 .	13	3, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4	3.84615384615
+MOP4	en	Lozano , a través de un fotógrafo, se acercó para posar para Playboy .	12	4, 4, 4, 4, 2, 4, 4, 4, 3, 4, 3, 4, 2, 3	3.5
+MOP4	en	El hospital se dedicaba a cantar boleros , leer novelas y obras de teatro también hechas .	15	3, 2, 1, 1, 1, 3, 1, 3, 3, 1, 2, 3, 3, 2	2.07142857143
+MOP4	en	Por lo tanto , llegó a ocupar la presidencia del Grupo de Exportadores de Aceitunas .	14	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.92857142857
+MOP4	en	El día 23 , San Julián y Bracho depusieron sus armas en San Luis de la Paz .	16	3, 4, 4, 4, 3, 3, 4, 4, 3, 3, 4, 3, 3, 4, 3, 4	3.5
+MOP4	en	Condado de Wayne y The Backstreet Boys juegan a menudo en el CBGB y Max ' s Kansas City, donde el Condado era también DJ .	24	3, 1, 2, 3, 2, 3, 2, 1, 1, 2, 1	1.90909090909
+MOP4	en	Al día siguiente , Bart recibe tratamiento y se disculpa con Lisa por su comportamiento de anoche , y de arruinar su negocio .	21	3, 3, 4, 2, 4, 3, 4, 4, 4, 4, 3, 3	3.41666666667
+MOP4	en	Se ha considerado que es posible que todas las aves modernas descienden específicamente similar a " Gansus " ave semi- acuático .	19	2, 4, 2, 3, 2, 2, 3, 2, 3, 2, 3, 4, 2, 2	2.57142857143
+MOP4	en	Klingens Martijn es un programador holandés conocido por sus contribuciones a la comunidad del software libre y , en particular, el proyecto KDE .	22	2, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4	3.71428571429
+MOP4	en	Los varones tenían una renta mediana de $ 30.274 frente a 24.118 USD para las mujeres .	15	3, 4, 4, 4, 4, 3, 3, 3, 3, 3, 4, 4, 3, 3, 3	3.4
+MOP4	en	Jackson usaría un coro Gospel de nuevo varios años después de su éxito " Will You Be There" .	16	3, 4, 4, 3, 3, 4, 1, 4, 4, 3, 4, 4, 4, 4	3.5
+MOP4	en	Su estimado en 2010 por el Instituto Brasileño de Geografía y Estadística de población ( IBGE ) fue 5.508 habitantes .	18	3, 1, 3, 4, 3, 4, 4, 1, 4, 3, 3, 4, 3	3.07692307692
+MOP4	en	Se creía que era un requisito previo para el ritual de iniciación de las brujas , y continuó las celebraciones del aquelarre .	21	2, 3, 2, 2, 3, 4, 4, 3, 4, 3, 3, 4, 2, 3	3.0
+MOP4	en	Cirrhilabrus temminckii es una especie de peces de la familia Labridae en el orden Perciformes .	15	3, 4, 4, 4, 4, 2, 4, 4, 2, 4, 4, 2, 3, 3	3.35714285714
+MOP4	en	De hecho , Ahura Mazda es venerado no sólo por los persas en el núcleo imperial .	15	3, 4, 3, 4, 3, 4, 4, 4, 1, 3, 3, 3, 2, 4, 4, 1	3.125
+MOP4	en	Meisel se observa como el descubridor y promotor de muchas supermodelos .	11	2, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 2, 4, 4	3.66666666667
+MOP4	en	Y de ahí salen los dos sentidos del concepto de experiencia .	11	4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3	3.71428571429
+MOP4	en	Es una ciudad interior entre un valle y unos pocos kilómetros , sólo ocho de las playas de la Costa del Azahar .	21	4, 2, 2, 1, 2, 3, 3, 2, 4, 2, 3, 2, 2, 2	2.42857142857
+MOP4	en	Sweet & Coffee café elaborado cerveza vendidas, otras bebidas, dulces y postres fríos y calientes , así como su propia marca de café que hacen .	23	3, 2, 1, 2, 1, 2, 2, 1, 2, 3, 3, 4, 1, 2	2.07142857143
+MOP4	en	Florece a finales de otoño o principios de invierno .	9	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3	3.78571428571
+MOP4	en	Platos similares son el " Kugel " alemán y " babka " papa bielorruso .	10	2, 3, 3, 3, 3, 2, 3, 3, 2, 4, 3, 1, 3, 3, 3	2.73333333333
+MOP4	en	08 de diciembre según la hora estándar japonés , marcado por los barcos de la " Kido Butai " ) , con el ataque a Kaneohe .	21	3, 1, 3, 1, 2, 2, 4, 3, 3, 2, 3, 2, 2, 2, 2	2.33333333333
+MOP4	en	En el Sur es más difícil de determinar .	8	4, 2, 4, 4, 3, 4, 4, 3, 3, 4, 4, 3, 4, 2	3.42857142857
+MOP4	en	Es el trabajo de talleres de Zaragoza Nogués .	8	3, 3, 4, 3, 4, 3, 3, 4, 4, 4, 3, 4, 4, 3, 2	3.4
+MOP4	en	Para llevar a cabo sus funciones es ayudado por las siguientes unidades o entidades : Cuerpos Subsidiarios en la administración de justicia .	21	4, 3, 3, 3, 4, 4, 4, 3, 4, 4, 4, 3, 3, 3, 2	3.4
+MOP4	en	La vigilancia ha dejado de ser una mera tecnología militar y la policía controlar a convertirse en una forma de entretenimiento .	21	2, 2, 2, 2, 1, 2, 3, 2, 2, 3, 2, 2, 2, 2	2.07142857143
+MOP4	en	Decidió dejar los tres puestos de trabajo y trabajar a tiempo completo la apertura de una galería de arte con un amigo .	22	3, 3, 4, 4, 3, 4, 4, 2, 4, 3, 3, 4, 3, 3, 3	3.33333333333
+MOP4	en	La mayoría de los motivos se eligieron paisajes, puestas de sol , amaneceres y esculturas .	14	2, 2, 3, 3, 2, 3, 4, 2, 2, 2, 2, 3, 3, 1, 3	2.46666666667
+MOP4	en	Las comidas panyabis son ricos en calorías , esto se debe a que su dieta es necesario el uso de energía para trabajar los campos .	24	2, 3, 1, 2, 3, 2, 2, 2, 3, 2, 2, 3, 4, 2, 3	2.4
+MOP4	zh	Está representada por sus tres hijos , y nietos y bisnietos sobrevivió .	11	1, 3, 2, 2, 2, 1, 1, 2, 1, 2, 3, 2, 2, 1	1.78571428571
+MOP4	zh	Por los servicios prestados, el Papa Gregorio y le concedieron la Orden de Carlos III de España honorarios .	18	2, 2, 2, 3, 2, 3, 2, 2, 1, 1, 2, 3, 2, 2, 1	2.0
+MOP4	zh	Impacto positivo en el desarrollo de la pediatría en la Península Ibérica .	12	4, 4, 3, 3, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 3	3.6875
+MOP4	zh	Ejecutar ningún efecto especial , además de la película brevemente en una escena termina .	13	3, 1, 1, 1, 1, 1, 2, 3, 1, 1, 1, 2, 1	1.46153846154
+MOP4	zh	Los hombres pueden llegar a 790 cm, la longitud total .	10	3, 3, 2, 1, 2, 1, 2, 2, 2, 3, 1, 3, 1	2.0
+MOP4	zh	El ataque marcó el movimiento comenzó desde Beijing a Tíbet en la República Popular de China .	16	2, 3, 1, 2, 2, 3, 2, 3, 3, 4, 1, 2, 3, 3, 3	2.46666666667
+MOP4	zh	Su olor dulce que recuerda a heno recién cortado , y desde 1882 se ha utilizado como una naturaleza y por lo tanto algo de perfume .	25	2, 2, 2, 1, 1, 3, 3, 1, 1, 3, 2	1.90909090909
+MOP4	zh	a propósito hackspace es concentrar los recursos y conocimientos para promover la investigación y el desarrollo .	16	3, 3, 3, 2, 3, 3, 3, 4, 4, 3, 3, 4, 3, 3	3.14285714286
+MOP4	zh	Actualmente , todos los grupos de trabajo se concentran en la empresa , y ya no sirven como el Grupo .	18	2, 3, 3, 3, 2, 3, 3, 1, 4, 3, 3, 4, 3	2.84615384615
+MOP4	zh	Para lograr esta tarea , el alcalde Mariano de Vedia Ÿ Mitt decidió desmontar Iglesia de San Nicolás .	16	3, 2, 2, 3, 3, 4, 4, 1, 3, 2, 2, 4, 4	2.84615384615
+MOP4	zh	El único álbum de sellos , tomó el lechón país integrado , vamos a extranjeros viven , nunca lanzado oficialmente a la venta .	18	3, 3, 1, 1, 1, 1, 2, 1, 1, 1, 3, 1, 3, 2	1.71428571429
+MOP4	zh	El ingreso per cápita para la ciudad era $ 24.441 .	9	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4	3.8
+MOP4	zh	Los misterios dolorosos del Rosario Iglesia Católica forma parte de la oración .	12	4, 3, 2, 4, 1, 1, 4, 3, 2, 2, 2, 2, 4, 1, 3	2.53333333333
+MOP4	zh	En agosto de 2011 , regresó a Argentina en enero de 2012 , pasó PATRONATO del Athletic Club de juego Chacarita Paraná Juventud .	21	1, 3, 2, 3, 1, 2, 3, 3, 1, 1, 1, 2, 1, 1, 1	1.73333333333
+MOP4	zh	Este es el Congreso de EE.UU. en apoyo de la elección limitada de Chile sobre los resultados electorales en la década de 1965 .	23	3, 4, 3, 3, 1, 2, 4, 2, 2, 2, 4, 4, 3, 2, 3	2.8
+MOP4	zh	Convención Constituyente Libre y Soberano de México declaró que "los ciudadanos del Estado de México . "	14	2, 2, 1, 2, 1, 4, 3, 1, 4, 2, 2, 3, 3, 1, 1	2.13333333333
+MOP4	zh	Kimberly - Clark Township ( Inglés : " Kimberly - Clark Township" ) es un municipio en el condado de Aitkin , Minnesota , Estados Unidos .	18	3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 2, 4, 4, 4, 3	3.66666666667
+MOP4	zh	Formuló el alcance general de la operación , se inspira en la organización en general .	14	4, 3, 3, 4, 3, 3, 3, 1, 2, 3, 4, 3, 2, 2	2.85714285714
+MOP4	zh	La radiación puede distinguir entre diferentes longitudes de onda .	9	3, 4, 4, 4, 4, 4, 4, 3, 3, 3, 4, 3, 4, 4, 4, 4	3.6875
+MOP4	zh	Miss Universo 2007 Riyo evento , celebrado en la Ciudad de México durante los 28 de mayo de 2007 ganó el título .	21	3, 2, 2, 1, 1, 2, 4, 1, 1, 2, 2, 3, 2, 2, 2	2.0
+MOP4	zh	Recorrieron el año antes de regresar a estudiar .	8	2, 3, 3, 2, 2, 2, 2, 4, 3, 4, 2, 2	2.58333333333
+MOP4	zh	Las primeras versiones de Rubén Darío para escribir el poema en 2008 .	12	3, 2, 4, 2, 4, 3, 3, 4, 3, 4, 3, 2, 1, 1, 2	2.73333333333
+MOP4	zh	1.78 % de la población total eran hispánicos o Latino de cualquier raza .	12	3, 4, 4, 3, 4, 4, 2, 3, 2, 2, 4, 3, 4, 3, 4, 3	3.25
+MOP4	zh	1888 Ignacio Escobar , el periódico dijo que el nuevo propietario , que se vende al gobierno italiano , que estableció el edificio de la embajada .	23	3, 1, 3, 1, 1, 2, 1, 1, 1, 2, 3, 3, 2, 1, 1	1.73333333333
+MOP4	zh	El invierno es la gente común de fusión de la nieve .	11	3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1	1.2
+MOP4	zh	Los pisos tienen diferentes superficies de distribucción detallada en la siguiente tabla:	12	3, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 4, 3, 4, 3	3.6
+MOP4	zh	Nuestros escritores que viven en Colonia Emma Godoy señala .	9	4, 3, 2, 2, 2, 3, 1, 2, 2, 3, 2, 3	2.41666666667
+MOP4	zh	Sporting Campomaiorense de la ciudad portuguesa de Campo Maior club de fútbol en la región de Portalegre .	17	2, 2, 1, 3, 3, 1, 4, 3, 1, 2, 3, 1, 1, 2, 1	2.0
+MOP4	zh	Además del Romano Pontífice , desde el principio ha sido la de apoyar , las autoridades católicas de diferentes etiquetas de Madrid, D Obispo	22	4, 1, 1, 3, 1, 3, 1, 2, 3, 2, 3, 3, 2, 1	2.14285714286
+MOP4	zh	Lanza ordenó el bombardeo de la nave en el puerto de la ciudad , eran 600 las víctimas civiles .	18	3, 3, 1, 3, 3, 3, 1, 4, 2, 2, 3, 4, 4, 4, 3	2.86666666667
+MOP4	zh	Suelos de esquistos ricos locales (200-1000 metros) del sotobosque de selva tropical .	11	3, 1, 4, 3, 2, 4, 3, 2, 1, 2, 3, 1, 3, 2, 1	2.33333333333
+MOP4	zh	Codo Jones rompió la cara de Vera en tres partes .	10	3, 2, 4, 4, 3, 4, 1, 4, 4, 4, 2, 3	3.16666666667
+MOP4	zh	Es el jugador más grande en el 2008 el número de canciones cristianas contemporáneas sobre la estación de metro de 14o .	21	2, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 3, 1, 1, 1	1.33333333333
+MOP4	zh	Ellos están usando actualmente para cambiar su nombre en 1993 .	10	3, 2, 2, 1, 1, 3, 2, 1, 3, 3, 1, 2, 1, 1	1.85714285714
+MOP4	zh	Duke es el nieto , su madre (Isabel Borja ) a San Francisco de Borja ( Jesuitas tres general) .	15	2, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1	1.33333333333
+MOP4	zh	El progreso es evidente en Austria, obligándolos a abandonar Cerdeña Borgomanero al pie de los Alpes .	16	3, 4, 3, 4, 4, 3, 4, 3, 4, 4, 2, 3, 3, 2	3.28571428571
+MOP4	zh	Imperio Romano de Occidente , después de que se convirtió en una próspera ciudad caída , se resta dominio Lombardo .	18	2, 1, 2, 2, 1, 1, 1, 2, 1, 1, 1, 2, 3, 2	1.57142857143
+MOP4	zh	Ingresó en la carrera militar joven , y obtener el grado de coronel .	12	3, 2, 2, 3, 2, 2, 2, 2, 2, 2, 2, 3, 2, 2	2.21428571429
+MOP4	zh	1.69 % de la población total eran hispánicos o Latino de cualquier raza .	12	2, 3, 4, 3, 4, 4, 3, 2, 3, 3, 3, 2, 4, 4, 4	3.2
+MOP4	zh	Sheona eatro aprender el arte de la música , de la Universidad de Victoria en Melbourne .	15	2, 1, 1, 2, 3, 1, 1, 4, 3, 1, 2, 1, 2, 4, 1	1.93333333333
+MOP4	zh	Sheila Whiteley cree que el mercurio ha llegado a un punto de inflexión en su vida personal , en 1975 .	19	3, 1, 2, 3, 4, 2, 3, 4, 2, 4, 3, 1, 4, 2, 2, 2	2.625
+MOP4	zh	Ordovícico y Silúrico esquisto arenisca y luego cayeron en el pliegue valle ( las piezas) .	14	1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 3, 1, 2, 1	1.42857142857
+MOP4	zh	Carretera del Oeste es una de las cuatro carreteras importantes en Belice .	12	3, 4, 4, 3, 3, 3, 4, 4, 4, 3, 4, 3, 3, 4	3.5
+MOP4	zh	Su mayor éxito en el escenario a partir de 1914 , sus " Daddy Long Legs " , adaptado de la novela hacen Webster protagonizó .	20	3, 3, 1, 1, 3, 1, 4, 1, 3, 1, 1, 3, 1, 1	1.92857142857
+MOP4	zh	Cuba moléculas de hidrocarburo sintético 8 átomos de carbono dispuestos para formar los vértices de un cubo , de ahí el nombre .	20	3, 2, 2, 1, 1, 2, 2, 1, 1, 2, 3, 1, 1	1.69230769231
+MOP4	zh	Sin embargo , esto sólo duró un mes , ya que es la época de Homero pasó todo el ejercicio presupuestario .	18	3, 2, 2, 2, 1, 3, 2, 3, 1, 1, 1, 3, 3, 2	2.07142857143
+MOP4	zh	Agregó que es útil para la fiebre , purificar la garganta y el pecho .	12	3, 4, 4, 2, 3, 4, 3, 4, 4, 4, 4, 4, 4, 3	3.57142857143
+MOP4	zh	Si dos o más iguales medallas país , en orden alfabético .	10	3, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 2, 1	1.33333333333
+MOP4	zh	Más tarde , la música electrónica era un trabajo de éxito " de la cadena superior " , la estación oficial en Mallorca .	18	3, 2, 4, 2, 3, 3, 2, 1, 4, 2, 2, 3, 1, 2, 2	2.4
+MOP4	zh	Esto es lo que jugó toda su carrera en el FC futbolista equipo atardecer .	14	2, 1, 1, 3, 3, 1, 3, 1, 3, 3, 1, 1, 3, 1, 1	1.86666666667
+MOP4	zh	Recientemente, el gobierno de Moscú anunció planes para la reconstrucción a gran escala del famoso monasterio .	16	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	4.0
+MOP4	zh	Watson describió el resultado es una poderosa afirmación , y la mayoría napolitanos orgánico para sus seres queridos .	17	2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 2, 1, 3, 1, 2	1.46666666667
+MOP4	zh	De acuerdo con informes de 26 de septiembre YEL el 24 del mes en Piscobamba , en Huántar .	17	2, 1, 2, 1, 1, 1, 2, 1, 2, 1, 4, 2, 2, 1, 2	1.66666666667
+MOP4	zh	1822 : En Colorado y la campaña de Maracaibo para hacer las ventajas de los Patriots en estas áreas , que permanecieron leales al trono español .	23	2, 1, 1, 2, 2, 3, 2, 2, 1, 3, 1, 2, 3, 1, 1	1.8
+MOP4	zh	1990 independiente Ruidera Tomelloso , se convirtió en un municipio .	9	3, 2, 2, 3, 3, 2, 3, 2, 4, 3, 4, 2, 2, 2	2.64285714286
+MOP4	zh	Esta tradición de otros testigos Ireneo , Clemente de Alejandría y buenos .	11	3, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 2, 3, 1	1.53333333333
+MOP4	zh	2001, debido a la destrucción de Southtown , y luchar con su equipo, es un grupo de la derrota K ' .	19	2, 1, 1, 1, 2, 1, 2, 1, 2, 2, 1, 3, 1, 1	1.5
+MOP4	zh	Marion Township ( Inglés : " Marion Township" ) es un municipio ubicado en el condado de Hocking , Ohio , Estados Unidos .	17	3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 3, 4, 2	3.64285714286
+MOP4	zh	Ella adoptó su nombre artístico , Jackie Mabley , de un viejo amigo .	11	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3	3.83333333333
+MOP4	zh	El crecimiento urbano hacia el oeste y sur del castillo como centro administrativo .	13	2, 4, 3, 4, 3, 3, 3, 4, 4, 2, 2, 4, 2, 3	3.07142857143
+MOP4	zh	José Luis Díaz Gómez ( Ciudad de México , 1943) es un cirujano , los investigadores académicos y México .	16	1, 3, 3, 1, 2, 3, 2, 2, 2, 3, 2, 2, 4, 1	2.21428571429
+MOP4	zh	También utilizó el Ejército Argentino , la Armada Argentina y del condado unidades empresario argentino .	14	2, 3, 4, 3, 2, 2, 2, 2, 2, 2, 1, 2, 2, 1, 3	2.2
+MOP4	zh	Es la fundación de piedra virus y plagas ancestrales de un filósofo selectivo " , " el ADN .	15	2, 2, 2, 2, 1, 1, 3, 2, 1, 1, 2, 2, 3, 1, 1	1.73333333333
+MOP4	zh	Este movimiento se ha dicho para despejar el camino a otros bancos europeos para entrar en el lucrativo mercado italiano .	20	3, 4, 3, 2, 3, 2, 3, 4, 3, 3, 1, 2, 3, 3, 2	2.73333333333
+MOP4	zh	Él fue recomendado como los japoneses visita samurai diferentes provincias acompañado de un sirviente , como testigo .	15	3, 1, 2, 1, 1, 2, 1, 2, 1, 1, 2, 3, 1, 2, 3, 1	1.6875
+MOP4	zh	Periódico familiar Prionispa es una especie de escarabajo de hoja escarabajo .	11	2, 2, 1, 1, 2, 1, 1, 1, 2, 1, 2, 1, 2	1.46153846154
+MOP4	zh	Él y su novia Cui Xi He Patterson , tuvo su primer hijo , Oliver , nació el 2 de mayo de 2005 .	19	3, 2, 3, 3, 4, 2, 3, 2, 3, 2, 3, 2, 2	2.61538461538
+MOP4	zh	Además , también encontró algunos golpes , una pequeña pala o anillos de hueso , aunque este material se utiliza cada vez menos frecuente en el territorio .	24	2, 4, 1, 3, 3, 2, 3, 3, 3, 2, 3, 3, 2, 3	2.64285714286
+MOP4	zh	Viene con unos carriles laterales mira óptica estándar se pueden equipar con una variedad de miras ópticas diurnas y nocturnas .	18	3, 1, 3, 2, 1, 2, 3, 3, 4, 3, 3, 2, 1, 2	2.35714285714
+MOP4	zh	Esto no es tan popular en Venezuela el béisbol , el fútbol o el baloncesto .	14	2, 1, 3, 2, 2, 3, 2, 2, 1, 2, 2, 2, 1, 3, 2	2.0
+MOP4	zh	Se celebra el domingo , la gente del lugar y de la gente del estado de Querétaro muy llenas .	18	2, 1, 2, 3, 2, 2, 2, 2, 1, 1, 1, 2, 3, 2, 1	1.8
+MOP4	zh	Chilapa elogió obispo el 7 de abril de 1876, fue consagrado en la Basílica de Guadalupe, en México el 25 de junio 1876 .	23	4, 2, 2, 4, 2, 2, 3, 3, 2, 4, 2, 1	2.58333333333
+MOP4	zh	1992 , Ella Fitzgerald , un concierto en el Radio City Music Hall, para conseguir más dinero .	15	4, 1, 1, 1, 1, 1, 3, 2, 1, 2, 3, 3, 2, 1	1.85714285714
+MOP4	zh	Como parte en muchos otros Vargas tradicional conmemorar 19 de marzo en San José .	14	4, 1, 2, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1	1.5
+MOP4	zh	Los primeros 23 días, San Julián y Bracho en San Luis de La Paz depongan las armas .	17	3, 1, 1, 3, 1, 2, 2, 1, 1, 3, 1, 2, 1, 2, 1	1.66666666667
+MOP4	zh	Wayne del condado de Backstreet Boys a menudo jugó en el CBGB y el Max Kansas City, donde el condado es el DJ .	23	2, 1, 1, 2, 1, 1, 1, 1, 1, 4, 1, 1, 2, 2, 1	1.46666666667
+MOP4	zh	Al día siguiente , Bart recibe tratamiento y se disculpa con Lisa por su comportamiento de anoche y destruyó su negocio .	20	3, 2, 3, 2, 3, 2, 4, 2, 2, 3, 2, 3, 2, 2	2.5
+MOP4	zh	Klingens de Martijn es conocido por su comunidad de software libre , especialmente la contribución del proyecto KDE es programador holandés .	20	3, 3, 2, 2, 1, 3, 2, 1, 1, 3, 3, 3, 1, 3, 1	2.13333333333
+MOP4	zh	Jackson en su canción " Vas a estar ahí", de nuevo unos años más tarde Gospel Choir .	16	2, 1, 2, 3, 1, 2, 1, 3, 1, 2, 1, 2, 1, 1, 2, 1	1.625
+MOP4	zh	" Halothamnus bottae " es llegar a la altura de 30 a 50 cm de altura , con el azul - verde espinoso follaje arbustos .	21	3, 2, 1, 2, 1, 1, 1, 1, 2, 2, 1, 2, 3, 2	1.71428571429
+MOP4	zh	Linneo fue el primero identificado formalmente un concepto diferente .	9	1, 3, 2, 3, 2, 4, 1, 3, 3, 3, 3, 1, 2, 1	2.28571428571
+MOP4	zh	Clausura de las pequeñas empresas de carbón y la reducción a gran escala en el tamaño de la división de carbón .	21	2, 4, 4, 4, 3, 3, 2, 4, 3, 4, 3, 3, 3, 2	3.14285714286
+MOP4	zh	En el retrato , el observador selecciona las personas , incluida la asignación de calidad física y rasgos de personalidad .	18	3, 2, 3, 3, 3, 4, 4, 4, 3, 2, 3, 3, 3, 4, 3	3.13333333333
+MOP4	zh	Con el fin de recibir su dios halcón , rebautizado como Starhawk y resumir su propósito , dijo , " yo era su sabiduría ancestral y la gloria .	24	3, 2, 2, 3, 4, 2, 4, 2, 4, 3, 2, 3, 3, 4, 1	2.8
+MOP4	zh	El aceite de coco es el ingrediente básico en la producción de jabón .	13	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.93333333333
+MOP4	zh	Su verdadero nombre es Robert Goldberg , nació en Manhattan , Nueva York , en una familia de inmigrantes judíos .	17	3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.85714285714
+MOP4	zh	Familia del faisán Cirrhilabrus en orden especies Labridae Perciformes de peces .	11	2, 1, 2, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1, 1	1.5
+MOP4	zh	Hizo sus estudios secundarios en la Escuela Superior de Lenguas Modernas, 1989 .	12	3, 3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 3, 3, 3	3.57142857143
+MOP4	zh	1657 estos dos surround y conquistar la ciudad, entonces portuguesa de 8000 soldados y 29 cañones de Orly .	18	2, 1, 1, 3, 1, 1, 2, 1, 1, 2, 1, 3, 1, 1, 1	1.46666666667
+MOP4	zh	Al año siguiente , participó como actor y banda sonora de la comedia " swing" .	13	3, 4, 1, 3, 4, 3, 4, 3, 4, 4, 2, 4, 4, 4, 4	3.4
+MOP4	zh	Ustanak con mejoras cibernéticas , incluyendo la capacidad de captar el brazo mecánico humano a largo plazo .	16	2, 2, 3, 2, 3, 2, 2, 3, 2, 2, 1, 3, 3, 2	2.28571428571
+MOP4	zh	La región del sur de Castilla la Nueva Castilla , es contradistinta ( basado en dos partes de un todo ) Castilla la Vieja .	21	3, 2, 1, 2, 3, 1, 3, 2, 2, 3, 2, 2, 1, 3, 2	2.13333333333
+MOP4	zh	Fue el segundo en 1957 después de que el gran maestro español Arturo Pomar · Salamanca .	15	3, 4, 3, 3, 3, 1, 3, 3, 2, 3, 3, 2, 1, 1	2.5
+MOP4	zh	Por lo tanto , con Alateo participar en la batalla de Adrianópolis en 378 .	13	2, 2, 1, 1, 1, 1, 3, 3, 1, 1, 1, 2, 2, 1, 1	1.53333333333
+MOP4	zh	De acuerdo con el tiempo estándar japonés , la embarcación denominada " puerto Kido titanio " ) , y tiene el ataque Kaneohe el 8 de diciembre .	22	3, 2, 1, 2, 2, 3, 1, 2, 2, 3, 2, 2, 1, 2, 1	1.93333333333
+MOP4	zh	Siempre habrá en el estadio en 11 jugadores .	8	3, 4, 1, 3, 2, 2, 3, 2, 4, 1, 2, 4, 2, 2	2.5
+MOP4	zh	Sabiamente, el gobernador le prohibió cerca de la capital , pero también se negó a regresar a su propiedad fue confiscada en 1847 .	22	3, 1, 1, 2, 2, 2, 3, 4, 4, 2, 3, 2, 2, 2	2.35714285714
+MOP4	zh	Decidió dejar los tres puestos de trabajo y el trabajo a tiempo completo , con amigos para abrir una galería de arte .	21	3, 1, 1, 2, 3, 2, 3, 4, 3, 3, 3, 3, 4, 3, 2	2.66666666667
+MOP4	zh	Mordellistena rubrofrontalis tipos Mordellidae de escarabajos en la familia .	9	3, 1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 2, 2, 1	1.5
+MOP4	zh	La mayoría de los modelos son escogidos paisaje, puesta de sol , el amanecer y la escultura .	16	3, 1, 2, 1, 2, 2, 3, 1, 2, 4, 2, 1, 1, 1, 2, 1	1.8125
+MOP4	ja	Bolívar es la región más afectada en Colombia .	8	2, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.8
+MOP4	ja	Le sobreviven un bisnieto o nietos y los niños , de las tres personas .	13	3, 2, 1, 2, 3, 3, 1, 3, 2, 1, 2, 4, 1	2.15384615385
+MOP4	ja	Por los servicios prestados , el Papa concedió el cargo de la orden de San Gregorio , España , Carlos III de él .	19	2, 2, 3, 2, 2, 3, 1, 2, 3, 2, 1, 2, 2, 2	2.07142857143
+MOP4	ja	Según el censo de 2010, había 239 personas que residían en la ciudad de Howard .	15	3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.86666666667
+MOP4	ja	Excepto entre el simple escena al final de la película , los efectos especiales no se han agotado .	17	2, 1, 1, 3, 1, 3, 2, 2, 1, 2, 3, 1, 1, 1, 3, 1	1.75
+MOP4	ja	Los hombres pueden ser la longitud del conjunto para llegar a 7,9 cm .	13	3, 2, 1, 1, 2, 2, 1, 1, 1, 4, 2, 1	1.75
+MOP4	ja	Actualmente , el grupo se ha centrado en esta empresa , y todo el trabajo está ya no funcionan como un grupo .	20	3, 1, 2, 3, 2, 1, 3, 2, 1, 3, 2, 3, 3, 2	2.21428571429
+MOP4	ja	El ingreso per cápita para la ciudad era $ 24.441 .	9	3, 4, 4, 4, 1, 4, 4, 4, 4, 4, 4, 3, 4, 4	3.64285714286
+MOP4	ja	Misterio Sad es una parte de la oración del Rosario Católica .	11	4, 3, 3, 2, 2, 3, 3, 3, 2, 1, 1, 3, 1, 2	2.35714285714
+MOP4	ja	Este fue el resultado de la asistencia electoral con derecho polvo limitado en la elección de todo el Congreso en 1965 .	21	3, 1, 2, 2, 1, 1, 2, 2, 1, 1, 3, 2	1.75
+MOP4	ja	Congreso Constitucional de la soberanía y la libertad de México nacional fue declarado ciudadano " del " México	16	3, 4, 1, 1, 2, 2, 3, 2, 2, 1, 2, 2, 1, 1, 3, 2	2.0
+MOP4	ja	Riyo ganó el título de Miss Universo , que se celebró en la Ciudad de México el 28 de mayo 2007 2007 Gala , en .	23	1, 3, 2, 2, 3, 2, 3, 1, 3, 4, 2, 2, 1, 1	2.14285714286
+MOP4	ja	En 1888 Ignacio Esco -bar, y vendido al gobierno italiano para establecer una embajada en el edificio , el periódico dijo que el nuevo propietario .	23	3, 1, 2, 1, 2, 1, 2, 1, 1, 3, 2, 1, 1, 2	1.64285714286
+MOP4	ja	Voy a hacer hincapié en la relación entre las características personales y las opciones de carrera personal .	17	3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 3, 3, 3, 4	3.66666666667
+MOP4	ja	El piso, tengo una cara que distribucción se detalla en la siguiente tabla sólo diferente .	15	2, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1	1.5
+MOP4	ja	Vivido Colonia Emma Godoy señala un escritor de nosotros .	9	2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 2, 1, 2	1.4
+MOP4	ja	Está fuera del campus de la histórica plaza ubicada en (Andalucía , España ) a la tristeza Plaza Jerez de la Frontera .	19	2, 2, 1, 1, 2, 2, 3, 2, 1, 3, 3, 2, 1, 2	1.92857142857
+MOP4	ja	Y la orden de bombardear la ciudad desde los buques en puerto , Lanza fue una baja de 600 civiles .	19	2, 2, 3, 3, 1, 3, 2, 3, 1, 1, 3, 3, 2, 2, 1	2.13333333333
+MOP4	ja	La abundancia local en el suelo del bosque de la selva tropical en el suelo de esquisto (200-1000 m ) .	18	3, 3, 1, 3, 3, 2, 1, 3, 1, 1, 2, 3, 1, 3, 1	2.06666666667
+MOP4	ja	Continuación del arquitecto y arquitecto adecuado de maestros islámicos según todos los indicios , Aragón Mudéjar , patrimonio de la humanidad ahora ricos .	21	3, 1, 2, 2, 1, 1, 1, 1, 1, 1, 3, 3, 1, 1, 1	1.53333333333
+MOP4	ja	Codo Jones, rompió la cara de Bella en tres partes .	10	2, 4, 4, 4, 2, 1, 2, 4, 3, 1, 4, 2, 4, 2, 3	2.8
+MOP4	ja	A todo esto sucedió , pido disculpas a usted .	8	3, 2, 2, 2, 2, 2, 1, 1, 2, 1, 3, 1, 2	1.84615384615
+MOP4	ja	On ( III General de los Jesuitas ) y su madre ( Isabelle Deboruha ) de San Francisco de Borja , duque era un nieto .	20	3, 1, 2, 1, 2, 1, 1, 1, 1, 1, 3, 1, 4, 1, 3	1.73333333333
+MOP4	ja	Off , los avances en Austria, fue revelado a la fuerza el dinero de Rusia Cerdeña Borgo ellos al pie de los Alpes .	22	3, 2, 1, 1, 1, 1, 1, 1, 2, 2, 1, 2, 2, 2, 1	1.53333333333
+MOP4	ja	( Diwaniya o ) Diwaniya es la capital del estado de Iraq Al Qadisyah .	12	3, 4, 3, 4, 2, 3, 4, 4, 4, 4, 4, 2, 3, 2	3.28571428571
+MOP4	ja	Para ingresar a la carrera del ejército de jóvenes , recibió el grado de coronel .	14	3, 4, 2, 4, 3, 3, 1, 2, 2, 3, 1, 4	2.66666666667
+MOP4	ja	Población total de 1,69 por ciento son hispanos o latinos de cualquier raza .	13	3, 4, 3, 3, 4, 3, 2, 3, 3, 3, 2, 3, 2, 2	2.85714285714
+MOP4	ja	Ambos de Archer Prewitt y Sam Prekop , los miembros del grupo han lanzado un álbum en solitario .	16	3, 3, 2, 2, 3, 1, 2, 3, 1, 2, 3, 2, 3, 3, 2, 3	2.375
+MOP4	ja	Cuando se revela , la ejecución de la nobleza de todo se llama a . El " Bloody Día Arad que fue ordenado para recibir este evento "	24	2, 2, 1, 2, 1, 2, 2, 1, 1, 1, 2, 1, 1	1.46153846154
+MOP4	ja	Economía europea depende de la circulación de monedas de plata y oro , pero su rareza , había sumido a Europa en la recesión .	22	3, 3, 2, 1, 2, 4, 2, 4, 4, 3, 2, 3, 3, 2	2.71428571429
+MOP4	ja	Aprendí música en la Universidad de arte victoriano Sheona eatro Melbourne .	11	4, 3, 3, 3, 3, 4, 3, 4, 3, 4, 2, 3, 2, 1, 2	2.93333333333
+MOP4	ja	Sheila Whiteley sugiere que Mercurio ha llegado a un punto de inflexión en su vida personal , en 1975 .	18	2, 4, 4, 4, 4, 4, 3, 3, 2, 1, 3, 3, 3, 2, 2	2.93333333333
+MOP4	ja	Yo estaba acostumbrado a instalar la oficina de la Secretaría de Hacienda Real en 1816 .	15	2, 2, 2, 2, 4, 4, 4, 1, 2, 1, 1, 3, 4, 2, 2	2.4
+MOP4	ja	Cuba es una moléculas de hidrocarburos sintéticos que tienen 8 átomos de carbono que están dispuestas según el nombre, formando los vértices de un cubo .	24	1, 2, 1, 2, 2, 4, 1, 2, 3, 3, 3, 1, 1, 1, 2	1.93333333333
+MOP4	ja	Jiandi tomó, fue colocado en la boca , se traga .	9	2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 3, 1, 2, 1	1.33333333333
+MOP4	ja	También es uno de los barrios de negocios de Shanghai .	10	4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 2	3.76923076923
+MOP4	ja	Es útil para purificar el pecho y la garganta , frente a la fiebre , se le añadió .	15	2, 3, 3, 2, 3, 3, 3, 4, 1, 2, 1, 3, 3, 1, 1	2.33333333333
+MOP4	ja	En tiempo de 38.491 segundos , Mariana ganó el primer puesto en cada carrera .	13	3, 3, 1, 2, 3, 3, 3, 3, 3, 2, 2, 3, 3, 2	2.57142857143
+MOP4	ja	Aurora Diamond Collection es uno de los más abundantes en términos de color .	13	3, 3, 3, 2, 4, 3, 4, 4, 3, 4, 2, 3, 2, 4	3.14285714286
+MOP4	ja	Luego disparó la fama trabajando en la estación oficial de música electrónica "cadena arriba " , Mallorca .	14	2, 3, 3, 4, 3, 3, 3, 3, 2, 4, 2, 3, 1, 3, 1	2.66666666667
+MOP4	ja	Gobierno de Moscú ha anunciado los planes para la reconstrucción del famoso monasterio de gran escala recientemente .	17	4, 2, 3, 3, 3, 4, 3, 3, 2, 4, 2, 3	3.0
+MOP4	ja	Se ha presentado al 26 de septiembre en Piscobamba YEL 24 , del mes de Huántar .	15	2, 1, 2, 3, 4, 1, 2, 1, 2, 1, 1, 2, 2, 1	1.78571428571
+MOP4	ja	Se retiró de la política activa en 2002 .	8	4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4	3.84615384615
+MOP4	ja	1822 : Los fieles se mantuvo en la corona de España , la batalla de Maracaibo y el rodillo da la superioridad Patriots sobre estas áreas .	23	3, 1, 2, 1, 2, 2, 1, 2, 1, 1, 2, 1, 2, 3	1.71428571429
+MOP4	ja	1990 , la independencia de Castilla -La Mancha Tomé Lloret la Unión Soviética , se ha convertido en un municipio .	17	3, 3, 1, 1, 2, 1, 3, 1, 1, 1, 4, 1, 3, 1	1.85714285714
+MOP4	ja	Nueva constitución se promulgó un sistema presidencial que ha sido cumplida en su totalidad hasta el 1942-1934 .	17	2, 3, 3, 2, 1, 3, 2, 3, 2, 1, 3, 2, 4, 2, 3, 1	2.3125
+MOP4	ja	Fortaleza como centro administrativo , la ciudad ha crecido hacia el oeste y el sur .	14	3, 2, 4, 4, 3, 4, 4, 4, 3, 3, 4, 3, 2, 3, 3	3.26666666667
+MOP4	ja	Fue ascendido al grado de general por su legislatura .	9	3, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 3, 4, 4	3.8
+MOP4	ja	Después inicialmente estalló en Cronulla , la violencia se ha extendido a la zona sudeste de otra Sydney .	17	3, 3, 2, 2, 3, 1, 1, 4, 2, 3, 2, 1, 2, 3	2.28571428571
+MOP4	ja	( Ciudad de México , 1943) cirujano , investigador José Luis Díaz Gómez y es una beca de México .	16	2, 2, 2, 2, 2, 2, 1, 2, 2, 1, 3, 2, 1	1.84615384615
+MOP4	ja	También , yo era ejercido en unidades del Ejército Argentina , Prefectura Naval Argentina , Argentina mercantes .	14	2, 1, 1, 1, 2, 3, 1, 1, 1, 3, 2, 2, 1, 4	1.78571428571
+MOP4	ja	Y el virus precursor selectiva de base de piedra de los Reyes Magos " Es una especie de plaga por " ADN .	20	3, 3, 1, 1, 1, 1, 3, 1, 1, 1, 1, 4, 1, 3	1.78571428571
+MOP4	ja	Alimentos , que está completamente aislado debido a su fina corteza, por todos los aspectos de mosto "sellado " .	16	1, 3, 1, 1, 2, 1, 1, 1, 1, 2, 2, 2, 2	1.53846153846
+MOP4	ja	Él de manera que funcione como un testigo , y había sido recomendado para el samurai visitando rural ir acompañado de un sirviente es diferente .	23	3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1	1.28571428571
+MOP4	ja	En 2003 , se está convirtiendo en uno de los actores representados por la agencia Kuranda De esta manera , se aprobó un reparto de caras nuevas .	25	3, 1, 4, 1, 2, 2, 1, 2, 3, 2, 3, 3	2.25
+MOP4	ja	La gran excursión : Cuando dije en 1989 , Wallace y Gromit excéntrica invención animación y Wallace de Aardman , Sallis ha logrado un gran éxito .	22	1, 3, 1, 1, 1, 1, 1, 2, 2, 1, 2, 1, 2, 1	1.42857142857
+MOP4	ja	Nacido en 1787 en los tres días de sol , que es el hijo del rey Calimehtar .	16	2, 3, 3, 1, 3, 1, 2, 4, 2, 1, 3, 2, 2	2.23076923077
+MOP4	ja	Prionispa Academia Sinica es una especie de escarabajo de la familia del escarabajo de hoja .	15	3, 4, 4, 4, 2, 4, 4, 4, 3, 4, 2, 4, 3, 3	3.42857142857
+MOP4	ja	No es tan frecuente como en la Venezuela de béisbol y baloncesto , y fútbol .	14	1, 2, 1, 1, 3, 2, 4, 1, 2, 2, 2, 2, 3, 1, 1	1.86666666667
+MOP4	ja	Se celebra el domingo , está lleno con las dos personas del estado de Querétaro y lugareños mismos .	17	2, 4, 2, 1, 3, 1, 2, 1, 2, 1, 1, 3, 2, 1	1.85714285714
+MOP4	ja	Elogió el Obispo de Chilapa el 7 de abril de 1876, fue consagrado en la Catedral de Guadalupe en México 25 de junio 1876 .	24	3, 3, 2, 2, 2, 3, 3, 3, 3, 1, 2, 4, 2, 4, 2	2.6
+MOP4	ja	Ha jugado más partidos en el fútbol Eliminar Romero Jesús Gracia mineras jugadores " cangrejo " elásticos .	15	2, 1, 1, 1, 3, 2, 1, 1, 4, 3, 1, 1, 1, 1, 1	1.6
+MOP4	ja	En 1992 , con el fin de obtener más fondos , Ella Fitzgerald , dio un concierto en el Radio City Music Hall .	20	2, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.78571428571
+MOP4	ja	Este es uno de los bosques caducifolios templados de América del Norte de la más grande .	16	4, 1, 3, 3, 2, 2, 2, 2, 2, 3, 2, 1, 3, 2	2.28571428571
+MOP4	ja	Era un hospital juego de leer novelas , cantando el bolero es también , que se han comprometido .	16	2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1	1.2
+MOP4	ja	Cuando la guía de uno de sus Daniel Passarella , el fútbol, fue el responsable del equipo, que se identificó como una camisa alternativa Maradona " 10 " .	25	4, 1, 1, 1, 2, 2, 1, 1, 1, 1, 3, 1, 1, 1	1.5
+MOP4	ja	Por lo tanto , llegó a ocupar el presidente de un grupo de exportadores de oliva .	15	3, 4, 2, 3, 1, 3, 2, 2, 2, 2, 2, 4, 2	2.46153846154
+MOP4	ja	Tumba de Oscar Wilde en el cementerio Pere Lachaise : Pero , notoriedad fue que él puede conseguir otro orden .	17	2, 1, 1, 2, 1, 1, 2, 2, 1, 1, 1, 1, 2, 1, 1	1.33333333333
+MOP4	ja	Hija Ivanka Trump , la suya era la dama de honor de ella .	12	3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 2, 3, 3	1.5625
+MOP4	ja	Comunidad del software libre , Klingens Martijn es el programador de los Países Bajos que se conoce por sus contribuciones al proyecto KDE en particular .	24	2, 2, 2, 3, 3, 4, 4, 4, 2, 2, 2, 3, 2	2.69230769231
+MOP4	ja	Tener un ingreso medio de $ 30,274 en comparación con $ 24,118 para las mujeres los hombres .	15	3, 2, 3, 1, 2, 1, 4, 1, 1, 2, 2, 4, 3, 2, 2	2.2
+MOP4	ja	" Halothamnus bottae es" , que es un arbusto que alcanza una altura de 30 a 50 centímetros por el color verde del Edaao molestos .	23	3, 3, 2, 2, 2, 1, 2, 3, 3, 1, 1, 3, 1, 2	2.07142857143
+MOP4	ja	Linneo fue el primero en formalizar los diferentes conceptos .	9	2, 4, 4, 4, 3, 4, 4, 4, 4, 3, 3, 4, 3, 4, 3	3.53333333333
+MOP4	ja	Fue residentes de 5.508 personas en los estimados de población 2010 Estadísticas ( IBGE ) del Instituto de Geografía de la Brasil .	20	3, 1, 1, 2, 3, 2, 3, 2, 1, 2, 1, 1, 1, 2	1.78571428571
+MOP4	ja	Empresa grande y pequeña de carbón cerrada , redujo el tamaño del sector del carbón .	14	3, 3, 4, 2, 2, 2, 3, 1, 1, 4, 3, 2, 2, 2	2.42857142857
+MOP4	ja	Para el final del año y el túnel , se me ha escondido en una cámara que ha sido sellada refinar .	20	2, 1, 1, 1, 2, 1, 1, 1, 1, 4, 1, 1, 2, 4	1.64285714286
+MOP4	ja	Este entorno , su hermana había salido de la casa de la familia inmediata .	13	2, 2, 2, 3, 3, 2, 2, 3, 2, 1, 3, 1, 1, 2	2.07142857143
+MOP4	ja	En la fabricación de jabón, el aceite de coco es un ingrediente básico .	13	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.86666666667
+MOP4	ja	Las personas viajaron a Badajoz , Toledo , Madrid con frecuencia , él era una vez en París .	14	3, 2, 2, 3, 1, 3, 2, 1, 2, 3, 2, 1, 1, 3	2.07142857143
+MOP4	ja	En una familia de inmigrantes judíos , su verdadero nombre era , y Robert Goldberg , nacido en Manhattan , Nueva York .	18	3, 2, 3, 2, 3, 3, 3, 1, 3, 3, 2, 1, 3, 3, 1, 1	2.3125
+MOP4	ja	Poema está escrito en rima se indica con un grabado en madera que .	13	3, 1, 1, 2, 3, 1, 1, 1, 1, 1, 1, 2, 1, 3, 1	1.53333333333
+MOP4	ja	Temminckii de Cirrhilabrus es una especie de peces de la familia en el orden Perciformes Labridae .	16	3, 3, 4, 4, 3, 3, 4, 4, 1, 4, 4, 3, 3, 3	3.28571428571
+MOP4	ja	De hecho , Ahura Mazda ha sido venerado por los persas , así como el núcleo del emperador .	16	3, 3, 2, 4, 2, 3, 3, 4, 3, 3, 4, 2, 3, 4, 2	3.0
+MOP4	ja	Se requiere que dichos fracasos para alcanzar la entidad perfecto para desarrollar el arma perfecta , no desalentar Van Roekel .	19	4, 1, 1, 2, 1, 1, 2, 2, 2, 1, 3, 2	1.83333333333
+MOP4	ja	Meisel ha estado atrayendo la atención como un promotor y descubridor de la supermodelo muchos .	15	3, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 3, 2, 3	2.14285714286
+MOP4	ja	Por lo tanto , voy a dejar una sensación de tanto el concepto de experiencia .	14	3, 2, 2, 1, 1, 2, 2, 3, 2, 1, 2, 2, 1	1.84615384615
+MOP4	ja	Está decorado ciudad entre unos pocos kilómetros y el valle de la playa en Costa del 8 ligeramente .	18	2, 1, 1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1	1.30769230769
+MOP4	ja	Se realizó una investigación secundaria de su moderno laboratorio de idiomas , y se graduó en 1989 .	16	2, 2, 4, 3, 3, 3, 2, 2, 2, 4, 3, 3, 2, 2	2.64285714286
+MOP4	ja	Después de Olivenza y 29 soldados de artillería y 8000 y el asedio de los dos, 1657 , conquistó la ciudad de Portugal .	22	3, 2, 2, 1, 1, 3, 1, 1, 2, 1, 2, 2, 2, 2	1.78571428571
+MOP4	ja	Soporte documental , los datos estarán de acuerdo Rodríguez y Carranza .	10	2, 2, 2, 1, 1, 3, 1, 3, 2, 1, 2, 3, 2, 1	1.85714285714
+MOP4	ja	Al año siguiente , participó en la banda sonora de la comedia " swing" como actor .	14	3, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4	3.85714285714
+MOP4	ja	De Alemania como " Kugel " cocinar la misma es " babka " Bielorrusia patata .	11	2, 1, 1, 2, 3, 2, 2, 1, 1, 1, 2, 1, 1	1.53846153846
+MOP4	ja	Es contradistinta ( basado en cada mitad del total) de la Nueva Castilla Castilla la Vieja en el nombre de la tierra al sur de Castilla .	25	3, 2, 2, 2, 2, 1, 2, 3, 3, 1, 3, 3, 2	2.23076923077
+MOP4	ja	Era un corredor - España , una vez en el año 1957 tras el Gran Maestro Arturo Pomar Salamanca .	17	3, 2, 1, 1, 1, 2, 1, 2, 1, 1, 2, 2, 3, 2, 1	1.66666666667
+MOP4	ja	Galardonado con el juego " el día SportsNet Premio de Soriano " de Comcast .	12	3, 4, 2, 4, 4, 3, 2, 1, 4, 2, 1, 2, 3, 3, 2	2.66666666667
+MOP4	ja	En el sur , es posible determinar es más difícil .	9	2, 1, 2, 1, 1, 1, 1, 2, 1, 1, 3, 1, 2, 2, 3, 2	1.625
+MOP4	ja	Habrá 11 jugadores en el campo en todo momento .	9	3, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 1	3.66666666667
+MOP4	ja	Es el trabajo del taller de Zaragoza Nogués .	8	3, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3	3.69230769231
+MOP4	ja	Defensa Losantos ha anunciado la impugnación del laudo .	8	2, 2, 2, 4, 3, 4, 2, 3, 3, 4, 2, 3, 4	2.92307692308
+MOP4	ja	El (abril de 2001 1930/18 ) René Dahinden , fue un famoso zoólogo que se centra en el Bigfoot del estudio .	18	3, 1, 1, 1, 1, 1, 1, 3, 2, 3, 2, 3, 1, 1, 2	1.73333333333
+MOP4	es	La Corporación de Grabación de Medio dio un giro en 1995 como Quantegy Inc. , y es actualmente conocida como Quantegy Recording Solutions .	22	4, 3, 4, 2, 4, 3, 3, 3, 4, 4, 2, 3, 2, 4, 3	3.2
+MOP4	es	El Bolívar es de las zonas de Colombia más afectadas .	10	2, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 2, 3, 1	3.21428571429
+MOP4	es	Por los servicios prestados , el Papa le concedió la encomienda de la Orden de San Gregorio y en España , la de Carlos III .	23	3, 3, 4, 3, 4, 3, 4, 4, 4, 3, 3, 3, 2, 3	3.28571428571
+MOP4	es	Su piloto , Benjamin Grimm , ha recibido las propiedades de la roca , y su cuerpo ahora , enorme , ha tomado una apariencia rocosa de color naranja .	24	4, 3, 2, 3, 2, 1, 4, 1, 3, 4, 4, 1, 4, 1	2.64285714286
+MOP4	es	Según el censo de 2010 , había 239 personas residiendo en el municipio de Howard .	14	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3	3.85714285714
+MOP4	es	No se utilizaron efectos especiales de maquillaje , excepto en una breve escena al final de la película .	17	3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4	3.86666666667
+MOP4	es	Los machos pueden llegar alcanzar los 7 ,9 cm de longitud total .	11	2, 4, 4, 4, 3, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4	3.73333333333
+MOP4	es	El propósito de un hackspace es concentrar recursos y conocimiento para fomentar la investigación y el desarrollo .	17	3, 3, 4, 4, 4, 4, 4, 2, 4, 3, 4, 4, 4, 3, 4, 3	3.5625
+MOP4	es	Actualmente , todo el trabajo del grupo se ha centrado en esta compañía y ha dejado de actuar como grupo .	19	4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 3, 3, 3	3.64285714286
+MOP4	es	El único álbum de aquel sello , It Takes a Nation of Suckers to Let Us In por Resident Alien , nunca fue oficialmente sacado a la venta .	24	3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 3, 4, 4, 3, 4	3.73333333333
+MOP4	es	Los misterios dolorosos son parte de la oración católica del Rosario .	11	3, 3, 4, 4, 3, 4, 4, 4, 4, 4, 2, 4, 4	3.61538461538
+MOP4	es	En agosto de 2011 , vuelve a la Argentina para jugar en el Club Atlético Chacarita Juniors y en enero de 2012 pasó Patronato de Paraná .	25	2, 3, 2, 4, 4, 3, 3, 3, 4, 2, 3, 3, 3, 2, 3, 3	2.9375
+MOP4	es	Congreso Constitucional del Estado Libre y Soberano de México lo declaró "ciudadano del Estado de México" .	15	4, 4, 3, 3, 4, 3, 3, 3, 3, 4, 3, 3, 3, 4, 2	3.26666666667
+MOP4	es	El municipio de Kimberly (en inglés: "Kimberly Township") es un municipio ubicado en el condado de Aitkin en el estado estadounidense de Minnesota .	21	4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4	3.83333333333
+MOP4	es	Formuló el ámbito general de las operaciones y fue la inspiración para la organización en general .	15	4, 4, 4, 4, 4, 4, 3, 3, 4, 4, 4, 4, 4, 4, 3, 4	3.8125
+MOP4	es	Estas radiaciones se distinguen por sus diferentes longitudes de onda .	10	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4	3.85714285714
+MOP4	es	Riyo ganó el título durante la gala de Miss Universo 2007 , celebrado en México , D.F. , el 28 de mayo de 2007 .	21	3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 3, 4, 4, 4	3.8
+MOP4	es	Realizan una gira de un año antes de regresar al estudio .	11	3, 4, 4, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 3	3.73333333333
+MOP4	es	Con 12 goles Heynckes fue máximo goleador de la competición .	10	2, 4, 4, 4, 3, 3, 4, 4, 4, 4, 4, 4, 4, 3	3.64285714286
+MOP4	es	En 1888 Ignacio Escobar , nuevo proprietario del citado periódico , lo vende al Gobierno Italiano , que instala su embajada en el edificio .	21	2, 4, 4, 3, 4, 4, 4, 2, 4, 2, 3, 3, 2	3.15384615385
+MOP4	es	Subrayan la relación entre las características personales de un individuo con su selección de una ocupación .	16	3, 4, 4, 4, 3, 4, 4, 4, 4, 3, 3, 4, 3, 3, 2	3.46666666667
+MOP4	es	El Sporting Clube Campomaiorense es un club de fútbol de Portugal de la ciudad de Campo Maior , en el distrito de Portalegre .	22	3, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3	3.8
+MOP4	es	Fue vicario de la Vicaría de la Solidaridad entre 1976 y 1979 .	12	2, 4, 4, 3, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4	3.75
+MOP4	es	La Plaza de las Angustias es una plaza histórica de extramuros situada en Jerez de la Frontera (Andalucía , España) .	18	3, 4, 4, 4, 4, 3, 4, 4, 3, 4, 4, 4, 3, 4, 4	3.73333333333
+MOP4	es	De la persistencia de los artífices y maestros arquitectos islámicos procede , según todos los indicios , la riqueza del mudéjar aragonés , hoy Patrimonio de la Humanidad .	25	3, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 3, 3, 4	3.66666666667
+MOP4	es	El codo de Jones rompió la cara de Vera en tres partes .	12	2, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4	3.78571428571
+MOP4	es	"Intervención como Ministro de Estado para la Producción Básica , en Foro Económico .	11	3, 1, 4, 4, 3, 3, 4, 3, 1, 2, 4, 3, 2, 3, 2	2.8
+MOP4	es	Fue la canción número 14 más tocada del año 2008 en el Hit de radio contemporáneo cristiano .	17	3, 3, 3, 4, 3, 4, 3, 3, 4, 3, 4, 3, 4, 4, 3	3.4
+MOP4	es	La administración de ω-3 a ω-6 de 3:1 a perros con heridas cutáneas sanan sus lesiones con considerablemente menos síntomas y signos inflamatorios , como edema .	23	3, 1, 1, 1, 2, 3, 3, 1, 2, 1, 3, 1, 1	1.76923076923
+MOP4	es	Cambiaron su nombre en 1993 por el que usan actualmente .	10	4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 3, 4, 3	3.78571428571
+MOP4	es	El duque era nieto , por parte de madre (Isabel de Borja) de San Francisco de Borja (III General de la Compañía de Jesús) .	21	3, 4, 4, 4, 3, 4, 4, 4, 3, 3, 4, 4, 4, 4	3.71428571429
+MOP4	es	Del total de la población el 0% eran hispanos o latinos de cualquier raza .	14	2, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4	3.64285714286
+MOP4	es	Diwaniya (o Al Diwaniyah) es la capital de la provincia iraquí de Al Qadisyah .	13	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.92857142857
+MOP4	es	Ingresó en la carrera militar de joven y obtuvo el grado de coronel .	13	3, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 3, 3	3.66666666667
+MOP4	es	Del total de la población el 1.69% eran hispanos o latinos de cualquier raza .	14	3, 4, 4, 4, 3, 4, 4, 1, 4, 4, 4, 4	3.58333333333
+MOP4	es	Tanto Sam Prekop como Archer Prewitt , miembros del grupo , han lanzado discos como solistas .	14	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4	3.85714285714
+MOP4	es	La política monetaria ha sido uno de los problemas más grandes dentro de las relaciones entre Estados Unidos y China en la última década .	23	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.92857142857
+MOP4	es	En 1816 fue utilizado para instalar las oficinas de la Real Hacienda .	12	3, 4, 4, 3, 3, 4, 4, 4, 2, 4, 4, 4, 4, 3	3.57142857143
+MOP4	es	La Suite consiste de dos herramientas: Bizagi Studio , el módulo de construcción , y Bizagi BPM Server para ejecución y control .	20	3, 3, 4, 4, 4, 3, 4, 4, 3, 1, 3, 4, 3	3.30769230769
+MOP4	es	El gres del Ordovícico y los esquistos del silúrico se deslizaron , entonces , hacia los pliegues geosinclinales (partes deprimidas) .	17	3, 1, 4, 3, 1, 4, 2, 2, 3, 4, 4, 3, 2, 2, 2	2.66666666667
+MOP4	es	La autopista del Oeste es una de las cuatro autopistas principales de Belice .	13	4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 2	3.78571428571
+MOP4	es	Jiandi lo tomó y lo puso en su boca , pero lo tragó por descuido .	14	4, 4, 4, 4, 4, 4, 3, 2, 4, 4, 4, 2	3.58333333333
+MOP4	es	Es también uno de los distritos de negocios de Shanghái .	10	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4	3.8
+MOP4	es	Añade , es útil contra la fiebre , para purificar la garganta y el pecho .	12	3, 1, 2, 3, 4, 4, 4, 3, 4, 3, 3, 4, 4	3.23076923077
+MOP4	es	Si dos o más países igualan en medallas , aparecen en orden alfabético .	12	3, 4, 4, 4, 3, 4, 3, 3, 4, 4, 4, 4, 4, 4	3.71428571429
+MOP4	es	Fue un futbolista que jugó durante toda su carrera para el Mamelodi Sundowns FC .	14	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3	3.78571428571
+MOP4	es	" 'Honda Canadá'" es la división canadiense de Honda Motor Company .	9	2, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.8
+MOP4	es	Nada más acabar la carrera se instaló en Bilbao , donde ha desarrollado casi toda su trayectoria periodística , entrando a trabajar en la desaparecida “Gaceta del Norte” .	25	2, 4, 4, 4, 4, 4, 4, 4, 3, 3, 4, 3, 4, 4, 3	3.6
+MOP4	es	Watson describió el Finale como una enfática y orgánica afirmación del La mayor frente a sus relativos napolitanos .	18	2, 2, 3, 2, 4, 2, 3, 2, 1, 3, 1, 1, 2, 1, 4, 2	2.1875
+MOP4	es	En 1990 , Ruidera se independizó de Argamasilla de Alba , constituyéndose en municipio .	12	3, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.85714285714
+MOP4	es	Hace años este canal fue construido por opciones de regadío de parcelas o sitios eriazos cercanos , pero dejó de funcionar , ya que era muy hondo .	25	3, 3, 2, 4, 3, 3, 4, 1, 3, 1, 1, 3, 2, 2	2.5
+MOP4	es	En 1934 hizo promulgar una nueva constitución de carácter presidencialista que tuvo vigencia plena hasta 1942 .	16	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 3	3.8
+MOP4	es	En el año 2001 , dada la destrucción de Southtown , regresa a la lucha junto a su equipo y es derrotado por el grupo de K' .	25	3, 3, 4, 4, 2, 2, 4, 1, 4, 4, 4, 3, 4, 4, 4, 1	3.1875
+MOP4	es	El municipio de Marion (en inglés: "Marion Township") es un municipio ubicado en el condado de Hocking en el estado estadounidense de Ohio .	21	2, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4	3.71428571429
+MOP4	es	Ella adoptó su nombre teatral , Jackie Mabley , a partir del de un antiguo amigo .	14	3, 4, 4, 3, 3, 3, 4, 4, 4, 4, 2, 2, 4, 4, 4	3.46666666667
+MOP4	es	La ciudad creció hacia el oeste y el sur , con la ciudadela como centro administrativo .	15	3, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 2	3.64285714286
+MOP4	es	Fue ascendido al grado de general por su legislatura .	9	3, 4, 4, 4, 3, 4, 4, 4, 4, 4, 3, 3, 4, 4, 4	3.73333333333
+MOP4	es	La violencia se manifestó en Cronulla inicialmente y luego se extendió a otros suburbios de sudeste de Sídney .	18	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4	3.85714285714
+MOP4	es	Es una especie de piedra filosofal basada en el virus Progenitor y Las plagas con un ADN selectivo"" .	18	4, 3, 1, 3, 4, 3, 4, 4, 4, 3, 4, 3, 3, 3, 1	3.13333333333
+MOP4	es	Este movimiento se ha dicho que limpia el camino para otros bancos europeos para entrar en el lucrativo mercado italiano .	20	3, 4, 4, 4, 4, 4, 4, 3, 2, 4, 4, 3, 4, 4, 2	3.53333333333
+MOP4	es	El alimento debe «sellarse» por todos sus lados , quedando completamente aislado por su fina corteza .	14	3, 4, 4, 4, 4, 4, 3, 3, 4, 4, 1, 1, 3, 4	3.28571428571
+MOP4	es	Era recomendable para un samurai visitando diferentes provincias que sea acompañado por un sirviente , para servirle como testigo .	18	3, 2, 4, 4, 3, 4, 3, 3, 4, 4, 4, 3, 3, 2	3.28571428571
+MOP4	es	Ha habido intención por Skywest Airlines de programar un vuelo que lo comunique con el aeropuerto de Perth durante el verano .	21	3, 4, 4, 4, 3, 3, 4, 4, 3, 4, 4, 3, 2, 4	3.5
+MOP4	es	Sallis logrado un gran éxito cuando , en 1989 , expresó Wallace , el inventor excéntrico en Aardman Animations Wallace y Gromit: A Grand Day salida .	22	3, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 2, 3, 1	1.5
+MOP4	es	Nació en el año 1787 de la Tercera Edad del Sol y es hijo del rey Calimehtar .	17	3, 2, 4, 1, 3, 4, 3, 4, 4, 3, 4, 4, 4, 3	3.28571428571
+MOP4	es	Prionispa sinica es una especie de insecto coleóptero de la familia Chrysomelidae .	12	3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4	3.85714285714
+MOP4	es	Preconizado Obispo de Chilapa el 7 de abril de 1876 , fue consagrado en la Basílica de Guadalupe de México el 25 de junio de 1876 .	25	3, 4, 4, 4, 4, 4, 4, 4, 2, 4, 3, 4, 3, 2	3.5
+MOP4	es	Retirada futbolística de Jesús Gracia Romero “Cani” , jugador que más partidos ha disputado con la elástica minera .	16	4, 3, 2, 3, 3, 1, 3, 3, 3, 3, 3, 1, 3, 4, 1	2.66666666667
+MOP4	es	En 1992 , Ella Fitzgerald ofreció un concierto en el Radio City Music Hall para conseguir más financiamiento .	17	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.91666666667
+MOP4	es	Cossío actuó en la película "No se lo digas a nadie" , en 1998 .	12	4, 3, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 3, 2, 4	3.66666666667
+MOP4	es	En el hospital se dedicaba a cantar boleros , leer novelas y también hizo obras teatrales .	15	4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4	3.78571428571
+MOP4	es	Cuando Daniel Passarella , una de sus guías en el fútbol , se hizo cargo del equipo nacional , lo confirmó como reemplazante de Maradona con la camiseta "10" .	25	2, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 2, 4, 4	3.57142857143
+MOP4	es	Al año siguiente en 1976 , se le concedió el Premio de la Paz del Comercio Librero Alemán , concedido durante la Feria del libro de Fráncfort .	25	3, 4, 4, 4, 4, 4, 3, 3, 2, 3, 2	3.27272727273
+MOP4	es	Como tantas otras tradiciones en el estado Vargas se conmemora la fiesta de San José el 19 de marzo .	19	3, 4, 4, 4, 4, 4, 4, 4, 4, 2, 3, 2, 4, 3, 3, 1	3.3125
+MOP4	es	Por todo ello , llegó a ostentar la Presidencia del Grupo de Exportadores de Aceitunas .	14	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4	3.85714285714
+MOP4	es	El día 23 , San Julián y Bracho depusieron las armas en San Luis de la Paz .	16	3, 4, 4, 4, 3, 4, 3, 4, 3, 4, 4, 4	3.66666666667
+MOP4	es	Los hombres tenían unos ingresos medios de $30 ,274 frente a los $24 ,118 para las mujeres .	13	3, 4, 4, 4, 3, 3, 4, 4, 3, 4, 4, 4, 3, 3	3.57142857143
+MOP4	es	Jackson utilizaría un coro de evangelio otra vez varios años después en su hit "Will You Be There" .	17	4, 3, 4, 2, 3, 4, 3, 3, 2, 4, 4, 4, 4, 2, 3	3.26666666667
+MOP4	es	En Mexicali existen muchos y variados estilos de Taekwondo .	9	2, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4	3.76923076923
+MOP4	es	Su población estimada en 2010 por el Instituto Brasilero de Geografía y Estadística (IBGE) era de 5 508 habitantes .	18	3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 3, 4, 2	3.66666666667
+MOP4	es	Las empresas hulleras pequeñas cerraron y las grandes redujeron el tamaño de sus divisiones hulleras .	15	4, 4, 3, 4, 4, 4, 3, 3, 4, 3, 3, 4, 4, 4, 4	3.66666666667
+MOP4	es	Es originaria del sur y oeste de Europa hasta el suroestede Inglaterra , Macaronesia , norte de África y suroeste de Asia .	19	3, 4, 3, 3, 2, 2, 4, 4, 4, 3, 3, 2, 3	3.07692307692
+MOP4	es	Descienden por unos túneles estrechos y al final encuentran el dispositivo oculto en una cámara sellada .	16	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4	3.85714285714
+MOP4	es	Viajó frecuentemente a Badajoz , a los pueblos de Toledo y a Madrid , y estuvo una vez en París .	18	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 3	3.71428571429
+MOP4	es	Están escritos en forma de rima y algunos poemas están ilustrados con xilografías .	13	4, 3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4	3.84615384615
+MOP4	es	Tales fracasos no desalentaban a Van Roekel , en busca de lograr la entidad perfecta para desarrollar el arma perfecta .	19	4, 2, 3, 4, 2, 2, 4, 3, 4, 4, 3, 3, 4, 3, 2, 4	3.1875
+MOP4	es	Meisel es señalado como el descubridor o promotor de muchas supermodelos .	11	3, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4	3.8
+MOP4	es	Es una ciudad interior situada entre un valle y a muy pocos kilómetros , tan solo ocho , de las playas de la Costa del Azahar .	24	3, 4, 4, 3, 4, 2, 4, 3, 3, 3, 4, 2, 3, 3, 3, 3	3.1875
+MOP4	es	Se cree que cuando los españoles trajeron el Alquerque a las Américas , el tablero de éste se adaptó para este juego .	20	3, 3, 3, 4, 4, 4, 3, 4, 3, 4, 3, 3, 4, 4, 1	3.33333333333
+MOP4	es	Sweet & Coffee vende café elaborado , otras bebidas calientes y frías , dulces y postres , así como su propia marca de café para elaborar .	22	3, 3, 3, 1, 4, 2, 4, 4, 4, 4, 4, 4, 3, 4	3.35714285714
+MOP4	es	Al año siguiente participa como actriz y en la banda sonora de la comedia "Swing" .	14	4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 2, 2	3.57142857143
+MOP4	es	Florece a finales de otoño o principios de invierno .	9	4, 3, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.78571428571
+MOP4	es	Ustanak posee mejoras cibernéticas , incluyendo un brazo largo mecánico capaz de agarrar a los seres humanos .	16	3, 4, 4, 4, 4, 4, 4, 3, 3, 3, 4, 3	3.58333333333
+MOP4	es	Son platos parecidos el "kugel" alemán y el "babka" de patata bielorruso .	10	3, 2, 4, 3, 4, 4, 4, 4, 3, 3, 3, 4, 2, 4, 4	3.4
+MOP4	es	Así , participó junto con Alateo en la batalla de Adrianópolis en el 378 .	13	3, 4, 2, 3, 4, 4, 4, 3, 4, 4, 3, 4, 2	3.38461538462
+MOP4	es	del 8 de diciembre según la hora estándar japonesa , marcada por los buques de la "Kido Butai") , con el ataque a Kaneohe .	21	2, 3, 3, 2, 2, 3, 2, 4, 2, 1, 2, 3, 1, 1	2.21428571429
+MOP4	es	Comcast Sportsnet galardonó a Soriano con el premio "La Jugada del Día" .	11	4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4	3.86666666667
+MOP4	es	Siempre habrá 11 jugardores en el terreno de juego .	9	3, 4, 4, 2, 3, 4, 4, 4, 4, 1, 4, 4, 4, 4, 4	3.53333333333
+MOP4	es	Decidió dejar los tres trabajos y trabajar a tiempo completo abriendo una galeria de arte con un amigo .	18	2, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4	3.64285714286
+MOP4	es	Los motivos más escogidos eran paisajes , atardeceres , amanecidas y esculturas .	10	3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 3	3.75
+MOP4	no	Bolívar es las zonas más afectadas en Colombia .	8	3, 1, 3, 3, 3, 4, 3, 1, 3, 3, 2, 2, 2, 3	2.57142857143
+MOP4	no	Para los servicios prestados, el Papa le dio a cargo de la Orden de San Gregorio y España , Carlos III .	20	4, 2, 3, 3, 2, 2, 1, 2, 1, 2, 1, 3, 2, 3	2.21428571429
+MOP4	no	No hay efectos especiales se utilizan , excepto durante un corto escena al final de la película .	16	2, 1, 2, 2, 1, 1, 1, 2, 2, 2, 1, 4, 1, 2	1.71428571429
+MOP4	no	Los machos pueden llegar a 7,9 cm de longitud total .	10	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3	3.71428571429
+MOP4	no	Este asalto marcó el comienzo de la campaña para integrar el Tíbet Beijing en la República Popular de China .	19	3, 4, 3, 4, 4, 3, 3, 4, 2, 4, 2, 3	3.25
+MOP4	no	Su dulce aroma que recuerda al heno recién cortado , por lo que se han utilizado desde 1882 como la esencia de algunos perfumes .	23	2, 4, 4, 3, 3, 2, 3, 4, 3, 3, 4, 4, 4, 4, 3	3.33333333333
+MOP4	no	El propósito de un espacio truco es concentrar los recursos y la experiencia para avanzar en la investigación y el desarrollo .	21	2, 4, 2, 3, 2, 3, 3, 4, 3, 1, 1, 3, 3, 3, 2, 2	2.5625
+MOP4	no	El ingreso per cápita para la ciudad era $ 24.441 .	9	2, 4, 4, 4, 4, 3, 3, 4, 4, 3, 3, 4, 3, 3, 3	3.4
+MOP4	no	Allí encontramos los restos de fauna del Pleistoceno .	8	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	4.0
+MOP4	no	Congreso Constitucional del Estado Libre y soberano de México declaró " ciudadano del Estado de México. "	15	2, 1, 3, 2, 3, 3, 3, 3, 4, 4, 4, 1, 3, 2	2.71428571429
+MOP4	no	Kimberly Township ( en Inglés : " Kimberly Township" ) es un municipio en el condado de Aitkin en el Estado de Minnesota .	19	4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 1, 3	3.64285714286
+MOP4	no	Estos rayos se distinguen por sus diferentes longitudes de onda .	10	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	4.0
+MOP4	no	Riyo ganó el título durante la gala de Miss Universo 2007 , que se celebró en la Ciudad de México el 28 de mayo de 2007 .	25	3, 3, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4	3.76923076923
+MOP4	no	A principios de 2008 producido una edición de la poesía completa de Rubén Darío .	14	2, 2, 2, 2, 2, 2, 3, 3, 1, 2, 3, 4, 1, 3	2.28571428571
+MOP4	no	Población total de 1.78 % eran hispanos o latinos de cualquier raza .	11	2, 3, 4, 2, 3, 3, 4, 3, 2, 3, 2, 3, 3, 3, 3	2.86666666667
+MOP4	no	En 1888 , Ignacio Escobar , el periódico dijo que el nuevo propietario, para vender al gobierno italiano , que estableció su edificio de la embajada .	23	1, 4, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1	1.46666666667
+MOP4	no	Hacer hincapié en la relación entre las características personales de una persona con su elección de una profesión .	18	3, 4, 4, 3, 4, 4, 2, 3, 4, 3, 3, 4, 4, 4	3.5
+MOP4	no	En invierno , era común que la gente se derriten nieve para hidratarse .	12	3, 2, 2, 3, 2, 2, 3, 2, 2, 1, 1, 2, 1, 1, 3, 2	2.0
+MOP4	no	En nuestro escritor vivió Colonia Emma Godoy Notas .	8	4, 2, 1, 3, 1, 3, 3, 1, 2, 1, 1, 1, 1, 1, 1, 1	1.6875
+MOP4	no	Localmente abundante en la historia de la selva tropical en suelos de pizarra (200-1000 m ) .	14	3, 2, 3, 3, 3, 2, 3, 3, 2, 1, 3, 1, 3, 2	2.42857142857
+MOP4	no	Continuación de arquitectos y arquitectos profesores islámicos , posiblemente, según todos los indicios , la riqueza del mudéjar aragonés , declarado Patrimonio de la Humanidad .	22	2, 1, 1, 1, 3, 3, 1, 1, 2, 4, 3, 1, 3, 1, 1, 2	1.875
+MOP4	no	Codo Jones rompió la cara de Vera en tres partes .	10	3, 2, 1, 4, 4, 3, 3, 2, 4, 4, 4, 2, 2, 4, 4, 1	2.9375
+MOP4	no	" Intervención y el ministro de Estado para la producción primaria en el Foro Económico .	14	3, 3, 3, 3, 2, 2, 3, 2, 1, 1, 1, 2, 3, 2, 2	2.2
+MOP4	no	Autores Inglés economista William Cunningham o historiador francés Charles Seignobos condenaron seriamente el período de la dominación del Imperio Español .	20	2, 2, 3, 2, 3, 3, 3, 1, 3, 3, 2	2.45454545455
+MOP4	no	Cambiaron su nombre en 1993 por el momento .	8	3, 2, 2, 3, 2, 1, 3, 3, 3, 2, 4, 2, 3, 2, 3	2.53333333333
+MOP4	no	El duque era el nieto , en su madre ( Isabel de Borja ) de San Francisco de Borja ( III General de la Compañía de Jesús ) .	23	2, 2, 3, 4, 3, 3, 4, 2, 2, 3, 2, 3, 3, 3, 2	2.73333333333
+MOP4	no	Ella ha tenido varios papeles en películas y series de televisión .	11	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 3	3.86666666667
+MOP4	no	El 26 de noviembre 1994 Maciel sacerdote mantuvo los años cincuenta .	11	2, 3, 1, 2, 2, 2, 2, 2, 1, 1, 1, 2, 3, 1, 1	1.73333333333
+MOP4	no	Ingresó en la carrera militar de los jóvenes y recibió el grado de coronel .	14	2, 3, 4, 3, 4, 4, 3, 3, 1, 2, 3, 2, 4	2.92307692308
+MOP4	no	Población total de 1.69 % eran hispanos o latinos de cualquier raza .	11	2, 3, 3, 4, 3, 4, 3, 4, 1, 3, 2, 4, 2, 2	2.85714285714
+MOP4	no	Una vez revelado, la ejecución de todos los nobles ordenó recibir este evento llamado " Bloody Día Arad . "	17	3, 4, 2, 2, 3, 1, 2, 3, 2, 1, 2, 3, 3, 2, 3, 1	2.3125
+MOP4	no	Kingwood es una ciudad situada en el condado de Preston en el estado de West Virginia .	16	3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.93333333333
+MOP4	no	La economía europea depende de la circulación de la moneda de oro y plata, pero su escasez había sumido a Europa en una recesión .	24	3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 4, 4	3.78571428571
+MOP4	no	Para ellos , a continuación, añadir a la de Seminara ( 6 de junio) , que se obtiene por un levantamiento popular .	19	2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 1, 1	1.69230769231
+MOP4	no	Sheila Whiteley sugiere que Mercurio se había llegado a un punto de inflexión en su vida personal , en 1975 .	19	3, 3, 2, 2, 1, 2, 2, 3, 2, 1, 1, 2, 4, 2, 2, 2	2.125
+MOP4	no	Carretera del Oeste es una de las cuatro carreteras importantes en Belice .	12	2, 3, 4, 4, 3, 3, 4, 3, 4, 3, 3, 4, 3	3.30769230769
+MOP4	no	Su mayor éxito en el escenario llegó en 1914 cuando protagonizó " Daddy Long Legs " , adaptado de la novela de Jean Webster .	20	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	4.0
+MOP4	no	Cuba es un sintético hydrokarbonmolekylmed ocho átomos de carbono dispuestos forman los vértices de un cubo , de ahí el nombre .	19	4, 3, 1, 1, 2, 1, 1, 2, 2, 3, 1, 1, 1, 1	1.71428571429
+MOP4	no	Jiandi lo tomó y lo puso en la boca , pero se tragó por error .	14	2, 1, 2, 3, 2, 4, 3, 3, 2, 3, 2, 2, 2	2.38461538462
+MOP4	no	Si dos o más países de la igualdad de medallas , en orden alfabético .	13	1, 3, 1, 1, 2, 2, 3, 2, 1, 2, 1, 2, 3, 1, 1	1.73333333333
+MOP4	no	Mariana ganó el primer lugar en sus respectivas carreras con un tiempo de 38.491 segundos .	15	3, 4, 4, 3, 4, 4, 4, 3, 4, 3, 4, 4, 3, 4	3.64285714286
+MOP4	no	Aurora Colección Diamond es uno de los más extensos en términos de color .	13	4, 4, 2, 3, 3, 3, 2, 4, 4, 3, 4, 3, 2, 2	3.07142857143
+MOP4	no	Más tarde, saltó a la fama trabajando en " Cadena Top " , la música electrónica estación oficial en Mallorca .	17	3, 2, 3, 3, 2, 3, 3, 3, 3, 2, 3, 2	2.66666666667
+MOP4	no	Fue un futbolista que jugó toda su carrera por el Mamelodi Sundowns FC .	13	3, 3, 4, 4, 3, 4, 4, 3, 3, 4, 3, 3	3.41666666667
+MOP4	no	Con datos de 2005 , la sustitución del reactor OPAL construido en un sitio adyacente .	14	2, 4, 2, 3, 1, 1, 3, 3, 2, 3, 1, 3, 3, 3, 1	2.33333333333
+MOP4	no	Recientemente el gobierno de Moscú anunció planes para una reconstrucción a gran escala del famoso monasterio .	16	2, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4	3.71428571429
+MOP4	no	" ' Honda de Canadá " es la división canadiense de Honda Motor Company .	11	2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.66666666667
+MOP4	no	Watson describió la Final como una afirmación enfática y orgánicos mayoría de los napolitanos contra sus parientes .	17	3, 2, 1, 1, 2, 1, 3, 1, 2, 2, 1, 3, 3, 1, 2	1.86666666667
+MOP4	no	Se presentó el 26 de septiembre a las Piscobamba Yel 24 de ese mes , en Huantar .	16	2, 4, 2, 3, 2, 2, 2, 2, 1, 2, 3, 4, 3, 1	2.35714285714
+MOP4	no	Se retiró de la política activa en 2002 .	8	3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4, 4, 4, 3, 4	3.8
+MOP4	no	1822 : Las batallas en Coro y Maracaibo dan la ventaja Patriots sobre aquellas regiones que permanecieron leales a la corona española .	21	2, 3, 3, 1, 3, 3, 4, 3, 2, 3, 2, 3, 3, 2	2.64285714286
+MOP4	no	En 1990 , la independencia de Ruidera Tomelloso , el municipio .	9	4, 2, 1, 2, 1, 4, 3, 3, 1, 2, 2, 2, 3, 3, 1	2.26666666667
+MOP4	no	Hace años este canal fue construido por las opciones de parcelas de riego cercanos terrenos baldíos , pero dejó de funcionar ya que era muy profunda .	25	3, 2, 3, 3, 3, 1, 2, 3, 3, 2, 2, 3, 1, 3, 3	2.46666666667
+MOP4	no	En 1934 se adoptó una nueva Constitución sistema presidencial que entró en vigencia plena hasta 1942 .	16	4, 2, 1, 1, 3, 3, 2, 3, 3, 1, 3, 2, 4, 2	2.42857142857
+MOP4	no	En 2001 , dada la destrucción de Southtown , vuelve a la batalla con su equipo y es derrotado por el grupo de K ' .	22	3, 1, 3, 4, 1, 4, 4, 3, 3, 4, 2, 4, 3, 3	3.0
+MOP4	no	Marion Township ( en Inglés : " Marion Township" ) es un municipio en el condado de Hocking en el Estado de Ohio .	19	4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3	3.75
+MOP4	no	Según el censo de 2010, había 423 personas que viven en la ciudad de Empire .	15	2, 3, 4, 3, 4, 4, 3, 4, 3, 4, 4, 4, 3, 2	3.35714285714
+MOP4	no	La ciudad creció en el oeste y al sur , con el castillo como centro administrativo .	15	3, 3, 4, 4, 3, 4, 4, 4, 4, 4, 3	3.63636363636
+MOP4	no	Fue ascendido al grado de general por su legislatura .	9	3, 4, 3, 4, 4, 3, 4, 3, 4, 4, 3, 4, 4, 4	3.64285714286
+MOP4	no	Desde entonces mantiene Disturbing Tha Peace con otra estrella en ascenso de R & B, Bobby Valentino, que tuvo un gran éxito con el single " Slow Down" .	25	3, 2, 1, 2, 3, 3, 3, 1, 3, 4, 3, 1, 3, 1	2.35714285714
+MOP4	no	En el Censo de 2010 tenía una población de 1.782 habitantes y una densidad poblacional de 398,86 personas por km ² .	20	4, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 4	3.64285714286
+MOP4	no	La violencia estalló en Cronulla primero y luego se extendió a otros suburbios del sudeste de Sydney .	17	3, 4, 3, 4, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.8125
+MOP4	no	José Luis Díaz Gómez ( Ciudad de México , 1943) es un cirujano , investigador y académico mexicano .	15	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4	3.92857142857
+MOP4	no	También ha actuado con las unidades del Ejército Argentino , Prefectura Naval Argentina y la Argentina Merchant .	16	3, 4, 4, 4, 3, 2, 3, 1, 4, 4, 3, 4, 4, 2	3.21428571429
+MOP4	no	Es una especie de piedra filosofal basado virus Progenitor y plagas con un " " ADN selectiva .	15	2, 1, 2, 2, 2, 2, 1, 3, 2, 1, 1, 2, 2, 1, 3	1.8
+MOP4	no	Este movimiento se ha dicho para dar paso a otros bancos europeos para entrar en el lucrativo mercado italiano .	19	3, 3, 3, 2, 3, 3, 4, 4, 2, 2, 1, 3, 3, 2, 3	2.73333333333
+MOP4	no	Fue recomendado por un samurai visitando varias provincias para ser acompañado por un criado , para servir como testigo .	18	2, 1, 2, 2, 1, 3, 3, 2, 3, 2, 1, 3, 3, 3	2.21428571429
+MOP4	no	Sallis alcanzó un gran éxito cuando , en 1989 , dijo Wallace , el inventor excéntrico de Aardman Animations Wallace y Gromit : A Grand Day Out .	22	4, 1, 2, 1, 1, 3, 3, 3, 2, 2, 1, 1, 3, 1	2.0
+MOP4	no	Él nació en 1787 de la Tercera Edad del Sol y es el hijo del rey Calimehtar .	16	3, 2, 1, 3, 4, 2, 3, 2, 2, 2, 4, 2, 1, 4, 3, 3	2.5625
+MOP4	no	Está equipado con un carril lateral estándar para miras ópticas puede ser equipado con una variedad de miras ópticas diurnas y nocturnas .	20	3, 3, 4, 3, 4, 4, 4, 3, 2, 4, 3, 3, 4, 3	3.35714285714
+MOP4	no	Alabado Obispo de Chilapa 07 de abril 1876 fue consagrado en la Basílica de Guadalupe, en México el 25 de junio 1876 .	22	3, 3, 3, 3, 2, 3, 4, 3, 2, 2, 3, 4, 4, 4	3.07142857143
+MOP4	no	Extracción de fútbol Romero Jesús Gracia jugador " Cani " que ha jugado más partidos con la minería elástica .	17	4, 4, 1, 1, 1, 1, 4, 2, 1, 1, 1, 2, 2, 1, 4, 1	1.9375
+MOP4	no	Cossio actuó en la película " No se lo digas a nadie", en 1998 .	13	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4	3.78571428571
+MOP4	no	Lozano , a través de un fotógrafo, fue contactado para posar para Playboy .	12	4, 3, 4, 4, 4, 4, 3, 4, 4, 4, 4, 3, 4, 2	3.64285714286
+MOP4	no	El hospital se dedicaba a cantar boleros , leer novelas y obras de teatro también hechas .	15	4, 4, 2, 2, 2, 1, 1, 2, 1, 1, 3, 4, 3, 2, 1	2.2
+MOP4	no	Al año siguiente , en 1976 fue galardonado con el Premio de la Paz de la industria del libro alemán , otorgado durante la Feria del Libro .	25	3, 4, 4, 4, 3, 3, 4, 4, 4, 4, 4, 3, 3, 2	3.5
+MOP4	no	Como tantas otras tradiciones en mayor Vargas San José celebra el 19 de marzo .	14	3, 2, 2, 1, 3, 3, 2, 2, 1, 2, 2, 4, 3, 1, 2	2.2
+MOP4	no	Pero la notoriedad adquirida le permitió obtener un orden diferente : la tumba de Oscar Wilde en Pere Lachaise .	18	3, 2, 4, 3, 2, 3, 3, 3, 4, 1, 4, 3, 3, 3	2.92857142857
+MOP4	no	El día 23 , San Julián y Bracho depusieron sus armas en San Luis de la Paz .	16	2, 4, 4, 4, 4, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4	3.73333333333
+MOP4	no	Se ha determinado que es posible que todas las aves modernas descienden específicamente similar a " Gansus " semi - aves acuáticas .	19	3, 2, 3, 2, 1, 1, 2, 3, 2, 2, 2, 2, 3, 1	2.07142857143
+MOP4	no	Martijn de la hoja es un programador holandés conocido por sus contribuciones al software libre y sobre todo proyecto KDE .	20	2, 3, 2, 3, 2, 4, 2, 4, 4, 1, 2, 3, 3, 2	2.64285714286
+MOP4	no	Linneo fue el primero en formalizar el concepto de variedad .	10	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4	3.78571428571
+MOP4	no	En Mexicali hay muchos estilos diferentes de Taekwondo .	8	2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3	3.8
+MOP4	no	Estimada en 2010 por el Instituto Brasileño de Geografía y Estadística de población ( IBGE ) fue 5.508 habitantes .	17	2, 4, 2, 3, 3, 3, 3, 2, 2, 3, 3, 3, 3, 2, 1	2.6
+MOP4	no	Se creía que era un requisito previo para el ritual de iniciación de las brujas , y continuó la celebración del aquelarre .	21	4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 3, 3, 3, 3	3.64285714286
+MOP4	no	El aceite de coco es un ingrediente básico en la fabricación de jabón .	13	4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4	3.9375
+MOP4	no	Viajó con frecuencia a Badajoz , el pueblo de Toledo y Madrid , y fue una vez en París .	17	3, 3, 2, 3, 2, 2, 3, 3, 3, 4, 3, 3, 3, 1, 4	2.8
+MOP4	no	De hecho , Ahura Mazda venerado no sólo por los persas en el núcleo imperial .	14	4, 1, 2, 2, 1, 1, 1, 2, 3, 4, 3, 3, 1, 3	2.21428571429
+MOP4	no	Hay un centro de la ciudad entre un valle y unos pocos kilómetros , sólo ocho de las playas de la Costa del Azahar .	23	2, 2, 2, 1, 1, 3, 2, 3, 2, 1, 1, 4, 2, 3, 2	2.06666666667
+MOP4	no	Se cree que cuando los españoles trajeron a bordo Latina Alquerque fue preparado para este juego .	16	2, 2, 2, 2, 1, 2, 2, 2, 1, 2, 1, 1, 4, 2, 3, 2	1.9375
+MOP4	no	Realizó sus estudios secundarios en el Departamento de Lenguas Modernas y se graduó en 1989 .	15	4, 3, 4, 4, 4, 4, 4, 4, 4, 2, 4, 4, 3, 4	3.71428571429
+MOP4	no	Los datos , con el apoyo documental , está de acuerdo Carranza Rodríguez .	11	3, 2, 1, 2, 1, 2, 3, 1, 2, 2, 1, 3, 3, 2	2.0
+MOP4	no	Sweet & Coffee café elaborado cerveza vendidas, otras bebidas, dulces fríos y calientes y postres , así como su propia marca de café .	21	2, 2, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 2, 2	1.5
+MOP4	no	Al año siguiente participó como actor y en la banda sonora de la comedia " Swing" .	15	3, 4, 4, 4, 4, 4, 4, 4, 3, 4, 4, 4, 4, 4	3.85714285714
+MOP4	no	Ustanak posee mejoras cibernéticas , incluyendo un brazo mecánico de largo capaz de captar gente .	14	3, 3, 1, 3, 3, 1, 3, 1, 3, 2, 2, 3, 4, 2, 4	2.53333333333
+MOP4	no	En 1877 ganó una victoria política al convencer a los líderes de una revolución para deponer la actitud incruenta provincial .	20	4, 2, 4, 2, 3, 3, 3, 4, 4, 4, 4, 4, 3, 3	3.35714285714
+MOP4	no	El nombre de Nueva Castilla a las tierras del sur de Castilla, es contradistinta ( basado en dos mitades de un todo ) de Castilla la Vieja .	25	2, 1, 4, 4, 3, 1, 3, 3, 2, 3, 1, 3, 4, 2	2.57142857143
+MOP4	no	Así , participó junto con Alateo en la batalla de Adrianópolis en 378 .	12	3, 2, 4, 3, 3, 4, 4, 3, 4, 3, 2, 3, 2	3.07692307692
+MOP4	no	Sabiamente , el gobernador le prohibió acercarse a la capital de la provincia , y también se negó a devolver sus propiedades fueron confiscadas en 1847 .	24	3, 2, 4, 3, 2, 3, 4, 2, 3, 3, 3, 4, 3, 3	3.0
+MOP4	no	La mayoría de los temas fueron elegidos paisaje, puesta de sol , amanecer y esculturas .	14	3, 2, 3, 3, 3, 2, 1, 1, 3, 2, 3, 2, 2	2.30769230769
