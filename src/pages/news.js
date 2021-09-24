@@ -20,15 +20,23 @@ export default function News(props) {
 
   var upperBound = (page * postsPerPage) - 1
   var lowerBound = (page - 1) * postsPerPage
+  const points = []
+  const newsListYear = {}
+  {props.data.news.group.map((entry, index) => {
+    const yearPublished = props.data.news.group[index].news[0].news_entry.frontmatter.year
+    newsListYear[yearPublished] = entry
+    points.push(yearPublished)
+  })
+  }
+  points.sort((a, b) => b-a);
+
   return (
     <Layout>
       {props.data.news.totalCount > 0 &&
         // <div id="media">
         <div>
-          {props.data.news.group.map((entry, index) => {
-            if (index <= upperBound && index >= lowerBound) {
-              return getNewsEntryList(entry)
-            }
+          {points.map((entry, index) => {
+            return getNewsEntryList(newsListYear[entry])    
           })
         }
           {getPagination("/news?type=news", numPagesNews, page)}
