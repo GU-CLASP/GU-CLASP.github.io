@@ -25,7 +25,7 @@ Currently meeting remotely by video conference.
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
 - Pöldvere, N. (2019). [What’s in a dialogue? : On the dynamics of meaning-making in English conversation.](http://lup.lub.lu.se/record/3004710c-5d08-4069-9dc9-80544f9c3b49) Thesis/doccomp, Lund University. (suggested by Robin)
 - Franke, M., De Jager, T., & Van Rooij, R. (2012). Relevance in Cooperation and Conflict. Journal of Logic and Computation, 22(1), 23–54. https://doi.org/10.1093/logcom/exp070 (suggested by Ellen)
-Barwise, J., & Perry, J. (1998). Situations and Attitudes. (suggested by Staffan)
+- Barwise, J., & Perry, J. (1998). Situations and Attitudes. (suggested by Staffan)
 
 
 ### Previous sessions:
