@@ -12,8 +12,8 @@ Currently meeting remotely by video conference.
 
 ### Upocoming session:
 
-#### 15 October 2021 \-- [10h-12h]
-- Sikos L, Venhuizen NJ, Drenhaus H, Crocker MW (2021) [Reevaluating pragmatic reasoning in language games.](https://doi.org/10.1371/journal.pone.0248388) PLoS ONE 16(3): e0248388. (led by Bill)
+#### 29 October 2021 \-- [10h-12h]
+- TBD
 
 ### Future paper suggestions:
 
@@ -29,6 +29,9 @@ Currently meeting remotely by video conference.
 
 
 ### Previous sessions:
+
+#### 15 October 2021 \-- [10h-12h]
+- Sikos L, Venhuizen NJ, Drenhaus H, Crocker MW (2021) [Reevaluating pragmatic reasoning in language games.](https://doi.org/10.1371/journal.pone.0248388) PLoS ONE 16(3): e0248388. (led by Bill)
 
 #### 10 September 2021 \-- [13h-15h]
 Probabilistic Record Type Lattices for Incremental Reference Processing (continued from last session)
