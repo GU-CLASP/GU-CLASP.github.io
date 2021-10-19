@@ -70,7 +70,7 @@ function getNewsEntryList(newsList) {
       {newsList.news.map((newsPage, index) =>{
         if(newsPage.news_entry.frontmatter.type == "seminar"){
         return(
-          <div>
+          <div class='col'>
             <div class="text">
               <h6 className="p-0 ml-0"> Research Seminar</h6>
                 <p className="p-0 ml-0"> On: {newsList.news[index].news_entry.frontmatter.date}</p>
@@ -87,7 +87,7 @@ function getNewsEntryList(newsList) {
       }
     else{
       return(
-        <div>
+        <div class='col'>
           <div class="text">
               <p className="p-0 ml-0"> On: {newsList.news[index].news_entry.frontmatter.date}</p>
               <h5>
