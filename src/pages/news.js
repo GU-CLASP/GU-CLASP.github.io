@@ -80,7 +80,7 @@ function getNewsEntryList(newsList) {
                   </Link>
                   <br></br>
                 </h5>
-                {/* <hr/> */}
+                <hr/>
             </div>
           </div>
         )
