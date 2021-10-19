@@ -24,6 +24,12 @@ export default function NewsTemplate({
       </Row>
       <Row>
         <Col>
+          Presented by: {frontmatter.presented_by}
+        </Col>
+        
+      </Row>
+      <Row>
+        <Col>
           Posted on: {frontmatter.date}
         </Col>
       </Row>
@@ -45,6 +51,7 @@ export const pageQuery = graphql`
     markdownRemark(fields: {slug: {eq: $slug}}) {
       html
       frontmatter {
+        presented_by
         title
         date(formatString: "MMMM DD, YYYY")
         bannerImage {

@@ -99,7 +99,7 @@ export default function Home(props) {
           {props.data.latest_news.news.map((entry, index) => {
             const news_entry = entry.news_entry
             console.log(new Date(news_entry.frontmatter.date))
-            if(news_entry.frontmatter.expired = false && new Date(news_entry.frontmatter.date) < new Date(getCurrentDate())){
+            if(news_entry.frontmatter.expired == false && new Date(news_entry.frontmatter.date) > new Date(getCurrentDate())){
               ex_news = ex_news + 1 
             }
           })}
@@ -116,13 +116,14 @@ export default function Home(props) {
           {props.data.latest_news.news.map((entry, index) => {
             const news_entry = entry.news_entry
             console.log(new Date(news_entry.frontmatter.date))
-            if(news_entry.frontmatter.expired = false && new Date(news_entry.frontmatter.date) < new Date(getCurrentDate())){
+            if(news_entry.frontmatter.expired == false && new Date(news_entry.frontmatter.date) > new Date(getCurrentDate())){
             return (
 
               <Row className="news-entry">
               <Col
                 className="feature-item ">
                 <p className="p-0 ml-0">{news_entry.frontmatter.date}</p>
+                <p className="p-0 ml-0"> Presented by: {news_entry.frontmatter.presented_by}</p>
                 <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
                 <hr />
                 {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
@@ -286,6 +287,7 @@ export const query = graphql`
             slug
           }
           frontmatter {
+            presented_by
             title
             date(formatString: "MMMM DD, YYYY")
             expired
