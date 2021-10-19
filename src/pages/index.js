@@ -122,13 +122,14 @@ export default function Home(props) {
               <Row className="news-entry">
               <Col
                 className="feature-item ">
-                <p className="p-0 ml-0">{news_entry.frontmatter.date}</p>
-                <p className="p-0 ml-0"> Presented by: {news_entry.frontmatter.presented_by}</p>
-                <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
-                <hr />
-                {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
-                {/* <hr /> */}
-                {/* <p>{news_entry.excerpt}</p> */}
+                  <p className="p-0 ml-0"> Research Seminar</p>
+                  <p className="p-0 ml-0"> ON {news_entry.frontmatter.date}</p>
+                  <p className="p-0 ml-0"> Presented by: {news_entry.frontmatter.presented_by}</p>
+                  <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
+                  <hr />
+                  {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
+                  {/* <hr /> */}
+                  {/* <p>{news_entry.excerpt}</p> */}
               </Col>
               </Row>
             )
