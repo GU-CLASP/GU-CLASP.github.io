@@ -122,8 +122,8 @@ export default function Home(props) {
               <Row className="news-entry">
               <Col
                 className="feature-item ">
-                  <p className="p-0 ml-0"> Research Seminar</p>
-                  <p className="p-0 ml-0"> ON {news_entry.frontmatter.date}</p>
+                  <h5 className="p-0 ml-0"> Research Seminar</h5>
+                  <p className="p-0 ml-0"> On: {news_entry.frontmatter.date}</p>
                   <p className="p-0 ml-0"> Presented by: {news_entry.frontmatter.presented_by}</p>
                   <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
                   <hr />
@@ -281,25 +281,26 @@ export const query = graphql`
       }
       totalCount
     }
-    latest_news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}}, sort: {fields: frontmatter___date, order: DESC}, limit: 3) {
-      news: edges {
-        news_entry: node {
-          fields {
-            slug
-          }
-          frontmatter {
-            presented_by
-            title
-            date(formatString: "MMMM DD, YYYY")
-            expired
-            bannerImage {
-              publicURL
-            }
-          }
-          excerpt
+  latest_news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {expired: {in: false}, date: {}}}, sort: {fields: frontmatter___date, order: ASC}, limit: 5) {
+    news: edges {
+      news_entry: node {
+        fields {
+          slug
         }
+        frontmatter {
+          presented_by
+          title
+          type
+          date(formatString: "MMMM DD, YYYY")
+          expired
+          bannerImage {
+            publicURL
+          }
+        }
+        excerpt
       }
-      totalCount
     }
+    totalCount
+  }
   }
 `

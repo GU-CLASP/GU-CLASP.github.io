@@ -1,9 +1,9 @@
 ---
-presented_by: "Haim Dubossarsky from the University of Cambridge."
+presented_by: "Haim Dubossarsky from the University of Cambridge"
 title: "A space is worth a thousand words: A new spectral analysis method to evaluate vector space similarity"
+type: seminar
 date: 2021-10-20
 year: 2021
-bannerImage: "meeting-311355_1280.png"
 expired: false
 ---
 

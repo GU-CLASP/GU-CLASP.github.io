@@ -1,9 +1,9 @@
 ---
 presented_by: "Katrin Erk from the University of Texas"
 title: "Contextualized embeddings for semantics: some steps along the way"
+type: seminar
 date: 2021-10-27
 year: 2021
-bannerImage: "meeting-311355_1280.png"
 expired: false
 ---
 
