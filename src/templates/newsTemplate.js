@@ -30,7 +30,7 @@ export default function NewsTemplate({
       </Row>
       <Row>
         <Col>
-          Posted on: {frontmatter.date}
+          Date: {frontmatter.date}
         </Col>
       </Row>
       <hr />
