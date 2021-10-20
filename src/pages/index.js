@@ -98,7 +98,7 @@ export default function Home(props) {
         <div>
           {props.data.latest_news.news.map((entry, index) => {
             const news_entry = entry.news_entry
-            if(news_entry.frontmatter.expired == false && new Date(news_entry.frontmatter.date) > new Date(getCurrentDate())){
+            if(news_entry.frontmatter.expired == false && new Date(news_entry.frontmatter.date) > new Date()){
               ex_news = ex_news + 1 
             }
           })}
@@ -113,22 +113,20 @@ export default function Home(props) {
             </Row>
           }
           {props.data.latest_news.news.map((entry, index) => {
-            const news_entry = entry.news_entry
-            if(news_entry.frontmatter.expired == false && new Date(news_entry.frontmatter.date) >= new Date()){
-              console.log(new Date(news_entry.frontmatter.date))
-              console.log(new Date())
+            // const entry.news_entry = entry.entry.news_entry
+            if(entry.news_entry.frontmatter.expired == false && formatDate(entry.news_entry.frontmatter.date) >= formatDate(new Date())){ 
               return (
                 <Row className="news-entry">
                   <Col
                     className="feature-item ">
                       <h5 className="p-0 ml-0"> Research Seminar</h5>
-                      <p className="p-0 ml-0"> On: {news_entry.frontmatter.date}</p>
-                      <p className="p-0 ml-0"> Presented by: {news_entry.frontmatter.presented_by}</p>
-                      <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
+                      <p className="p-0 ml-0"> On: {entry.news_entry.frontmatter.date}</p>
+                      <p className="p-0 ml-0"> Presented by: {entry.news_entry.frontmatter.presented_by}</p>
+                      <a href={entry.news_entry.fields.slug}>{entry.news_entry.frontmatter.title}</a>
                       <hr />
-                      {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
+                      {/* <img className="rounded mx-auto d-block" src={entry.news_entry.frontmatter.bannerImage.publicURL}></img> */}
                       {/* <hr /> */}
-                      {/* <p>{news_entry.excerpt}</p> */}
+                      {/* <p>{entry.news_entry.excerpt}</p> */}
                   </Col>
                 </Row>
               )
@@ -211,17 +209,18 @@ export default function Home(props) {
   )
 }
 
-function getCurrentDate() {
-  const d = new Date()
-  let month = (d.getMonth() + 1).toString()
-  if (month.length < 2) {
-    month = `0${month}`
-  }
-  let day = d.getDate().toString()
-  if (day.length < 2) {
-    day = `0${day}`
-  }
-  return `${d.getFullYear()}-${month}-${day}`
+function formatDate(date) {
+  var d = new Date(date),
+      month = '' + (d.getMonth() + 1),
+      day = '' + d.getDate(),
+      year = d.getFullYear();
+
+  if (month.length < 2) 
+      month = '0' + month;
+  if (day.length < 2) 
+      day = '0' + day;
+
+  return [year, month, day].join('-');
 }
 
 export const query = graphql`
