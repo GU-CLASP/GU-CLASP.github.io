@@ -98,7 +98,6 @@ export default function Home(props) {
         <div>
           {props.data.latest_news.news.map((entry, index) => {
             const news_entry = entry.news_entry
-            console.log(new Date(news_entry.frontmatter.date))
             if(news_entry.frontmatter.expired == false && new Date(news_entry.frontmatter.date) > new Date(getCurrentDate())){
               ex_news = ex_news + 1 
             }
@@ -115,24 +114,24 @@ export default function Home(props) {
           }
           {props.data.latest_news.news.map((entry, index) => {
             const news_entry = entry.news_entry
-            console.log(new Date(news_entry.frontmatter.date))
-            if(news_entry.frontmatter.expired == false && new Date(news_entry.frontmatter.date) > new Date(getCurrentDate())){
-            return (
-
-              <Row className="news-entry">
-              <Col
-                className="feature-item ">
-                  <h5 className="p-0 ml-0"> Research Seminar</h5>
-                  <p className="p-0 ml-0"> On: {news_entry.frontmatter.date}</p>
-                  <p className="p-0 ml-0"> Presented by: {news_entry.frontmatter.presented_by}</p>
-                  <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
-                  <hr />
-                  {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
-                  {/* <hr /> */}
-                  {/* <p>{news_entry.excerpt}</p> */}
-              </Col>
-              </Row>
-            )
+            if(news_entry.frontmatter.expired == false && new Date(news_entry.frontmatter.date) >= new Date()){
+              console.log(new Date(news_entry.frontmatter.date))
+              console.log(new Date())
+              return (
+                <Row className="news-entry">
+                  <Col
+                    className="feature-item ">
+                      <h5 className="p-0 ml-0"> Research Seminar</h5>
+                      <p className="p-0 ml-0"> On: {news_entry.frontmatter.date}</p>
+                      <p className="p-0 ml-0"> Presented by: {news_entry.frontmatter.presented_by}</p>
+                      <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
+                      <hr />
+                      {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
+                      {/* <hr /> */}
+                      {/* <p>{news_entry.excerpt}</p> */}
+                  </Col>
+                </Row>
+              )
             }
           })}
         </div>
@@ -281,7 +280,7 @@ export const query = graphql`
       }
       totalCount
     }
-  latest_news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {expired: {in: false}, date: {}}}, sort: {fields: frontmatter___date, order: ASC}, limit: 5) {
+  latest_news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {expired: {in: false}, date: {}}}, sort: {fields: frontmatter___date, order: ASC}, limit: 6) {
     news: edges {
       news_entry: node {
         fields {
