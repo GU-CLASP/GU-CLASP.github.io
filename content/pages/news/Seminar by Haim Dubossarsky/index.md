@@ -4,7 +4,7 @@ title: "A space is worth a thousand words: A new spectral analysis method to eva
 type: seminar
 date: 2021-10-20
 year: 2021
-expired: false
+expired: true
 ---
 
 Abstract: “Vector-based models represent the meaning of words as numeric vectors, based on the words’ co-occurrence usage statistics as reflected in natural texts. These representations are ubiquitous in everyday language technology applications, and are also the object of scientific inquiry in computational linguistic, social sciences, and other data-driven research domains. Despite significant differences in the architecture of different models (e.g., whether they are static or contextualized word embeddings), all models can be thought of as implementing the distributional hypothesis. Perhaps due to the original theoretical framing of this hypothesis (“You shall know a word by the company it keeps”), word vectors are typically analyzed as separate units, and their potential interactions are thus overlooked. This unnecessarily limits the potential that lies in these representations for both scientific research and language technology applications.
