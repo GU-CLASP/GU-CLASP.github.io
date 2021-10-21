@@ -13,13 +13,12 @@ Currently meeting remotely by video conference.
 ### Upocoming session:
 
 #### 29 October 2021 \-- [10h-12h]
-- TBD
+- Venhuizen, Noortje J., et al. "Expectation-Based Comprehension: Modeling the Interaction of World Knowledge and Linguistic Experience." Discourse Processes, vol. 56, no. 3, Apr. 2019, pp. 229--55. (led by Alex)
 
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
 
-- Venhuizen, Noortje J., et al. "Expectation-Based Comprehension: Modeling the Interaction of World Knowledge and Linguistic Experience." Discourse Processes, vol. 56, no. 3, Apr. 2019, pp. 229--55. (Suggested by Robin)
 - Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of the English Bare Plural in *Formal Semantics: The Essential Readings.* 2008. (Suggested by Ellen)
 - Pustejovsky, J. and Krishnaswamy, N. "Embodied Human Computer Interaction" Ms. (Suggested by Eleni)
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
