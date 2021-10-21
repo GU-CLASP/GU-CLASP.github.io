@@ -46,27 +46,50 @@ export default function News(props) {
   )
 }
 
-function printYear(year_value){
-  return(
-    <Row>
-      <Col>
-      <span class="date">{year_value}</span>
-      </Col>
-    </Row>
-  )
+
+function getCurrentDate() {
+  const d = new Date()
+  let month = (d.getMonth() + 1).toString()
+  if (month.length < 2) {
+    month = `0${month}`
+  }
+  let day = d.getDate().toString()
+  if (day.length < 2) {
+    day = `0${day}`
+  }
+  return `${d.getFullYear()}-${month}-${day}`
 }
 
 function getNewsEntryList(newsList) {
   return (
     <div>
       <div class="span6 post">
-        <span class="date">{newsList.news[0].news_entry.frontmatter.year}</span>
+        <h5><span class="date">{newsList.news[0].news_entry.frontmatter.year}</span></h5>
       </div>
       <div>
       {newsList.news.map((newsPage, index) =>{
+        if(newsPage.news_entry.frontmatter.type == "seminar"){
         return(
-          <div>
+          <div class='col'>
             <div class="text">
+              <h6 className="p-0 ml-0"> Research Seminar</h6>
+                <p className="p-0 ml-0"> On: {newsList.news[index].news_entry.frontmatter.date}</p>
+                <h5>
+                  <Link to={newsPage.news_entry.fields.slug}>
+                  {newsPage.news_entry.frontmatter.title}
+                  </Link>
+                  <br></br>
+                </h5>
+                <hr/>
+            </div>
+          </div>
+        )
+      }
+    else{
+      return(
+        <div class='col'>
+          <div class="text">
+              <p className="p-0 ml-0"> On: {newsList.news[index].news_entry.frontmatter.date}</p>
               <h5>
                 <Link to={newsPage.news_entry.fields.slug}>
                 {newsPage.news_entry.frontmatter.title}
@@ -74,9 +97,10 @@ function getNewsEntryList(newsList) {
                 <br></br>
               </h5>
               {/* <hr/> */}
-            </div>
           </div>
-        )
+        </div>
+      )
+    }
     })
   }
   </div>
@@ -289,6 +313,7 @@ export const query = graphql`
           }
           frontmatter {
             title
+            type
             date(formatString: "MMMM DD, YYYY")
             expired
             year

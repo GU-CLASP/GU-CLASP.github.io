@@ -98,8 +98,7 @@ export default function Home(props) {
         <div>
           {props.data.latest_news.news.map((entry, index) => {
             const news_entry = entry.news_entry
-            console.log(new Date(news_entry.frontmatter.date))
-            if(news_entry.frontmatter.expired = false && new Date(news_entry.frontmatter.date) < new Date(getCurrentDate())){
+            if(news_entry.frontmatter.expired == false && new Date(news_entry.frontmatter.date) > new Date()){
               ex_news = ex_news + 1 
             }
           })}
@@ -114,23 +113,23 @@ export default function Home(props) {
             </Row>
           }
           {props.data.latest_news.news.map((entry, index) => {
-            const news_entry = entry.news_entry
-            console.log(new Date(news_entry.frontmatter.date))
-            if(news_entry.frontmatter.expired = false && new Date(news_entry.frontmatter.date) < new Date(getCurrentDate())){
-            return (
-
-              <Row className="news-entry">
-              <Col
-                className="feature-item ">
-                <p className="p-0 ml-0">{news_entry.frontmatter.date}</p>
-                <a href={news_entry.fields.slug}>{news_entry.frontmatter.title}</a>
-                <hr />
-                {/* <img className="rounded mx-auto d-block" src={news_entry.frontmatter.bannerImage.publicURL}></img> */}
-                {/* <hr /> */}
-                {/* <p>{news_entry.excerpt}</p> */}
-              </Col>
-              </Row>
-            )
+            // const entry.news_entry = entry.entry.news_entry
+            if(entry.news_entry.frontmatter.expired == false && formatDate(entry.news_entry.frontmatter.date) >= formatDate(new Date())){ 
+              return (
+                <Row className="news-entry">
+                  <Col
+                    className="feature-item ">
+                      <h5 className="p-0 ml-0"> Research Seminar</h5>
+                      <p className="p-0 ml-0"> On: {entry.news_entry.frontmatter.date}</p>
+                      <p className="p-0 ml-0"> Presented by: {entry.news_entry.frontmatter.presented_by}</p>
+                      <a href={entry.news_entry.fields.slug}>{entry.news_entry.frontmatter.title}</a>
+                      <hr />
+                      {/* <img className="rounded mx-auto d-block" src={entry.news_entry.frontmatter.bannerImage.publicURL}></img> */}
+                      {/* <hr /> */}
+                      {/* <p>{entry.news_entry.excerpt}</p> */}
+                  </Col>
+                </Row>
+              )
             }
           })}
         </div>
@@ -210,17 +209,18 @@ export default function Home(props) {
   )
 }
 
-function getCurrentDate() {
-  const d = new Date()
-  let month = (d.getMonth() + 1).toString()
-  if (month.length < 2) {
-    month = `0${month}`
-  }
-  let day = d.getDate().toString()
-  if (day.length < 2) {
-    day = `0${day}`
-  }
-  return `${d.getFullYear()}-${month}-${day}`
+function formatDate(date) {
+  var d = new Date(date),
+      month = '' + (d.getMonth() + 1),
+      day = '' + d.getDate(),
+      year = d.getFullYear();
+
+  if (month.length < 2) 
+      month = '0' + month;
+  if (day.length < 2) 
+      day = '0' + day;
+
+  return [year, month, day].join('-');
 }
 
 export const query = graphql`
@@ -279,24 +279,26 @@ export const query = graphql`
       }
       totalCount
     }
-    latest_news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}}, sort: {fields: frontmatter___date, order: DESC}, limit: 3) {
-      news: edges {
-        news_entry: node {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            date(formatString: "MMMM DD, YYYY")
-            expired
-            bannerImage {
-              publicURL
-            }
-          }
-          excerpt
+  latest_news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {expired: {in: false}, date: {}}}, sort: {fields: frontmatter___date, order: ASC}, limit: 6) {
+    news: edges {
+      news_entry: node {
+        fields {
+          slug
         }
+        frontmatter {
+          presented_by
+          title
+          type
+          date(formatString: "MMMM DD, YYYY")
+          expired
+          bannerImage {
+            publicURL
+          }
+        }
+        excerpt
       }
-      totalCount
     }
+    totalCount
+  }
   }
 `
