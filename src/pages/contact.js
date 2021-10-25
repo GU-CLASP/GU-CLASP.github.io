@@ -36,7 +36,7 @@ export default function Project(props) {
                 <br></br>
 
                 <h5>Sharid Loáiciga, Associate Director and Researcher</h5>
-                Phone +46 31 786 2536
+                Phone +46 31 786 5942
                 <p>E-mail: <a href="mailto: sharid.loaiciga@gu.se"> sharid.loaiciga@gu.se</a></p>
                 <br></br>
 
