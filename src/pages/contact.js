@@ -41,7 +41,7 @@ export default function Project(props) {
                 <br></br>
 
                 <h5>Hanna Edblom, Administrator</h5>
-                                Phone: +46 31 786 49 38
+                                Phone: +46 31 786 4938
                                 <p>E-mail: <a href="mailto: hanna.edblom@gu.se">hanna.edblom@gu.se</a></p>
                 <hr></hr>
                 <h4>Visiting address</h4>
