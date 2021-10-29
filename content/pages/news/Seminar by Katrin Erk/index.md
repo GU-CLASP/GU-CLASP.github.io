@@ -4,7 +4,7 @@ title: "Contextualized embeddings for semantics: some steps along the way"
 type: seminar
 date: 2021-10-27
 year: 2021
-expired: false
+expired: true
 ---
 
 Abstract: Word vectors, more recently called embeddings, capture regularities about a word's observed context items. In their most recent incarnation, contextualized word embeddings -- vectors for words in context -- are learned in contextualized language models. These embeddings could maybe become a great resource for lexical semantics, and a building block for structured sentence semantics. But in order to get there, we need to figure out how best to use contextualized embeddings for characterizing lexical meaning, and understand what kind of lexical meaning they provide, which theory of lexical meaning they best match. In this talk, I will discuss some recent steps that we have taken in this direction. There are several proposals in the
