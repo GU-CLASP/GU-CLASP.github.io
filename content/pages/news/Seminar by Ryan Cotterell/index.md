@@ -1,5 +1,5 @@
 ---
-presented_by: "Ryan Cotterell"
+presented_by: "Ryan Cotterell, University of Zürich"
 title: ""
 type: seminar
 date: 2021-11-24

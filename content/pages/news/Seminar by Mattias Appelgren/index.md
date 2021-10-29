@@ -1,5 +1,5 @@
 ---
-presented_by: "Mattias Appelgren"
+presented_by: "Mattias Appelgren, University of Edinburgh"
 title: ""
 type: seminar
 date: 2021-12-15
