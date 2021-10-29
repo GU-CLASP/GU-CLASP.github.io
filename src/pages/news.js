@@ -305,7 +305,7 @@ function getPagination(link, number_of_pages, current_page) {
 }
 
 export const query = graphql`
-{news: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {hideInSearchResults: {ne: true}, expired: {in: false}, date: {}}}) {
+{news: allMarkdownRemark(sort: {fields: frontmatter___date}, filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {hideInSearchResults: {ne: true}, expired: {in: false}, date: {}}}) {
   group(field: frontmatter___year){
   news: edges {
         news_entry: node {
