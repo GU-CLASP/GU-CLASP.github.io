@@ -2,6 +2,7 @@
 name: "Vladislav Maraev"
 role: 4 
 title: "PhD Student"
+profileImage: "vlad.jpg"
 ---
 My research aims at improving dialogue between humans and machines. I position my research in a field of computational linguistics in a broad sense: I build models that reproduce human behaviour, therefore trying to understand how our cognition works. And one of the by-products of this is, I believe, a better AI.
 
