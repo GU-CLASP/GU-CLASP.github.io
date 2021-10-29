@@ -74,6 +74,7 @@ function getNewsEntryList(newsList) {
             <div class="text">
               <h6 className="p-0 ml-0"> Research Seminar</h6>
                 <p className="p-0 ml-0"> On: {newsList.news[index].news_entry.frontmatter.date}</p>
+                <p className="p-0 ml-0"> Presented by: {newsList.news[index].news_entry.frontmatter.presented_by}</p>
                 <h5>
                   <Link to={newsPage.news_entry.fields.slug}>
                   {newsPage.news_entry.frontmatter.title}
@@ -312,6 +313,7 @@ export const query = graphql`
             slug
           }
           frontmatter {
+            presented_by
             title
             type
             date(formatString: "MMMM DD, YYYY")
