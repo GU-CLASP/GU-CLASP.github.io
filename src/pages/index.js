@@ -279,7 +279,7 @@ export const query = graphql`
       }
       totalCount
     }
-  latest_news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {expired: {in: false}, date: {}}}, sort: {fields: frontmatter___date, order: ASC}, limit: 6) {
+  latest_news: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {expired: {in: false}, date: {}}}, sort: {fields: frontmatter___date, order: ASC}, limit: 8) {
     news: edges {
       news_entry: node {
         fields {
