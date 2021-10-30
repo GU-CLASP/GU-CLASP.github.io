@@ -1,7 +1,9 @@
 ---
 name: "Stergios Chatzikyriakidis"
 role: 5 
-title: "Associate Director and Researcher (Docent in Computational Linguistics) "
+title: "Professor of Computational Linguistics"
 profileImage: "stergios.jpg"
 ---
-I'm a Docent (=Associate Professor, Researcher) in Computational Linguistics and the Research Coordinator of the Centre for Linguistic Theory and Studies in Probability (CLASP) at the University of Gothenburg. My research interests lie within Computational/Formal Semantics/Syntax. Constructive Type Theoretical Semantics and their Implementation, Natural Language Inference, Probabilistic Semantics, Dialogue Modelling and the interaction between Logic and Machine Learning/Deep Learning for NLP, are some of the topics I have been interested in throughout the years. Furthermore, I have been working on formal and formal dialectal syntax and I also have an ongoing interest in tasks such as Metaphor Detection, Language Identification and Language Similarity. For more information, as well as an up to date publication list, please visit my personal [webpage](https://www.stergioschatzikyriakidis.com/).
+Stergios Chatzikyriakidis is a Professor of Computational Linguistics at the University of Crete. He earned his BA in Greek Philology specializing in Linguistics at Aristotle University, Thessaloniki. He continued his studies with an MSc in Computational Linguistics and Formal Grammar, and a PhD in Linguistics, both from King’s College, London. He has worked at Royal Holloway, University of London, the French National Centre for Scientific Research (CNRS), the Open University of Cyprus and the University of Gothenburg. From 2016 until 2021, he was the Associate Director of the Center for Linguistic Theory and Studies in Probability (CLASP).
+
+His research interests lie within Computational/Formal Semantics/Syntax. Constructive Type Theoretical Semantics and their Implementation, Natural Language Inference, Probabilistic Semantics, Dialogue Modelling and the interaction between Logic and Machine Learning/Deep Learning for NLP are some of the topics he has been working on. [webpage](https://www.stergioschatzikyriakidis.com/).
