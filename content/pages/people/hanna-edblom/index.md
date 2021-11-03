@@ -2,9 +2,9 @@
 name: "Hanna Edblom"
 role: 2 
 title: "Administrator"
-profileImage: "Hanna.jpg" 
+profileImage: "hanna.jpg" 
 ---
-I am the stand-in administrator for Susanna Myyry. My tasks involve helping out with any administration related to CLASP - a project within the Department of Philosophy, Linguistics and Theory of Science (FLoV). For example updating the CLASP website, arranging travels, appointments, conferences, handling invoices and guest research administration.
+I am the stand-in administrator for Susanna Myyry. My tasks involve helping out with any administration related to CLASP - a project within the Department of Philosophy, Linguistics and Theory of Science (FLoV). For example arranging travels, appointments, conferences, updating the CLASP website, handling invoices and guest research administration.
 
 Please do not hesitate to contact me if you need assistance in any of the areas listed above!
 
