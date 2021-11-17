@@ -4,7 +4,7 @@ title: ""
 type: seminar
 date: 2021-11-17
 year: 2021
-expired: false
+expired: true
 ---
 
 Time: 13.15-15.00 
