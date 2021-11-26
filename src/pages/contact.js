@@ -36,12 +36,12 @@ export default function Project(props) {
                 <br></br>
 
                 <h5>Sharid Loáiciga, Associate Director and Researcher</h5>
-                Phone +46 31 786 2536
+                Phone +46 31 786 5942
                 <p>E-mail: <a href="mailto: sharid.loaiciga@gu.se"> sharid.loaiciga@gu.se</a></p>
                 <br></br>
 
                 <h5>Hanna Edblom, Administrator</h5>
-                                Phone: +46 31 786 49 38
+                                Phone: +46 31 786 4938
                                 <p>E-mail: <a href="mailto: hanna.edblom@gu.se">hanna.edblom@gu.se</a></p>
                 <hr></hr>
                 <h4>Visiting address</h4>

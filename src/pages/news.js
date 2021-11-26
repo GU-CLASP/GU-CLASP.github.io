@@ -64,7 +64,7 @@ function getNewsEntryList(newsList) {
   return (
     <div>
       <div class="span6 post">
-        <h5><span class="date">{newsList.news[0].news_entry.frontmatter.year}</span></h5>
+        <h4><span class="date">{newsList.news[0].news_entry.frontmatter.year}</span></h4>
       </div>
       <div>
       {newsList.news.map((newsPage, index) =>{
@@ -72,8 +72,9 @@ function getNewsEntryList(newsList) {
         return(
           <div class='col'>
             <div class="text">
-              <h6 className="p-0 ml-0"> Research Seminar</h6>
+              <h5 className="p-0 ml-0"> Research Seminar</h5>
                 <p className="p-0 ml-0"> On: {newsList.news[index].news_entry.frontmatter.date}</p>
+                <p className="p-0 ml-0"> Presented by: {newsList.news[index].news_entry.frontmatter.presented_by}</p>
                 <h5>
                   <Link to={newsPage.news_entry.fields.slug}>
                   {newsPage.news_entry.frontmatter.title}
@@ -304,7 +305,7 @@ function getPagination(link, number_of_pages, current_page) {
 }
 
 export const query = graphql`
-{news: allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}, filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {hideInSearchResults: {ne: true}, expired: {in: false}, date: {}}}) {
+{news: allMarkdownRemark(sort: {fields: frontmatter___date}, filter: {fields: {slug: {regex: "/^/news//"}}, frontmatter: {hideInSearchResults: {ne: true}, expired: {in: false}, date: {}}}) {
   group(field: frontmatter___year){
   news: edges {
         news_entry: node {
@@ -312,6 +313,7 @@ export const query = graphql`
             slug
           }
           frontmatter {
+            presented_by
             title
             type
             date(formatString: "MMMM DD, YYYY")
