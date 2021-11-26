@@ -12,9 +12,6 @@ Currently meeting remotely by video conference.
 
 ### Upocoming session:
 
-#### 29 October 2021 \-- [10h-12h]
-- Venhuizen, Noortje J., et al. "Expectation-Based Comprehension: Modeling the Interaction of World Knowledge and Linguistic Experience." Discourse Processes, vol. 56, no. 3, Apr. 2019, pp. 229--55. (led by Alex)
-
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
@@ -28,6 +25,12 @@ Currently meeting remotely by video conference.
 
 
 ### Previous sessions:
+
+#### 26 November 2021 \-- [10h-12h]
+- Venhuizen, N. J., Hendriks, P., Crocker, M. W., & Brouwer, H. (2019). A Framework for Distributional Formal Semantics. In R. Iemhoff, M. Moortgat, & R. de Queiroz (Eds.), Logic, Language, Information, and Computation (pp. 633–646). Springer. (led by Robin)
+
+#### 29 October 2021 \-- [10h-12h]
+- Venhuizen, Noortje J., et al. "Expectation-Based Comprehension: Modeling the Interaction of World Knowledge and Linguistic Experience." Discourse Processes, vol. 56, no. 3, Apr. 2019, pp. 229--55. (led by Alex)
 
 #### 15 October 2021 \-- [10h-12h]
 - Sikos L, Venhuizen NJ, Drenhaus H, Crocker MW (2021) [Reevaluating pragmatic reasoning in language games.](https://doi.org/10.1371/journal.pone.0248388) PLoS ONE 16(3): e0248388. (led by Bill)
