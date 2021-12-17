@@ -4,7 +4,7 @@ title: ""
 type: seminar
 date: 2022-01-02
 year: 2022
-expired: true
+expired: flase
 ---
 
 Time: 13.15-15.00
