@@ -2,7 +2,7 @@
 presented_by: "Nikolai Ilinykh from University of Gothenburg"
 title: ""
 type: seminar
-date: 2022-01-02
+date: 2022-02-02
 year: 2022
 expired: false
 ---
