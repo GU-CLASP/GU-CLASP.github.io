@@ -1,5 +1,5 @@
 ---
-presented_by: "Jean-Philippe Bernardy and Shamol Lappin from University of Gothenburg"
+presented_by: "Jean-Philippe Bernardy and Shalom Lappin from University of Gothenburg"
 title: "Unitary Matrices are Composable and Learnable Word Embeddings"
 type: seminar
 date: 2022-01-26
