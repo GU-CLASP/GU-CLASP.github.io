@@ -4,7 +4,7 @@ title: "Visualise my Corpus"
 type: seminar
 date: 2022-01-13
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract: Are you a researcher (postgrad or staff) working with large data sets, critical discourse analysis, and/or use tools to analyse and interpret your data? Have you encountered limits of visualising your results?
