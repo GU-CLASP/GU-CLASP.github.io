@@ -2,7 +2,7 @@
 presented_by: "Barbara Plank from IT University of Copenhagen"
 title: ""
 type: seminar
-date: 2022-02-16
+date: 2022-02-23
 year: 2022
 expired: false
 ---
