@@ -5,6 +5,7 @@ type: seminar
 date: 2022-01-13
 duration: "2 hours"
 venue: "Gothenburg and Online"
+slides: visualise_my _corpus.pdf
 ---
 
 Abstract: Are you a researcher (postgrad or staff) working with large data sets, critical discourse analysis, and/or use tools to analyse and interpret your data? Have you encountered limits of visualising your results?
