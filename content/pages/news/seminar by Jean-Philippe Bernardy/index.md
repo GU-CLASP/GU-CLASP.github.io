@@ -11,6 +11,6 @@ Abstract: “Unitary-evolution recurrent neural networks (URN) were previously i
 
 Time: 13.15-15.00
 
-Location: In person at J577 (Humanisten) or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
+via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
 
  
