@@ -19,12 +19,19 @@ Currently meeting remotely by video conference.
 - Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of the English Bare Plural in *Formal Semantics: The Essential Readings.* 2008. (Suggested by Ellen)
 - Pustejovsky, J. and Krishnaswamy, N. "Embodied Human Computer Interaction" Ms. (Suggested by Eleni)
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
-- Pöldvere, N. (2019). [What’s in a dialogue? : On the dynamics of meaning-making in English conversation.](http://lup.lub.lu.se/record/3004710c-5d08-4069-9dc9-80544f9c3b49) Thesis/doccomp, Lund University. (suggested by Robin)
 - Franke, M., De Jager, T., & Van Rooij, R. (2012). Relevance in Cooperation and Conflict. Journal of Logic and Computation, 22(1), 23–54. https://doi.org/10.1093/logcom/exp070 (suggested by Ellen)
 - Barwise, J., & Perry, J. (1998). Situations and Attitudes. (suggested by Staffan)
 
 
 ### Previous sessions:
+
+#### 21 January 2022 \-- [10h-12h]
+Beltrama, A., & Schwarz, F. (2021). Imprecision, personae, and pragmatic reasoning. Semantics and Linguistic Theory, 31(0), 122–144. https://doi.org/10.3765/salt.v31i0.5107 (led by Bill)
+
+
+#### 10 December 2021 \-- [10h-12h]
+- Põldvere, N., Fuoli, M., & Paradis, C. (2016). A study of dialogic expansion and contraction in spoken discourse using corpus and experimental techniques. Corpora, 11(2), 191–225. https://doi.org/10.3366/cor.2016.0092 (led by Bill)
+
 
 #### 26 November 2021 \-- [10h-12h]
 - Venhuizen, N. J., Hendriks, P., Crocker, M. W., & Brouwer, H. (2019). A Framework for Distributional Formal Semantics. In R. Iemhoff, M. Moortgat, & R. de Queiroz (Eds.), Logic, Language, Information, and Computation (pp. 633–646). Springer. (led by Robin)
