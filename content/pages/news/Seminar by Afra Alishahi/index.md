@@ -4,7 +4,7 @@ title: "Grounded language learning, from sounds and images to meaning"
 type: seminar
 date: 2022-02-09
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract:
