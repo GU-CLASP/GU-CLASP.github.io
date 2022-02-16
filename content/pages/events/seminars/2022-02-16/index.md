@@ -1,10 +1,10 @@
 ---
-presented_by: "Tal Linzen from New York University"
+lecturer: "Tal Linzen from New York University"
 title: "Causal analysis of the syntactic representations of Transformers"
 type: seminar
 date: 2022-02-16
-year: 2022
-expired: true
+duration: "2 hours"
+venue: "Gothenburg and Online"
 ---
 
 Abstract:
@@ -14,7 +14,3 @@ The success of artificial neural networks in language processing tasks has under
 Bio:
 
 Tal Linzen is an Assistant Professor of Linguistics and Data Science at New York University. Before moving to NYU in 2020, he was a faculty member at Johns Hopkins University, a postdoctoral researcher at the École Normale Supérieure in Paris, and a PhD student at NYU. At NYU, Tal directs the Computational Psycholinguistics Lab, which develops computational models of human language comprehension and acquisition, as well as methods for interpreting and evaluating neural network models for language technologies.
-
-Time: 3:15pm
-
-Place: By Zoom https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
