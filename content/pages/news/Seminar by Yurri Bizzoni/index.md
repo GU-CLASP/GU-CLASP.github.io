@@ -13,4 +13,4 @@ I will present the main research question and hypothesis of the new project Fabu
 
 Time: 13.15 - 15.00
 
-Location: Attend In person at J577 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
+Location: Attend in person at J577 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
