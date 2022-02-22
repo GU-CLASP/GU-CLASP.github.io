@@ -7,6 +7,5 @@ year: 2022
 expired: false
 ---
 
-Time: 1:15pm
 
-Place: By Zoom https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
+Location: Attend in person at J406 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
