@@ -4,7 +4,7 @@ title: "The happiness of readers. Fractal scaling of sentiment dynamics and the 
 type: seminar
 date: 2022-03-02
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract 
