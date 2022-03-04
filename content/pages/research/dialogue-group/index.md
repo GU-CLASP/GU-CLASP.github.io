@@ -7,6 +7,9 @@ We study dialogue from a number of different perspectives, including experimenta
 
 We have a [dialogue reading group](meetings) which meets fortnightly. 
 
+Join the [mailing list](https://listserv.gu.se/sympa/subscribe/dialogue) to be updated about upcoming reading group meetigs
+and other exciting dialogue-related discussion, announcements, and so on.
+
 The main people in the dialogue research group are: 
 - Christine Howes (group leader) 
 - Ellen Breitholtz 
