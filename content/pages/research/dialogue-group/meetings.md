@@ -8,34 +8,31 @@ MDFileCustomID: "reading-dialogue"
 
 Meetings: Alternate Fridays (odd weeks), 10.15-12.00.
 
-Currently meeting remotely by video conference.
-
 ### Upocoming session:
 
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
 
+- Ahn, E., Jimenez, C., Tsvetkov, Y., & Black, A. W. (2020, January). What code-switching strategies are effective in dialog systems?. In Proceedings of the Society for Computation in Linguistics 2020 (pp. 254-264). (suggested by Fahima)
+- Acton, E. (2022). Sociophonetics, semantics, and intention. Journal of Linguistics, 1-30. doi:10.1017/S0022226721000475 (suggested by Robin)
 - Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of the English Bare Plural in *Formal Semantics: The Essential Readings.* 2008. (Suggested by Ellen)
 - Pustejovsky, J. and Krishnaswamy, N. "Embodied Human Computer Interaction" Ms. (Suggested by Eleni)
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
-- Franke, M., De Jager, T., & Van Rooij, R. (2012). Relevance in Cooperation and Conflict. Journal of Logic and Computation, 22(1), 23–54. https://doi.org/10.1093/logcom/exp070 (suggested by Ellen)
 - Barwise, J., & Perry, J. (1998). Situations and Attitudes. (suggested by Staffan)
 
 
 ### Previous sessions:
 
-
 #### 4 March 2022 \-- [10h-12h]
 
 Franzén, A. G., Jonsson, R., & Sjöblom, B. (2021). Fear, anger, and desire: Affect and the interactional intricacies of rape humor on a live podcast. Language in Society, 50(5), 763–786. https://doi.org/10.1017/S0047404520000615 (Led by Vlad and/or Chris)
 
-#### 18 February 2022 \-- [10h-12h]
+#### 18 February 2022 \-- [13h-15h]
+Myslín, M., & Levy, R. (2015). Code-switching and predictability of meaning in discourse. Language, 871-905.https://www.jstor.org/stable/pdf/24672251.pdf (led by Fahima)
 
-Myslín, M., & Levy, R. (2015). Code-switching and predictability of meaning in discourse. Language, 91(4), 871–905. https://doi.org/10.1353/lan.2015.0068 (led by Fahima)
-
-#### 4 February 2022  \-- [10h-12h]
-Franke, M., De Jager, T., & Van Rooij, R. (2012). Relevance in Cooperation and Conflict. Journal of Logic and Computation, 22(1), 23–54. https://doi.org/10.1093/logcom/exp070 (led by Bill)
+#### 4 February 2022 \-- [10h-12h]
+Franke, M., De Jager, T., & Van Rooij, R. (2012). Relevance in Cooperation and Conflict. Journal of Logic and Computation, 22(1), 23–54. https://doi.org/10.1093/logcom/exp070 (suggested by Eleni)
 
 #### 21 January 2022 \-- [10h-12h]
 Beltrama, A., & Schwarz, F. (2021). Imprecision, personae, and pragmatic reasoning. Semantics and Linguistic Theory, 31(0), 122–144. https://doi.org/10.3765/salt.v31i0.5107 (led by Bill)
