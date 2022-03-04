@@ -25,6 +25,18 @@ Currently meeting remotely by video conference.
 
 ### Previous sessions:
 
+
+#### 4 March 2022 \-- [10h-12h]
+
+Franzén, A. G., Jonsson, R., & Sjöblom, B. (2021). Fear, anger, and desire: Affect and the interactional intricacies of rape humor on a live podcast. Language in Society, 50(5), 763–786. https://doi.org/10.1017/S0047404520000615 (Led by Vlad and/or Chris)
+
+#### 18 February 2022 \-- [10h-12h]
+
+Myslín, M., & Levy, R. (2015). Code-switching and predictability of meaning in discourse. Language, 91(4), 871–905. https://doi.org/10.1353/lan.2015.0068 (led by Fahima)
+
+#### 4 February 2022  \-- [10h-12h]
+Franke, M., De Jager, T., & Van Rooij, R. (2012). Relevance in Cooperation and Conflict. Journal of Logic and Computation, 22(1), 23–54. https://doi.org/10.1093/logcom/exp070 (led by Bill)
+
 #### 21 January 2022 \-- [10h-12h]
 Beltrama, A., & Schwarz, F. (2021). Imprecision, personae, and pragmatic reasoning. Semantics and Linguistic Theory, 31(0), 122–144. https://doi.org/10.3765/salt.v31i0.5107 (led by Bill)
 
