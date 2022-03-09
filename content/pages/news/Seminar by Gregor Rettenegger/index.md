@@ -19,4 +19,5 @@ Slater, M. D. (2015). Reinforcing spirals model: Conceptualizing the relationshi
 Tajfel, H., Turner, J. C., Austin, W. G., & Worchel, S. (1979). An integrative theory of intergroup conflict. Organizational identity: A reader, 56(65), 9780203505984-16.
 
 Time: 13.15 - 15.00 
+
 Location: Attend in person at J406 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
