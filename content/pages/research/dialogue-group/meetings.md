@@ -8,7 +8,7 @@ MDFileCustomID: "reading-dialogue"
 
 Meetings: Alternate Fridays (odd weeks), 10.15-12.00.
 
-### Upocoming session:
+### Upcoming session:
 
 #### 18 March 2022 \-- [10h-12h]
 - Charolles, M. (2020). Discourse topics and digressive markers. Journal of Pragmatics, 161, 57-77. https://doi.org/10.1016/j.pragma.2020.01.005 (Led by Amandine and Ellen)
