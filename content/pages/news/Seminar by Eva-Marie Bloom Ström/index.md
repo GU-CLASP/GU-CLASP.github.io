@@ -7,14 +7,19 @@ year: 2022
 expired: false
 ---
 
-Abstract: Referred to as verum focus since Höhle (1992), the emphasis on the expression of truth of a proposition is realized in in a variety of ways in languages.
-For example, German is analyzed as having a verum operator, realized as non-contrastive focus on the verb or the complementizer, while English and Spanish use lexical insertions (Gutzmann and Castroviejo Miró 2011):
+Abstract: 
+
+Referred to as verum focus since Höhle (1992), the emphasis on the expression of truth of a proposition is realized in in a variety of ways in languages. For example, German is analyzed as having a verum operator, realized as non-contrastive focus on the verb or the complementizer, while English and Spanish use lexical insertions (Gutzmann and Castroviejo Miró 2011):
 
 
-  1.  Cross-linguistic examples (Gutzmann and Castroviejo Miró 2011: 144)
+  1.  Cross-linguistic examples (Gutzmann and Castroviejo Miró 2011: 144) 
+
 A: I wonder whether Carl has finished his book.
+
 B1: Karl HAT sein Buch beendet.
+
 B2: Carl did finish his book.
+
 B3: Carlos sí acabó su libro.
 
 The Bantu languages are known for their high word order flexibility. Different word orders interact with subject vs. expletive agreement, object agreement vs. lack thereof, as well as marking on the noun. The use of the different word orders relates to information structure (Downing and Hyman 2015). However, the finer details of discourse organization are still to be determined. And, the factors characterizing the marking of verum are unexplored for the Bantu languages. What we do know, is that focus is typically not marked through prosodic prominence in these languages (Kanerva 1990, Zerbian 2007).
