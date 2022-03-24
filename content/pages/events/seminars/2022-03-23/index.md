@@ -1,10 +1,10 @@
 ---
-presented_by: "Eva-Marie Bloom Ström"
+lecturer: "Eva-Marie Bloom Ström"
 title: "How do words get in order? the role of speaker-hearer interaction in languages of South Africa"
 type: seminar
 date: 2022-03-23
-year: 2022
-expired: true
+duration: "2 hours"
+venue: "Gothenburg and Online"
 ---
 
 Abstract: 
@@ -39,8 +39,3 @@ Höhle, Tilman. 1992. ‘Über Verum-Fokus im Deutschen’. In J. Jacobs (ed.) I
 Kanerva, Jonni M. 1990. Focus and phrasing in Chichewa phonology. New York: Garland Publishing.
 
 Zerbian, Sabine. 2007. Investigating prosodic focus marking in Northern Sotho. In Katharina Hartmann, Enoch Aboh and Malte Zimmermann (eds): Focus Strategies in African Languages: The Interaction of Focus and Grammar in Niger-Congo and Afro-Asiatic, 55-79. Berlin: Mouton de Gruyter.
-
-
-Time: 13.15
-
-Location: Attend in person at J406 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
