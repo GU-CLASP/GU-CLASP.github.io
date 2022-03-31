@@ -4,7 +4,7 @@ title: "Unnatural Language Semantics"
 type: seminar
 date: 2022-03-30
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract:
