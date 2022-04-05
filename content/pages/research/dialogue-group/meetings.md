@@ -23,6 +23,8 @@ TBA
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
 - Barwise, J., & Perry, J. (1998). Situations and Attitudes. (suggested by Staffan)
 - Dingemanse, Mark, and Andreas Liesenfeld. [From Text to Talk: Harnessing Conversational Corpora for Humane and Diversity-aware Language Technology.](https://osf.io/m43zh/) (updated version may exist on ACL) (suggested by Bill)
+- Ilbury, Christian. [U Ok Hun?: The digital commodification of white woman style.](https://doi.org/10.1111/josl.12563) Journal of Sociolinguistics, 2022. (suggested by Bill)
+
 
 
 ### Previous sessions:
