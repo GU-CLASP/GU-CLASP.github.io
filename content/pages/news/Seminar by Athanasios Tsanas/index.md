@@ -44,3 +44,6 @@ A. Tsanas: Accurate telemonitoring of Parkinson’s disease symptom severity usi
 
 
 Location: Attend in person at J577 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
+
+
+Time: 13:15-15:00
