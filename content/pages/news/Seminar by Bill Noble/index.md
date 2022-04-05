@@ -1,5 +1,5 @@
 ---
-presented_by: "Bill Noble"
+presented_by: "Bill Noble and Nikolai Ilinykh from University of Gothenburg"
 title: ""
 type: seminar
 date: 2022-05-04
