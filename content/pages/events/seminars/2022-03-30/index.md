@@ -5,7 +5,7 @@ type: seminar
 date: 2022-03-30
 duration: "2 hours"
 venue: "Gothenburg and Online"
-slide: 'clasp.pdf'
+slide: "clasp.pdf"
 ---
 
 Abstract:
