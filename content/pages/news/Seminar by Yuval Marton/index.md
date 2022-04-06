@@ -1,6 +1,6 @@
 ---
 presented_by: "Yuval Martin from Washington University"
-title: "TBA"
+title: ""
 type: seminar
 date: 2022-05-11
 year: 2022
