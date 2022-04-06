@@ -4,7 +4,7 @@ title: "On Evaluating Neural Representations"
 type: seminar
 date: 2022-04-06
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract:
