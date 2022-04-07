@@ -1,0 +1,12 @@
+---
+title: "(Dis)embodiment Conference"
+date: 2022-09-14 to 2022-09-16
+venue: "Hybrid (Gothenburg University, room J335 and online)"
+duration: "3 days"
+---
+
+(Dis)embodiment  is a conference organized by the Centre for Linguistic Theory and Studies in Probability (CLASP), https://www.gu.se/en/clasp at the Department of Philosophy, Linguistics and Theory of Science (FLoV), http://flov.gu.se/english. It is sponsored by SIGSEM http://sigsem.org, the ACL special interest group on semantics. 
+
+(Dis)embodiment will bring together researchers from various areas looking to answer the question of the role of grounding and embodiment in modelling human language tasks and behaviour -- or limits thereof.  The conference is open to viewpoints from machine learning, computational linguistics, theoretical linguistics and philosophy, cognitive science and psycholinguistics, as well as artificial intelligence ethics and policy. We hope to see technical contributions and the full spectrum of reasoned debate.For more info visit: https://sites.google.com/view/disembodiment/home
+
+![disembodiment](./disembodiment.jpeg)
