@@ -1,5 +1,5 @@
 ---
-presented_by: "Athanasios Tsanas"
+presented_by: "Athanasios Tsanas from University of Edinburgh"
 title: "Biomedical speech signal processing: concepts, algorithms, and contemporary challenges"
 type: seminar
 date: 2022-05-18

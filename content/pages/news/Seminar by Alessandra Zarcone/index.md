@@ -1,5 +1,5 @@
 ---
-presented_by: "Alessandra Zarcone"
+presented_by: "Alessandra Zarcone from University of Augsburg"
 title: ""
 type: seminar
 date: 2022-06-15

@@ -1,5 +1,5 @@
 ---
-presented_by: "Yuval Martin from Washington University"
+presented_by: "Yuval Martin from University of Washington"
 title: ""
 type: seminar
 date: 2022-05-11
