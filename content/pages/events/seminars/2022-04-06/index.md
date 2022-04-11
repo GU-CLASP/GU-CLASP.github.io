@@ -5,7 +5,7 @@ type: seminar
 date: 2022-04-06
 duration: "2 hours"
 venue: "Gothenburg and Online"
-slides: ''
+slides: Evaluating_Representations@CLASP_2022.pdf
 ---
 
 Abstract:
