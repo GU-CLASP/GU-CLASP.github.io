@@ -4,7 +4,7 @@ title: "Dependency Parsing and Information Extraction in Low-Resource Scenarios"
 type: seminar
 date: 2022-04-20
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract: 
