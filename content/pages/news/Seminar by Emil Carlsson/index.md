@@ -1,5 +1,5 @@
 ---
-presented_by: "Emil Carlsson and Devdatt Dubhashi"
+presented_by: "Emil Carlsson and Devdatt Dubhashi from Chalmers University"
 title: ""
 type: seminar
 date: 2022-06-08
