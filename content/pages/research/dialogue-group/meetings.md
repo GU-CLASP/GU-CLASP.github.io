@@ -29,6 +29,9 @@ TBA
 
 ### Previous sessions:
 
+#### 8 April 2022 \-- [10h-12h]
+Lewis, D. (1988). Statements partly about observation. Philosophical papers, 17(1), 1-31. (Led by Bill)
+
 #### 18 March 2022 \-- [10h-12h]
 Charolles, M. (2020). Discourse topics and digressive markers. Journal of Pragmatics, 161, 57-77. https://doi.org/10.1016/j.pragma.2020.01.005 (Led by Amandine and Ellen)
 
