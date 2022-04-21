@@ -22,8 +22,11 @@ Docent Peter Ljunglöf, Göteborgs universitet
 Chair: Docent Christine Howes, Göteborgs universitet
 
 Date: 2022-05-25
+
 Time: 15:00
+
 Location: room J439, Humanisten, Renströmsgatan 6
+
 Title: Resources and Applications for Dialectal Arabic: the Case of Levantine
 
 Abstract:
