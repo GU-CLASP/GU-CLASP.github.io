@@ -20,3 +20,7 @@ Her research focuses on the modeling of reasoning and dialogue via a transdiscip
 [Publications available on FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget)
 
 For more info please visit  [my LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
+
+-------------------------------------------------
+PhD Project: "Language as a tool: A rational and cognitive approach"
+The original approach is to refashion rationality starting from a distinction between two types of information (facts and infos related to what to do or use/how to behave) and the specification of corresponding information containers (epistemic mental attitude and memory-box). Based on this distinction regarding types of information & information-containers, I am developing a cognitive and rational approach of cognition, a rational dialog model as well as a cognitive architecture.
