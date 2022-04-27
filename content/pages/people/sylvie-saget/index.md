@@ -17,9 +17,8 @@ Her research focuses on the modeling of reasoning and dialogue via a transdiscip
 
 - Social agents as tools in psychology
 
-[Publications available on FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget)
-
-For more info please visit [her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
+For more info please visit 
+[FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget) or [her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
 
 -------------------------------------------------
 PhD Project: "Language as a tool: A rational and cognitive approach"
