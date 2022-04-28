@@ -5,7 +5,7 @@ type: seminar
 date: 2022-04-20
 duration: "2 hours"
 venue: "Gothenburg and Online"
-slides: 
+slides: Barbara Plank 20.4.2022.pdf
 ---
 
 Abstract: 
