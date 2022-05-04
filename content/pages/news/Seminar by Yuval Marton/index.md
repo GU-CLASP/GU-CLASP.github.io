@@ -1,12 +1,11 @@
 ---
 presented_by: "Yuval Marton from University of Washington"
-title: "Is more better? Is better always better? Where’s the learning?" The baffling case of computational thematic fit
+title: "Is more better? Is better always better? Where’s the learning?\nThe baffling case of computational thematic fit"
 type: seminar
 date: 2022-05-11
 year: 2022
 expired: false
 ---
-
 
 Abstract:
 
