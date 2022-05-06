@@ -4,7 +4,7 @@ title: "Grounded Language Learning through Interaction"
 type: seminar
 date: 2022-05-04
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract:
