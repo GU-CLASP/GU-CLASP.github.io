@@ -1,5 +1,5 @@
 ---
-presented_by: "Elin McCready from University of Washington"
+presented_by: "Elin McCready from Aoyama Gakuin University"
 title: ""
 type: seminar
 date: 2022-06-01
