@@ -1,10 +1,11 @@
 ---
-presented_by: "Yuval Marton from University of Washington"
+lecturer: "Yuval Marton from University of Washington"
 title: "Is more better? Is better always better? Where’s the learning?\nThe baffling case of computational thematic fit"
 type: seminar
 date: 2022-05-11
-year: 2022
-expired: true
+duration: "2 hours"
+venue: "Gothenburg and Online"
+slides: 
 ---
 
 Abstract:
@@ -20,7 +21,3 @@ And leave you baffled.
 Bio:
 
 Yuval Marton, PhD, is a computational linguist and artificial intelligence (AI) expert, active in both the industry (IBM, Microsoft, and most recently in the finance industry: Morgan Stanley and Bloomberg) and academia (affiliate professor at University of Washington; industry mentor at Columbia University, UCSC and UMass).  Dr. Marton’s experience spans lexical semantics, paraphrasing, semantic role labeling, parsing, statistical machine translation, information retrieval (search engine result ranking, “big data”), and dialog systems (a.k.a. personal digital assistants or chatbots). He has been particularly interested in adapting machine learning (including deep learning) methods for natural language processing and understanding (NLP/NLU) – and using linguistically informed design to make such methods more effective and informative. More recently he has been interested also in technical mentoring for best practices in data science, and in increasing awareness to various forms of bias in NLP/AI, and how to develop and use these disruptive technologies ethically, given their substantial potential social impact for good or bad.  Dr. Marton co-organized several NLP workshops, mostly in top-tier conferences such as ACL; served as the publication chair of several NLP conferences (EMNLP and *SEM); and delivered a tutorial session: “On-Demand Distributional Paraphrasing” at the NAACL-HLT conference.  He received his Ph.D. in Linguistics from University of Maryland in 2009, concentrating on computational linguistics, with a Neuroscience and Cognitive Science (NACS) Program Certificate.  He received his Masters in Computer Science from NYU/Poly in 2004.
-
-Location: Attend in person at J432 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
-
-Time: 13:15-15:00 
