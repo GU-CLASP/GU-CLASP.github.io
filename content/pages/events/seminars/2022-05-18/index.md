@@ -5,7 +5,7 @@ type: seminar
 date: 2022-05-18
 duration: "2 hours"
 venue: "Gothenburg and Online"
-slides: 
+slides: Athanasios Tsanas 18.5.2022.pdf
 ---
 
 Abstract
