@@ -267,8 +267,7 @@ hideInSearchResults: true
 -   Jean-Philippe Bernardy and Shalom Lappin (2022), \"A Neural Model for 
     Compositional Word Embeddings and Sentence Processing\", *Proceedings 
     of the Workshop on Cognitive Modeling and Computational Linguistics*, 
-    May 26, 2022, Dublin, Association of Computational Linguistics, 
-    pp. 12--22.
+    May 26, 2022, Dublin, Association of Computational Linguistics, pp. 12--22.
 -   Adam Ek, Jean-Philippe Bernardy, and Shalom Lappin (2019),
     \"Language Modeling with Syntactic and Semantic Representation for
     Sentence Acceptability Predictions\", *Proceedings of the 22nd
