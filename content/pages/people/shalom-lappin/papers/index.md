@@ -8,6 +8,12 @@ hideInSearchResults: true
 
 # Recent Papers
 
+
+Jean-Philippe Bernardy and Shalom Lappin (2022), [A Neural Model for 
+Compositional Word Embeddings and Sentence Processing](bernardy-lappin22.pdf),
+*Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics*,
+May 26, 2022, Dublin, Association of Computational Linguistics, pp. 12--22.
+
 Jey Han Lau, Carlos Armendariz, Shalom Lappin, Matthew Purver, and Chang
 Shu (2020), \"[How Furiously Can Colorless Green Ideas Sleep? Sentence
 Acceptability in
