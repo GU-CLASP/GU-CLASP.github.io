@@ -70,11 +70,6 @@ hideInSearchResults: true
 
 ## ARTICLES IN REFEREED JOURNALS
 
--   Jean-Philippe Bernardy and Shalom Lappin (2022), \"A Neural Model for 
-    Compositional Word Embeddings and Sentence Processing\", *Proceedings 
-    of the Workshop on Cognitive Modeling and Computational Linguistics*, 
-    May 26, 2022, Dublin, Association of Computational Linguistics, 
-    pp. 12--22.
 -   Jey Han Lau, Carlos Armendariz, Shalom Lappin, Matthew Purver, and
     Chang Shu (2020), \"How Furiously Can Colorless Green Ideas Sleep?
     Sentence Acceptability in Context\", *Transactions of the
@@ -269,6 +264,11 @@ hideInSearchResults: true
 
 ## PAPERS IN CONFERENCE PROCEEDINGS
 
+-   Jean-Philippe Bernardy and Shalom Lappin (2022), \"A Neural Model for 
+    Compositional Word Embeddings and Sentence Processing\", *Proceedings 
+    of the Workshop on Cognitive Modeling and Computational Linguistics*, 
+    May 26, 2022, Dublin, Association of Computational Linguistics, 
+    pp. 12--22.
 -   Adam Ek, Jean-Philippe Bernardy, and Shalom Lappin (2019),
     \"Language Modeling with Syntactic and Semantic Representation for
     Sentence Acceptability Predictions\", *Proceedings of the 22nd
