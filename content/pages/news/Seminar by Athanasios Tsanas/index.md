@@ -4,7 +4,7 @@ title: "Biomedical speech signal processing: concepts, algorithms, and contempor
 type: seminar
 date: 2022-05-18
 year: 2022
-expired: false
+expired: true
 bannerImage: 'Photo_Tsanas.jpg'
 ---
 
