@@ -25,6 +25,7 @@ Dingemanse, Mark, and Andreas Liesenfeld. [From Text to Talk: Harnessing Convers
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
 - Barwise, J., & Perry, J. (1998). Situations and Attitudes. (suggested by Staffan)
 - Ilbury, Christian. [U Ok Hun?: The digital commodification of white woman style.](https://doi.org/10.1111/josl.12563) Journal of Sociolinguistics, 2022. (suggested by Bill)
+- Zhou et al. [Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue](https://aclanthology.org/2022.acl-long.110) ACL 2022. (suggested by Bill)
 
 
 
