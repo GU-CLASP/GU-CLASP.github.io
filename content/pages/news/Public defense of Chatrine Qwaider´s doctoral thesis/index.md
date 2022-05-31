@@ -3,7 +3,7 @@ title: "Public defence of Chatrine Qwaider´s doctoral thesis"
 date: 2022-05-25
 year: 2022
 bannerImage: "Chatrine.jpg"
-expired: false
+expired: true
 ---
 Cordially welcome to the public defence of Chatrine Qwaider´s doctoral thesis on Wednesday May 25, at 15:00 in room J439, Humanisten. The title is "Resources and Applications for Dialectal Arabic: The case of Levantine".
 
