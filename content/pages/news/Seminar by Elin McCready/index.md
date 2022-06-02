@@ -4,7 +4,7 @@ title: "Dogwhistles: Masking, Vigilance, and Unmasking"
 type: seminar
 date: 2022-06-01
 year: 2022
-expired: false
+expired: true
 ---
 
 
