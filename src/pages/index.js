@@ -24,7 +24,7 @@ export default function Home(props) {
               <MDBView>
                 <img
                   className="d-block w-100"
-                  src="/img/1576352_claspinvigning-970x300.jpg"
+                  src="/img/GruppbildClasp.jpg"
                   alt="First slide"
                 />
                 <MDBMask overlay="black-light" />
