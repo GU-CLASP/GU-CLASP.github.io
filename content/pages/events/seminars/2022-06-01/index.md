@@ -5,7 +5,7 @@ type: seminar
 date: 2022-06-01
 duration: "2 hours"
 venue: "Gothenburg and Online"
-slides: 
+slides: Elin McCready 1.6.2022.pdf
 ---
 
 Abstract
