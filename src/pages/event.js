@@ -63,6 +63,36 @@ export default function Event(props) {
         </div>
       )
       break;
+    case "defenses":
+      var defenses = props.data.defenses.defenses
+      var numPagesDefenses = Math.ceil(props.data.defenses.totalCount / postsPerPage)
+      var page = search.page
+      if (isNaN(page)) {
+        page = 1
+      }
+      var upperBound = (page * postsPerPage) - 1
+      var lowerBound = (page - 1) * postsPerPage
+      var isEmpty = props.data.defenses.totalCount > 0 ? false : true
+      content = (
+        <div>
+          {isEmpty ?
+            <div class="row">
+              No defenses at the time
+            </div>
+            :
+            <div>
+              {defenses.map((defense, index) => {
+                if (index <= upperBound && index >= lowerBound) {
+                  defense = defense.defense
+                  return getDefenses(defense)
+                }
+              })}
+              {getPagination("/event?type=defenses", numPagesDefenses, page)}
+            </div>
+          }
+        </div>
+      )
+      break;
     case "conference":
       var conferences = props.data.conferences.conferences
       var numPagesConferences = Math.ceil(props.data.conferences.totalCount / postsPerPage)
@@ -373,6 +403,44 @@ function getSeminar(seminar) {
   )
 }
 
+function getDefenses(defense) {
+  return (
+    <div class="row event-row ml-0 mr-0">
+      <div class="col">
+        <div class="row">
+          <div class="col">
+            <h4>
+              <Link to={defense.fields.slug}>
+                {defense.frontmatter.title}
+              </Link>
+            </h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <p>Presented by: {defense.frontmatter.presented_by}</p>
+          </div>
+          <div class="col">
+            {defense.frontmatter.slides && <p><a href={defense.frontmatter.slides.publicURL}>Slides</a></p>}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 col-md-4">
+            <p>On: {defense.frontmatter.date}</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <p>
+              {defense.excerpt}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
 function getConference(conference) {
   return (
     <div class="row event-row ml-0 mr-0">
@@ -474,6 +542,26 @@ export const query = graphql`
       }
       totalCount
     }
+    defenses: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/events/defenses//"}}, frontmatter: {date: {}}}, sort: {fields: frontmatter___date, order: DESC}) {
+    defenses: edges {
+      defense: node {
+        fields {
+          slug
+        }
+        frontmatter {
+          presented_by
+          title
+          date(formatString: "MMMM DD, YYYY")
+          expired
+          bannerImage {
+            publicURL
+          }
+        }
+        excerpt
+      }
+    }
+    totalCount
+  }
     conferences: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/events/conferences//"}}, frontmatter: {hideInSearchResults: {ne: true}}}, sort: {order: DESC, fields: frontmatter___date}) {
       conferences: edges {
         conference: node {

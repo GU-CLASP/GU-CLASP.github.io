@@ -175,6 +175,13 @@ var menuData = [
         "hasSubmenu": false
       },
       {
+        "title": "PhD defenses",
+        "href": "/event?type=defenses&page=1",
+        "linkToMDFile": false,
+        "MDFileCustomID": null,
+        "hasSubmenu": false
+      },
+      {
         "title": "Conferences & Workshops",
         "href": "/event?type=conference&page=1",
         "linkToMDFile": false,
