@@ -175,7 +175,7 @@ var menuData = [
         "hasSubmenu": false
       },
       {
-        "title": "PhD defenses",
+        "title": "PhD defences",
         "href": "/event?type=defenses&page=1",
         "linkToMDFile": false,
         "MDFileCustomID": null,
