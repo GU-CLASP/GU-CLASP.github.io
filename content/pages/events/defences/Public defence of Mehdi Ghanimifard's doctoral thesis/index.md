@@ -5,6 +5,8 @@ date: 2020-05-18
 year: 2020
 bannerImage: "1771544_mehdi-ghanimifard-900-pxl.jpg"
 ---
+
+
 Cordially welcome to the public defence of Mehdi Ghanimifard's doctoral thesis that he will defend on Wednesday 27 May, at 15.15 online via Zoom. The title is Why the pond is not outside the frog? Grounding in contextual representations by neural language models. The proceedings can also be followed via link in room J335 at Humanisten.
 
 Doctoral candidate: Mehdi Ghanimifard, University of Gothenburg

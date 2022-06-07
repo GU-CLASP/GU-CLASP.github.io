@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import { Row, Col, Image } from "react-bootstrap"
 
-export default function defensesTemplate({
+export default function defencesTemplate({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data

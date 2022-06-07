@@ -63,31 +63,31 @@ export default function Event(props) {
         </div>
       )
       break;
-    case "defenses":
-      var defenses = props.data.defenses.defenses
-      var numPagesDefenses = Math.ceil(props.data.defenses.totalCount / postsPerPage)
+    case "defences":
+      var defences = props.data.defences.defences
+      var numPagesDefenses = Math.ceil(props.data.defences.totalCount / postsPerPage)
       var page = search.page
       if (isNaN(page)) {
         page = 1
       }
       var upperBound = (page * postsPerPage) - 1
       var lowerBound = (page - 1) * postsPerPage
-      var isEmpty = props.data.defenses.totalCount > 0 ? false : true
+      var isEmpty = props.data.defences.totalCount > 0 ? false : true
       content = (
         <div>
           {isEmpty ?
             <div class="row">
-              No defenses at the time
+              No defences at the time
             </div>
             :
             <div>
-              {defenses.map((defense, index) => {
+              {defences.map((defence, index) => {
                 if (index <= upperBound && index >= lowerBound) {
-                  defense = defense.defense
-                  return getDefenses(defense)
+                  defence = defence.defence
+                  return getDefenses(defence)
                 }
               })}
-              {getPagination("/event?type=defenses", numPagesDefenses, page)}
+              {getPagination("/events?type=defences", numPagesDefenses, page)}
             </div>
           }
         </div>
@@ -542,26 +542,26 @@ export const query = graphql`
       }
       totalCount
     }
-    defenses: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/events/defenses//"}}, frontmatter: {date: {}}}, sort: {fields: frontmatter___date, order: DESC}) {
-    defenses: edges {
-      defense: node {
-        fields {
-          slug
-        }
-        frontmatter {
-          presented_by
-          title
-          date(formatString: "MMMM DD, YYYY")
-          expired
-          bannerImage {
-            publicURL
+    defences: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/events/defences//"}}, frontmatter: {date: {}}}, sort: {fields: frontmatter___date, order: DESC}) {
+      defences: edges {
+        defence: node {
+          fields {
+            slug
           }
+          frontmatter {
+            presented_by
+            title
+            date(formatString: "MMMM DD, YYYY")
+            expired
+            bannerImage {
+              publicURL
+            }
+          }
+          excerpt
         }
-        excerpt
       }
+      totalCount
     }
-    totalCount
-  }
     conferences: allMarkdownRemark(filter: {fields: {slug: {regex: "/^/events/conferences//"}}, frontmatter: {hideInSearchResults: {ne: true}}}, sort: {order: DESC, fields: frontmatter___date}) {
       conferences: edges {
         conference: node {
