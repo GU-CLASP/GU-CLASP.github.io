@@ -1,5 +1,5 @@
 ---
-lecturers: "Emil Carlsson and Devdatt Dubhashi from Chalmers University"
+lecturer: "Emil Carlsson and Devdatt Dubhashi from Chalmers University"
 title: "Pragmatic Reasoning in Structured Signaling Games"
 type: seminar
 date: 2022-06-08
