@@ -1,5 +1,5 @@
 ---
-presented_by: "Alessandra Zarcone from University of Augsburg"
+presented_by: "Alessandra Zarcone from University of Applied Sciences, Augsburg"
 title: "Conversational AI between hype and hope – A case for data- and human-centric approaches"
 type: seminar
 date: 2022-06-15
