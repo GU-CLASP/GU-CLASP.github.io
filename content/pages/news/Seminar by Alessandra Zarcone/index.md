@@ -4,7 +4,7 @@ title: "Conversational AI between hype and hope – A case for data- and human-c
 type: seminar
 date: 2022-06-15
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract:
