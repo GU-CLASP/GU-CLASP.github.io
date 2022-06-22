@@ -1,6 +1,6 @@
 ---
 presented_by: "Anna Lindahl, Arianna Masciolini, Ricardo Muñoz Sánchez och Stian Rødven-Eide from University of Gothenburg"
-title (preliminary): "A gentle introduction to argument mining"
+title:(preliminary) "A gentle introduction to argument mining"
 type: seminar
 date: 2022-10-21
 year: 2022
