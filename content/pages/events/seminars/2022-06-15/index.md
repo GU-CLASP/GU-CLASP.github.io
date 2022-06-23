@@ -5,7 +5,7 @@ type: seminar
 date: 2022-06-15
 duration: "2 hours"
 venue: "Gothenburg and Online"
-slides: 
+slides: Alessandra Zarcone 15.6.2022.pdf
 ---
 
 Abstract
