@@ -1,6 +1,6 @@
 ---
 name: "Hanna Edblom"
-role: 2 
+role: 5 
 title: "Administrator"
 profileImage: "hanna.jpg" 
 ---
