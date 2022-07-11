@@ -31,6 +31,9 @@ hideInSearchResults: true
 
 ## EDITED BOOKS
 
+-   Shalom Lappin and Jean-Philippe Bernardy (Editors) (in press), [*Algebraic Structures in Natural 
+    Language*](https://www.routledge.com/Algebraic-Structures-in-Natural-Language/Lappin-Bernardy/p/book/9781032066547), 
+    CRC Press, Taylor and Francis, Boca Raton and Oxford.
 -   Shalom Lappin and Chris Fox (eds.) (2015), [*The Handbook of
     Contemporary Semantic
     Theory*](http://www.amazon.com/Handbook-Contemporary-Blackwell-Handbooks-Linguistics/dp/0470670738/ref=sr_1_1?s=books&ie=UTF8&qid=1448700246&sr=1-1&keywords=Shalom+Lappin),
@@ -187,6 +190,10 @@ hideInSearchResults: true
 
 ## CHAPTERS IN BOOKS
 
+-   Jean-Philippe Bernardy (in press), \"Unitary Recurrent Networks: Algebraic 
+    and Linear Structures for Syntax\" in Shalom Lappin and Jean-Philippe
+    Bernardy (Eds), *Algebraic Structures in Natural Language*, CRC Press,
+    Taylor and Francis, Boca Raton and Oxford.
 -   Shalom Lappin (2015), \"Curry Typing, Polymorphism, and Fine-Grained
     Intensionality\" in Shalom Lappin and Chris Fox (eds.), *The
     Handbook of Contemporary Semantic Theory*, Second Edition,
