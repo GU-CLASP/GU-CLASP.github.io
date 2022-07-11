@@ -8,6 +8,10 @@ hideInSearchResults: true
 
 # Recent Papers
 
+Jean-Philippe Bernardy and Shalom Lappin (in press), [Unitary Recurrent Networks: 
+Algebraic and Linear Structures for Syntax](bernardy-lappin23.pdf), in Shalom
+Lappin and Jean-Philippe Bernardy (Eds), *Algebraic Sturtures in Natural Language*,
+CRC Press, Taylor and Francis, Boca Raton and Oxford.
 
 Jean-Philippe Bernardy and Shalom Lappin (2022), [A Neural Model for 
 Compositional Word Embeddings and Sentence Processing](bernardy-lappin22.pdf),
