@@ -190,10 +190,10 @@ hideInSearchResults: true
 
 ## CHAPTERS IN BOOKS
 
--   Jean-Philippe Bernardy (in press), \"Unitary Recurrent Networks: Algebraic 
-    and Linear Structures for Syntax\" in Shalom Lappin and Jean-Philippe
-    Bernardy (Eds), *Algebraic Structures in Natural Language*, CRC Press,
-    Taylor and Francis, Boca Raton and Oxford.
+-   Jean-Philippe Bernardy and Shalom Lappin (in press), \"Unitary Recurrent 
+    Networks: Algebraic and Linear Structures for Syntax\" in Shalom Lappin 
+    and Jean-Philippe Bernardy (Eds), *Algebraic Structures in Natural Language*, 
+    CRC Press, Taylor and Francis, Boca Raton and Oxford.
 -   Shalom Lappin (2015), \"Curry Typing, Polymorphism, and Fine-Grained
     Intensionality\" in Shalom Lappin and Chris Fox (eds.), *The
     Handbook of Contemporary Semantic Theory*, Second Edition,
