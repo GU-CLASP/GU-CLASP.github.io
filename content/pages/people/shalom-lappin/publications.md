@@ -31,7 +31,7 @@ hideInSearchResults: true
 
 ## EDITED BOOKS
 -   Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre Maskharashvili 
-    (Editors) (in press), *Probabilistic Approaches to Linguistic Theory*, CSLI Publications*, Stanford CA.
+    (eds.) (in press), *Probabilistic Approaches to Linguistic Theory*, CSLI Publications*, Stanford CA.
 -   Shalom Lappin and Jean-Philippe Bernardy (Editors) (in press), [*Algebraic Structures in Natural 
     Language*](https://www.routledge.com/Algebraic-Structures-in-Natural-Language/Lappin-Bernardy/p/book/9781032066547), 
     CRC Press, Taylor and Francis, Boca Raton and Oxford.
@@ -195,11 +195,11 @@ hideInSearchResults: true
 -   Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, 
     and Aleksandre Maskharashvili (in press), \"Bayesian Inference Semantics for Natural 
     Language\" in Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, 
-    Shalom Lappin, and Aleksandre Maskharashvili (Editors), *Probabilistic Approaches 
+    Shalom Lappin, and Aleksandre Maskharashvili (eds), *Probabilistic Approaches 
     to Linguistic Theory*, CSLI Publications, Stanford CA.
 -   Jean-Philippe Bernardy and Shalom Lappin (in press), \"Unitary Recurrent 
     Networks: Algebraic and Linear Structures for Syntax\" in Shalom Lappin 
-    and Jean-Philippe Bernardy (Eds), *Algebraic Structures in Natural Language*, 
+    and Jean-Philippe Bernardy (eds.), *Algebraic Structures in Natural Language*, 
     CRC Press, Taylor and Francis, Boca Raton and Oxford.
 -   Shalom Lappin (2015), \"Curry Typing, Polymorphism, and Fine-Grained
     Intensionality\" in Shalom Lappin and Chris Fox (eds.), *The
