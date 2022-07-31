@@ -8,8 +8,14 @@ hideInSearchResults: true
 
 # Recent Papers
 
+Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom
+Lappin, and Aleksandre Maskharashvili (in press), [Bayesian Inference Semantics for
+Natural Language](Bernardy-etal22.pdf) in Jean-Philippe Bernardy, Rasmus Blanck,
+Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre Maskharashvili (Editors), 
+*Probabilistic Approaches to Linguistic Theory*, CSLI Publications*, Stanford CA.
+
 Jean-Philippe Bernardy and Shalom Lappin (in press), [Unitary Recurrent Networks: 
-Algebraic and Linear Structures for Syntax](bernardy-lappin23.pdf), in Shalom
+Algebraic and Linear Structures for Syntax](bernardy-lappin23.pdf) in Shalom
 Lappin and Jean-Philippe Bernardy (Eds), *Algebraic Sturtures in Natural Language*,
 CRC Press, Taylor and Francis, Boca Raton and Oxford.
 
@@ -19,10 +25,9 @@ Compositional Word Embeddings and Sentence Processing](bernardy-lappin22.pdf),
 May 26, 2022, Dublin, Association of Computational Linguistics, pp. 12--22.
 
 Jey Han Lau, Carlos Armendariz, Shalom Lappin, Matthew Purver, and Chang
-Shu (2020), \"[How Furiously Can Colorless Green Ideas Sleep? Sentence
-Acceptability in
-Context](lau-armandariz-lappin-purver-shu_tacl20.pdf)\", *Transactions
-of the Association for Computational Linguistics* 8, pp.  296--310.
+Shu (2020), [How Furiously Can Colorless Green Ideas Sleep? Sentence
+Acceptability in Context](lau-armandariz-lappin-purver-shu_tacl20.pdf), 
+*Transactions of the Association for Computational Linguistics* 8, pp. 296--310.
 
 Adam Ek, Jean-Philippe Bernardy, and Shalom Lappin (2019), [Language
 Modeling with Syntactic and Semantic Representation for Sentence
@@ -32,7 +37,7 @@ Predictions](ek-bernardy-lappin_nodalida19.pdf),
 Linguistics*, September 30-October 2,\
 Turku, Finland, Linköping University Electronic Press, pp. 76-85.
 
-Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis. Shalom
+Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom
 Lappin, and Aleksandre Maskharashvili (2019), [Predicates as Boxes in
 Bayesian Semantics for Natural
 Language](bernardy-blanck-chatzikyriakidis-lappin-maskharashvili_nodalida19.pdf),
