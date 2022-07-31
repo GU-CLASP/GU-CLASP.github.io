@@ -10,7 +10,7 @@ hideInSearchResults: true
 
 Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom
 Lappin, and Aleksandre Maskharashvili (in press), [Bayesian Inference Semantics for
-Natural Language](Bernardy-etal22.pdf) in Jean-Philippe Bernardy, Rasmus Blanck,
+Natural Language](bernardy-etal22.pdf) in Jean-Philippe Bernardy, Rasmus Blanck,
 Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre Maskharashvili (Editors), 
 *Probabilistic Approaches to Linguistic Theory*, CSLI Publications*, Stanford CA.
 
