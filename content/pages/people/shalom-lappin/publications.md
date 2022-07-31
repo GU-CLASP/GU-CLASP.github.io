@@ -190,6 +190,12 @@ hideInSearchResults: true
 
 ## CHAPTERS IN BOOKS
 
+
+-   Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, 
+    and Aleksandre Maskharashvili (in press), \"Bayesian Inference Semantics for Natural 
+    Language\" in Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, 
+    Shalom Lappin, and Aleksandre Maskharashvili (Editors), *Probabilistic Approaches 
+    to Linguistic Theory*, CSLI Publications, Stanford CA.
 -   Jean-Philippe Bernardy and Shalom Lappin (in press), \"Unitary Recurrent 
     Networks: Algebraic and Linear Structures for Syntax\" in Shalom Lappin 
     and Jean-Philippe Bernardy (Eds), *Algebraic Structures in Natural Language*, 
