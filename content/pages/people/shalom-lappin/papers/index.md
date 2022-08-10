@@ -19,6 +19,12 @@ Algebraic and Linear Structures for Syntax](bernardy-lappin23.pdf) in Shalom
 Lappin and Jean-Philippe Bernardy (eds), *Algebraic Sturtures in Natural Language*,
 CRC Press, Taylor and Francis, Boca Raton and Oxford.
 
+Jean-Philippe Bernardy and Shalom Lappin (2022), [Assessing the Unitary RNN as an 
+End-to-End Compositional Model of Syntax](bernardy-lappin22a.pdf) in M. Moortgat 
+and G. Wijnholds (eds), *End-to-End Compositional Models of Vector-Based Semantics, 
+2022 (E2ECOMPVEC), Electronic Proceedings in Theoretical Computer Science* 366.4, 
+2022, pp. 9–22.
+
 Jean-Philippe Bernardy and Shalom Lappin (2022), [A Neural Model for 
 Compositional Word Embeddings and Sentence Processing](bernardy-lappin22.pdf),
 *Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics*,
