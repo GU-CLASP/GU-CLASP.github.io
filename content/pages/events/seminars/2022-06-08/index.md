@@ -5,7 +5,7 @@ type: seminar
 date: 2022-06-08
 duration: "2 hours"
 venue: "Gothenburg and Online"
-slides: 
+slides: Emil Carlsson Devdatt Dubhashi 8.6.2022.pdf
 ---
 
 Abstract
