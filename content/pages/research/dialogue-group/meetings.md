@@ -10,8 +10,8 @@ Meetings: Alternate Fridays (odd weeks), 10.15-12.00.
 
 ### Upcoming session:
 
-#### 13 May 2022 \-- [10h-12h]
-Dingemanse, Mark, and Andreas Liesenfeld. [From Text to Talk: Harnessing Conversational Corpora for Humane and Diversity-aware Language Technology.](https://osf.io/m43zh/) (updated version may exist on ACL) (Led by Bill and Fahima)
+#### 2 September 2022 \-- [10h-12h]
+TBD
 
 ### Future paper suggestions:
 
@@ -31,6 +31,9 @@ Dingemanse, Mark, and Andreas Liesenfeld. [From Text to Talk: Harnessing Convers
 
 
 ### Previous sessions:
+
+#### 13 May 2022 \-- [10h-12h]
+Dingemanse, Mark, and Andreas Liesenfeld. [From Text to Talk: Harnessing Conversational Corpora for Humane and Diversity-aware Language Technology.](https://osf.io/m43zh/) (updated version may exist on ACL) (Led by Bill and Fahima)
 
 #### 8 April 2022 \-- [10h-12h]
 Lewis, D. (1988). Statements partly about observation. Philosophical papers, 17(1), 1-31. (Led by Bill)
