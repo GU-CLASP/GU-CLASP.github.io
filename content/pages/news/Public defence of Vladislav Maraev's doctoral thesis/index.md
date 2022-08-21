@@ -4,7 +4,6 @@ title: "Public defence of Vladislav Maraev's doctoral thesis"
 date: 2022-08-29
 year: 2022
 bannerImage: ""
-expired: false
 ---
 
 
@@ -28,7 +27,8 @@ Date: 2022-08-29
 
 Title: Who is laughing now? Laughter-infused dialogue systems
 
-Abstract: This thesis paves the way for including laughter in spoken dialogue systems in a domain-general and linguistically valid way using computational linguistics tools and methods. The thesis is concerned with three main areas.
+Abstract: T
+his thesis paves the way for including laughter in spoken dialogue systems in a domain-general and linguistically valid way using computational linguistics tools and methods. The thesis is concerned with three main areas.
 
 The first area is the placement of laughter in relation to speech and other behaviours. We show that convolutional and recurrent neural networks can effectively predict laughs from dialogue transcripts, whereas human perforance in this task is significantly worse. Such prediction models allow dialogue systems to predict user laughter and, if needed, put system laughter in an appropriate place. Furthermore, we look at laughter placement in relation to gaze and show that laughter, performing different pragmatic functions, is related to different gaze patterns. These findings provide important implications for embodied conversational agents and social robots in regard to multimodal behaviour realisation and coordination.
 
