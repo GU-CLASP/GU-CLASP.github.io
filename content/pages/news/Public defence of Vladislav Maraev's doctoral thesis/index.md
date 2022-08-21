@@ -8,7 +8,7 @@ expired: false
 ---
 
 
-Cordially welcome to the public defence of Vladislav Maraev's doctoral thesis on Monday 29 August, at 15:00 in room J439, Humanisten and streamed online. The title is "Who is laughing now? Laughter-infused dialogue systems".
+Cordially welcome to the public defence of Vladislav Maraev's doctoral thesis on Monday 29 August, at 15:00 in room J439, Humanisten. The proceedings can also be followed online, Zoom link: https://gu-se.zoom.us/j/66086973989#success The title is "Who is laughing now? Laughter-infused dialogue systems".
 
 Doctoral candidate: Vladislav Maraev, University of Gothenburg
 
