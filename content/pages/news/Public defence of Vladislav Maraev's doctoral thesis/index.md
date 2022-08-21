@@ -36,4 +36,4 @@ The second area is concerned with interaction between laughter and the communica
 
 The third area is humour. Humour is intuitively related to laughter and some laughs highlight social norm violations and ironic statements, which bring laughter and humour closer together, even though humour is not necessary for laughter. We look at how humour is related to reasoning about social conventions and other learned and accommodated implicit assumptions, and how humour can be modelled in relation to creativity, implying situational and conversational creativity for artificial agents.
 
-Full text: 
+Full text: https://gupea.ub.gu.se/bitstream/handle/2077/72030/Thesis%20final_8aug.pdf
