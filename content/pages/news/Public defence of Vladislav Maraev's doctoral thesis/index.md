@@ -11,8 +11,8 @@ Cordially welcome to the public defence of Vladislav Maraev's doctoral thesis on
 
 Doctoral candidate: Vladislav Maraev, University of Gothenburg
 
-Supervisor: , University of Gothenburg
-Assistant supervisor: , University of Gothenburg
+Supervisor: Christine Howes, University of Gothenburg
+Assistant supervisor: (1) Staffan Larsson, University of Gothenburg, (2) Jonathan Ginzburg, Université de Paris
 
 Opponent: Professor Matthew Stone, Rutgers School of Arts and Sciences
 
