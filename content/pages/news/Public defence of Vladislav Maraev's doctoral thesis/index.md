@@ -3,6 +3,7 @@ presented_by: "Vladislav Maraev"
 title: "Public defence of Vladislav Maraev's doctoral thesis"
 date: 2022-08-29
 year: 2022
+bannerImage: "Vladislav.jpg"
 ---
 
 
