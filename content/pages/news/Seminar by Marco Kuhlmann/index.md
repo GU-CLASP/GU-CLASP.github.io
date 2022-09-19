@@ -1,6 +1,6 @@
 ---
 presented_by: "Marco Kuhlmann from University of Linköping"
-title: "TBA"
+title: ""
 type: seminar
 date: 2022-12-02
 year: 2022
