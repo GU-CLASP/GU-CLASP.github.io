@@ -1,6 +1,6 @@
 ---
-presented_by: "Chat bots know when you’re going to laugh"
-title: "Vladislav Maraev"
+presented_by: "Vladislav Maraev"
+title: "Chat bots know when you’re going to laugh"
 type: 
 date: 2022-09-21
 year: 2022
