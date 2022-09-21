@@ -1,16 +1,5 @@
 Soon, chat bots will be able to laugh at your jokes. They also know when you’re going to laugh – even before you are aware of this. This has been shown in a new thesis that investigated the gaze patterns linked to laughter.
 
-Contact
-Vladislav Maraev
-Doctoral Student
-+46 31-786 29 36
-vladislav.maraev@gu.se
-Contact
-Johanna Hillgren
-Communications Officer
-+46 766-18 10 68
-+46 31-786 10 68
-johanna.hillgren@hum.gu.se
 ‘Dialogue system’ refers to technologies such as chat bots or conversation agents that people can talk to. These systems use large amounts of data, machine learning and natural language processing to be able to imitate human interactions, and recognise speech and text inputs.
 
 Things like rhetorical questions have long been a challenge in the field of computational linguistics when working with dialogue systems. Now a research group at the University of Gothenburg has discovered that laughter can be a key for dialogue systems to better understand intentions.
@@ -22,9 +11,6 @@ He has just defended his thesis Who is laughing now? Laughter-infused dialogue s
 “The thesis shows that neural networks are effective in predicting laughter from dialogue transcripts. In addition, we gave the same task to people, and it turned out that neural networks were much better at it than untrained people. This suggests that people don’t know why they laugh at particular junctures – even though their laughter follows consistent patterns.
 
 Related to gaze patterns
-Image
-Vladislav Maraev
-Photo: Monica Havström
 For a dialogue system involving an avatar or an embodied conversation agent for example, it is important to learn how laughter is linked to other behaviours to be able to put system laughter in appropriate places with the aid of AI. The researchers therefore examined how laughter relates to gaze patterns when people interact with each other.
 
 “We showed that the function of laughter is related to different gaze patterns, in particular that gaze can signal the onset and end of laughter. Another finding is that different types of laughter are accompanied by different gaze patterns in the person laughing as well as the person with whom they are interacting.
