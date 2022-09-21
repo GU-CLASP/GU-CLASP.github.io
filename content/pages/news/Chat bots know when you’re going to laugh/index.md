@@ -1,3 +1,17 @@
+---
+presented_by: "Chat bots know when you’re going to laugh"
+title: "Vladislav Maraev"
+type: 
+date: 2022-09-21
+year: 2022
+expired: false
+
+---
+
+![Image](./pics-symbol-for-a-chatbot-or-social-bot-and-algorithms.jpg)
+
+
+
 Soon, chat bots will be able to laugh at your jokes. They also know when you’re going to laugh – even before you are aware of this. This has been shown in a new thesis that investigated the gaze patterns linked to laughter.
 
 ‘Dialogue system’ refers to technologies such as chat bots or conversation agents that people can talk to. These systems use large amounts of data, machine learning and natural language processing to be able to imitate human interactions, and recognise speech and text inputs.
