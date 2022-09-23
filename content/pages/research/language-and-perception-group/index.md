@@ -18,11 +18,6 @@ Researchers:
 - Sharid Loáiciga
 
 PhD students:
-- Mehdi Ghanimifard
-- Wafia Adouane
-- Yuri Bizzoni
-- Sylvie Saget
-- Vladislav Maraev
 - Bill Noble
 
 The group runs a bi-weekly [reading group](meetings).
