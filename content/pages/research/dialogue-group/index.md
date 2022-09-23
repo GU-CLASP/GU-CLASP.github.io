@@ -19,12 +19,9 @@ The main people in the dialogue research group are:
 - Ruth Kempson 
 
 PhD students:
-- Vlad Maraev
 - Bill Noble
-- Sylvie Saget
 
 In addition, the following members of CLASP have research which overlaps with our area:
-- Stergios Chatzikyriakidis
 - Simon Dobnik
 - Adam Ek
 - Asad Sayeed
