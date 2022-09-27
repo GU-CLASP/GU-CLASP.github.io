@@ -2,7 +2,7 @@
 presented_by: "Djamé Seddah from Université Paris-Sorbonne (Paris 4)"
 title: ""
 type: seminar
-date: 2023
+date: 2023-01-27
 year: 2023
 expired: false
 ---
