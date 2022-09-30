@@ -14,7 +14,6 @@ Group members:
 
 -	Jean-Philippe Bernardy
 - Ellen Breitholtz
-- Julian Grove
 - Shalom Lappin
 -	Robin Cooper
 -	Staffan Larsson
