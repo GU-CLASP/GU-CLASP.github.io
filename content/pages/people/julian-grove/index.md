@@ -1,9 +1,6 @@
 ---
 name: "Julian Grove"
-role: 6
-title: "Post-doctoral researcher"
-profileImage: "julian.jpg"
+role: 5
+title: "Post-doc"
 ---
-Julian Grove is a post-doctoral researcher at CLASP interested in type-theoretical semantics.
-
-[Personal website](https://juliangrove.github.io/)
+Julian Grove was a Post-doc (2020-2022).
