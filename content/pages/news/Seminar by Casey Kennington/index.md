@@ -1,7 +1,7 @@
 ---
 presented_by: "Casey Kennington from Boise State University"
 title: ""
-type: seminar
+type: seminar, via Zoom
 date: 2022-10-28
 year: 2022
 expired: false
