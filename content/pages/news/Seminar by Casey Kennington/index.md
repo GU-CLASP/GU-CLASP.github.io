@@ -16,6 +16,6 @@ Abstract:
 
 
 
-Location: Via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
+Location: Attend in person in room J577 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
 
 Time: 15:15-17
