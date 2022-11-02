@@ -33,4 +33,4 @@ My scientific journey:
 
 - From modern epistemology to (Conversational) Agent theory and architecture
 
-- And Back Again
+- And Back Again 
