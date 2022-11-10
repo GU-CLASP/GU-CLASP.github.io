@@ -4,7 +4,7 @@ title: "Entity tracking in pre-trained language models"
 type: seminar
 date: 2022-11-04
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract: 
