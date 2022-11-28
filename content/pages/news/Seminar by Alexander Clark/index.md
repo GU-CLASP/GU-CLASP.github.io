@@ -4,7 +4,7 @@ title: "Dendrophilia squared"
 type: seminar
 date: 2022-11-25
 year: 2022
-expired: false
+expired: true
 ---
 
 Abstract 
