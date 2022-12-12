@@ -17,6 +17,7 @@ TBD
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
 
+- ChatGPT: Optimizing Language Models for Dialogue https://openai.com/blog/chatgpt/
 - Lücking, A., and Ginzburg, J. (2022) [Leading voices: dialogue semantics, cognitivescience and the polyphonic structure of multimodal interaction](https://doi.org/10.1017/langcog.2022.30) in Language and Cognition. (suggested by Robin)
 - Boleda, G., Aina, L., Silberer, C., Sorodoc, I. T., & Westera, M. (2019). What do entity-centric models learn? Insights from entity linking in multi-party dialogue. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies; 2019 Jun 2-7; Minneapolis, United States of America. Stroudsburg (PA): ACL; 2019. p. 3772–83.. ACL (Association for Computational Linguistics). https://repositori.upf.edu/bitstream/handle/10230/42450/boleda_naacl19_entity.pdf?sequence=1&isAllowed=y (suggested by Fahima)
 - Ahn, E., Jimenez, C., Tsvetkov, Y., & Black, A. W. (2020, January). What code-switching strategies are effective in dialog systems?. In Proceedings of the Society for Computation in Linguistics 2020 (pp. 254-264). (suggested by Fahima)
