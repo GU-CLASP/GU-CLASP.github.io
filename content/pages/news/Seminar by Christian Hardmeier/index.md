@@ -1,5 +1,5 @@
 ---
-presented_by: "Christian Hardmeier from University of Copenhagen"
+presented_by: "Christian Hardmeier from IT University of Copenhagen"
 title: ""
 type: seminar
 date: 2023-01-20
