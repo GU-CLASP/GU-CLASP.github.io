@@ -10,7 +10,7 @@ Meetings: Alternate Fridays (odd weeks), 10.15-12.00.
 
 ### Upcoming session:
 
-#### 2 September 2022 \-- [10h-12h]
+#### 20 January 2023 \-- [10h-12h]
 TBD
 
 ### Future paper suggestions:
@@ -33,6 +33,9 @@ TBD
 
 
 ### Previous sessions:
+
+#### 9 December 2022 \-- [10h-12h]
+Sinclair, A. J., & Fernández, R. (2022). Alignment of code switching varies with proficiency in second language learning dialogue. System, 102952. (Led by Fahima)
 
 #### 13 May 2022 \-- [10h-12h]
 Dingemanse, Mark, and Andreas Liesenfeld. [From Text to Talk: Harnessing Conversational Corpora for Humane and Diversity-aware Language Technology.](https://osf.io/m43zh/) (updated version may exist on ACL) (Led by Bill and Fahima)
