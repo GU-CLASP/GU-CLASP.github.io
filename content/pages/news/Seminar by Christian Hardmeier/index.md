@@ -2,7 +2,7 @@
 presented_by: "Christian Hardmeier from IT University of Copenhagen"
 title: ""
 type: seminar
-date: 2023-01-20
+date: 
 year: 2023
 expired: false
 ---
