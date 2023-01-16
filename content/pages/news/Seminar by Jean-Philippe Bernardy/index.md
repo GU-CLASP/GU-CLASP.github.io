@@ -1,6 +1,6 @@
 ---
 presented_by: "Jean-Philippe Bernardy from University of Gothenburg"
-title: "The Informative Speech Act: Linguistic Disambiguation on the basis of Epistemic Probability of InterpretationsThe Informative Speech Act: Linguistic Disambiguation on the basis of Epistemic Probability of Interpretations"
+title: "The Informative Speech Act: Linguistic Disambiguation on the basis of Epistemic Probability of Interpretations"
 type: seminar
 date: 2023-01-20
 year: 2023
