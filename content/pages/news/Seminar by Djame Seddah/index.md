@@ -1,6 +1,6 @@
 ---
 presented_by: "Djamé Seddah from Université Paris-Sorbonne (Paris 4)"
-title: "CamemBERT must die! (jk,lol) or \"Beyond Sesame street-based naming schemes: Camembert vs CharacterBert, a study on the performance robustness of large monolingual language models and their character-based counterparts\""
+title: CamemBERT must die! (jk,lol) or "Beyond Sesame street-based naming schemes: Camembert vs CharacterBert, a study on the performance robustness of large monolingual language models and their character-based counterparts".
 type: seminar
 date: 2023-01-27
 year: 2023
