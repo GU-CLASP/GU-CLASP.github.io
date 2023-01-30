@@ -4,7 +4,7 @@ title: "CamemBERT must die! (jk,lol) or \"Beyond Sesame street-based naming sche
 type: seminar
 date: 2023-01-27
 year: 2023
-expired: false
+expired: true
 ---
 
 Abstract: As cliché as it sounds, pretrained language models are now ubiquitous in Natural Language Processing, the most prominent ones being arguably Bert (Delvin et al, 2018). Many works have shown that Bert-based models are able to capture meaningful syntactic information using nothing else than raw data for training (eg. Jawahar et al, 2019) and this ability is probably one of the reasons of its success.
