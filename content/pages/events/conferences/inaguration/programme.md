@@ -6,10 +6,9 @@ venue: "Gothia Towers (Gothenburg)"
 duration: "1 day"
 ---
 
-* [Programme](./programme)
-* [Registration](./registration)
-* [Speakers and Abstracts](./speakers-and-abstracts)
-* [Videos](./videos)
+* [Registration](../registration)
+* [Speakers and Abstracts](../speakers-and-abstracts)
+* [Videos](../videos)
 
 # Programme
 
