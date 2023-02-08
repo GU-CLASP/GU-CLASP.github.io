@@ -3,7 +3,6 @@ title: "Workshop on Dialogue and Perception 2018"
 date: 2018-06-14
 venue: "Wallenberg Conference Centre (Gothenburg)"
 duration: "2 days"
-proceedings: ./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf 
 hideInSearchResults: true
 ---
 

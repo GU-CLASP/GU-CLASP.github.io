@@ -3,9 +3,9 @@ title: "Workshop on Dialogue and Perception 2018"
 date: 2018-06-14
 venue: "Wallenberg Conference Centre (Gothenburg)"
 duration: "2 days"
-proceedings: ./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf 
 ---
 
+* [proceedings](proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf) 
 * [Call for papers](./call)
 * [Registration](./registration)
 * [Accomodation](./accomodation)
@@ -20,7 +20,8 @@ Contrarily, studies of perception have focussed on how an agent interacts with a
 
 The aim of this workshop is to initiate a genuine dialogue between these related areas and to examine different approaches from computational, linguistic and psychological perspectives and how these can inform each other. It will feature invited talks by leading researchers in these areas, and high level contributed papers, presented as posters, selected through open competition and rigorous review.
 
-The workshop is collocated with [The Tenth Scandinavian Logic Symposium (SLS 2018)](http://scandinavianlogic.org/sls2018), June 11-13, 2018
+The workshop is collocated with [The Tenth Scandinavian Logic Symposium (SLS 2018)](https://gupea.ub.gu.se/handle/2077/63998), June 11-13, 2018
+
 
 Contact email address: <dap2018@easychair.org>
 

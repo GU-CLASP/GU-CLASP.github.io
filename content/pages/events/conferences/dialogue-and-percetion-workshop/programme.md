@@ -4,10 +4,11 @@ hideInSearchResults: true
 date: 2018-06-14
 venue: "Wallenberg Conference Centre (Gothenburg)"
 duration: "2 days"
-proceedings: ./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf 
 ---
 
 # Programme
+
+[proceedings](./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf)
 
 **Thursday 14th of June**\
 09:00 - 09:45 Registration + coffee\
@@ -16,18 +17,18 @@ proceedings: ./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf
 10:00 - 12:00 Session 1 \-- Interaction; Chair: Stergios
 Chatzikyriakidis\
      10:00 - 10:45: [Ruth
-Kempson](/news-events/workshop-on-dialogue-and-perception-2018/invited-abstracts/ruth-kempson/)\
+Kempson](ruth-kempson.pdf)\
      10:45 - 11.30: [Gabriel
-Skantze](/news-events/workshop-on-dialogue-and-perception-2018/invited-abstracts/gabriel-skantze/)\
+Skantze](gabriel-skantze.pdf)\
      11:30 - 12:00: Discussion\
 12:00 - 13:00 Lunch\
 13:00 - 14:00 Poster Session 1 (which flows into)\
 14:00 - 14:30 Coffee break\
 14:30 - 16:30 Session 2 \-- Sociality; Chair: Ellen Breitholtz\
      14:30 - 15:15: [Per
-Linell](/news-events/workshop-on-dialogue-and-perception-2018/invited-abstracts/per-linell/)\
+Linell](per-linell.pdf)\
      15:15 - 16:00: [Mary Ellen
-Foster](/news-events/workshop-on-dialogue-and-perception-2018/invited-abstracts/mary-ellen-foster/)\
+Foster](mary-ellen-foster.pdf)\
      16:00 - 16:30: Discussion\
 16:30 - 17:00 Concluding remarks\
 17:30 - A tram tour of Gothenburg followed by a workshop dinner\
@@ -60,18 +61,18 @@ Children\'s Talk to Artificial Partner\
 10:00 - 12:00 Session 3 \-- Context and Structure; Chair:\
      Aleksandre Maskharashvili     \
      10:00 - 10:45: [Patrick
-Healey](/news-events/workshop-on-dialogue-and-perception-2018/invited-abstracts/pat-healey/)\
+Healey](pat-healey.pdf)\
      10:45 - 11:30: [Jacob
-Andreas](/news-events/workshop-on-dialogue-and-perception-2018/invited-abstracts/jacob-andreas/)\
+Andreas](jacob-andreas.pdf)\
      11:30 - 12:00: Discussion\
 12:00 - 13:00 Lunch\
 13:00 - 14:00 Poster Session 2 (that flows into)\
 14:00 - 14:30 Coffee break\
 14:30 - 16:30 Session 4 \-- Spatial Language; Chair: Rasmus Blanck\
      14:30 - 15:15: [Laura
-Carlson](/news-events/workshop-on-dialogue-and-perception-2018/invited-abstracts/laura-carlson/)\
+Carlson](laura-carlson.pdf)\
      15:15 - 16:00: [John
-Kelleher](/news-events/workshop-on-dialogue-and-perception-2018/invited-abstracts/john-d.-kelleher/)\
+Kelleher](john-d.-kelleher.pdf)\
      16:00 - 16:30: Discussion\
 16:30 - 17:00 Concluding remarks
 

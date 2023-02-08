@@ -4,7 +4,6 @@ hideInSearchResults: true
 date: 2018-06-14
 venue: "Wallenberg Conference Centre (Gothenburg)"
 duration: "2 days"
-proceedings: ./proceedings-of-the-workshop-on-dialogue-and-perception-2018.pdf 
 ---
 
 # Call for papers
@@ -19,8 +18,6 @@ and be free to publish them elsewhere, with acknowledgement.
 Registration is free and participation is open. We warmly invite
 everyone to attend. In order to secure your place please register here
 (available soon).
-
- 
 
 **Submission of papers:**
 
