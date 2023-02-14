@@ -5,7 +5,7 @@ type: seminar
 date: 2023-02-10
 duration: "2 hours"
 venue: "Gothenburg and Online"
-slides: Sina Zarrieß 10.2.2023.pdf
+slides: "Sina Zarrieß 10.2.2023.pdf"
 ---
 
 Abstract
