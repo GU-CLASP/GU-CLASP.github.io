@@ -5,4 +5,4 @@ title: "Associate Researcher"
 profileImage: ""
 ---
 
-Nina Tahmasebi, Researcher in Computational Linguistics in FLoV
+Nina Tahmasebi, Researcher in Computational Linguistics in FLoV.
