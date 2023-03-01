@@ -2,7 +2,6 @@
 name: "Nina Tahmasebi"
 role: 3 
 title: "Associate Researcher"
-profileImage: ""
 ---
 
 Nina Tahmasebi, Researcher in Computational Linguistics in FLoV.
