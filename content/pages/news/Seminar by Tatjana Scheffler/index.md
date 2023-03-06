@@ -1,6 +1,6 @@
 ---
 presented_by: "Tatjana Scheffler from Ruhr-University Bochum"
-title: ""
+title: "Computational Linguistic Approaches to Digital Conversations: the Case of Intensifiers"
 type: seminar
 date: 2023-03-17
 year: 2023
