@@ -3,7 +3,7 @@ presented_by: "William Noble"
 title: "Public defence of William Noble's doctoral thesis"
 date: 2023-04-20
 year: 2023
-bannerImage: ""
+bannerImage: "Bill.jpg"
 ---
 
 
