@@ -9,7 +9,7 @@ expired: false
 ---
 
 
-Cordially welcome to the public defence of William Noble's doctoral thesis on Thursday 20 April, at 13:15 in room J222, Faculty of Humanities. The title is "Semantic change in interaction: Studies on the dynamics of lexical meaning".
+Cordially welcome to the public defence of William Noble's doctoral thesis on Thursday 20 April, at 13:15 in room J222, Renströmsgatan 6, Faculty of Humanities. The title is "Semantic change in interaction: Studies on the dynamics of lexical meaning".
 
 Doctoral candidate: William Noble, University of Gothenburg
 
