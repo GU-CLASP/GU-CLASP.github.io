@@ -59,6 +59,7 @@ Finally, we use diachronic distributional word vectors to study
 *short-term semantic shift* in online communities. We find that semantic
 change has a significant yet nuanced relationship with the social
 structure of the community.
+Altogether, the compilation offers two main insights. First, semantic plasticity is directly related to the complexity of the lexical semantic system. Words exhibit both perceptual and inferential meaning potential, each of which play a role in conveying and learning new words. Monolithic representations of word meaning belie a structured flexibility that guides how words can be used, while providing opportunities for innovation. It is this flexibility that is often the site of new conventionalized meanings. Second, semantic change is rooted in the interactive practices of the community. Communities sustain the communicative norms that govern how linguistic interaction takes place. These norms provide a framework for negotiating meaning. They also comprise the social and semiotic context that supports semantic innovation and change.
 
 
 Full text: 
