@@ -15,6 +15,6 @@ Abstract: Artificial intelligence techniques are available for large languages s
 
 
 
-Location: Attend in person at J330 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
+Location: Attend in person at J336 or via Zoom, https://gu-se.zoom.us/j/68847084939
 
 Time: 13:15-15:00
