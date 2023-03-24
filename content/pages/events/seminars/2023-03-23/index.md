@@ -2,7 +2,7 @@
 lecturer: "Rolando Coto Solano from Dartmouth College"
 title: "Deep learning and severely under-resourced languages: How much can the model actually learn?"
 type: seminar
-date: 2023-03-21
+date: 2023-03-23
 duration: "2 hours"
 venue: "Gothenburg and Online"
 slides: "Rolando Coto Solano 23.3.2023.pdf"
