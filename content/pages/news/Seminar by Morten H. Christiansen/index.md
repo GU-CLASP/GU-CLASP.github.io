@@ -2,9 +2,9 @@
 presented_by: "Morten H. Christiansen from Cornell University"
 title: ""
 type: seminar
-date: 2023-06-09
+date: 2023-03-28
 year: 2023
-expired: false
+expired: true
 ---
 
 Abstract: TBA
