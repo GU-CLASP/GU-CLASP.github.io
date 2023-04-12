@@ -1,6 +1,6 @@
 ---
 presented_by: "Asad Sayeed from University of Gothenburg and Xudong Hong from Saarland University"
-title: "TBA"
+title: ""
 type: seminar
 date: 2023-05-26
 year: 2023
