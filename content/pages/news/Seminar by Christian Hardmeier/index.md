@@ -5,7 +5,7 @@ Challenges and Insights"
 type: seminar
 date: 2023-04-14
 year: 2023
-expired: false
+expired: True
 ---
 
 Abstract: The difficulty of pronoun translation is typically illustrated with examples of
