@@ -30,11 +30,12 @@ hideInSearchResults: true
     Scriptor Verlag, Kronberg.
 
 ## EDITED BOOKS
--   Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre Maskharashvili 
-    (eds.) (in press), *Probabilistic Approaches to Linguistic Theory*, CSLI Publications, Stanford CA.
--   Shalom Lappin and Jean-Philippe Bernardy (Editors) (in press), [*Algebraic Structures in Natural 
+
+-   Shalom Lappin and Jean-Philippe Bernardy (Editors) (2023), [*Algebraic Structures in Natural 
     Language*](https://www.routledge.com/Algebraic-Structures-in-Natural-Language/Lappin-Bernardy/p/book/9781032066547), 
     CRC Press, Taylor and Francis, Boca Raton and Oxford.
+-   Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre Maskharashvili 
+    (eds.) (2022), *Probabilistic Approaches to Linguistic Theory*, CSLI Publications, Stanford CA.
 -   Shalom Lappin and Chris Fox (eds.) (2015), [*The Handbook of
     Contemporary Semantic
     Theory*](http://www.amazon.com/Handbook-Contemporary-Blackwell-Handbooks-Linguistics/dp/0470670738/ref=sr_1_1?s=books&ie=UTF8&qid=1448700246&sr=1-1&keywords=Shalom+Lappin),
@@ -191,16 +192,15 @@ hideInSearchResults: true
 
 ## CHAPTERS IN BOOKS
 
-
--   Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, 
-    and Aleksandre Maskharashvili (in press), \"Bayesian Inference Semantics for Natural 
-    Language\" in Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, 
-    Shalom Lappin, and Aleksandre Maskharashvili (eds), *Probabilistic Approaches 
-    to Linguistic Theory*, CSLI Publications, Stanford CA.
--   Jean-Philippe Bernardy and Shalom Lappin (in press), \"Unitary Recurrent 
+-   Jean-Philippe Bernardy and Shalom Lappin (2023), \"Unitary Recurrent 
     Networks: Algebraic and Linear Structures for Syntax\" in Shalom Lappin 
     and Jean-Philippe Bernardy (eds.), *Algebraic Structures in Natural Language*, 
-    CRC Press, Taylor and Francis, Boca Raton and Oxford.
+    CRC Press, Taylor and Francis, Boca Raton and Oxford, pp. 243-277.
+-   Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, 
+    and Aleksandre Maskharashvili (2022), \"Bayesian Inference Semantics for Natural 
+    Language\" in Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, 
+    Shalom Lappin, and Aleksandre Maskharashvili (eds), *Probabilistic Approaches 
+    to Linguistic Theory*, CSLI Publications, Stanford CA, pp. 161-228.
 -   Shalom Lappin (2015), \"Curry Typing, Polymorphism, and Fine-Grained
     Intensionality\" in Shalom Lappin and Chris Fox (eds.), *The
     Handbook of Contemporary Semantic Theory*, Second Edition,
