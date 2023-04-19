@@ -8,16 +8,17 @@ hideInSearchResults: true
 
 # Recent Papers
 
-Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom
-Lappin, and Aleksandre Maskharashvili (in press), [Bayesian Inference Semantics for
-Natural Language](bernardy-etal22.pdf) in Jean-Philippe Bernardy, Rasmus Blanck,
-Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre Maskharashvili (eds.), 
-*Probabilistic Approaches to Linguistic Theory*, CSLI Publications, Stanford CA.
-
-Jean-Philippe Bernardy and Shalom Lappin (in press), [Unitary Recurrent Networks: 
+Jean-Philippe Bernardy and Shalom Lappin (2023), [Unitary Recurrent Networks: 
 Algebraic and Linear Structures for Syntax](bernardy-lappin23.pdf) in Shalom
 Lappin and Jean-Philippe Bernardy (eds), *Algebraic Sturtures in Natural Language*,
-CRC Press, Taylor and Francis, Boca Raton and Oxford.
+CRC Press, Taylor and Francis, Boca Raton and Oxford, pp. 243-277.
+
+Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom
+Lappin, and Aleksandre Maskharashvili (2022), [Bayesian Inference Semantics for
+Natural Language](bernardy-etal22.pdf) in Jean-Philippe Bernardy, Rasmus Blanck,
+Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre Maskharashvili (eds.), 
+*Probabilistic Approaches to Linguistic Theory*, CSLI Publications, Stanford CA, 
+pp. 161-228.
 
 Jean-Philippe Bernardy and Shalom Lappin (2022), [Assessing the Unitary RNN as an 
 End-to-End Compositional Model of Syntax](bernardy-lappin22a.pdf) in M. Moortgat 
