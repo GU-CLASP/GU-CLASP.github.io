@@ -10,13 +10,14 @@ Meetings: Alternate Fridays (odd weeks), 10.15-12.00.
 
 ### Upcoming session:
 
-#### 20 January 2023 \-- [10h-12h]
+#### 28 April 2023 \-- [10h-12h]
 TBD
 
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
 
+- Stateva, P., Andreetta, S., Reboul, A., & Stepanov, A. (2021). Bilingual Children’s Use of the ‘Maximize Presupposition’Principle. Glossa: a journal of general linguistics (2016-2021), 6. https://hal.science/hal-03337015/document
 - Lücking, A., and Ginzburg, J. (2022) [Leading voices: dialogue semantics, cognitivescience and the polyphonic structure of multimodal interaction](https://doi.org/10.1017/langcog.2022.30) in Language and Cognition. (suggested by Robin)
 - Boleda, G., Aina, L., Silberer, C., Sorodoc, I. T., & Westera, M. (2019). What do entity-centric models learn? Insights from entity linking in multi-party dialogue. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies; 2019 Jun 2-7; Minneapolis, United States of America. Stroudsburg (PA): ACL; 2019. p. 3772–83.. ACL (Association for Computational Linguistics). https://repositori.upf.edu/bitstream/handle/10230/42450/boleda_naacl19_entity.pdf?sequence=1&isAllowed=y (suggested by Fahima)
 - Ahn, E., Jimenez, C., Tsvetkov, Y., & Black, A. W. (2020, January). What code-switching strategies are effective in dialog systems?. In Proceedings of the Society for Computation in Linguistics 2020 (pp. 254-264). (suggested by Fahima)
@@ -24,14 +25,18 @@ TBD
 - Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of the English Bare Plural in *Formal Semantics: The Essential Readings.* 2008. (Suggested by Ellen)
 - Pustejovsky, J. and Krishnaswamy, N. "Embodied Human Computer Interaction" Ms. (Suggested by Eleni)
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
-- Barwise, J., & Perry, J. (1998). Situations and Attitudes. (suggested by Staffan)
 - Ilbury, Christian. [U Ok Hun?: The digital commodification of white woman style.](https://doi.org/10.1111/josl.12563) Journal of Sociolinguistics, 2022. (suggested by Bill)
-- Zhou et al. [Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue](https://aclanthology.org/2022.acl-long.110) ACL 2022. (suggested by Bill)
 - Lu et al. [Unsupervised Learning of Hierarchical Conversation Structure](https://arxiv.org/pdf/2205.12244.pdf) arXiv preprint, May 2022. (suggested by Bill)
 - Tanvi Dinkar et al. [Fillers in Spoken Language Understanding: Computational and Psycholinguistic Perspectives](https://arxiv.org/abs/2301.10761) to appear in TAL, January 2023. (suggested by Bill)
 
 
 ### Previous sessions:
+
+#### 17 March 2023 \-- [10h-12h]
+Bernardy, Grove, Howes (2022). Rational Speech Act models are utterance-independent updates of world priors. (http://semdial.org/anthology/Z22-Bernardy_semdial_0013.pdf) SemDial 2022. (lead by Jean-Philippe)
+
+#### 3 February 2023 \-- [10h-12h]
+Zhou et al. [Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue](https://aclanthology.org/2022.acl-long.110) ACL 2022. (lead by Bill)
 
 #### 20 January 2023 \-- [10h-12h]
 ChatGPT: Optimizing Language Models for Dialogue https://openai.com/blog/chatgpt/
