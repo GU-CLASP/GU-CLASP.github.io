@@ -228,7 +228,7 @@ var menuData = [
     "hasSubmenu": true,
     "submenu": [
       {
-        "title": "Language and Perception",
+        "title": "Cognitive Systems",
         "href": null,
         "linkToMDFile": false,
         "MDFileCustomID": "research-lap",
