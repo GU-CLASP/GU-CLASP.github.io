@@ -1,5 +1,9 @@
 ---
-MDFileCustomID: "research-lap"
+title: Cognitive Systems Group 
+sidebar: Research
+showTitle: true
+showSidebarEntity: 'research'
+MDFileCustomID: "research-cognitive"
 ---
 
 ![Blue apple](./pics/blue-apple.jpg)

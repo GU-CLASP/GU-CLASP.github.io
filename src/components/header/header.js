@@ -230,62 +230,9 @@ var menuData = [
       {
         "title": "Cognitive Systems",
         "href": null,
-        "linkToMDFile": false,
-        "MDFileCustomID": "research-lap",
-        "hasSubmenu": true,
-        "submenu": [
-          {
-            "title": "About",
-            "href": null,
-            "linkToMDFile": true,
-            "MDFileCustomID": "research-lap",
-            "hasSubmenu": false
-          },
-          {
-            "title": "Reading group",
-            "href": null,
-            "linkToMDFile": true,
-            "MDFileCustomID": "reading-lap",
-            "hasSubmenu": false
-          },
-          {
-            "title": "Courses",
-            "href": null,
-            "linkToMDFile": true,
-            "MDFileCustomID": null,
-            "hasSubmenu": true,
-            "submenu": [
-              {
-                "title": "Representations of Meaning",
-                "href": null,
-                "linkToMDFile": true,
-                "MDFileCustomID": "course-rom",
-                "hasSubmenu": false
-              },
-              {
-                "title": "Language, Action, and Perception",
-                "href": null,
-                "linkToMDFile": true,
-                "MDFileCustomID": "course-apl",
-                "hasSubmenu": false
-              },
-              {
-                "title": "Sociolinguistics and Bilingualism for NLP",
-                "href": null,
-                "linkToMDFile": true,
-                "MDFileCustomID": "course-csoc",
-                "hasSubmenu": false
-              },
-              {
-                "title": "ML Methods for Vision and Language",
-                "href": null,
-                "linkToMDFile": true,
-                "MDFileCustomID": "course-ml-vl",
-                "hasSubmenu": false
-              }
-            ]
-          }
-        ]
+        "linkToMDFile": true,
+        "MDFileCustomID": "research-cognitive",
+        "hasSubmenu": false,
       },
       {
         "title": "Dialogue",
