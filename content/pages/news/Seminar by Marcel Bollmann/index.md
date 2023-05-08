@@ -4,7 +4,7 @@ title: "NLP beyond English: Do we need to think more about linguistics?"
 type: seminar
 date: 2023-05-05
 year: 2023
-expired: false
+expired: true
 ---
 
 Abstract: From analysis of 16th-century text collections to machine translation for Creole languages: there are a lot of challenging application scenarios for NLP outside the “mainstream” English-language tasks. Yet many new NLP technologies are developed first and foremost for English, with “multilinguality” being achieved as a by-product of throwing more data at a model. Will this be the way forward? Are there still benefits in thinking about how we represent language for deep learning models, such as subword tokenization or incorporating linguistic structure? 
