@@ -1,7 +1,7 @@
 ---
 name: "Shalom Lappin"
 role: 0 
-title: "Professor"
+title: "Chief Scientist"
 profileImage: "shalomlappin.jpg"
 ---
 
