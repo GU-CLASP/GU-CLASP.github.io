@@ -1,7 +1,7 @@
 ---
 name: "Robin Cooper"
 role: 3 
-title: "Senior Professor"
+title: "Acting Head"
 profileImage: "Robin-Cooper3JPGcropped.JPG"
 ---
 Robin Cooper is a Senior Professor at CLASP and Professor emeritus of Computational Linguistics.
