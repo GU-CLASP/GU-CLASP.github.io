@@ -22,7 +22,6 @@ Researchers:
 - Sharid Loáiciga
 
 PhD students:
-- Bill Noble
 
 The group runs a bi-weekly [reading group](meetings).
 
