@@ -10,15 +10,13 @@ Meetings: Alternate Fridays (odd weeks), 10.15-12.00.
 
 ### Upcoming session:
 
-#### 28 April 2023 \-- [10h-12h]
-TBD
+#### 26 May 2023 \-- [10h-12h]
+Lücking, A., and Ginzburg, J. (2022) [Leading voices: dialogue semantics, cognitivescience and the polyphonic structure of multimodal interaction](https://doi.org/10.1017/langcog.2022.30) in Language and Cognition. (Led by Robin)
 
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
 
-- Stateva, P., Andreetta, S., Reboul, A., & Stepanov, A. (2021). Bilingual Children’s Use of the ‘Maximize Presupposition’Principle. Glossa: a journal of general linguistics (2016-2021), 6. https://hal.science/hal-03337015/document
-- Lücking, A., and Ginzburg, J. (2022) [Leading voices: dialogue semantics, cognitivescience and the polyphonic structure of multimodal interaction](https://doi.org/10.1017/langcog.2022.30) in Language and Cognition. (suggested by Robin)
 - Boleda, G., Aina, L., Silberer, C., Sorodoc, I. T., & Westera, M. (2019). What do entity-centric models learn? Insights from entity linking in multi-party dialogue. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies; 2019 Jun 2-7; Minneapolis, United States of America. Stroudsburg (PA): ACL; 2019. p. 3772–83.. ACL (Association for Computational Linguistics). https://repositori.upf.edu/bitstream/handle/10230/42450/boleda_naacl19_entity.pdf?sequence=1&isAllowed=y (suggested by Fahima)
 - Ahn, E., Jimenez, C., Tsvetkov, Y., & Black, A. W. (2020, January). What code-switching strategies are effective in dialog systems?. In Proceedings of the Society for Computation in Linguistics 2020 (pp. 254-264). (suggested by Fahima)
 - Acton, E. (2022). Sociophonetics, semantics, and intention. Journal of Linguistics, 1-30. doi:10.1017/S0022226721000475 (suggested by Robin)
@@ -31,6 +29,9 @@ TBD
 
 
 ### Previous sessions:
+
+#### 12 May 2023 \-- [10h-12h]
+Stateva, P., Andreetta, S., Reboul, A., & Stepanov, A. (2021). Bilingual Children’s Use of the ‘Maximize Presupposition’Principle. Glossa: a journal of general linguistics (2016-2021), 6. https://hal.science/hal-03337015/document (lead by Fahima)
 
 #### 17 March 2023 \-- [10h-12h]
 Bernardy, Grove, Howes (2022). Rational Speech Act models are utterance-independent updates of world priors. (http://semdial.org/anthology/Z22-Bernardy_semdial_0013.pdf) SemDial 2022. (lead by Jean-Philippe)
