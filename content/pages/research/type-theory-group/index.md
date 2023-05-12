@@ -17,7 +17,6 @@ Group members:
 - Shalom Lappin
 -	Robin Cooper
 -	Staffan Larsson
--	Bill Noble
 
 The group’s activities involve invited talks by prominent researchers in the field, organizing workshops on Type Theory and exploring connections between Type Theory and Probability and/or Machine Learning. 
 
