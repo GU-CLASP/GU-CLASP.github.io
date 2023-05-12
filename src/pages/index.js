@@ -151,14 +151,14 @@ export default function Home(props) {
           <Col
             className="feature-item col-12 col-md-4 ">
             <p className="p-0 ml-0">Chief Scientist</p>
-            <a href={props.data.directors.people[1].person.fields.slug}>
-              {props.data.directors.people[1].person.frontmatter.name}
+            <a href={props.data.directors.people[2].person.fields.slug}>
+              {props.data.directors.people[2].person.frontmatter.name}
             </a>
             <hr />
-            {props.data.directors.people[1].person.frontmatter.profileImage ? <Image className="rounded mx-auto d-block" src={props.data.directors.people[1].person.frontmatter.profileImage.publicURL} roundedCircle /> : <Person style={{ width: "100%", height: "auto" }} />}
+            {props.data.directors.people[2].person.frontmatter.profileImage ? <Image className="rounded mx-auto d-block" src={props.data.directors.people[2].person.frontmatter.profileImage.publicURL} roundedCircle /> : <Person style={{ width: "100%", height: "auto" }} />}
             <hr />
             <p>
-              {props.data.directors.people[1].person.excerpt}
+              {props.data.directors.people[2].person.excerpt}
             </p>
           </Col>
         }
