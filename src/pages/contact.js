@@ -30,19 +30,19 @@ export default function Project(props) {
               <div class="box_cont">
                 <h4>Contact</h4>
                 <br></br>
-                <h5>Shalom Lappin, Director</h5>
+                <h5>Shalom Lappin, Chief Scientist</h5>
                                 Phone: +46 31 786 5019
                                 <p>E-mail: <a href="mailto:shalom.lappin@gu.se">shalom.lappin@gu.se</a></p>
                 <br></br>
 
-                <h5>Sharid Loáiciga, Associate Director and Researcher</h5>
+                <h5>Sharid Loáiciga, Coordinating Director</h5>
                 Phone +46 31 786 5942
                 <p>E-mail: <a href="mailto: sharid.loaiciga@gu.se"> sharid.loaiciga@gu.se</a></p>
                 <br></br>
 
-                <h5>Hanna Edblom, Administrator</h5>
+                <h5>Susanna Myyry, Administrator</h5>
                                 Phone: +46 31 786 4938
-                                <p>E-mail: <a href="mailto: hanna.edblom@gu.se">hanna.edblom@gu.se</a></p>
+                                <p>E-mail: <a href="mailto: susanna.myyry@gu.se">susanna.myyry@gu.se</a></p>
                 <hr></hr>
                 <h4>Visiting address</h4>
                 <p>Renströmsgatan 6 <br></br>

@@ -8,7 +8,7 @@ export default function People(props) {
   var sidebarData = []
   if (props.data.directors.totalCount > 0) {
     sidebarData.push({
-      "title": "Director",
+      "title": "Chief Scientist",
       "link": "#director"
     })
   }
