@@ -19,7 +19,6 @@ The main people in the dialogue research group are:
 - Ruth Kempson 
 
 PhD students:
-- Bill Noble
 - Alexander Berman
 
 In addition, the following members of CLASP have research which overlaps with our area:
