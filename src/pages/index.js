@@ -140,7 +140,7 @@ export default function Home(props) {
           className="main-page-col-margin"
         >
           <h1 className="text-center">
-            Directors and Administrator
+          Direction
         </h1>
           <hr />
         </Col>
@@ -150,7 +150,7 @@ export default function Home(props) {
         {props.data.directors.totalCount > 0 &&
           <Col
             className="feature-item col-12 col-md-4 ">
-            <p className="p-0 ml-0">Director of CLASP</p>
+            <p className="p-0 ml-0">Chief Scientist</p>
             <a href={props.data.directors.people[0].person.fields.slug}>
               {props.data.directors.people[0].person.frontmatter.name}
             </a>
@@ -166,7 +166,7 @@ export default function Home(props) {
           <Col
             className="feature-item col-12 col-md-4"
           >
-            <p className="p-0 ml-0">Associate Director</p>
+            <p className="p-0 ml-0">Coordinating Director</p>
             <a href={props.data.associate_directors.people[0].person.fields.slug}>
               {props.data.associate_directors.people[0].person.frontmatter.name}
             </a>

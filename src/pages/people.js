@@ -14,7 +14,7 @@ export default function People(props) {
   }
   if (props.data.associate_directors.totalCount > 0) {
     sidebarData.push({
-      "title": "Associate Director",
+      "title": "Coordinating Director",
       "link": "#associate-directors"
     })
   }
@@ -72,7 +72,7 @@ export default function People(props) {
               <Row>
                 <Col className="people-col-margin" id="associate-directors">
                   <hr />
-                  <h4 className="position-margin">Associate Director and Researcher</h4>
+                  <h4 className="position-margin">Coordinating Director and Researcher</h4>
                   <hr />
                 </Col>
               </Row>
