@@ -8,7 +8,7 @@ export default function People(props) {
   var sidebarData = []
   if (props.data.directors.totalCount > 0) {
     sidebarData.push({
-      "title": "Chief Scientist",
+      "title": "Direction",
       "link": "#director"
     })
   }
@@ -56,7 +56,7 @@ export default function People(props) {
             <Col>
               <Row>
                 <Col className="people-col-margin" id="director">
-                  <h4>Director</h4>
+                  <h4>Direction</h4>
                   <hr />
                 </Col>
               </Row>
@@ -72,7 +72,7 @@ export default function People(props) {
               <Row>
                 <Col className="people-col-margin" id="associate-directors">
                   <hr />
-                  <h4 className="position-margin">Coordinating Director and Researcher</h4>
+                  <h4 className="position-margin">Coordinating Director</h4>
                   <hr />
                 </Col>
               </Row>

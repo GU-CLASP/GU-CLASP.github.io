@@ -30,10 +30,6 @@ export default function Project(props) {
               <div class="box_cont">
                 <h4>Contact</h4>
                 <br></br>
-                <h5>Shalom Lappin, Chief Scientist</h5>
-                                Phone: +46 31 786 5019
-                                <p>E-mail: <a href="mailto:shalom.lappin@gu.se">shalom.lappin@gu.se</a></p>
-                <br></br>
 
                 <h5>Sharid Loáiciga, Coordinating Director</h5>
                 Phone +46 31 786 5942
