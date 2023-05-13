@@ -31,7 +31,7 @@ In the Cognitive ststems research group we are looking at formal and distributio
 
 Several other members of CLASP have occasionally collaborated with the group.
 
-## Masters students (working on a thesis)
+## Masters students (theses)
 
 - Dominik Künkele, learning through interaction
 - Ekaterina (Katya Voloshina), probing grounded language models
