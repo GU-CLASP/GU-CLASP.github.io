@@ -25,11 +25,13 @@ In the Cognitive ststems research group we are looking at formal and distributio
 - [Bill Noble](https://www.gu.se/en/about/find-staff/billnoble)
 - [Vladislav Maraev](https://www.gu.se/om-universitetet/hitta-person/vladislavmaraev)
 - [Tewodros Gebreselassie](https://www.gu.se/om-universitetet/hitta-person/tewodrosgebreselassie)
-- [Kathrein Abu Kwaikh](ttps://scholar.google.com/citations?user=JvibGVoAAAAJ&hl=en] (Chatrine Qwaider)
+- [Kathrein Abu Kwaik](https://scholar.google.com/citations?user=JvibGVoAAAAJ&hl=en) (Chatrine Qwaider)
 - [Wafia Adouane](https://www.semanticscholar.org/author/Wafia-Adouane/3449178)
 - [Mehdi Ghanimifard](https://www.linkedin.com/in/mmehdig/?originalSubdomain=se), [publications](https://scholar.google.com/citations?user=1NToWm0AAAAJ&hl=en)
 
-## Students working on a thesis:
+Several other members of CLASP have occasionally collaborated with the group.
+
+## Masters students (working on a thesis)
 
 - Dominik Künkele, learning through interaction
 - Ekaterina (Katya Voloshina), probing grounded language models
@@ -38,6 +40,8 @@ In the Cognitive ststems research group we are looking at formal and distributio
 Join as [a postdoc](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=30194) or [a PhD student](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=30182) in the associated [Grandma Karl research environment](https://spraakbanken.gu.se/projekt/mormor-karl)
 
 Join us every even Friday in our [reading group](https://gu-clasp.github.io/language-and-perception/meetings/)
+
+Attend [a doctoral course](https://gu-clasp.github.io/language-and-perception/courses/)
 
 ## News 
 
@@ -65,9 +69,8 @@ Doctoral courses
 
   - [Reading group](https://gu-clasp.github.io/language-and-perception/meetings/)
   - [Wiki](https://github.com/GU-CLASP/cogsys-wiki)
-  - 
 
-## Contact:
+## Contact
 
   - Mailing list cogsys (at) listserv (dot) gu (dot) se, [subscribe](https://listserv.gu.se/sympa/subscribe/cogsys)
   - Discord (to get added, send Simon your discord id)
