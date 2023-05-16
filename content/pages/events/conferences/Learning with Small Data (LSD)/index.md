@@ -7,6 +7,18 @@ duration: "2 days"
 
 Learning with Small Data is a conference organized by the Centre for Linguistic Theory and Studies in Probability (CLASP), https://www.gu.se/en/clasp at the Department of Philosophy, Linguistics and Theory of Science (FLoV). The conference will be held between September 11 to September 12. 
 
-(Dis)embodiment will bring together researchers from various areas to discuss  the sustainability of current state of the art methods in computational linguistics which rely on very large models, such as GPT2-3, BERT, and XLNet. The conference encourages contributions from machine learning, computational linguistics, theoretical linguistics, philosophy, cognitive science, and psycholinguistics, as well as from artificial intelligence ethics and social policy. We hope to see innovative technical proposals,  and we will cultivate a wide spectrum of views within a lively dialog on the issues that the conference addresses. For more info visit: https://sites.google.com/view/learning-with-small-data/home. 
+There is now an acute need for intensive research on the possibility of effective learning with small data. Our 2023 conference, LSD, is devoted to work on this problem, with application to computational linguistics. 
 
+Why is there this need? Current deep learning systems require large amounts of data in order to yield optimal results. Neural language models are now trained on many billions of parameters, with data sets that are terabytes in size. Despite this, they have achieved remarkable success across a wide range of tasks in Natural Language Processing, and in AI generally. But these systems have a number of limitations which require closer attention:
 
+First, the models take a long time to pretrain, and they are difficult to modify. As a result, much research in NLP is shaped by what one can achieve with large transformers. This has marginalised important computational learning questions for which they are not well suited.
+
+Second, because of the heavy resources required to develop them, they have become the preserve of tech companies. Researchers at most universities and smaller centres are now positioned as consumers of these systems, limited to fine tuning them for experimental work on downstream tasks.
+
+Third, the complexity, size, and mode of computation of transformers has rendered the way in which they acquire the generalisations extracted from data largely opaque. This has made it difficult to understand precisely why they succeed, or fail, where they do. 
+
+Finally, comparison with human learning and representation has become increasingly difficult, given the large disparity in accessible data and learning time between transformers and humans. Therefore, the cognitive interest of deep learning has receded. 
+
+These reasons alone are sufficient to motivate us at CLASP to bring fellow researchers together for an organized discussion. We welcome original contributions in all areas of NLP and related domains of AI that address aspects of this issue.
+
+https://sites.google.com/view/learning-with-small-data/home
