@@ -31,7 +31,7 @@ Lücking, A., and Ginzburg, J. (2022) [Leading voices: dialogue semantics, cogni
 ### Previous sessions:
 
 #### 12 May 2023 \-- [10h-12h]
-Stateva, P., Andreetta, S., Reboul, A., & Stepanov, A. (2021). Bilingual Children’s Use of the ‘Maximize Presupposition’Principle. Glossa: a journal of general linguistics (2016-2021), 6. https://hal.science/hal-03337015/document (lead by Fahima)
+Stateva, P., Andreetta, S., Reboul, A., & Stepanov, A. (2021). Bilingual Children’s Use of the ‘Maximize Presupposition’ Principle. Glossa: a journal of general linguistics (2016-2021), 6. https://hal.science/hal-03337015/document (lead by Fahima)
 
 #### 17 March 2023 \-- [10h-12h]
 Bernardy, Grove, Howes (2022). Rational Speech Act models are utterance-independent updates of world priors. (http://semdial.org/anthology/Z22-Bernardy_semdial_0013.pdf) SemDial 2022. (lead by Jean-Philippe)
