@@ -1,5 +1,4 @@
 ---
----
 title: "Learning with Small Data (LSD) Conference"
 type: conference
 date: 2023-09-11
@@ -33,4 +32,5 @@ https://sites.google.com/view/learning-with-small-data/home
 
 
 Location: Gothenburg University, Humanisten, Renströmsgatan 6; attend at room J222.
+
 Time: 09:00-17:00
