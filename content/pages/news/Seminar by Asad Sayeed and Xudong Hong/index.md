@@ -4,7 +4,7 @@ title: "Visual Writing Prompts: Character-Grounded Story Generation with Curated
 type: seminar
 date: 2023-05-26
 year: 2023
-expired: false
+expired: true
 ---
 
 Abstract: 
