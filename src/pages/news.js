@@ -86,6 +86,23 @@ function getNewsEntryList(newsList) {
           </div>
         )
       }
+      if(newsPage.news_entry.frontmatter.type == "conference"){
+        return(
+          <div class='col'>
+            <div class="text">
+              <h5 className="p-0 ml-0"> Conference</h5>
+                <p className="p-0 ml-0"> On: {newsList.news[index].news_entry.frontmatter.date}</p>
+                <h5>
+                  <Link to={newsPage.news_entry.fields.slug}>
+                  {newsPage.news_entry.frontmatter.title}
+                  </Link>
+                  <br></br>
+                </h5>
+              <hr/>
+            </div>
+          </div>
+        )
+      }
     else{
       return(
         <div class='col'>

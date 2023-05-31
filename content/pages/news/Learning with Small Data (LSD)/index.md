@@ -3,7 +3,7 @@ title: "Learning with Small Data (LSD) Conference"
 date: 2023-09-11
 venue: "Gothenburg University, Humanisten, Renströmsgatan 6, room J222"
 duration: "2 days"
-type: 'conference'
+type: conference
 year: 2023
 bannerImage: "psychedelic-pattern-02 .jpg"
 expired: false

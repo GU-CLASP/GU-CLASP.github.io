@@ -115,21 +115,33 @@ export default function Home(props) {
           {props.data.latest_news.news.map((entry, index) => {
             // const entry.news_entry = entry.entry.news_entry
             if(entry.news_entry.frontmatter.expired == false && formatDate(entry.news_entry.frontmatter.date) >= formatDate(new Date())){ 
-              return (
+              if (entry.news_entry.frontmatter.type == "conference"){
+              return(
                 <Row className="news-entry">
                   <Col
                     className="feature-item ">
-                      <h5 className="p-0 ml-0"> Research Seminar</h5>
-                      <p className="p-0 ml-0"> On: {entry.news_entry.frontmatter.date}</p>
-                      <p className="p-0 ml-0"> Presented by: {entry.news_entry.frontmatter.presented_by}</p>
-                      <a href={entry.news_entry.fields.slug}>{entry.news_entry.frontmatter.title}</a>
+                        <h5 className="p-0 ml-0"> Conference</h5>
+                        <p className="p-0 ml-0"> On: {entry.news_entry.frontmatter.date}</p>
+                        <a href={entry.news_entry.fields.slug}>{entry.news_entry.frontmatter.title}</a>
                       <hr />
-                      {/* <img className="rounded mx-auto d-block" src={entry.news_entry.frontmatter.bannerImage.publicURL}></img> */}
-                      {/* <hr /> */}
-                      {/* <p>{entry.news_entry.excerpt}</p> */}
-                  </Col>
+                      </Col>
+                    </Row>
+                      )
+                    }
+                else{
+                  return(
+                      <Row className="news-entry">
+                        <Col
+                        className="feature-item ">
+                        <h5 className="p-0 ml-0"> Research Seminar</h5>
+                        <p className="p-0 ml-0"> On: {entry.news_entry.frontmatter.date}</p>
+                        <p className="p-0 ml-0"> Presented by: {entry.news_entry.frontmatter.presented_by}</p>
+                        <a href={entry.news_entry.fields.slug}>{entry.news_entry.frontmatter.title}</a>
+                      <hr />
+                      </Col>
                 </Row>
-              )
+                      )
+                }
             }
           })}
         </div>
