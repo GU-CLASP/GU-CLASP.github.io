@@ -4,7 +4,7 @@ title: "Informativity in cooperative communication"
 type: seminar
 date: 2023-06-02
 year: 2023
-expired: false
+expired: true
 ---
 
 Abstract: In studying meaning in communication, a question arises as to which meanings are favored by interlocutors. While a range of candidate meanings may be possible and even plausible, how do speakers select which meanings to communicate and how do listeners make guesses as to the most probable meaning when trying to recover what a speaker intends or when anticipating what a speaker will say next?  
