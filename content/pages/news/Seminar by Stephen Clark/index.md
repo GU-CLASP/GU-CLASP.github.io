@@ -1,13 +1,13 @@
 ---
 presented_by: "Stephen Clark from Quantinuum"
-title: "TBA"
+title: ""
 type: seminar
 date: 2023-09-06
 year: 2023
 expired: false
 ---
 
-Abstract: TBA
+Abstract: 
 
 
 
