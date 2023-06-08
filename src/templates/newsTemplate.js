@@ -8,6 +8,7 @@ export default function NewsTemplate({
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
+  if (frontmatter.type=='conference'){
   return (
     <Layout>
       {frontmatter.bannerImage &&
@@ -24,7 +25,7 @@ export default function NewsTemplate({
       </Row>
       <Row>
         <Col>
-          Presented by: {frontmatter.presented_by}
+          
         </Col>
         
       </Row>
@@ -44,6 +45,47 @@ export default function NewsTemplate({
       </Row>
     </Layout>
   )
+  }
+  else{
+    return (
+    <Layout>
+      {frontmatter.bannerImage &&
+        <Row className="news-banner-image">
+          <Col className="text-center">
+            <Image style={{ maxHeight: "50vh", maxWidth: "100%" }} src={frontmatter.bannerImage.publicURL} />
+          </Col>
+        </Row>
+      }
+      <Row>
+        <Col>
+          <h1>{frontmatter.title}</h1>
+        </Col>
+      </Row>
+      <Row>
+        <Col>
+          <Col>
+            Presented by: {frontmatter.presented_by}
+          </Col>
+        </Col>
+        
+      </Row>
+      <Row>
+        <Col>
+          Date: {frontmatter.date}
+        </Col>
+      </Row>
+      <hr />
+      <Row>
+        <Col>
+          <div
+            className="blog-post-content"
+            dangerouslySetInnerHTML={{ __html: html }}
+          />
+        </Col>
+      </Row>
+    </Layout>
+  )
+  }
 }
 
 export const pageQuery = graphql`
@@ -51,6 +93,7 @@ export const pageQuery = graphql`
     markdownRemark(fields: {slug: {eq: $slug}}) {
       html
       frontmatter {
+        type
         presented_by
         title
         date(formatString: "MMMM DD, YYYY")
