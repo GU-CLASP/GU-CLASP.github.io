@@ -1,5 +1,5 @@
 ---
-presented_by: "Stephen Clark from Quantinuum"
+presented_by: "Stephen Clark, Head of ArtificiaI Intelligence, Quantinuum"
 title: "Hybrid Recurrent Architectures for Quantum-Classical NLP"
 type: seminar
 date: 2023-09-06
