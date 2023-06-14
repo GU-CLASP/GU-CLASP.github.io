@@ -11,8 +11,8 @@ Cordially welcome to the public defence of Adam Ek's doctoral thesis on Friday 8
 
 Doctoral candidate: Adam Ek, University of Gothenburg
 
-Supervisor: , University of Gothenburg
-Assistant supervisor: , University of Gothenburg 
+Supervisor: Jean-Phillipe Bernardy, University of Gothenburg
+Assistant supervisor: Stergios Chatzikiriakidis, University of Gothenburg 
 
 Opponent: Assistant Professor Lasha Abzianidze, Utrecht University
 
