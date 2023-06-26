@@ -2,7 +2,7 @@
 presented_by: "Adam Ek"
 title: "Studies in Language Structure using Deep Learning"
 date: 2023-09-08
-type: 
+type: defence
 year: 2023
 expired: false
 bannerImage: ""

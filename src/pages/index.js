@@ -128,6 +128,20 @@ export default function Home(props) {
                     </Row>
                       )
                     }
+              if (entry.news_entry.frontmatter.type == "defence"){
+                return(
+                  <Row className="news-entry">
+                    <Col
+                      className="feature-item ">
+                          <h5 className="p-0 ml-0"> PhD defence</h5>
+                          <p className="p-0 ml-0"> On: {entry.news_entry.frontmatter.date}</p>
+                          <p className="p-0 ml-0"> Presented by: {entry.news_entry.frontmatter.presented_by}</p>
+                          <a href={entry.news_entry.fields.slug}>{entry.news_entry.frontmatter.title}</a>
+                        <hr />
+                        </Col>
+                      </Row>
+                        )
+                      }
                 else{
                   return(
                       <Row className="news-entry">
