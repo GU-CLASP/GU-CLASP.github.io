@@ -63,9 +63,7 @@ export default function NewsTemplate({
       </Row>
       <Row>
         <Col>
-          <Col>
-            Presented by: {frontmatter.presented_by}
-          </Col>
+          Presented by: {frontmatter.presented_by}
         </Col>
         
       </Row>
