@@ -5,7 +5,7 @@ date: 2023-09-08
 type: defence
 year: 2023
 expired: false
-bannerImage: ""
+bannerImage: "Adam Ek.jpg"
 ---
 
 
