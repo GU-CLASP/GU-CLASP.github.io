@@ -10,7 +10,8 @@ hideInSearchResults: true
 
 Shalom Lappin (2023), [Assessing the Strengths and Weaknesses of Large Language 
 Models](lappin_llms23.pdf), paper presented in the Cognitive Science Seminar of
-the School of Electronic Engineering, Queen Mary University of London, June 2023.
+the School of Electronic Engineering and Computer Science, Queen Mary University 
+of London, June 2023.
 
 Jean-Philippe Bernardy and Shalom Lappin (2023), [Unitary Recurrent Networks: 
 Algebraic and Linear Structures for Syntax](bernardy-lappin23.pdf) in Shalom
