@@ -17,15 +17,6 @@ Her research focuses on the modeling of reasoning and dialogue via a transdiscip
 
 - Social agents as tools in psychology
 
-  
-My scientific journey:
--- From Conversational AI to Pragmatics / Dialog modeling
--- Pragmatics / Dialog modeling: From an activity / reasoning / process-based approach to the 1rst definition in term of kind of information/data using modern epistemology & cognitive sciences
--- From modern epistemology to (Conversational) Agent theory and architecture
--- And Back Again
-
-The key notions I am developing: Acceptance a belief-like doxastic state - caracterisation and representation of tools & much more!
-
 For more info please visit 
 [FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget) or [her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
 
@@ -42,4 +33,6 @@ My scientific journey:
 
 - From modern epistemology to (Conversational) Agent theory and architecture
 
-- And Back Again 
+- And Back Again
+
+  The key notions I am developing: Acceptance a belief-like doxastic state - caracterisation and representation of tools & much more!
