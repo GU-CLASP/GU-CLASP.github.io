@@ -75,21 +75,24 @@ hideInSearchResults: true
 
 ## ARTICLES IN REFEREED JOURNALS
 
+-   Shalom Lappin (to appear), \"Assessing the Strengths and Weaknesses of
+    Large Language Models\", *Jourrnal of Logic, Language and Information*,
+    special issue Natural Logic Meets Machine Learning.
 -   Jey Han Lau, Carlos Armendariz, Shalom Lappin, Matthew Purver, and
     Chang Shu (2020), \"How Furiously Can Colorless Green Ideas Sleep?
     Sentence Acceptability in Context\", *Transactions of the
     Association for Computational Linguistics* 8, pp.  296--310.
--   Jean-Philippe Bernardy and Shalom Lappin (2017), Using Deep Neural
-    Networks to Learn Syntactic Agreement, *Linguistic Issues in
-    Language Technology* 15.2, pp. 1-15.
--   Devdatt Dubhash and Shalom Lappin (2017), AI Dangers: Imagined and
-    Real, *Communications of the ACM*, Vol 60. No. 2, February 2017, pp.
+-   Jean-Philippe Bernardy and Shalom Lappin (2017), \"Using Deep Neural
+    Networks to Learn Syntactic Agreement\", *Linguistic Issues in
+    Language Technology* 15.2, pp. 1-15.    
+-   Devdatt Dubhash and Shalom Lappin (2017), \"AI Dangers: Imagined and
+    Real\", *Communications of the ACM*, Vol 60. No. 2, February 2017, pp.
     43-45.
 -   Jey Han Lau, Alexander Clark, and Shalom Lappin (2016),
-    Grammaticality, Acceptability, and Probability: A Probabilistic View
-    of Linguistic Knowledge, *Cognitive Science*.
+    \"Grammaticality, Acceptability, and Probability: A Probabilistic View
+    of Linguistic Knowledge\", *Cognitive Science*.
 -   Robin Cooper, Simon Dobnik, Shalom Lappin, and Staffan Larsson
-    (2015), Probabilistic Type Theory and Natural Language Semantics,
+    (2015), \"Probabilistic Type Theory and Natural Language Semantics\",
     *Linguistic Issues in Language Technology* 10, pp. 1-43.
 -   Chris Fox and Shalom Lappin (2015), \"Type-Theoretic Logic with an
     Operational Account of Intensionality\", *Synthèse* 192, pp.
