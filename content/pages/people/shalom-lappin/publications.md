@@ -35,9 +35,9 @@ hideInSearchResults: true
     Language*](https://www.routledge.com/Algebraic-Structures-in-Natural-Language/Lappin-Bernardy/p/book/9781032066547), 
     CRC Press, Taylor and Francis, Boca Raton and Oxford.
 -   Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre
-     Maskharashvili (eds.) (2022), [*Probabilistic Approaches to Linguistic Theory*] 
-     (https://press.uchicago.edu/ucp/books/book/distributed/P/bo198661279.html), CSLI Publications, 
-     Stanford CA.
+     Maskharashvili (eds.) (2022), [*Probabilistic Approaches to Linguistic
+    Theory*](https://press.uchicago.edu/ucp/books/book/distributed/P/bo198661279.html),
+    CSLLI Publications, Stanford CA.
 -   Shalom Lappin and Chris Fox (eds.) (2015), [*The Handbook of
     Contemporary Semantic
     Theory*](http://www.amazon.com/Handbook-Contemporary-Blackwell-Handbooks-Linguistics/dp/0470670738/ref=sr_1_1?s=books&ie=UTF8&qid=1448700246&sr=1-1&keywords=Shalom+Lappin),
