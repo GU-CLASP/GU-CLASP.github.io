@@ -4,7 +4,7 @@ title: "Hybrid Recurrent Architectures for Quantum-Classical NLP"
 type: seminar
 date: 2023-09-06
 year: 2023
-expired: false
+expired: true
 ---
 
 Abstract: In this talk I will describe various recurrent architectures based around Parameterised Quantum Circuits (PQCs). A PQC is applied at each time step to produce a quantum state, and each application of the PQC is determined by an angle encoding of the corresponding word (via its classical word embedding). The quantum state can then be measured in order to produce a classical output. All the parameters of the hybrid model can be learned end-to-end using classical optimisers applied to some NLP task, in this case a standard sentiment analysis dataset. The models are trained and tested in simulation, with the potential to be run on real quantum hardware. Our experiments demonstrate encouraging performance compared to a classical RNN baseline.
