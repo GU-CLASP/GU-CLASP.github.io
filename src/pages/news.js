@@ -28,7 +28,7 @@ export default function News(props) {
     points.push(yearPublished)
   })
   }
-  points.sort((a, b) => b-a);
+  points.sort((a, b) => a-b);
 
   return (
     <Layout>
