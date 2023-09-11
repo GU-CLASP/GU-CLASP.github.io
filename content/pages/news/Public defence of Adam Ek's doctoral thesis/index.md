@@ -4,7 +4,7 @@ title: "Studies in Language Structure using Deep Learning"
 date: 2023-09-08
 type: defence
 year: 2023
-expired: false
+expired: true
 bannerImage: "Adam Ek.jpg"
 ---
 
