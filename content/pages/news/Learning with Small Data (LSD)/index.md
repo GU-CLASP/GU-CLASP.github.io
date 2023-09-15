@@ -6,7 +6,7 @@ duration: "2 days"
 type: conference
 year: 2023
 bannerImage: "psychedelic-pattern-02 .jpg"
-expired: false
+expired: true
 ---
 
 Learning with Small Data is a conference organized by the Centre for Linguistic Theory and Studies in Probability (CLASP), https://www.gu.se/en/clasp at the Department of Philosophy, Linguistics and Theory of Science (FLoV). The conference will be held between September 11 to September 12. 
