@@ -1,7 +1,7 @@
 ---
 name: "Adam Ek"
 role: 5 
-title: "PhD Student"
+title: "PhD student"
 profileImage: "Adam.jpg"
 ---
-Adam Ek was a PhD Student at CLASP.
+Adam Ek was a PhD student at CLASP.
