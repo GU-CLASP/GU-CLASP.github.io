@@ -16,6 +16,6 @@ Abstract: Explaining *why* a modern AI model makes the predictions it does has e
 
 
 
-Location: Attend a virtual seminar in person at C452 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
+Location: Attend a virtual seminar in person at J406 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
 
 Time: 15:15-17:00
