@@ -4,7 +4,7 @@ title: "Counterfactual reasoning capabilities of GPT: Preliminary findings"
 type: seminar
 date: 2023-09-27
 duration: "2 hours"
-venue: "Online"
+venue: "Gothenburg and online"
 slides: "Alexander Berman 27.9.2023.pdf"
 ---
 
