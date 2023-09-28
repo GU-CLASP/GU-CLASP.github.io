@@ -4,7 +4,7 @@ title: "Hybrid Recurrent Architectures for Quantum-Classical NLP"
 type: seminar
 date: 2023-09-06
 duration: "2 hours"
-venue: "Online"
+venue: "Gothenburg and online"
 slides: "Stephen Clark 6.9.2023.pdf"
 ---
 
