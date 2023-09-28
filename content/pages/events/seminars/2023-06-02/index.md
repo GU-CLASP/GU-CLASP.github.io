@@ -4,7 +4,7 @@ title: "Informativity in cooperative communication"
 type: seminar
 date: 2023-06-02
 duration: "2 hours"
-venue: "Online"
+venue: "Gothenburg and online"
 slides: "Hannah Rohde 2.6.2023.pdf"
 ---
 
