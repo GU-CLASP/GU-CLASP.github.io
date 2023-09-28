@@ -2,7 +2,7 @@
 presented_by: "Alex Warstadt from ETH Zürich"
 title: ""
 type: seminar
-date: 2023-11-15
+date: TBD
 year: 2023
 expired: false
 ---
