@@ -1,6 +1,6 @@
 ---
 title: "Postdoctoral Researcher in Computational linguistics with specialisation in language grounding to vision, robotics, and beyond"
-date: 2023-05-02
+date: 2023-11-21
 MDFileCustomID: "Post-doctoral-position-in-Computational-Linguistics-vision"
 expired: false
 ---
@@ -103,7 +103,7 @@ Please note that the following documents should be attached to the application (
 We welcome applications written in English, since a non-Swedish speaking person may be appointed as external expert in the recruitment process.
 
 
-###### Applications must be received by: June 1, 2023
+###### Applications must be received by: Novemeber 21, 2023
 
 ###### Information for International Applicants 
 Choosing a career in a foreign country is a big step. Thus, to give you a general idea of what we and Gothenburg have to offer in terms of benefits and life in general for you and your family/spouse/partner please visit: 
@@ -119,4 +119,4 @@ In accordance with the National Archives of Sweden’s regulations, the Universi
 
 In connection to this recruitment, we have already decided which recruitment channels we should use. We therefore decline further contact with vendors, recruitment and staffing companies.
 
-[Apply](https://web103.reachmee.com/ext/I005/1035/apply?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=30194)
+[Apply](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=31684)
