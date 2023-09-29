@@ -1,6 +1,6 @@
 ---
 title: "Postdoctoral Researcher in Computational linguistics with specialisation in language grounding to vision, robotics, and beyond"
-date: 2023-11-21
+date: 2023-09-28
 MDFileCustomID: "Post-doctoral-position-in-Computational-Linguistics-vision"
 expired: false
 ---
