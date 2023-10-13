@@ -1,6 +1,6 @@
 ---
 name: "David-Pagmar"
-role: 3 
+role: 6 
 title: "Post-doc"
 ---
 David Pagmar is a Post-doc at CLASP.
