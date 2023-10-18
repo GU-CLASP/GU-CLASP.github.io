@@ -4,7 +4,6 @@ role: 4
 title: "PhD Student"
 profileImage: "S.jpg"
 ---  
-#pleasedontstealmywork 
 
 Sylvie Saget is a PhD/Doctoral Researcher in Computational Linguistics. Her research focuses on conversational agents that can talk and act autonomously such as humans, robots, virtual humans - or, generally speaking, any kind of object or system involving social interaction.
 
@@ -21,7 +20,7 @@ Her research focuses on the modeling of reasoning and dialogue via a transdiscip
 For more info please visit 
 [FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget) or [her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
 
-#pleasedontstealmywork 
+# pleasedontstealmywork 
 
 -------------------------------------------------
 PhD Project: "Language as a tool: A rational and cognitive approach"
@@ -40,4 +39,4 @@ My scientific journey:
 
   The key notions I am developing: Acceptance a belief-like doxastic state - caracterisation and representation of tools & much more!
 
-  #pleasedontstealmywork 
+  # pleasedontstealmywork 
