@@ -4,7 +4,7 @@ title: "Simplifying Documents"
 type: seminar
 date: 2023-10-25
 year: 2023
-expired: false
+expired: true
 ---
 
 Abstract:
