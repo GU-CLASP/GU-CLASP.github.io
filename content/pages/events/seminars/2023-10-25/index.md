@@ -4,7 +4,7 @@ title: "Simplifying Documents"
 type: seminar
 date: 2023-10-25
 duration: "2 hours"
-venue: "Online"
+venue: "Gothenburg and online"
 slides: "Claire Gardent 25.10.2023.pdf"
 ---
 
