@@ -1,6 +1,6 @@
 ---
 presented_by: "Alessandro Lenci from Università di Pisa"
-title: ""
+title: "What do Large Language Models Know about Events and their Relations?"
 type: seminar
 date: 2023-12-13
 year: 2023
@@ -8,7 +8,7 @@ expired: false
 ---
 
 Abstract:
-
+The ability of Large Language Models (LLMs) to achieve impressive performances in natural language processing tasks derives from the large amounts of knowledge they recover from distributional statistics in huge textual corpora. However, the precise type, breadth and reliability of this knowledge is still an open issue. In this talk, I will present ongoing research that aims at testing the knowledge of LLMs about events, their typicality,  and semantic relations.
 
 
 
