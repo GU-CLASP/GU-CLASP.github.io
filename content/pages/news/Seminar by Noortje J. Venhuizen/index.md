@@ -4,7 +4,7 @@ title: "Expectation-based Semantics in Language Comprehension"
 type: seminar
 date: 2023-11-08
 year: 2023
-expired: true
+expired: false
 ---
 
 Abstract: 
