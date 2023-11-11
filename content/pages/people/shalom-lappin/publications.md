@@ -77,7 +77,7 @@ hideInSearchResults: true
 
 ## ARTICLES IN REFEREED JOURNALS
 
--   Shalom Lappin (to appear), \"Assessing the Strengths and Weaknesses of
+-   Shalom Lappin (2023), \"Assessing the Strengths and Weaknesses of
     Large Language Models\", *Jourrnal of Logic, Language and Information*,
     special issue Natural Logic Meets Machine Learning.
 -   Jey Han Lau, Carlos Armendariz, Shalom Lappin, Matthew Purver, and
