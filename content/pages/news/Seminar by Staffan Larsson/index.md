@@ -4,7 +4,7 @@ title: "TTR at the SPA: Relating type-theoretical semantics to neural semantic p
 type: seminar
 date: 2023-11-15
 year: 2023
-expired: false
+expired: true
 ---
 
 Abstract:
