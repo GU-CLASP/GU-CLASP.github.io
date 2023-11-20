@@ -78,7 +78,7 @@ hideInSearchResults: true
 ## ARTICLES IN REFEREED JOURNALS
 
 -   Shalom Lappin (2023), \"Assessing the Strengths and Weaknesses of
-    Large Language Models\", *Jourrnal of Logic, Language and Information*,
+    Large Language Models\", *Journal of Logic, Language and Information*,
     special issue Natural Logic Meets Machine Learning.
 -   Jey Han Lau, Carlos Armendariz, Shalom Lappin, Matthew Purver, and
     Chang Shu (2020), \"How Furiously Can Colorless Green Ideas Sleep?
