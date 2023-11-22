@@ -4,7 +4,7 @@ title: "Language Models and Human Language Acquisition"
 type: seminar
 date: 2023-11-21
 year: 2023
-expired: false
+expired: true
 ---
 
 Abstract: 
