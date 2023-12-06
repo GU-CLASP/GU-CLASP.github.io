@@ -1,7 +1,7 @@
 ---
 name: "Kaj Ailomaa"
 role: 2 
-title: "System administrator"
+title: "Systems administrator"
 profileImage: ""
 ---
-Kaj Ailomaa is a system administrator at CLASP.
+Kaj Ailomaa is a systems administrator at CLASP.
