@@ -2,9 +2,9 @@
 presented_by: "Alessandro Lenci from Università di Pisa"
 title: "What do Large Language Models Know about Events and their Relations?"
 type: seminar
-date: 2023-12-13
-year: 2023
-expired: true
+date: 2024-05-08
+year: 2024
+expired: false
 ---
 
 Abstract:
@@ -15,6 +15,6 @@ The ability of Large Language Models (LLMs) to achieve impressive performances i
 
 
 
-Location: Attend in person at J335 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
+Location: Attend in person at room J411 or via Zoom, https://gu-se.zoom.us/j/66299274809?pwd=Yjc2ejc2VVhraXVJMmhWeWtOQ2NuUT09
 
 Time: 13:15-15:00
