@@ -1,7 +1,7 @@
 ---
 name: "Shalom Lappin"
-role: 0 
-title: "Chief Scientist"
+role: 3 
+title: "Research Scientist"
 profileImage: "shalomlappin.jpg"
 ---
 
