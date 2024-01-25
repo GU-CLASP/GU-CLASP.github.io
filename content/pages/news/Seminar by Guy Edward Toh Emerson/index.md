@@ -4,7 +4,7 @@ title: "Truth conditions at scale, and beyond"
 type: seminar
 date: 2024-01-24
 year: 2024
-expired: false
+expired: true
 ---
 
 Abstract:
