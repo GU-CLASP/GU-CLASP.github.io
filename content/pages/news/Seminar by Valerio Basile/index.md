@@ -4,7 +4,7 @@ title: "Mining and Modeling Perspectives in NLP"
 type: seminar
 date: 2024-01-31
 year: 2024
-expired: true
+expired: false
 ---
 
 Abstract: Contemporary Natural Language Processing is largely rooted in language resources, e.g., for training models in supervised machine learning. Even is few- or zero-shot settings, the importance of good quality data for benchmarking is paramount. However, most language resources encode majority-driven knowledge, hiding the often informative variation coming from a diversity of human backgrounds.
