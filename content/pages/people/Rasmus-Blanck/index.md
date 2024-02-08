@@ -1,5 +1,5 @@
 ---
 name: "Rasmus Blanck"
-role: 3 
+role: 6 
 title: "Associate Senior Lecturer in Computational Linguistics"
 ---
