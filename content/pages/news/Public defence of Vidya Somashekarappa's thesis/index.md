@@ -21,7 +21,7 @@ Opponent:
 
 Committee:
 
-Chair: , Göteborgs universitet
+Chair: 
 
 Date: 2024-04-25
 
