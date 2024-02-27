@@ -14,9 +14,11 @@ Cordially welcome to the public defence of Vidya Somashekarappa's doctoral thesi
 Doctoral candidate: Vidya Somashekarappa, University of Gothenburg
 
 Supervisor: Asad Sayeed, University of Gothenburg
+
 Assistant supervisor: , University of Gothenburg 
 
 Opponent: 
+
 Committee:
 
 Chair: , Göteborgs universitet
