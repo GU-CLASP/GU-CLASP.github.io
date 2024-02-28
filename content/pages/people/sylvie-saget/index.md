@@ -40,6 +40,7 @@ My scientific journey:
 - And Back Again
 
   The key notions I am developing: Acceptance a belief-like doxastic state - caracterisation and representation of tools & much more!
+  
 -------------------------------------------------
 
 !!! pleasedontstealmywork !!! 
