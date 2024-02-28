@@ -21,6 +21,7 @@ For more info please visit
 [FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget) or [her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
 
 !!! pleasedontstealmywork !!! 
+
 An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
 -------------------------------------------------
@@ -42,6 +43,5 @@ My scientific journey:
 -------------------------------------------------
 
 !!! pleasedontstealmywork !!! 
-An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
-!!! pleasedontstealmywork !!! 
+An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
