@@ -21,6 +21,7 @@ For more info please visit
 [FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget) or [her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
 
 !!! pleasedontstealmywork !!! 
+An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
 -------------------------------------------------
 PhD Project: "Language as a tool: A rational and cognitive approach"
@@ -38,5 +39,9 @@ My scientific journey:
 - And Back Again
 
   The key notions I am developing: Acceptance a belief-like doxastic state - caracterisation and representation of tools & much more!
+-------------------------------------------------
+
+!!! pleasedontstealmywork !!! 
+An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
 !!! pleasedontstealmywork !!! 
