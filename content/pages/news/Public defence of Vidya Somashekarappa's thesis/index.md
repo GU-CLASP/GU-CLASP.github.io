@@ -15,7 +15,7 @@ Doctoral candidate: Vidya Somashekarappa, University of Gothenburg
 
 Supervisor: Asad Sayeed, University of Gothenburg
 
-Assistant supervisor: , University of Gothenburg 
+Assistant supervisor: Christine Howes, University of Gothenburg 
 
 Opponent: Maîtresse de conference/seniro lecturer Dominique Knutsen, Univerité de Lille
 
