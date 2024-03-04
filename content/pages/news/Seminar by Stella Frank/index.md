@@ -1,5 +1,5 @@
 ---
-presented_by: "Stella Frank"
+presented_by: "Stella Frank from Pioneer Center for AI and Copenhagen University"
 title: "TBA"
 type: seminar
 date: 2024-03-26
