@@ -1,7 +1,7 @@
 ---
 presented_by: "Nikolai Ilinykh from University of Gothenburg"
 title: "TBA"
-type: final seminar
+type: seminar
 date: 2024-03-27
 year: 2024
 expired: false
