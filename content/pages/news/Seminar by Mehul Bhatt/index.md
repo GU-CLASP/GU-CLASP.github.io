@@ -1,6 +1,6 @@
 ---
 presented_by: "Mehul Bhatt from Örebro University"
-title: ""
+title: "TBA"
 type: seminar
 date: 2024-04-10
 year: 2024
