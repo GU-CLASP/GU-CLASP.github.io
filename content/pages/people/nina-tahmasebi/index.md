@@ -1,7 +1,7 @@
 ---
 name: "Nina Tahmasebi"
 role: 3 
-title: "Senior Lecturer in Computational Linguistics"
+title: "Associate Researcher"
 ---
 
-Nina Tahmasebi, Senior Lecturer in Computational Linguistics at CLASP.
+Nina Tahmasebi, Senior Lecturer in Computational Linguistics in FLoV.
