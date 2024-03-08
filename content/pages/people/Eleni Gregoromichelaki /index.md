@@ -1,6 +1,6 @@
 ---
 name: "Eleni Gregoromichelaki "
 role: 3 
-title: "Associate member"
+title: "Associate researcher"
 profileImage: 
 ---
