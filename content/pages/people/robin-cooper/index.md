@@ -4,7 +4,7 @@ role: 0
 title: "Acting Head"
 profileImage: "Robin-Cooper3JPGcropped.JPG"
 ---
-Robin Cooper is a Senior Professor at CLASP and Professor emeritus of Computational Linguistics.
+Robin Cooper is a Senior Researcher at CLASP and Professor emeritus of Computational Linguistics.
 ` `  
 ` `  
 Webpage at University of Gothenburg: https://www.gu.se/en/about/find-staff/robincooper
