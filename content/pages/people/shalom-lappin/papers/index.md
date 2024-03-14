@@ -10,7 +10,7 @@ hideInSearchResults: true
 
 Shalom Lappin (2023), [Assessing the Strengths and Weaknesses of Large Language 
 Models](lappin_published_jolli23.pdf), *Journal of Logic, Language and Information*, special
-issue Natural Logic Meets Machine Learning.
+issue Natural Logic Meets Machine Learning, Vol. 33, pp. 9-20.
 
 Jean-Philippe Bernardy and Shalom Lappin (2023), [Unitary Recurrent Networks: 
 Algebraic and Linear Structures for Syntax](bernardy-lappin23.pdf) in Shalom
