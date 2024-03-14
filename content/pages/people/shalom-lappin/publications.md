@@ -79,7 +79,7 @@ hideInSearchResults: true
 
 -   Shalom Lappin (2023), \"Assessing the Strengths and Weaknesses of
     Large Language Models\", *Journal of Logic, Language and Information*,
-    special issue Natural Logic Meets Machine Learning.
+    special issue Natural Logic Meets Machine Learning, Vol. 33, pp. 9-20.
 -   Jey Han Lau, Carlos Armendariz, Shalom Lappin, Matthew Purver, and
     Chang Shu (2020), \"How Furiously Can Colorless Green Ideas Sleep?
     Sentence Acceptability in Context\", *Transactions of the
