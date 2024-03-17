@@ -8,7 +8,7 @@ hideInSearchResults: true
 
 # Recent Papers
 
-Shalom Lappin (2023), [Assessing the Strengths and Weaknesses of Large Language 
+Shalom Lappin (2024), [Assessing the Strengths and Weaknesses of Large Language 
 Models](lappin_published_jolli23.pdf), *Journal of Logic, Language and Information*, special
 issue Natural Logic Meets Machine Learning, Vol. 33, pp. 9-20.
 
