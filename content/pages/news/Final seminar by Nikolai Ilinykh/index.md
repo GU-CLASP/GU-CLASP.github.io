@@ -4,7 +4,7 @@ title: "Contextual understanding of language in the world: language-and-vision n
 type: seminar
 date: 2024-03-27
 year: 2024
-expired: false
+expired: true
 ---
 
 Abstract: This ``slutseminar’’ (final seminar) will discuss language-and-vision models and how they represent and structure multi-modal representations in different tasks. The primary question that is asked is whether computational models of language and vision can incorporate contextual information from different modalities to produce a contextual description of the image. The studies that are to be discussed cover a wide range of experiments and results. The thesis itself consists of three parts, focusing on three different types of contexts which are important for multi-modal language modelling.
