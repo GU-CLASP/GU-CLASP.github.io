@@ -7,7 +7,10 @@ year: 2024
 expired: false
 ---
 
-Abstract:
+Abstract: This talk will address computational cognitive vision at the interface of (spatial) language, (spatial) logic, (spatial)
+cognition, and artificial intelligence. I will present general methods for the semantic interpretation of dynamic visual
+imagery with an emphasis on the ability to perform grounded reasoning and learning with cognitively rooted
+structured characterizations of commonsense knowledge pertaining to space, action, and change. Focus will be on
  
 
 BIOGRAPHY:
