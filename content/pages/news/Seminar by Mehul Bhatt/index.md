@@ -10,7 +10,22 @@ expired: false
 Abstract: This talk will address computational cognitive vision at the interface of (spatial) language, (spatial) logic, (spatial)
 cognition, and artificial intelligence. I will present general methods for the semantic interpretation of dynamic visual
 imagery with an emphasis on the ability to perform grounded reasoning and learning with cognitively rooted
-structured characterizations of commonsense knowledge pertaining to space, action, and change. Focus will be on
+structured characterizations of commonsense knowledge pertaining to space, action, and change. Focus will be on encompassing: (1) General foundational commonsense abstractions –e.g., of space and motion–
+necessary for `grounding’ dynamic visual stimuli; (2) Systematically formalised declarative reasoning and learning
+with commonsense abstractions pertaining to space, space-time, motion, actions & events, and spatio-linguistic
+conceptual knowledge; and (3) Human-centred interpretable models of computational visuospatial commonsense
+integrating symbolic and neural techniques geared towards high-level capabilities such as space-time mental model
+formation, counterfactual reasoning, perceptual narrativisation.
+Methods developed and overall approach positioned are intended to serve as a systematic model and general
+framework for integrating diverse, multi-faceted AI techniques pertaining knowledge representation and reasoning,
+computer vision, and machine learning towards realising a human-centric model of computational visual intelligence
+supporting Embodied AI encompassing (grounded) reasoning, learning, and planning. In this respect, I will highlight
+(one or more) applications of cognitive vision in autonomous driving, cognitive robotics, cognitive media studies
+(relevant to visual arts and media studies), and visual perception / cognitive psychology. More broadly, I hope to
+emphasise an interdisciplinary approach –at the confluence of Artificial and Human Intelligence– that is needed to
+better appreciate the complexity and spectrum of varied human-centred challenges in the design and (usable)
+implementation of machine (visual) intelligence in diverse human-system interaction contexts likely to also require
+normative compliance vis-à-vis emerging AI regulation.
  
 
 BIOGRAPHY:
