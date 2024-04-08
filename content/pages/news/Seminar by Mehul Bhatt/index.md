@@ -10,7 +10,7 @@ expired: false
 Abstract: This talk will address computational cognitive vision at the interface of (spatial) language, (spatial) logic, (spatial)
 cognition, and artificial intelligence. I will present general methods for the semantic interpretation of dynamic visual
 imagery with an emphasis on the ability to perform grounded reasoning and learning with cognitively rooted
-structured characterizations of commonsense knowledge pertaining to space, action, and change. Focus will be on encompassing: (1) General foundational commonsense abstractions –e.g., of space and motion–
+structured characterizations of commonsense knowledge pertaining to space, action, and change. Focus will be on `deep semantics´ encompassing: (1) General foundational commonsense abstractions –e.g., of space and motion–
 necessary for `grounding’ dynamic visual stimuli; (2) Systematically formalised declarative reasoning and learning
 with commonsense abstractions pertaining to space, space-time, motion, actions & events, and spatio-linguistic
 conceptual knowledge; and (3) Human-centred interpretable models of computational visuospatial commonsense
