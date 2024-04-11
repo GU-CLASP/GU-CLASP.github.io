@@ -4,7 +4,7 @@ title: "Cognitive Vision:  Towards Human-Centred Computational Visual Intelligen
 type: seminar
 date: 2024-04-10
 year: 2024
-expired: false
+expired: true
 ---
 
 Abstract: This talk will address computational cognitive vision at the interface of (spatial) language, (spatial) logic, (spatial)
