@@ -1,7 +1,7 @@
 ---
 presented_by: "Dominique Knutsen from Université de Lille, Emilia Barakova from Eindhoven University of Technology and Chris Howes from Gothenburg University"
 titles: "See below"
-type: Workshop
+type: seminar
 date: 2024-04-26
 year: 2024
 expired: false
