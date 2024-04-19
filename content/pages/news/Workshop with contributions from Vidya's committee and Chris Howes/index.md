@@ -43,6 +43,6 @@ Abstract: To interpret utterances in interaction, we use common-sense inferences
 
 
 
-Location: Attend in person at J330 or via Zoom,
+Location: Attend in person at J330 or via Zoom, (link to come!)
 
 Time: 13:15-16:00
