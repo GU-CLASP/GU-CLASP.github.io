@@ -54,3 +54,4 @@ morphism and engagement.
 
 
 Full text: 
+[here](./look-on-my-thesis,-ye-mighty.pdf)
