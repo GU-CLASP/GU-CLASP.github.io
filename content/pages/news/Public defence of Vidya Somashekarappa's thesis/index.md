@@ -53,5 +53,4 @@ interaction patterns positively influences user perceptions, enhancing anthropo-
 morphism and engagement.
 
 
-Full text: 
-[here](./look-on-my-thesis,-ye-mighty.pdf)
+Full text: [here](./look-on-my-thesis,-ye-mighty.pdf)
