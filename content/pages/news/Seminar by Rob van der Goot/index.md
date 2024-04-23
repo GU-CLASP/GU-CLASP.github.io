@@ -2,7 +2,7 @@
 presented_by: "Rob van der Goot from IT University of Copenhagen"
 title: "TBA"
 type: seminar
-date: 2024-06-05
+date: 2024-10-09
 year: 2024
 expired: false
 ---
