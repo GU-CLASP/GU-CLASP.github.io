@@ -1,6 +1,6 @@
 ---
 presented_by: "Adam Ek"
-title: "Studies in Language Structure using Deep Learning"
+title: "Public defence of Adam Ek's doctoral thesis"
 date: 2023-09-08
 type: defence
 year: 2023
