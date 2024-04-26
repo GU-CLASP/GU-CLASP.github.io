@@ -1,6 +1,6 @@
 ---
 presented_by: "Vidya Somashekarappa"
-title: "Look on my thesis, ye mighty: gaze interaction and social robotics"
+title: "Public defence of Vidya Somashekarappa's doctoral thesis"
 date: 2024-04-25
 type: defence
 year: 2024
