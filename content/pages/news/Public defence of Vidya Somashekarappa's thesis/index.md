@@ -4,7 +4,7 @@ title: "Look on my thesis, ye mighty: gaze interaction and social robotics"
 date: 2024-04-25
 type: defence
 year: 2024
-expired: false
+expired: true
 bannerImage: "Vidya Somashekarappa.jpg"
 ---
 
