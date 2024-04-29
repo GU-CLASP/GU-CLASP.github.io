@@ -9,7 +9,6 @@ slides: ".pdf"
 ---
 
 Dominique Knutsen, Université de Lille,
-
 Title: What does recent research in experimental psychology have to tell us about common ground?
 
 Abstract: The notion of common ground is not new: over the past decades, research is psychology (and in other fields such as linguistics or computer science) has investigated how mental representations of mutual knowledge guide how people interact and refer to things during dialogue. In more recent years, research has started to examine the question of how common ground might relate to other major cognitive functions such as episodic memory or theory of mind. In this presentation, I will review some of this research, with a specific focus on the question of how individual memory constraints may affect how people collaborate with each other. I will then provide a brief overview of my current projects on the role of theory of mind in dialogue.
