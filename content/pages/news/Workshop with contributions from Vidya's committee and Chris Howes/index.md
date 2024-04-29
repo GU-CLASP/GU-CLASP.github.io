@@ -4,7 +4,7 @@ title: "Workshop"
 type: seminar
 date: 2024-04-26
 year: 2024
-expired: false
+expired: true
 ---
 
 Dominique Knutsen, Université de Lille,
