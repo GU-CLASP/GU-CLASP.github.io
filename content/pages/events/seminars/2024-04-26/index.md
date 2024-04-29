@@ -1,7 +1,7 @@
 ---
 lecturer: "Dominique Knutsen from Université de Lille, Emilia Barakova from Eindhoven University of Technology and Chris Howes from Gothenburg University"
 title: "Workshop with contributions from Vidya Somashekarappa's committee and Chris Howes"
-type: seminar
+type: workshop
 date: 2024-04-26
 duration: "3 hours"
 venue: "Gothenburg and online"
