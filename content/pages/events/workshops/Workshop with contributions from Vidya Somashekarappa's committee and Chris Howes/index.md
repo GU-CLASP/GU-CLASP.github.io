@@ -1,6 +1,6 @@
 ---
 title: "Workshop with contributions from Vidya Somashekarappa's committee and Chris Howes"
-date: 2024-04-29
+date: 2024-04-26
 venue: "Room J330, Renströmsgatan 6, Faculty of Humanities"
 duration: "1 day"
 ---
