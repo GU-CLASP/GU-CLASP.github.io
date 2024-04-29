@@ -8,7 +8,7 @@ venue: "Gothenburg and online"
 slides: ".pdf"
 ---
 
-Abstract: Dominique Knutsen, Université de Lille,
+Dominique Knutsen, Université de Lille,
 
 Title: What does recent research in experimental psychology have to tell us about common ground?
 
