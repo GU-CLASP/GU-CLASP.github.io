@@ -30,4 +30,4 @@ Title: Computational Models of Language and Vision: Studies of Neural Models as 
 Abstract: 
 
 
-Full text: [here](./Computational-Models-of-Language-and-Vision -Studies-of-Neural-Models-as-Learners-of-Multi-Modal-Knowledge.pdf)
+Full text: [here](./computational-models-of-language-and-vision-studies-of-neural-models-as-learners-of-multi-modal-knowledge.pdf)
