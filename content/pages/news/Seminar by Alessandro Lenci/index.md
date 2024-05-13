@@ -4,7 +4,7 @@ title: "What do Large Language Models Know about Events and their Relations?"
 type: seminar
 date: 2024-05-08
 year: 2024
-expired: true
+expired:false
 ---
 
 Abstract:
