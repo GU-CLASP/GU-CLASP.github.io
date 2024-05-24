@@ -4,7 +4,7 @@ title: "Text analysis in a capital market context"
 type: seminar
 date: 2024-05-22
 year: 2024
-expired: true
+expired: false
 ---
 
 Abstract: The presentation focuses on research using text analysis in accounting and finance and involve material from three papers and one research idea using text from quarterly Earnings Conference Calls (ECC)1. These transcripts consist of an introduction, and a Q&A session, where analysts ask questions to the management. They are currently available for download in WRDS via the library.
