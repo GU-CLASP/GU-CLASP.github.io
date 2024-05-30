@@ -7,9 +7,8 @@ year: 2024
 expired: false
 ---
 
-Jörg Tiedemann, University of Helsinki
+Jörg Tiedemann, University of Helsinki. Title: Releasing the MAMMOTH - a framework for modular NLP
 
-Title: Releasing the MAMMOTH - a framework for modular NLP 
 Abstract: Neural language models have been grown in size and importance over the past years. We address two challenging aspects in the field of NLP: The support of a wide variety of languages and the runtime efficiency of such models. We focus on encoder-decoder models and modular architectures that balance between task-specific components and parameter sharing. In particular, we want to achieve effective cross-lingual transfer learning while keeping language-specific modules that can operate independently. The latter is important for efficient inference reducing computational costs and energy consumption at runtime, a crucial task for modern NLP. Our toolkit, MAMMOTH, is a flexible framework for training various types of modular architectures making it possible to systematically compare different approaches also beyond machine translation and single modalities.
 
 Ece Takmaz, Utrecht University (online)
