@@ -9,7 +9,7 @@ bannerImage: "Nikolai Ilinykh.jpg"
 ---
 
 
-Cordially welcome to the public defence of Nikolai Ilinykh's doctoral thesis on Tuesday 11 June, at 13:00 in room J222, Faculty of Humanities. The title is "Computational Models of Language and Vision: Studies of Neural Models as Learners of Multi-Modal Knowledge".
+Cordially welcome to the public defence of Nikolai Ilinykh's doctoral thesis on Tuesday 11 June, at 13:15 in room J222, Faculty of Humanities. The title is "Computational Models of Language and Vision: Studies of Neural Models as Learners of Multi-Modal Knowledge".
 
 Doctoral candidate: Nikolai Ilinykh, University of Gothenburg
 
