@@ -37,6 +37,8 @@ Abstract: In formal semantics, truth conditional theories of meaning seek a rela
 
 
 
+Website: https://gu-clasp.github.io/language-and-perception/events/language-and-vision-workshop/
+
 Location: Attend in person at J336 or via Zoom, https://gu-se.zoom.us/j/726750116
 
 Time: 13:15-16:45
