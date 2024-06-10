@@ -25,7 +25,7 @@ For more info please visit
 An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
 --- No worries --- I am active in research!
-But managing academic theft and sabotage takes times and deeply constraint how one can makes her research public with her name on it!! 
+But managing academic theft and sabotage takes times and deeply constraint how one can make her research public with her name on it!! 
 
 -------------------------------------------------
 PhD Project: "Language as a tool: A rational and cognitive approach"
