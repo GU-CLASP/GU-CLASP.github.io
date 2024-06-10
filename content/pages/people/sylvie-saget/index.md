@@ -48,4 +48,7 @@ My scientific journey:
 
 !!! pleasedontstealmywork !!! 
 
+--- No worries --- I am active in research!
+But managing academic theft and sabotage takes times and deeply constraint how one can make her research public ensuring her name won't be erased and replaced!! 
+
 An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
