@@ -4,7 +4,7 @@ title: "Workshop"
 type: seminar
 date: 2024-06-10
 year: 2024
-expired: false
+expired: true
 ---
 
 Jörg Tiedemann, University of Helsinki. Title: Releasing the MAMMOTH - a framework for modular NLP
