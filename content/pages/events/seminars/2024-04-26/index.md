@@ -5,7 +5,7 @@ type: workshop
 date: 2024-04-26
 duration: "3 hours"
 venue: "Gothenburg and online"
-slides: ".pdf"
+slides: ""
 ---
 
 Dominique Knutsen, Université de Lille,
