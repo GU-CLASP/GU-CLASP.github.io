@@ -4,7 +4,7 @@ title: "Computational Models of Language and Vision: Studies of Neural Models as
 date: 2024-06-11
 type: defence
 year: 2024
-expired: false
+expired: true
 bannerImage: "Nikolai Ilinykh.jpg"
 ---
 
