@@ -46,9 +46,18 @@ My scientific journey:
   
 -------------------------------------------------
 
-!!! pleasedontstealmywork !!! 
+!!! pleasedontstealmywork !!!
 
---- No worries --- I am active in research!
-But managing academic theft and sabotage takes times and deeply constraint how one can make her research public ensuring her name won't be erased and replaced!! 
+An approach initiated more than 15 years ago & 100% designed by myself!!!
 
-An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
+--- No worries --- I am active in research! But managing academic theft and sabotage takes times and deeply constraint how one can make her research public ensuring her name won't be erased and replaced!!
+
+Following my pityfull experience facing researchers obliged to still others'work to fake creativity in their books, articles or to obtain grants,
+I had the pleasure to meet high-level professionnals who know what integrity and responsibility mean. 
+I am more than pride to have joined or discovered these amazing networks:
+- Academic Parity Movement: https://paritymovement.org/
+- Movement for a free academia: https://www.freeacademia.org/
+- Friends of Sarah: https://friendsofsarah.org/
+- Institute of Research and Action on Fraud and Plagiarism in Academia: https://irafpa.org/en/
+
+
