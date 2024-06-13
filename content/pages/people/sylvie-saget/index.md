@@ -54,7 +54,7 @@ An approach initiated more than 15 years ago & 100% designed by myself!!!
 
 Following my pityfull experience facing researchers obliged to still others'work to fake creativity in their books, articles or to obtain grants,
 I had the pleasure to meet high-level professionnals who know what integrity and responsibility mean. 
-I am more than pride to have joined or discovered these amazing networks - highly recommanded:
+I am more than pride to have joined or met these amazing networks - highly recommanded:
 - Academic Parity Movement: https://paritymovement.org/
 - Movement for a free academia: https://www.freeacademia.org/
 - Friends of Sarah: https://friendsofsarah.org/
