@@ -54,7 +54,7 @@ An approach initiated more than 15 years ago & 100% designed by myself!!!
 
 Following my pityfull experience facing researchers obliged to steal others'work to fake creativity in their strategic plans for their lab&dpt, their books, articles or to obtain grants,
 I had the pleasure to meet high-level professionnals who know what integrity and responsibility mean. 
-I am more than pride to have joined or met these amazing networks - highly recommanded:
+I am more than proud to have joined or met these amazing networks - highly recommanded:
 - Academic Parity Movement: https://paritymovement.org/
 - Friends of Sarah: https://friendsofsarah.org/
 - Institute of Research and Action on Fraud and Plagiarism in Academia: https://irafpa.org/en/
