@@ -1,6 +1,6 @@
 ---
 presented_by: "Nikolai Ilinykh"
-title: "Computational Models of Language and Vision: Studies of Neural Models as Learners of Multi-Modal Knowledge"
+title: "Public defence of Nikolai Ilinykh's doctoral thesis"
 date: 2024-06-11
 type: defence
 year: 2024
