@@ -1,7 +1,7 @@
 ---
 presented_by: "Elisa Kreiss from UCLA"
 title: "TBA"
-type: virtual seminar
+type: seminar
 date: 2025-02-19
 year: 2025
 expired: false
