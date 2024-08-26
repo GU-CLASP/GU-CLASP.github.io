@@ -1,8 +1,8 @@
 ---
 name: "Vidya Somashekarappa"
-role: 4 
+role: 5 
 title: "PhD Student"
 profileImage: "Vidya-Somashekarappa.JPG"
 ---
-Vidya Somashekarappa is a PhD Student at CLASP.
+Vidya Somashekarappa was a PhD student at CLASP.
 
