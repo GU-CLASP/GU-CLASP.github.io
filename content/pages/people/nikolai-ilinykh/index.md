@@ -1,7 +1,7 @@
 ---
 name: "Nikolai Ilinykh"
-role: 5 
-title: "PhD Student"
+role: 6 
+title: "Post-doc"
 profileImage: "Nikolai.jpg"
 ---
-Nikolai Ilinykh was a PhD student at CLASP.
+Nikolai Ilinykh is a Post-doc at CLASP, with specialisation in multimodal NLP.
