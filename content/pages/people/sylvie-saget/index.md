@@ -25,7 +25,7 @@ For more info please visit
 An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
 --- No worries --- I am active in research!
-But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men - women actively take part in Mathilda effect!
+But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men - you may find women who actively take part in Mathilda effect!
 
 -------------------------------------------------
 PhD Project: "Language as a tool: A rational and cognitive approach"
@@ -50,7 +50,7 @@ My scientific journey:
 
 An approach initiated more than 15 years ago & 100% designed ***by myself***!!! 
 
---- No worries --- I am active in research! But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men - women actively take part in Mathilda effect!
+--- No worries --- I am active in research! But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men - you may find women who actively take part in Mathilda effect!
 
 Following a pityfull experience facing researchers obliged to steal others'work to fake creativity in their strategic plans for their lab&dpt, their books, articles or to obtain grants, I had the pleasure to meet high-level professionnals who know what integrity and responsibility mean. 
 I am more than proud to have joined or met these amazing networks - highly recommanded:
