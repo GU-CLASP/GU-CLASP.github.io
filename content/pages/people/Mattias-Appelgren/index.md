@@ -1,5 +1,5 @@
 ---
-name: "Mattias-Appelgren"
+name: "Mattias Appelgren"
 role: 6 
 title: "Post-doc"
 ---
