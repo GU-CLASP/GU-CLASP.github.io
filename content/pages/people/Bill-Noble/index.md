@@ -1,5 +1,5 @@
 ---
-name: "Bill-Noble"
+name: "Bill Noble"
 role: 6 
 title: "Post-doc"
 ---
