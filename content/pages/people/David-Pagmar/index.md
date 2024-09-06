@@ -1,5 +1,5 @@
 ---
-name: "David-Pagmar"
+name: "David Pagmar"
 role: 6 
 title: "Post-doc"
 ---
