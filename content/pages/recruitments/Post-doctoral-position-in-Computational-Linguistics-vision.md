@@ -2,7 +2,7 @@
 title: "Postdoctoral Researcher in Computational linguistics with specialisation in language grounding to vision, robotics, and beyond"
 date: 2023-09-28
 MDFileCustomID: "Post-doctoral-position-in-Computational-Linguistics-vision"
-expired: false
+expired: true
 ---
 
 The University of Gothenburg tackles society’s challenges with diverse knowledge. 56 000 students and 6 600 employees make the university a large and inspiring place to work and study. Strong research and attractive study programmes attract scientists and students from around the world. With new knowledge and new perspectives, the University contributes to a better future.
