@@ -11,7 +11,7 @@ Her research focuses on the modeling of reasoning and dialogue via a transdiscip
 
 - Interaction management technologies
 
-- Conversational / intelligent agent architectures
+- Conversational / intelligent agent framework & architectures
 
 - Responsible conception and design methods
 
