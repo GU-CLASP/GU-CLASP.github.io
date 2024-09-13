@@ -1,6 +1,6 @@
 ---
 presented_by: "Danae Sánchez from the University of Copenhagen"
-title: ""
+title: "TBA"
 type: seminar
 date: 2024-10-02
 year: 2024
