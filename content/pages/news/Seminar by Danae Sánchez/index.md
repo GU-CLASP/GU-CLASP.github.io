@@ -4,7 +4,7 @@ title: "Beyond Words: Analyzing Social Media with Text and Images"
 type: seminar
 date: 2024-10-02
 year: 2024
-expired: false
+expired: true
 ---
 
 Abstract: People express their opinions and experiences through text and images
