@@ -2,8 +2,8 @@
 presented_by: "Sandro Pezzelle from the University of Amsterdam"
 title: "TBA"
 type: seminar
-date: 2024-12-04
-year: 2024
+date: 2025-03-26
+year: 2025
 expired: false
 ---
 
