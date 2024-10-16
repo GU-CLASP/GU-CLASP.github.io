@@ -6,7 +6,7 @@ duration: "2 days"
 type: conference
 year: 2024
 bannerImage: ".jpg"
-expired: false
+expired: true
 ---
 
 Multimodality and Interaction in Language Learning (MILLing) will bring together researchers in linguistics and computational linguistics to discuss learning through linguistic interaction, from the perspectives of both human language acquisition and machine learning. We encourage contributions from the fields of theoretical linguistics, experimental linguistics, pragmatics, computational linguistics, artificial intelligence, and cognitive science.
