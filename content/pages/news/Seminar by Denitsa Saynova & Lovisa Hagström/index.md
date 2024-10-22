@@ -1,6 +1,6 @@
 ---
 presented_by: "Denitsa Saynova & Lovisa Hagström from Chalmers"
-title: ""
+title: "TBA"
 type: seminar
 date: 2024-12-11
 year: 2024
