@@ -1,6 +1,6 @@
 ---
 presented_by: "Ekaterina Lapshinova-Koltunski from Universität Hildesheim and Saarland University"
-title: "Cognitive insights into analysis of translationese combining product and process data."
+title: "Cognitive insights into analysis of translationese combining product and process data"
 type: seminar
 date: 2024-11-06
 year: 2024
