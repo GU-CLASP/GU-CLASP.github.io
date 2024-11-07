@@ -4,7 +4,7 @@ title: "Cognitive insights into analysis of translationese combining product and
 type: seminar
 date: 2024-11-06
 year: 2024
-expired: false
+expired: true
 ---
 
 Abstract: In this talk, I will focus on `translationese’, i.e. the specific linguistic properties of translation that distinguish translation from non-translated language production. While these phenomena have been extensively analysed in both human and machine translation oriented studies, the driving forces behind such translationese effects as simplification and explicitation remain under-researched.
