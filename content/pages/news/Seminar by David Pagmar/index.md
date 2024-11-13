@@ -1,6 +1,6 @@
 ---
 presented_by: "David Pagmar from University of Gothenburg"
-title: "Context Enabled Ambiguity in the Brain"
+title: "Context Enabled Ambiguity in the Brain" (Work In Progress)
 type: seminar
 date: 2024-11-20
 year: 2024
