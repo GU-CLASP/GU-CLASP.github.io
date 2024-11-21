@@ -4,7 +4,7 @@ title: "Context Enabled Ambiguity in the Brain"
 type: seminar
 date: 2024-11-20
 year: 2024
-expired: false
+expired: true
 ---
 
 Abstract: The sentence "every road leads to a town" is ambiguous. It can be interpreted in at least two different ways: either the roads all lead to one town (singular), or they lead to different towns (plural). The ambiguity in this example arises due to the quantifier "every" and is often referred to as quantifier scope ambiguity (Kurtzman and MacDonald, 1993; Sayeed, et al., 2019). There are other types of ambiguity, such as lexical ambiguity. The sentence "there is a problem with the bat" could for example mean a problem with a flying nocturnal mammal that sleeps upside down, or with a piece of equipment used in sports, like baseball. The ambiguity arises from the ambiguous word "bat." Although ambiguity is a frequent phenomenon in language use, we still do not have a clear understanding of the processes that allow language users to interpret ambiguous sentences. We know that contextual factors will aid the processing of ambiguous sentences, but there is no consensus concerning how a particular interpretation is made. By examining how our brains handle ambiguity, we can increase our understanding of human language use.
