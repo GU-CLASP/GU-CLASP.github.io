@@ -10,8 +10,8 @@ Meetings: Alternate Fridays (odd weeks), 10.15-12.00.
 
 ### Upcoming session:
 
-#### 26 May 2023 \-- [10h-12h]
-Lücking, A., and Ginzburg, J. (2022) [Leading voices: dialogue semantics, cognitivescience and the polyphonic structure of multimodal interaction](https://doi.org/10.1017/langcog.2022.30) in Language and Cognition. (Led by Robin)
+#### TBD \-- [10h-12h]
+
 
 ### Future paper suggestions:
 
@@ -19,7 +19,6 @@ Lücking, A., and Ginzburg, J. (2022) [Leading voices: dialogue semantics, cogni
 
 - Boleda, G., Aina, L., Silberer, C., Sorodoc, I. T., & Westera, M. (2019). What do entity-centric models learn? Insights from entity linking in multi-party dialogue. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies; 2019 Jun 2-7; Minneapolis, United States of America. Stroudsburg (PA): ACL; 2019. p. 3772–83.. ACL (Association for Computational Linguistics). https://repositori.upf.edu/bitstream/handle/10230/42450/boleda_naacl19_entity.pdf?sequence=1&isAllowed=y (suggested by Fahima)
 - Ahn, E., Jimenez, C., Tsvetkov, Y., & Black, A. W. (2020, January). What code-switching strategies are effective in dialog systems?. In Proceedings of the Society for Computation in Linguistics 2020 (pp. 254-264). (suggested by Fahima)
-- Acton, E. (2022). Sociophonetics, semantics, and intention. Journal of Linguistics, 1-30. doi:10.1017/S0022226721000475 (suggested by Robin)
 - Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of the English Bare Plural in *Formal Semantics: The Essential Readings.* 2008. (Suggested by Ellen)
 - Pustejovsky, J. and Krishnaswamy, N. "Embodied Human Computer Interaction" Ms. (Suggested by Eleni)
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
@@ -29,6 +28,42 @@ Lücking, A., and Ginzburg, J. (2022) [Leading voices: dialogue semantics, cogni
 
 
 ### Previous sessions:
+
+#### 27 June 2024 \-- [10h-12h]
+Lee, E. (2024). Integrating relational and intentional theories of discourse coherence. Glossa: a journal of general linguistics, 9(1). (Led by Robin)
+
+#### 7 June 2024 \-- [10h-12h]
+Bovet, V., Knutsen, D., & Fossard, M. (2024). Direct and indirect linguistic measures of common ground in dialogue studies involving a matching task: A systematic review. Psychonomic Bulletin & Review, 31(1), 122-136. (Led by Fahima)
+
+#### 26 April 2024 \-- [10h-12h]
+Markowska, M., Taghizadeh, M., Soubki, A., Mirroshandel, S. A., & Rambow, O. (2023). Finding common ground: Annotating and predicting common ground in spoken conversations. arXiv preprint arXiv:2311.01273. (Led by Bill & Vlad)
+
+#### 15 March 2024 \-- [10h-12h]
+Baglini, R., & Francez, I. (2016). The implications of managing. Journal of Semantics, 33(3), 541-560. (Led by Fahima)
+
+#### 1 March 2024 \-- [10h-12h]
+Karttunen, L. (2016, October). Presupposition: What went wrong?. In Semantics and Linguistic Theory (pp. 705-731). (Led by Fahima)
+
+#### 16 February 2024 \-- [10h-12h]
+Giulianelli, M., Wallbridge, S., & Fernández, R. (2023). Information value: Measuring utterance predictability as distance from plausible alternatives. arXiv preprint arXiv:2310.13676. (Led by Bill)
+
+#### 24 November 2023 \-- [10h-12h]
+Acton, E. K. (2022). Sociophonetics, semantics, and intention. Journal of Linguistics, 58(3), 465-494. (Led by Fahima)
+
+#### 10 November 2023 \-- [10h-12h]
+Ginzburg, J., & Wong, K. C. (2024). Language games and their types. Linguistics and Philosophy, 47(1), 149-189. (Led by Robin and Staffan)
+
+#### 23 October 2023 \-- [10h-12h]
+Ginzburg, J., & Wong, K. C. (2024). Language games and their types. Linguistics and Philosophy, 47(1), 149-189. (Led by Robin)
+
+#### 29 September 2023 \-- [10h-12h]
+Breitholtz, E., & Howes, C. (2024, September). Behaving according to protocol: How communicative projects are carried out differently in different settings. In Proceedings of the 28th Workshop on the Semantics and Pragmatics of Dialogue. (Led by Ellen)
+
+#### 15 September 2023 \-- [10h-12h]
+Tonhauser, J., Beaver, D. I., & Degen, J. (2018). How projective is projective content? Gradience in projectivity and at-issueness. Journal of Semantics, 35(3), 495-542. (Led by Eleni)
+
+#### 26 May 2023 \-- [10h-12h]
+Lücking, A., and Ginzburg, J. (2022) [Leading voices: dialogue semantics, cognitivescience and the polyphonic structure of multimodal interaction](https://doi.org/10.1017/langcog.2022.30) in Language and Cognition. (Led by Robin)
 
 #### 12 May 2023 \-- [10h-12h]
 Stateva, P., Andreetta, S., Reboul, A., & Stepanov, A. (2021). Bilingual Children’s Use of the ‘Maximize Presupposition’ Principle. Glossa: a journal of general linguistics (2016-2021), 6. https://hal.science/hal-03337015/document (lead by Fahima)
