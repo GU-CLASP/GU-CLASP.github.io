@@ -7,7 +7,7 @@ profileImage: "S.jpg"
 
 Sylvie Saget is a PhD/Doctoral Researcher in Computational Linguistics. Her research focuses on conversational agents that can talk and act autonomously such as humans, robots, virtual humans - or, generally speaking, any kind of object or system involving social interaction.   
 
-Her research focuses on the modeling of reasoning and dialogue via a transdisciplinary approach mixing philosophy (of Mind + of Science&Technology), logics and psychology. Application areas she is focusing on:    
+Her research focuses on the modeling of reasoning and dialogue via a transdisciplinary approach mixing philosophy (of Mind + of Science&Technology), logics and psychology. Application areas she is focusing on:     
 
 - Interaction management technologies
 
