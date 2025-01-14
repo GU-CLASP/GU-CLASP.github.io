@@ -26,7 +26,6 @@ An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
 --- No worries --- I am active in research!
 But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men & their "friends" at the international level - you may find many women & institutions who actively take part in Matilda effect!
-Welcome back in Stone Age...
 
 -------------------------------------------------
 PhD Project: "Language as a tool: A rational and cognitive approach"
@@ -60,5 +59,4 @@ I had the pleasure to meet high-level professionnals who know what integrity and
 - Movement for a free academia: https://www.freeacademia.org/
 
   --- No worries --- I am active in research! But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men & their "friends" at the international level - you may find many women & institutions who actively take part in Matilda effect!
-  Welcome back in Stone Age...
 
