@@ -16,6 +16,8 @@ layout: default
     <li><b>Presenter:</b> {{page.presenter}}</li>
 {% elsif page.presented_by != nil %}
     <li><b>Presented by:</b> {{page.presented_by}}</li>
+{% elsif page.lecturer != nil %}
+    <li><b>Lecturer:</b> {{page.lecturer}}</li>
 {% endif %}
 
 {% if page.date != nil %}
@@ -32,6 +34,10 @@ layout: default
 
 {% if page.location != nil %}
     <li><b>Location:</b> {{page.location}}</li>
+{% endif %}
+
+{% if page.venue != nil %}
+    <li><b>Venue:</b> {{page.venue}}</li>
 {% endif %}
 
 {% if page.address != nil %}
