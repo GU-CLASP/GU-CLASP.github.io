@@ -31,12 +31,12 @@ SE-405 30 Göteborg<br />
 <hr>
 
 ### Other website
-<a href=" https://www.gu.se/en/clasp">clasp.gu.se</a>
+<a href=" https://www.gu.se/en/clasp" target="_blank">clasp.gu.se</a>
 <hr>
 
 ### Office Hours:
 Monday-Friday 9:00am - 5:00pm
 <hr>
 
-<a href="https://www.linkedin.com/company/claspgu/" class="sb linkedin">LinkedIn</a>
+<a href="https://www.linkedin.com/company/claspgu/" target="_blank" class="sb linkedin">LinkedIn</a>
 
