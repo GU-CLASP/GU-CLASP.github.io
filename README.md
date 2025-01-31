@@ -13,7 +13,7 @@ TODO...
 This web site uses standard [Github Pages](https://docs.github.com/en/pages) functionality with [Jekyll](https://jekyllrb.com/)
 and the [Liquid](https://shopify.github.io/liquid/) syntax.
 
-In short, we're using Ruby at the bottom with the framework Jekyll to generate a static html site. All the coding is done either in either in html with liquid or markdown. See source files in this repo for examples.
+In short, we're using Ruby at the bottom with the framework Jekyll to generate a static html site. All the coding is done either in html with liquid or markdown. See source files in this repo for examples.
 
 If you want to make substantial changes to this web site by adding pages or
 editing css, you will want to build and test locally before pushing your code.
