@@ -20,7 +20,7 @@ editing css, you will want to build and test locally before pushing your code.
 
 ### Preparing your system
 
-It's best to make changes in a different branch. Create a new branch for your dev work.
+It's best to make changes in a different branch. If you want to do your work in a separate `dev` branch, do:
 
 ```(bash)
 git checkout -b dev
@@ -42,7 +42,25 @@ Each time you edit and save a file, the web site is automatically regenerated, s
 
 ### Committing changes
 
-If you are happy with the changes you've made, commit them to your `dev` branch:
+You've tested your changes locally and now want to commit and push your changes. First, check which branch you are using:
+
+```(bash)
+git branch
+```
+
+#### If you made your changes in 'main'
+
+If you didn't create a `dev` branch, but made your changes in `main`, the procedure is slightly simpler.
+```(bash)
+git add .
+git commit "write something informative here"
+git pull --rebase  # rebase your changes against any possible changes at remote
+git push origin main
+```
+
+#### If you made your changes in 'dev'
+
+First commit your changes:
 
 ```(bash)
 git add .
