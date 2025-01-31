@@ -1,13 +1,13 @@
 ---
 name: "Sylvie Saget"
-role: 4
+role: 5
 title: "PhD Student"
 profileImage: "S.jpg"
----  
+---
 
-Sylvie Saget is a PhD/Doctoral Researcher in Computational Linguistics. Her research focuses on conversational agents that can talk and act autonomously such as humans, robots, virtual humans - or, generally speaking, any kind of object or system involving social interaction.   
+Sylvie Saget is a PhD/Doctoral Researcher in Computational Linguistics. Her research focuses on conversational agents that can talk and act autonomously such as humans, robots, virtual humans - or, generally speaking, any kind of object or system involving social interaction.
 
-Her research focuses on the modeling of reasoning and dialogue via a transdisciplinary approach mixing philosophy (of Mind + of Science&Technology), logics and psychology. Application areas she is focusing on:   
+Her research focuses on the modeling of reasoning and dialogue via a transdisciplinary approach mixing philosophy (of Mind + of Science&Technology), logics and psychology. Application areas she is focusing on:
 
 - Interaction management technologies
 
@@ -17,10 +17,10 @@ Her research focuses on the modeling of reasoning and dialogue via a transdiscip
 
 - Social agents as tools in psychology
 
-For more info please visit 
+For more info please visit
 [FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget) or [her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
 
-!!! pleasedontstealmywork !!! 
+!!! pleasedontstealmywork !!!
 
 An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
@@ -43,16 +43,16 @@ My scientific journey:
 - And Back Again
 
   The key notions I am developing: Acceptance a belief-like doxastic state - caracterisation and representation of tools & much more!
-  
+
 -------------------------------------------------
 
 !!! pleasedontstealmywork !!!
 
-An approach initiated more than 15 years ago & 100% designed ***by myself***!!! 
+An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
 --- No worries --- I am active in research! But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men & their "friends" at the international level - you may find many women who actively take part in Matilda effect!
 
-Following a pityfull experience facing researchers obliged to steal others'work to fake creativity in their strategic plans for their lab&dpt, their books, articles or to obtain grants, I had the pleasure to meet high-level professionnals who know what integrity and responsibility mean. 
+Following a pityfull experience facing researchers obliged to steal others'work to fake creativity in their strategic plans for their lab&dpt, their books, articles or to obtain grants, I had the pleasure to meet high-level professionnals who know what integrity and responsibility mean.
 I am more than proud to have joined or met these amazing networks - highly recommanded:
 - Academic Parity Movement: https://paritymovement.org/
 - Friends of Sarah: https://friendsofsarah.org/
