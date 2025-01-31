@@ -1,10 +1,21 @@
 # README
 
-## Editing/Adding people
+* [Adding or Editing people](#adding-or-editing-people)
+* [Adding or Editing events](#adding-or-editing-events)
+* [Developing this web site](#developing-this-web-site)
+    * [Preparing your system](#preparing-your-system)
+    * [Creating pages and using layouts](#creating-pages-and-using-layouts)
+    * [Styling](#styling)
+    * [Committing changes](#committing-changes)
+        * [If you made your changes in 'main'](#if-you-made-your-changes-in-main)
+        * [If you made your changes in 'dev'](#if-you-made-your-changes-in-dev)
+    * [Relevant Doc Links](#relevant-doc-links)
+
+## Adding or Editing people
 
 TODO...
 
-## Editing/Adding events
+## Adding or Editing events
 
 TODO...
 
@@ -35,10 +46,36 @@ bundle exec jekyll serve
 
 Got to [http://127.0.0.1:4000](http://127.0.0.1:4000) to see the web site.
 
-When you build the web site, a new dir is created called `_site`. This is ignored in `.gitignore`.
-It only contains static html files.
+When you build the web site, a new dir is created called `_site`. It contains the build output in the form of static html files. This dir is ignored in [.gitignore](https://github.com/GU-CLASP/GU-CLASP.github.io/blob/main/.gitignore).
 
 Each time you edit and save a file, the web site is automatically regenerated, so no need to restart the server in between.
+
+### Creating pages and using layouts
+
+A page can either be a html file or a markdown file. Important to note is that each page needs to have a title in order to be displayed correctly. Make sure to add this to the top of the page (both html and markdown pages requires this):
+
+```(html)
+---
+title: Page Title
+---
+```
+
+If you have several pages that all share html code you can create a layout for those. Check existing layouts in
+[_layouts](https://github.com/GU-CLASP/GU-CLASP.github.io/tree/main/_layouts)
+to see examples. Then, to use a layout in your newly created pages, make sure the top of the page has this:
+
+```(html)
+---
+title: Page Title
+layout: your_layout
+---
+```
+
+If no layout is selected for a page, the default layout will be used (configured in `_config.yml`).
+
+### Styling
+
+All styling is done in [style.css](https://github.com/GU-CLASP/GU-CLASP.github.io/blob/main/assets/style.css)
 
 ### Committing changes
 
@@ -88,7 +125,7 @@ git push origin main
 
 After changes are pushed it takes a couple of minutes before the web site is rebuilt and published.
 
-### Docs
+### Relevant Doc Links
 
 * [Github Pages](https://docs.github.com/en/pages)
 * [Jekyll](https://jekyllrb.com/docs/installation/)
