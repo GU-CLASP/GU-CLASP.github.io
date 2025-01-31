@@ -1,0 +1,24 @@
+{% include event-tags.html %}
+<div class="event-list-row">
+    <a href="{{ event.url }}">
+        <div class="event-content">
+            <h3><span class="event-type">{{ event_tag }}:</span> {{ event.title }}</h3>
+            {% if event.presenters != nil %}
+                <p><b>Presenters:</b> {{ event.presenters }}</p>
+            {% endif %}
+            {% if event.presented_by != nil %}
+                <p><b>Presented by:</b> {{ event.presented_by }}</p>
+            {% endif %}
+            {% if event.lecturer != nil %}
+                <p><b>Lecturer:</b> {{ event.lecturer }}</p>
+            {% endif %}
+            <p><b>Date:</b> {{ event.date | date: "%-d %B, %Y"}}</p>
+            {% if event.time != nil %}<p><b>Time:</b> {{ event.time }}</p>{% endif %}
+            {% if event.location != nil %}
+                <p><b>Where:</b> {{ event.location }}</p>
+            {% elsif event.venue != nil %}
+                <p><b>Where:</b> {{ event.venue }}</p>
+            {% endif %}
+        </div>
+    </a>
+</div>

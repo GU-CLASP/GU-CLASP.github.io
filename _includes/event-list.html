@@ -1,0 +1,23 @@
+<!-- This is only meant to be included in pages under /events/* -->
+<!-- 'items' is created differently in each of those pages -->
+
+{% assign today = "now" | date: "%Y-%m-%d" %}
+
+<h2>Upcoming {{page.title}}</h2>
+
+{% for event in items %}
+  {% assign event_date = event.date | date: "%Y-%m-%d" %}
+  {% if event_date >= today %}
+    {% include event-row.html %}
+  {% endif %}
+{% endfor %}
+<br>
+
+<h2 style="font-style:italic; color:#666666;">Past {{page.title}}</h2>
+{% assign items = items | reverse %}
+{% for event in items %}
+  {% assign event_date = event.date | date: "%Y-%m-%d" %}
+  {% if event_date < today %}
+    {% include event-row.html %}
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,9 @@
+---
+title: PhD Defences
+layout: default
+---
+
+{% assign items = site.events | where_exp: "item", "item.relative_path contains '/defences/'" | sort: "date" %}
+
+{% include event-sort-links.html %}
+{% include event-list.html %}

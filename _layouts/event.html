@@ -1,0 +1,58 @@
+---
+layout: default
+---
+{% include event-tags.html %}
+
+<h1>{{page.title}}</h1>
+
+<ul class="info-list">
+{% if event_tag != nil %}
+    <li><b>Event:</b> {{event_tag}}</li>
+{% endif %}
+
+{% if page.presenters != nil %}
+    <li><b>Presenters:</b> {{page.presenters}}</li>
+{% elsif page.presenter != nil %}
+    <li><b>Presenter:</b> {{page.presenter}}</li>
+{% elsif page.presented_by != nil %}
+    <li><b>Presented by:</b> {{page.presented_by}}</li>
+{% endif %}
+
+{% if page.date != nil %}
+    <li><b>Date:</b> {{page.date | date_to_long_string}}</li>
+{% endif %}
+
+{% if page.time != nil %}
+    <li><b>Time:</b> {{page.time}}</li>
+{% endif %}
+
+{% if page.duration != nil %}
+    <li><b>Duration:</b> {{page.duration}}</li>
+{% endif %}
+
+{% if page.location != nil %}
+    <li><b>Location:</b> {{page.location}}</li>
+{% endif %}
+
+{% if page.address != nil %}
+    <li><b>Address:</b> {{page.address}}</li>
+{% endif %}
+
+{% if page.room != nil %}
+    <li><b>Room:</b> {{page.room}}</li>
+{% endif %}
+
+{% if page.maps != nil %}
+    <li><b>Google Maps:</b> <a href="{{page.maps}}">{{page.maps}}</a></li>
+{% endif %}
+
+{% if page.zoom != nil %}
+    <li><b>Zoom link:</b> <a href="{{page.zoom}}">{{page.zoom}}</a></li>
+{% endif %}
+
+{% if page.teams != nil %}
+    <li><b>Teams link:</b> <a href="{{page.zoom}}">{{page.zoom}}</a></li>
+{% endif %}
+</ul>
+
+{{ page.content }}

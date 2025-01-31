@@ -1,0 +1,107 @@
+---
+title: Home
+---
+
+<div class="index-main">
+    <div class="index-grid-1">
+        <img src="/assets/images/GruppbildClasp.jpg" alt="CLASP group photo">
+        <p>
+            The Centre for Linguistic Theory and Studies in Probability (CLASP) focuses its research on the application of
+            probabilistic and information theoretic methods to the analysis of natural language.
+            CLASP is concerned both with understanding the cognitive foundations of language and developing efficient
+            language technology. We work at the interface of computational linguistics/natural language processing,
+            theoretical linguistics, and cognitive science.
+        </p>
+        <p>
+            CLASP is located in Gothenburg, Sweden at the University of Gothenburg. We are part of the
+            <a href="https://www.gu.se/en/flov" target="_blank">Department of Philosophy, Linguistics and Theory of Science</a>.
+        </p>
+    </div>
+    <div class="index-grid-2">
+        <h2><a href="/events/">Upcoming Events</a></h2>
+        {% assign today = "now" | date: "%Y-%m-%d" %}
+        {% assign items = site.events | sort: date %}
+        {% assign counter = 0 %}
+        {% for event in site.events %}
+            {% include event-tags.html %}
+            {% assign event_date = event.date | date: "%Y-%m-%d" %}
+            {% if event_date >= today %}
+                <a href="{{event.url}}">
+                    <div class="index-post">
+                        <h3><span class="event-type">{{ event_tag }}: {{event.date | date: "%Y-%m-%d"}} {{event.title}}</a></h3>
+                            {% if event.presenters != nil %}
+                                <p><b>Presenters:</b> {{ event.presenters }}</p>
+                            {% endif %}
+                            {% if event.presented_by != nil %}
+                                <p><b>Presented by:</b> {{ event.presented_by }}</p>
+                            {% endif %}
+                            {% if event.lecturer != nil %}
+                                <p><b>Lecturer:</b> {{ event.lecturer }}</p>
+                            {% endif %}
+                    </div>
+                </a>
+                {% assign counter = counter | plus: 1 %}
+            {% endif %}
+            {% if counter == 5 %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+<h2>Direction</h2>
+<div class="index-people-grid">
+    <div class="people-grid-1">
+        {% assign person = "robin-cooper" %}
+        {% assign url = "/people/" | append: person | append: "/index.html" %}
+        {% assign people = site.people | where: "url", url | where: "slug", "index" %}
+        {% assign position = site.data.roles | where: "id", people[0].role | first %}
+        <p>{{position.title}}</p>
+        <p><a href="{{ people[0].url }}">{{ people[0].name }}</a></p>
+        <img class="profileImage" src="/people/{{person}}/{{ people[0].profileImage }}">
+        <p><p>{{people[0].content | strip_html | truncate: 120 }}</p></p>
+    </div>
+    <div class="people-grid-3">
+        {% assign person = "sharid-loaiciga" %}
+        {% assign url = "/people/" | append: person | append: "/index.html" %}
+        {% assign people = site.people |  where: "url", url | where: "slug", "index" %}
+        {% assign position = site.data.roles | where: "id", people[0].role | first %}
+        <p>{{position.title}}</p>
+        <p><a href="{{ people[0].url }}">{{ people[0].name }}</a></p>
+        <img class="profileImage" src="/people/{{person}}/{{ people[0].profileImage }}">
+        <p><p>{{people[0].content | strip_html | truncate: 120 }}</p></p>
+    </div>
+    <div class="people-grid-2">
+        {% assign person = "shalom-lappin" %}
+        {% assign url = "/people/" | append: person | append: "/index.html" %}
+        {% assign people = site.people | where: "url", url | where: "slug", "index" %}
+        {% assign position = site.data.roles | where: "id", people[0].role | first %}
+        <p>Chief Scientist</p>
+        <p><a href="{{ people[0].url }}">{{ people[0].name }}</a></p>
+        <img class="profileImage" src="/people/{{person}}/{{ people[0].profileImage }}">
+        <p><p>{{people[0].content | strip_html | truncate: 120 }}</p></p>
+    </div>
+    <div class="people-grid-4">
+        {% assign person = "kaj-ailomaa" %}
+        {% assign url = "/people/" | append: person | append: "/index.html" %}
+        {% assign people = site.people |  where: "url", url | where: "slug", "index" %}
+        {% assign position = site.data.roles | where: "id", people[0].role | first %}
+        <p>System Administrator</p>
+        <p><a href="{{ people[0].url }}">{{ people[0].name }}</a></p>
+        <img class="profileImage" src="/people/{{person}}/{{ people[0].profileImage }}">
+        <p><p>{{people[0].content | strip_html | truncate: 120 }}</p></p>
+    </div>
+</div>
+<div class="index-sponsor-grid">
+    <div class="index-sponsor-logo">
+        <p>Funded By</p>
+        <img src="/assets/images/vr_logo.png" alt="Sponsor Logo">
+    </div>
+    <div class="index-sponsor-text">
+        <p>CLASP is funded by a 10 year grant from the Swedish Research Council (2015-2025).
+        The funding from the Swedish Research Council and GU grant allows recruitment of prof.
+        Shalom Lappin, a senior lecturer, a researcher/project coordinator, 12 PhD and 9 postdoctoral research positions.
+        The funding also provides means for workshops, conferences and visits of guest researchers to Gothenburg.
+        CLASP will bring together researchers in theoretical linguistics, computational linguistics,
+        logic, AI, cognitive psychology, and robotics.</p>
+    </div>
+</div>

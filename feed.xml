@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-06T14:07:05+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Test site</title><subtitle>This is the a description of the site, which will be caught by google and placed under the search result.</subtitle><entry><title type="html">Example News</title><link href="http://localhost:4000/news/2024/10/23/example-news.html" rel="alternate" type="text/html" title="Example News" /><published>2024-10-23T00:00:00+02:00</published><updated>2024-10-23T00:00:00+02:00</updated><id>http://localhost:4000/news/2024/10/23/example-news</id><content type="html" xml:base="http://localhost:4000/news/2024/10/23/example-news.html"><![CDATA[<h1 id="example-news">Example News</h1>
+
+<p>Short description of events. This and that, here or there.</p>
+
+<h2 id="what">What</h2>
+
+<p>A longer description of what is happening.</p>
+
+<h2 id="where">Where</h2>
+
+<p>How to get to where things are happening.</p>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[Example News]]></summary></entry></feed>

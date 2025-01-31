@@ -1,0 +1,20 @@
+---
+layout: phd-course
+title: PhD Courses
+---
+
+<p>
+    Here you can find a number of courses that are offered at PhD level at CLASP.
+    Some of the courses are reading courses. See each course for more details on the format.
+</p>
+
+{% assign site_pages = site.pages | sort: title %}
+{% for site_page in site_pages %}
+    {% assign active = "" %}
+    {% if site_page.url contains "/phd-courses/" and site_page.title != "PhD Courses"%}
+        {% if site_page.title == page.title%}
+            {% assign active = "active-link" %}
+        {% endif %}
+        <a href="{{site_page.url}}"><div class="div-link {{active}}">{{site_page.title}}</div></a>
+    {% endif %}
+{% endfor %}

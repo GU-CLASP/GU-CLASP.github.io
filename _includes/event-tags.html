@@ -1,0 +1,12 @@
+{% if event.relative_path contains "/conferences/" or page.relative_path contains "/conferences/" %}
+    {% assign event_tag = "Conference" %}
+{% endif %}
+{% if event.relative_path contains "/defences/" or page.relative_path contains "/defences/" %}
+    {% assign event_tag = "PhD Defence" %}
+{% endif %}
+{% if event.relative_path contains "/seminars/" or page.relative_path contains "/seminars/" %}
+    {% assign event_tag = "Seminar" %}
+{% endif %}
+{% if event.relative_path contains "/workshops/" or page.relative_path contains "/workshops/" %}
+    {% assign event_tag = "Workshop" %}
+{% endif %}

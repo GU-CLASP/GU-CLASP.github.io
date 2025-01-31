@@ -1,0 +1,9 @@
+---
+title: Events
+layout: default
+---
+
+{% assign items = site.events | sort: "date" %}
+
+{% include event-sort-links.html %}
+{% include event-list.html %}

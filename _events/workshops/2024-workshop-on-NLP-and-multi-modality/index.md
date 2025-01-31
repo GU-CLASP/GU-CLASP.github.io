@@ -1,0 +1,44 @@
+---
+presented_by: "Workshop on NLP and multi-modality"
+title: "Workshop"
+type: seminar
+date: 2024-06-10
+year: 2024
+expired: true
+---
+
+Jörg Tiedemann, University of Helsinki. Title: Releasing the MAMMOTH - a framework for modular NLP
+
+Abstract: Neural language models have been grown in size and importance over the past years. We address two challenging aspects in the field of NLP: The support of a wide variety of languages and the runtime efficiency of such models. We focus on encoder-decoder models and modular architectures that balance between task-specific components and parameter sharing. In particular, we want to achieve effective cross-lingual transfer learning while keeping language-specific modules that can operate independently. The latter is important for efficient inference reducing computational costs and energy consumption at runtime, a crucial task for modern NLP. Our toolkit, MAMMOTH, is a flexible framework for training various types of modular architectures making it possible to systematically compare different approaches also beyond machine translation and single modalities.
+
+Ece Takmaz, Utrecht University (online). Title: Quantifying and Predicting the Variation in Human Signals during Visuo-Linguistic Processes
+
+Abstract: There is an intricate relation between the properties of an image and how humans behave while describing the image. This behavior shows ample variation, as manifested in human signals such as eye movements and when humans start to describe the image. Despite the value of such signals of visuo-linguistic variation, they are virtually disregarded in the training of current pretrained models, which motivates further investigation. Using a corpus of image descriptions with concurrently collected eye-tracking data, we explore the nature of the variation in visuo-linguistic signals, and whether image representations encoded by pretrained vision encoders can capture such variation. I will also talk about another work where we use CLIP to quantify the degree of descriptiveness (how well an utterance describes an image in isolation) and discriminativeness (to what extent an utterance is effective in picking out a single image among similar images) of human referring utterances within multimodal dialogues. These works open up the possibility of using pretrained multimodal encoders to quantify patterns in human data and shed light on the underlying cognitive mechanisms, as well as identifying the shortcomings of such encoders.
+
+Carina Silberer, University of Stuttgart. Title: Multimodal Knowledge Learning of Actions and Everyday Procedures
+
+Abstract: In order to instruct and interact with machines in everyday life using natural language, they need to be able to understand and model procedural tasks. This ability is therefore relevant for the fields of NLP, human-computer interaction and robotics, as well as for multimodal machine learning in general. Despite its relevance, multimodal (visual-linguistic, VL) modelling of procedures, i.e. the task of learning and understanding procedures from language and visual data, is still a challenge for current visual-linguistic models. This talk focuses on certain crucial aspects that underlie the modelling of everyday procedural tasks based on visual-linguistic data. In particular, I will present past and ongoing work on (i) the commonsense types of "events" and "actions" that have proven to be very difficult for current VL systems, (ii) affordance learning, i.e., modelling the actions that an object offers to individuals in a given environment, (iii) predicting the effects in object state change caused by performing an action on objects, and (iv) reasoning about the sequential aspect of procedures in terms of the relationship between individual steps to achieve a task goal, in particular the tasks of visual goal step inference and identifying optional and interchangeable steps.
+
+Desmond Elliott, University of Copenhagen. Title: Some Recent Experiments in Retrieval-Augmented Image Captioning
+
+Abstract: Retrieval-augmentation has proven useful in a wide-range of classification and generation tasks, and it is now powering the next generation of Large Language Models. In this talk, I will present recent research on applying retrieval-augmentation to the multimodal task of image caption generation. I will start by outlining how retrieval-augmentation can work in this task, and present a parameter-efficient image captioning model that can describe images from a variety of domains by hot-swapping the contents in the retrieval data store without retraining the model. Then I will describe two approaches to multilingual image captioning: one based on prompting an LLM without any training, the other based on supervised training with either multilingual or monolingual data. Finally, I will speak about our efforts to understand and explain the success and failure modes of retrieval-augmented image captioning.
+
+Mario Guilianelli, ETH Zürich (online). Title: Measuring utterance uncertainty and predictability via simulation of contextually plausible alternatives
+
+Abstract: Viewing linguistic communication as information transmission between cognitive agents, successful language production can be understood as an act of reducing the uncertainty over future states that a comprehender may be anticipating. When an individual utters a sentence, they narrow down the comprehender’s expectations, and they do so by an amount proportional to the contextual predictability of the utterance. I will discuss two recent studies that demonstrate how we can empirically estimate utterance uncertainty and predictability by simulating potential upcoming linguistic contributions using neural text generators. The first study introduces a statistical framework to quantify utterance uncertainty as production variability, and evaluates the alignment of language generators to the production variability observed in humans. We find that different types of production tasks exhibit distinct levels of lexical, syntactic, and semantic variability, and neural text generators generally achieve satisfactory calibration of uncertainty. In the second study, we use the previously introduced statistical framework to define a novel measure of utterance predictability, which we term information value. Information value quantifies predictability by measuring the distance from contextually plausible alternatives and offers advantages over traditional measures by disentangling various dimensions of uncertainty and being less influenced by surface form competition. Psycholinguistic experiments demonstrate that information value is a superior predictor of utterance acceptability in written and spoken dialogue compared to token-level surprisal aggregates, and that it complements surprisal in predicting eye-tracked reading times.
+
+Bill Noble, University of Gothenburg. Title: Effing the ineffable: Action and perception at the limits of language
+
+Abstract: In formal semantics, truth conditional theories of meaning seek a relation between linguistic expressions and possible worlds (or states of affairs). Inferentialist approaches instead couch meaning as a relation between pairs of linguistic expressions. Akin to text-based distributional semantics, inferentialism appears to insulate linguistic theory from the need for a comprehensive world model. But this picture ignores the fact that language is part of the world and subject to change through interaction between linguistic agents. In several case studies, this talk will present formal accounts of action, perception and change as a lens through which to view multi-modality in computational semantics.
+
+
+
+
+
+
+
+Website: https://gu-clasp.github.io/language-and-perception/events/language-and-vision-workshop/
+
+Location: Attend in person at J336 or via Zoom, https://gu-se.zoom.us/j/726750116
+
+Time: 13:15-16:45
