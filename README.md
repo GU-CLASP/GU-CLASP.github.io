@@ -52,6 +52,8 @@ Each time you edit and save a file, the web site is automatically regenerated, s
 
 ### Creating pages and using layouts
 
+All pages, except for the [home page](https://github.com/GU-CLASP/GU-CLASP.github.io/blob/main/index.html) are put in [_pages](https://github.com/GU-CLASP/GU-CLASP.github.io/tree/main/_pages).
+
 A page can either be a html file or a markdown file. Important to note is that each page needs to have a title in order to be displayed correctly. Make sure to add this to the top of the page (both html and markdown pages requires this):
 
 ```(html)
@@ -71,7 +73,7 @@ layout: your_layout
 ---
 ```
 
-If no layout is selected for a page, the default layout will be used (configured in `_config.yml`).
+If no layout is selected for a page, the default layout will be used (configured in [_config.yml](https://github.com/GU-CLASP/GU-CLASP.github.io/blob/main/_config.yml)).
 
 ### Styling
 
