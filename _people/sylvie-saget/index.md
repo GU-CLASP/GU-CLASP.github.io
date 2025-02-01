@@ -2,7 +2,7 @@
 name: "Sylvie Saget"
 role: 5
 title: "PhD Student"
-profileImage: "S.jpg"
+profileImage: "S.jpg"  
 ---
 
 Sylvie Saget is a PhD/Doctoral Researcher in Computational Linguistics. Her research focuses on conversational agents that can talk and act autonomously such as humans, robots, virtual humans - or, generally speaking, any kind of object or system involving social interaction.
