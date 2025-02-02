@@ -56,7 +56,7 @@ But dealing with academic theft and sabotage takes times and deeply constraints 
 Following a pityfull experience facing researchers obliged to steal others'work to fake creativity in their books, articles or to obtain grants, etc.  - making my plans their owns (easy! - steal & kill)
 
 I had the pleasure to meet high-level professionnals who know what integrity and responsibility mean.
-I am more than proud to have joined or met these amazing networks - highly recommanded:
+I am more than proud to have joined or learned about these amazing networks - highly recommanded:
 - Academic Parity Movement: https://paritymovement.org/
 - Friends of Sarah: https://friendsofsarah.org/
 - Institute of Research and Action on Fraud and Plagiarism in Academia: https://irafpa.org/en/
