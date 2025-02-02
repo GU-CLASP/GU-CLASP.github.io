@@ -27,7 +27,7 @@ For more info please visit
 
 An approach initiated more than 15 years ago & 100% designed ***by myself***!!!
 
---- No worries ---Whenever I am classified by the lab as a "Past member"/not "PhD student"  --- I am active in research & PhD student!
+--- No worries ---Whenever I am classified by the lab as a "Past member"/not "PhD student"  --- I am an active researcher & PhD student!
 But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men & their "friends" at the international level - you may find many women & institutions who actively take part in Matilda effect!
 
 -------------------------------------------------
@@ -53,7 +53,7 @@ My scientific journey:
 
 An approach initiated more than 15 years ago & 100% designed ***by myself***!!!  
 
---- No worries --- Whenever I am classified by the lab as a "Past member"/not "PhD student" - I am active in research & PhD student! 
+--- No worries --- Whenever I am classified by the lab as a "Past member"/not "PhD student" - I am an active researcher & PhD student! 
 But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men & their "friends" at the international level - you may find many women & institutions who actively take part in Matilda effect!
 
 Following a pityfull experience facing researchers obliged to steal others'work to fake creativity in their books, articles or to obtain grants, etc.  - making my plans their owns (easy! - steal & kill)
