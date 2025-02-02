@@ -61,5 +61,6 @@ I am more than proud to have joined or met these amazing networks - highly recom
 - Friends of Sarah: https://friendsofsarah.org/
 - Institute of Research and Action on Fraud and Plagiarism in Academia: https://irafpa.org/en/
 - Movement for a free academia: https://www.freeacademia.org/
+- Center for Institutional Courage: https://www.institutionalcourage.org/
 
 
