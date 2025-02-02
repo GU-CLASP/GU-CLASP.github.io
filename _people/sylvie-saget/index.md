@@ -18,7 +18,7 @@ Her research focuses on the modeling of reasoning and dialogue via a transdiscip
 - Social agents as tools in psychology
 
 For more info please visit
-[FLOV personnal Webpage](https://www.gu.se/en/about/find-staff/sylviesaget) or [her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
+[her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
 
 !!! pleasedontstealmywork !!!
 
