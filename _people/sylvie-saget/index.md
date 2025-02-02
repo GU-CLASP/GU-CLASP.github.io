@@ -5,7 +5,8 @@ title: "PhD Student"
 profileImage: "S.jpg"  
 ---
 
-Sylvie Saget is a PhD Researcher in Computational Linguistics - Whenever she is classified as a "Past member"/not "PhD student", Sylvie is an active researcher & PhD student! 
+Sylvie Saget is a PhD Researcher in Computational Linguistics  
+- Whenever she is classified as a "Past member"/not "PhD student", Sylvie is an active researcher & PhD student! 
 
 Her research focuses on conversational agents that can talk and act autonomously such as humans, robots, virtual humans - or, generally speaking, any kind of object or system involving social interaction.
 
