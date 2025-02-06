@@ -13,7 +13,44 @@
 
 ## Adding or Editing people
 
-TODO...
+### Using the web interface
+
+Go to the dir [_people](https://github.com/GU-CLASP/GU-CLASP.github.io/tree/main/_people). Then click on the button `Add File` as seen in the picture below.
+![Add File pic](README.files/add_file.png)
+
+Create an index.md by adding a path to it with the persons name, for example:
+```(text)
+john-doe/index.md
+```
+
+Here's an example of what the index.md should contain:
+
+```(markdown)
+---
+name: "John Doe"
+role: 4
+title: "PhD Student"
+profileImage: "john_doe.jpg"
+---
+
+John Doe is a PhD student ...
+```
+
+`title` is what is shown as the persons title on the persons page.
+
+`role` will determine how the person is listed on the [people page](https://gu-clasp.github.io/people/).
+Here are the different roles available:
+| role | title |
+| --- | --- |
+| 0 | Acting Director |
+| 1 | Coordinating Director |
+| 2 | Administrator |
+| 3 | Researcher |
+| 4 | PhD Student |
+| 5 | Past Member |
+| 6 | Post Doctoral Researcher |
+
+A profile image needs to be uploaded separately. Click on the persons directory where the `index.md` is shown. Then click `Add File` and select `Upload files`. The profile image should be quite small, or it will make the pages where it shown slower to load. A width of 300px is fine.
 
 ## Adding or Editing events
 
