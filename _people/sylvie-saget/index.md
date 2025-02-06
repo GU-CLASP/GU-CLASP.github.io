@@ -5,7 +5,7 @@ title: "PhD Student"
 profileImage: "S.jpg"  
 ---
 
-Sylvie Saget is a PhD Researcher in Computational Linguistics       
+Sylvie Saget is a PhD Researcher in Computational Linguistics   
 --- No worries !! --- Whenever she is classified by the lab as a "Past member"/not "PhD student", Sylvie is an active researcher & PhD student!   
 But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men & their "friends" at the international level - you may find many women & institutions who actively take part in Matilda effect!
 
