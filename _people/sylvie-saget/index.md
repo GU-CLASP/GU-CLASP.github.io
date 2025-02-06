@@ -55,10 +55,10 @@ Following a pityfull experience facing researchers obliged to steal others'work 
 
 I had the pleasure to meet high-level professionnals who know what integrity and responsibility mean.
 I am more than proud to have joined or learned about these amazing networks - highly recommanded:
-- Academic Parity Movement: https://paritymovement.org/
-- Friends of Sarah: https://friendsofsarah.org/
-- Institute of Research and Action on Fraud and Plagiarism in Academia: https://irafpa.org/en/
-- Movement for a free academia: https://www.freeacademia.org/
-- Center for Institutional Courage: https://www.institutionalcourage.org/
+- Academic Parity Movement: [https://paritymovement.org](https://paritymovement.org)
+- Friends of Sarah: [https://friendsofsarah.org](https://friendsofsarah.org)
+- Institute of Research and Action on Fraud and Plagiarism in Academia: [https://irafpa.org/en/](https://irafpa.org/en/)
+- Movement for a free academia: [https://www.freeacademia.org](https://www.freeacademia.org)
+- Center for Institutional Courage: [https://www.institutionalcourage.org](https://www.institutionalcourage.org)
 
 
