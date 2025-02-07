@@ -19,7 +19,7 @@ Her research focuses on the modeling of reasoning and dialogue via a transdiscip
 
 - Responsible conception and design methods
 
-- Social agents as tools in psychology
+- Social agents as tools simulating and testing theories of human intelligence
 
 For more info please visit
 [her LinkedIn profile](https://www.linkedin.com/in/sylviesaget/).
