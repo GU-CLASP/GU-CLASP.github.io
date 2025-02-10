@@ -30,17 +30,18 @@ title: Home
             {% assign event_date = event.date | date: "%Y-%m-%d" %}
             {% if event_date >= today %}
                 <a href="{{event.url}}">
-                    <div class="index-post">
-                        <h3><span class="event-type">{{ event_tag }}: {{event.date | date: "%Y-%m-%d"}} {{event.title}}</a></h3>
+                    <div class="index-event">
+                        <h3><span class="event-type">{{ event_tag }}</span>: {{event.date | date: "%Y-%m-%d"}} - {{event.title}}</h3>
                             {% if event.presenters != nil %}
-                                <p><b>Presenters:</b> {{ event.presenters }}</p>
+                                <b>Presenters:</b> {{ event.presenters }}
                             {% endif %}
                             {% if event.presented_by != nil %}
-                                <p><b>Presented by:</b> {{ event.presented_by }}</p>
+                                <b>Presented by:</b> {{ event.presented_by }}
                             {% endif %}
                             {% if event.lecturer != nil %}
-                                <p><b>Lecturer:</b> {{ event.lecturer }}</p>
+                                <b>Lecturer:</b> {{ event.lecturer }}
                             {% endif %}
+                            <hr>
                     </div>
                 </a>
                 {% assign counter = counter | plus: 1 %}

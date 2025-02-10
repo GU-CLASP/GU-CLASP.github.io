@@ -211,6 +211,10 @@ hr {
     }
 }
 
+.index-event {
+    color: #222222;
+}
+
 .index-grid-1 {
     img {
         height: auto;
