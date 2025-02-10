@@ -6,7 +6,7 @@ date: 2025-02-27
 time: 15:15-17:00
 venue: Gothenburg University, Humanisten and online
 address: Renströmsgatan 6, 412 55 Göteborg
-room: J411
+room: J406
 zoom: https://gu-se.zoom.us/j/69780476534?pwd=Q9Uw2lu0zda8MsXkL08eGrqU64DMpp.1
 ---
 
