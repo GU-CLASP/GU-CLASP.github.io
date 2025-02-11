@@ -1,5 +1,5 @@
 ---
-presented_by: "Amandine Decker from University of Gothenburg"
+presented_by: "Amandine Decker from Université de Lorraine"
 title: "TBA"
 type: seminar
 date: 2025-06-11
