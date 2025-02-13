@@ -59,6 +59,9 @@ layout: default
 {% if page.teams != nil %}
     <li><b>Teams link:</b> <a href="{{page.zoom}}">{{page.zoom}}</a></li>
 {% endif %}
+{% if page.slides != nil %}
+    <li><b>Slides: <a href="{{page.slides}}">{{page.slides}}</a></b></li>
+{% endif %}
 </ul>
 
 {{ page.content }}
