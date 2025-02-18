@@ -9,6 +9,7 @@ address: Renströmsgatan 6, 412 55 Göteborg
 room: J411
 zoom: https://gu-se.zoom.us/j/69780476534?pwd=Q9Uw2lu0zda8MsXkL08eGrqU64DMpp.1
 slides: "Diego Frassinelli 12.2.2025.pdf"
+dummy: "force rebuild"
 ---
 
 ## Abstract
