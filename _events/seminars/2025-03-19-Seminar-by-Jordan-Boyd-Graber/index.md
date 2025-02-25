@@ -1,5 +1,5 @@
 ---
-presented_by: "Jordan Boyd-Graber from the University of Maryland"
+presented_by: "Jordan Boyd-Graber Ying from the University of Maryland"
 title: "TBA"
 type: seminar
 date: 2025-03-19
