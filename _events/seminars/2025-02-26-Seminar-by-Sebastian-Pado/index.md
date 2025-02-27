@@ -11,7 +11,7 @@ zoom: https://gu-se.zoom.us/j/69780476534?pwd=Q9Uw2lu0zda8MsXkL08eGrqU64DMpp.1
 slides:
 ---
 
-## Abstract
+## Abstract 
 
 In this talk, I will start from the observation that computational models that use distributional semantics / word embeddings make (mostly implicit) use of categorization theory and can be analyzed in those terms. To illustrate this, I will present two studies on (a) classification in terms of prototype and exemplar models [1] and (b) alternatives to the default way of constructing word embeddings from co-occurrences of the category noun [2].
 
