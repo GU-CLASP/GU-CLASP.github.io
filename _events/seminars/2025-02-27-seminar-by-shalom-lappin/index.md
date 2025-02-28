@@ -11,7 +11,7 @@ zoom: https://gu-se.zoom.us/j/69780476534?pwd=Q9Uw2lu0zda8MsXkL08eGrqU64DMpp.1
 slides:
 ---
 
-## Abstract
+## Abstract 
 
 Many of the neuro-symbolic models used in NLP incorporate tree grammars,
 or semantic feature markers.
