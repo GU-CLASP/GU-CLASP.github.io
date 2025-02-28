@@ -1,5 +1,6 @@
 ---
-presented_by: "Shalom Lappin"
+presented_by: "Shalom Lappin from Queen Mary University of London, University of Gothenburg, and
+King’s College London"
 title: "Neuro-Symbolic Models in NLP"
 type: seminar
 date: 2025-02-27
