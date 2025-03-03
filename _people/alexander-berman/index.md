@@ -2,8 +2,8 @@
 name: "Alexander Berman"
 role: 4 
 title: "PhD Student"
-profileImage: "AlexBerman.jpg"
+profileImage: "7699c2ac-fb01-4157-bb22-18eee74ec230-photo.jpg"
 ---
-Alex Berman's research interests span across cognitive science, human-computer interaction (particularly dialogue systems), philosophy, ethics and computational creativity.
+Alex Berman's research interests include human-AI interaction, dialogue, and AI explainability.
 
-Personal website: http://timebend.net
+For more information and a list of publications, see [this web page](https://www.gu.se/en/about/find-staff/alexanderberman).
