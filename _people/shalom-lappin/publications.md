@@ -454,7 +454,7 @@ hideInSearchResults: true
 ## TECHNICAL REPORTS
 
 -   Nikolai Ilinykh, Shalom Lappin, Assad Sayeed, and Sharid Loáiciga (2025),
-    *Coreference as An Indicator ofContext Scope in Multimodal Narrative*,
+    *Coreference as An Indicator of Context Scope in Multimodal Narrative*,
     arXiv:2503.05298v1 \[cs.CL\], https://arxiv.org/abs/2503.05298.
 -   Yuri Bizzoni and Shalom Lappin (2018), *The Effect of Context on
     Metaphor Paraphrase Aptness Judgments*, 
