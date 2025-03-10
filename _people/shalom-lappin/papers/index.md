@@ -8,6 +8,9 @@ hideInSearchResults: true
 
 # Recent Papers
 
+Nikolai Ilinykh, Shalom Lappin, Assad Sayeed, and Sharid Loáiciga (2025), [Coreference as 
+An Indicator of Context Scope in Multimodal Narrative](ilinykh-etal25.pdf), *arXiv.2503.05298v1*.
+
 Shalom Lappin (2024), [Assessing the Strengths and Weaknesses of Large Language 
 Models](lappin_published_jolli23.pdf), *Journal of Logic, Language and Information*, special
 issue Natural Logic Meets Machine Learning, Vol. 33, pp. 9-20.
