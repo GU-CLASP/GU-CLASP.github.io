@@ -1,5 +1,5 @@
 ---
-presented_by: Sebastian Pado from the University of Stuttgart
+presented_by: Sebastian Padó from the University of Stuttgart
 title: Experiments with category representations
 type: seminar
 date: 2025-02-26
