@@ -11,4 +11,6 @@ expired: false
 
 
 
+Language models And RePresentations (LARP) brings together researchers that explore how information is structured, encoded and used in computational language systems. We encourage submissions on both neural (sub-symbolic) and discrete (symbolic) representations from the fields of computational linguistics and artificial intelligence of their intersection.
+
 The conference is organised by the Centre for Linguistic Theory and Studies in Probability (CLASP, https://gu-clasp.github.io/), University of Gothenburg. The conference will be held between September 8 and 9 in Gothenburg, Sweden.
