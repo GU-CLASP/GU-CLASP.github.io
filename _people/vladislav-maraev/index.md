@@ -1,6 +1,6 @@
 ---
 name: "Vladislav Maraev"
-role: 5 
-title: "PhD Student"
+role: 3 
+title: "Associate researcher"
 ---
-Vladislav Maraev was a PhD Student at CLASP.
+Vladislav Maraev is a Post Doctoral researcher.
