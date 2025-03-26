@@ -29,8 +29,7 @@ hideInSearchResults: true
     Structure*](http://www.amazon.com/Sorts-Ontology-Metaphor-Foundations-Communication/dp/3110083094/ref=sr_1_8?ie=UTF8&s=books&qid=1294746235&sr=1-8#_),
     de Gruyter, Berlin.
 -   Asa Kasher and Shalom Lappin (1977), [*Philosophical Linguistics: An
-    Introduction*](http://www.bookfinder.com/dir/i/Philosophical_Linguistics-An_Introd/3589205172/),
-    Scriptor Verlag, Kronberg.
+    Introduction*], Sriptor Verlag, Kronberg.
 
 ## EDITED BOOKS
 
