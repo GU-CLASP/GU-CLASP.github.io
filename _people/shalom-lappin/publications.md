@@ -10,11 +10,14 @@ hideInSearchResults: true
 
 ## BOOKS
 
--   Shalom Lappin (2021), [*Deep Learning and Linguistic Representation*](https://www.amazon.co.uk/Learning-Linguistic-Representation-Shalom-Lappin/dp/0367648741), CRC Press, Taylor and Francis, Oxford.
+-   Shalom Lappin (2025), [*Understanding the Artificial Intelligence Revolution: Between Catastrophe and
+    Utopia*](https://www.routledge.com/Understanding-the-Artificial-Intelligence-Revolution-Between-Catastrophe-and-Utopia/Lappin/p/book/9781041035077?srsltid=AfmBOop2Lf-zN1LTl8j72N1_CE7epn33eD43luvpJBwcxBptGxezxCHd), CRC Press, Taylor and Francis, Oxford and Boca Raton, FL.
+-   Shalom Lappin (2021), [*Deep Learning and Linguistic Representation*](https://www.amazon.co.uk/Learning-Linguistic-Representation-Shalom-Lappin/dp/0367648741), CRC Press, Taylor and Francis, Oxford and Boca Raton,
+    FL.
 -   Alexander Clark and Shalom Lappin (2011), [*Linguistic Nativism and
     the Poverty of the
     Stimulus*](http://www.amazon.com/Linguistic-Nativism-Poverty-Stimulus-Alexander/dp/1405187840/ref=sr_1_1?ie=UTF8&s=books&qid=1294746458&sr=1-1),
-    Wiley-Blackwell, Oxford.
+    Wiley-Blackwell, Oxford and Boca Raton.
 -   Chris Fox and Shalom Lappin (2005), [*Foundations of Intensional
     Semantics*](http://www.amazon.com/Foundations-Intensional-Semantics-Chris-Fox/dp/0631233768/ref=sr_1_5?ie=UTF8&s=books&qid=1294746801&sr=1-5),
     Blackwell, Oxford.
