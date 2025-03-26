@@ -34,7 +34,7 @@ hideInSearchResults: true
 
 -   Shalom Lappin and Jean-Philippe Bernardy (Editors) (2023), [*Algebraic Structures in Natural 
     Language*](https://www.routledge.com/Algebraic-Structures-in-Natural-Language/Lappin-Bernardy/p/book/9781032066547), 
-    CRC Press, Taylor and Francis, Boca Raton and Oxford.
+    CRC Press, Taylor and Francis, Boca Raton, FL and Oxford.
 -   Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, and Aleksandre
      Maskharashvili (eds.) (2022), [*Probabilistic Approaches to Linguistic
     Theory*](https://press.uchicago.edu/ucp/books/book/distributed/P/bo198661279.html), 
