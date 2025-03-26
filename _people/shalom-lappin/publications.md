@@ -16,7 +16,7 @@ hideInSearchResults: true
 -   Alexander Clark and Shalom Lappin (2011), [*Linguistic Nativism and
     the Poverty of the
     Stimulus*](http://www.amazon.com/Linguistic-Nativism-Poverty-Stimulus-Alexander/dp/1405187840/ref=sr_1_1?ie=UTF8&s=books&qid=1294746458&sr=1-1),
-    Wiley-Blackwell, Oxford and Boca Raton.
+    Wiley-Blackwell, Oxford and Boca Raton, FL.
 -   Chris Fox and Shalom Lappin (2005), [*Foundations of Intensional
     Semantics*](http://www.amazon.com/Foundations-Intensional-Semantics-Chris-Fox/dp/0631233768/ref=sr_1_5?ie=UTF8&s=books&qid=1294746801&sr=1-5),
     Blackwell, Oxford.
