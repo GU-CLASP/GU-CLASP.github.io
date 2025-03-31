@@ -3,7 +3,7 @@ presented_by: "Elisa Kreiss from UCLA"
 title: "Towards Pragmatic Visual Description Generation"
 type: seminar
 date: 2025-04-02
-time: 13:15-15:00
+time: 16:00-17:30
 venue: Gothenburg University, Humanisten and online
 address: Renströmsgatan 6, 412 55 Göteborg
 room: J411
