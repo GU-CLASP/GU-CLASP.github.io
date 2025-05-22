@@ -12,3 +12,4 @@ title: Annual Reports
 * [annual report 2021](clasp_annual_report21.docx)
 * [annual report 2022](clasp_annual_report22.pdf)
 * [annual report 2023](CLASP_annual_report_2023.pdf)
+* [annual report 2024](CLASP_annual_report_2024.pdf)
