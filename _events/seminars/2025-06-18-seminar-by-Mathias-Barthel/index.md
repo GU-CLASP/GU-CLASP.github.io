@@ -1,6 +1,6 @@
 ---
 presented_by: "Mathias Barthel from IDS Mannheim"
-title: "TBA"
+title: "Processing language while managing turn taking in conversation"
 type: seminar
 date: 2025-06-18
 time: 13:15-15:00
