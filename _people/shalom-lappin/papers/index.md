@@ -9,7 +9,7 @@ hideInSearchResults: true
 # Recent Papers
 
 Nikolai Ilinykh, Shalom Lappin, Asad Sayeed, and Sharid Loáiciga (2025), [Coreference as 
-An Indicator of Context Scope in Multimodal Narrative](ilinykh-etal25a.pdf), *Proceedings of the 
+an Indicator of Context Scope in Multimodal Narrative](ilinykh-etal25a.pdf), *Proceedings of the 
 Fourth Workshop on Generation, Evaluation and Metrics (GEM² 2025)*, ACL, pages 789–807.
 
 Shalom Lappin (2024), [Assessing the Strengths and Weaknesses of Large Language 
