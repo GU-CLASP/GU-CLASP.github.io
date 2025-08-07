@@ -287,13 +287,11 @@ hideInSearchResults: true
 -   Nikolai Ilinykh, Shalom Lappin, Asad Sayeed, and Sharid Loáiciga (2025), \"Coreference
     as an Indicator of Context Scope in Multimodal Narrative\", *Proceedings of the Fourth
     Workshop on Generation, Evaluation and Metrics (GEM² 2025)*, ACL, pages 789–807.
-
 -   Jean-Philippe Bernardy and Shalom Lappin (2022), \"Assessing the Unitary 
     RNN as an End-to-End Compositional Model of Syntax\" in M. Moortgat and 
     G. Wijnholds (eds), *End-to-End Compositional Models of Vector-Based Semantics, 
     2022 (E2ECOMPVEC), Electronic Proceedings in Theoretical Computer Science* 
     366.4, 2022, pp. 9–22.
-
 -   Jean-Philippe Bernardy and Shalom Lappin (2022), \"A Neural Model for 
     Compositional Word Embeddings and Sentence Processing\", *Proceedings 
     of the Workshop on Cognitive Modeling and Computational Linguistics*, 
