@@ -1,7 +1,7 @@
 ---
 presented_by: "Rolando Coto Solano from Dartmouth College"
 title: "TBA"
-type: seminar
+type: joint seminar Linguistics-CLASP
 date: 2025-09-23
 time: 13:15-15:00
 venue: Gothenburg University, Humanisten and online
