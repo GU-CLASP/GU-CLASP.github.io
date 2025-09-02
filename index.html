@@ -26,12 +26,16 @@ title: Home
         {% assign items = site.events | sort: date %}
         {% assign counter = 0 %}
         {% for event in site.events %}
-            {% include event-tags.html %}
+            {% if event.type-title %}
+                {% assign event_type = event.type-title %}
+            {% else %}
+                {% include event-types.html %}
+            {% endif %}
             {% assign event_date = event.date | date: "%Y-%m-%d" %}
             {% if event_date >= today %}
                 <a href="{{event.url}}">
                     <div class="index-event">
-                        <h3><span class="event-type">{{ event_tag }}</span>: {{event.date | date: "%Y-%m-%d"}} - {{event.title}}</h3>
+                        <h3><span class="event-type">{{ event_type }}</span>: {{event.date | date: "%Y-%m-%d"}} - {{event.title}}</h3>
                             {% if event.presenters != nil %}
                                 <b>Presenters:</b> {{ event.presenters }}
                             {% endif %}

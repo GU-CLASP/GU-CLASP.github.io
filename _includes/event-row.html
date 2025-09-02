@@ -1,8 +1,12 @@
-{% include event-tags.html %}
+{% if event.type-title %}
+    {% assign event_type = event.type-title %}
+{% else %}
+    {% include event-types.html %}
+{% endif %}
 <div class="event-list-row">
     <a href="{{ event.url }}">
         <div class="event-content">
-            <h3><span class="event-type">{{ event_tag }}:</span> {{ event.title }}</h3>
+            <h3><span class="event-type">{{ event_type }}:</span> {{ event.title }}</h3>
             {% if event.presenters != nil %}
                 <p><b>Presenters:</b> {{ event.presenters }}</p>
             {% endif %}

@@ -1,65 +1,72 @@
 ---
 layout: default
 ---
-{% include event-tags.html %}
+
+{% if page.type-title %}
+    {% assign event_type = page.type-title %}
+{% else %}
+    {% include event-types.html %}
+{% endif %}
+
 
 <h1>{{page.title}}</h1>
 
 <ul class="info-list">
-{% if event_tag != nil %}
-    <li><b>Event:</b> {{event_tag}}</li>
+
+{% if event_type %}
+    <li><b>Event:</b> {{event_type}}</li>
 {% endif %}
 
-{% if page.presenters != nil %}
+{% if page.presenters %}
     <li><b>Presenters:</b> {{page.presenters}}</li>
-{% elsif page.presenter != nil %}
+{% elsif page.presenter %}
     <li><b>Presenter:</b> {{page.presenter}}</li>
-{% elsif page.presented_by != nil %}
+{% elsif page.presented_by %}
     <li><b>Presented by:</b> {{page.presented_by}}</li>
-{% elsif page.lecturer != nil %}
+{% elsif page.lecturer %}
     <li><b>Lecturer:</b> {{page.lecturer}}</li>
 {% endif %}
 
-{% if page.date != nil %}
+{% if page.date %}
     <li><b>Date:</b> {{page.date | date_to_long_string}}</li>
 {% endif %}
 
-{% if page.time != nil %}
+{% if page.time %}
     <li><b>Time:</b> {{page.time}}</li>
 {% endif %}
 
-{% if page.duration != nil %}
+{% if page.duration %}
     <li><b>Duration:</b> {{page.duration}}</li>
 {% endif %}
 
-{% if page.location != nil %}
+{% if page.location %}
     <li><b>Location:</b> {{page.location}}</li>
 {% endif %}
 
-{% if page.venue != nil %}
+{% if page.venue %}
     <li><b>Venue:</b> {{page.venue}}</li>
 {% endif %}
 
-{% if page.address != nil %}
+{% if page.address %}
     <li><b>Address:</b> {{page.address}}</li>
 {% endif %}
 
-{% if page.room != nil %}
+{% if page.room %}
     <li><b>Room:</b> {{page.room}}</li>
 {% endif %}
 
-{% if page.maps != nil %}
+{% if page.maps %}
     <li><b>Google Maps:</b> <a href="{{page.maps}}">{{page.maps}}</a></li>
 {% endif %}
 
-{% if page.zoom != nil %}
+{% if page.zoom %}
     <li><b>Zoom link:</b> <a href="{{page.zoom}}">{{page.zoom}}</a></li>
 {% endif %}
 
-{% if page.teams != nil %}
+{% if page.teams %}
     <li><b>Teams link:</b> <a href="{{page.zoom}}">{{page.zoom}}</a></li>
 {% endif %}
-{% if page.slides != nil %}
+{% if page.slides %}
     <li><b>Slides: <a href="{{page.slides}}">{{page.slides}}</a></b></li>
 {% endif %}
 </ul>
