@@ -78,6 +78,8 @@ hideInSearchResults: true
 
 ## ARTICLES IN REFEREED JOURNALS
 
+-   Shalom Lappin (2025), \"The Deep Learning Revolution in AI\", *European
+    Review*, Cambridge University Press, pp. 1-10.
 -   Shalom Lappin (2024), \"Assessing the Strengths and Weaknesses of
     Large Language Models\", *Journal of Logic, Language and Information*,
     special issue Natural Logic Meets Machine Learning, Vol. 33, pp. 9-20.
