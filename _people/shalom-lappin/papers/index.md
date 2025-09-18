@@ -8,7 +8,7 @@ hideInSearchResults: true
 
 # Recent Papers
 
-Shalom Lappin (2025), [The Deep Learning Revolution in AI](lappin_european_review25.pdf), *European Review* Cambridge University Press, pp. 1-10.
+Shalom Lappin (2025), [The Deep Learning Revolution in AI](lappin_european_review25.pdf), *European Review*, Cambridge University Press, pp. 1-10.
 
 Nikolai Ilinykh, Shalom Lappin, Asad Sayeed, and Sharid Loáiciga (2025), [Coreference as 
 an Indicator of Context Scope in Multimodal Narrative](ilinykh-etal25a.pdf), *Proceedings of the 
