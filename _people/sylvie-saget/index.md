@@ -8,6 +8,9 @@ profileImage: "S.jpg"
 Sylvie Saget is a PhD Researcher in Computational Linguistics   
 --- No worries !! --- Whenever she is dreamed by the lab as a "Past member"/not "PhD student", Sylvie is an active researcher & PhD student!   
 But dealing with academic theft and sabotage takes times and deeply constraints how one can make her research public ensuring her name won't be erased and replaced!! Here in Sweden - together with men & their "friends" at the international level - you may find many women & institutions who actively take part in Matilda effect! Nop - her work is not "open bar"!!
+May be swedish princesses & friends can use their brain to develop their research - avoiding to steal & to aim ruining a french woman's work....
+
+--- No worries !! --- Work in Progress far from toxicity --- 
 
 Her research focuses on conversational agents that can talk and act autonomously such as humans, robots, virtual humans - or, generally speaking, any kind of object or system involving social interaction.
 
