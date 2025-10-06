@@ -1,6 +1,6 @@
 ---
 name: "David Pagmar"
-role: 6 
+role: 5 
 title: "Post-doc"
 ---
-David Pagmar is a Post-doc at CLASP, focused on incremental sentence processing and experimental psycholinguistics.
+David Pagmar was a Post-doc at CLASP.
