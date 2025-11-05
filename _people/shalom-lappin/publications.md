@@ -79,7 +79,7 @@ hideInSearchResults: true
 ## ARTICLES IN REFEREED JOURNALS
 
 -   Shalom Lappin (2025), \"Neuro-symbolic Models in AI\", *Jounral of Applied
-    Logics*, Vol. 12, No. 2, pp. 1631-1642.
+    Logics*, Vol. 12, No. 6, pp. 1631-1642.
 -   Shalom Lappin (2025), \"The Deep Learning Revolution in AI\", *European
     Review*, Cambridge University Press, pp. 1-10.
 -   Shalom Lappin (2024), \"Assessing the Strengths and Weaknesses of
