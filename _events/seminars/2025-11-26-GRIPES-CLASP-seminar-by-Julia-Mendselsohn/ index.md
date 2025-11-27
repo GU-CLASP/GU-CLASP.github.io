@@ -8,7 +8,7 @@ venue: Gothenburg University, Humanisten and online
 address: Renströmsgatan 6, 412 55 Göteborg
 room: J411
 zoom: https://gu-se.zoom.us/j/67063108947?pwd=kPpjvMLCekxNTBVzq4uYP5gFZ6Y6vd.1 
-slides: ""
+slides: "Julia Mendselsohn 26.11.2025.pdf"
 ---
 
 ## Abstract
