@@ -1,5 +1,5 @@
 ---
-presented_by: "Julia Mendselsohn from the University of Maryland"
+presented_by: "Julia Mendelsohn from the University of Maryland"
 title: "NLP Talk Title: Detecting Implicitly Harmful Language in Political Discourse"
 type-title: GRIPES-CLASP seminar
 date: 2025-11-26
@@ -8,7 +8,7 @@ venue: Gothenburg University, Humanisten and online
 address: Renströmsgatan 6, 412 55 Göteborg
 room: J411
 zoom: https://gu-se.zoom.us/j/67063108947?pwd=kPpjvMLCekxNTBVzq4uYP5gFZ6Y6vd.1 
-slides: "Julia Mendselsohn 26.11.2025.pdf"
+slides: "Julia Mendelsohn 26.11.2025.pdf"
 ---
 
 ## Abstract
