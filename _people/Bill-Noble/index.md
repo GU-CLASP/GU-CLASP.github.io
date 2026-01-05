@@ -1,6 +1,6 @@
 ---
 name: "Bill Noble"
-role: 6 
+role: 5 
 title: "Post-doc"
 ---
-Bill Noble is a Post-doc at CLASP, focused on logic.
+Bill Noble was a Post-doc at CLASP.
