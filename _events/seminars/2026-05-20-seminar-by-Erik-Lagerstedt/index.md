@@ -1,5 +1,5 @@
 ---
-presented_by: "Eric Lagerstedt from the University of Gothenburg"
+presented_by: "Erik Lagerstedt from the University of Gothenburg"
 title: "TBA"
 type: seminar
 date: 2026-05-20
