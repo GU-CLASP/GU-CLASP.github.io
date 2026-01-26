@@ -45,7 +45,7 @@ main, footer {
 } */
 
 header {
-    background-image: url("/assets/images/alvsborgsbron-wikimedia-cc-sharealike-4.jpg");
+    background-image: url("/assets/images/fireworks.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -53,7 +53,7 @@ header {
     width: 100%;
     /* min-height: 400px; /* adjust for your banner height */
     text-align: center;
-    color: rgba(255, 255, 255, 0.85);
+    color: white;
     /* color: #282828; */
     padding: 10px;
     margin-bottom: 0px;
@@ -85,7 +85,7 @@ navigation {
                 font-size: 1.3rem;
                 text-decoration: none;
                 color: white;
-                background-color: rgba(143, 158, 167, 0.9);
+                background-color: rgba(49, 159, 255, 0.815);
                 display: block;
                 text-align: center;
                 padding: 5px 15px;
