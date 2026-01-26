@@ -1,0 +1,160 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-size: 115%;
+    background-color: #fff;
+    margin: 0;
+
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 300;
+    font-variation-settings: "width" 100;
+    .light {
+        font-weight: 200;
+    }
+    .normal {
+        font-weight: 300;
+    }
+    .semi-bold {
+        font-weight: 500;
+    }
+    .bold {
+        font-weight: 600;
+    }
+}
+
+header {
+  width: 100%;
+}
+
+main, footer {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* .top-container {
+    padding: 0px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    max-width: 1280px;
+    height: auto;
+} */
+
+header {
+    background-image: url("/assets/images/alvsborgsbron-wikimedia-cc-sharealike-4.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    width: 100%;
+    /* min-height: 400px; /* adjust for your banner height */
+    text-align: center;
+    color: rgba(255, 255, 255, 0.85);
+    /* color: #282828; */
+    padding: 10px;
+    margin-bottom: 0px;
+    .header-main {
+        font-size: 300%;
+        margin-top: 50px;
+    }
+    .header-description {
+        font-size: 200%;
+    }
+}
+
+navigation {
+    font-size: 90%;
+    padding: 0px;
+    margin: 0px;
+    ul {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        list-style: none;
+        margin: 0;
+        margin-top: 100px;
+        padding: 0;
+        overflow: hidden;
+
+        li {
+            a {
+                font-size: 1.3rem;
+                text-decoration: none;
+                color: white;
+                background-color: rgba(143, 158, 167, 0.9);
+                display: block;
+                text-align: center;
+                padding: 5px 15px;
+                border: 1px solid #CCCCCC;
+                border-radius: 5px;
+            }
+        }
+    }
+    border-bottom: 1px solid #CCCCCC;
+}
+
+@media screen and (max-width: 960px) {
+    header {
+        .header-main {
+            font-size: 250%;
+            margin-top: 20px;
+        }
+        .header-description {
+            font-size: 100%;
+        }
+    }
+    navigation ul {
+            margin: 0;
+            flex-direction: column;
+            align-items: center;
+            gap: none;
+            padding: 1.5rem 0;
+    }
+    li a {
+        font-size: 1.1rem;
+    }
+}
+
+main {
+    padding: 10px;
+}
+
+footer {
+    font-size: 80%;
+    color: #222222;
+    margin-top: 200px;
+}
+
+.h-line {
+    padding: 0px;
+    margin: 10px;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+h1, h2 {
+    border-bottom: 1px solid #CCCCCC;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "PT Serif", serif;
+    font-weight: 500;
+    /* color: #4b5550; */
+    color: rgb(49, 49, 49);
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+a {
+    color: #0c5aa8;
+    text-decoration: none;
+}
+
+hr {
+    border: 1px solid #DDDDDD;
+    border-radius: 1px;
+}
+
