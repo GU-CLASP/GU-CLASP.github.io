@@ -5,9 +5,9 @@ layout: concluding-conference
 
 Descriptive text with a [link](http://gu-clasp.github.io).
 
-### Sub title
-
 Next paragraph.
+
+### Sub title
 
 - item1
 - item2
