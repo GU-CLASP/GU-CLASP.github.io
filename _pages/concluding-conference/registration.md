@@ -5,4 +5,4 @@ layout: concluding-conference
 
 ## Registration
 
-..
+Coming soon
