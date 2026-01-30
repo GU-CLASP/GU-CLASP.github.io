@@ -3,12 +3,13 @@ title: Concluding Conference
 layout: concluding-conference
 ---
 
-Last year, the Centre for Linguistic Theory and Studies in Probability ([CLASP](http://gu-clasp.github.io)) achieved a major milestone: ten years of groundbreaking research and its official final year. To celebrate this journey, we warmly invite you to the CLASP Concluding Conference, a special event dedicated to showcasing the ideas, collaborations, and achievements that have defined CLASP over the past decade.
+In 2025 the Centre for Linguistic Theory and Studies in Probability ([CLASP](http://gu-clasp.github.io)) completed ten ten years of groundbreaking research in computational linguistics, cognitive science, and AI. Officially this was its final year, but we have continued our work into 2026. 
 
-The conference will take place October 5–6, 2026, in Gothenburg, Sweden, and brings together researchers, colleagues, and friends to reflect on the project's impact and to look ahead to future directions inspired by its work.
+To celebrate CLASP's tenure we invite you to the CLASP Concluding Conference, which is taking place on October 5-8, 2026, at the University of Gothenburg, Sweden. The conference will showcase work by current and past CLASP researchers, and the people with whom they have cooperated in their research. The papers in the program have been invited from CLASP members, PhD students, and alumnae. They present a broad view of the work that we have done over the years of the Centre. The authors constitute a large, representative group of CLASP people and our scientific partners. Revised versions of the paper will be published in a special issue of Proceedings of the North European Association for Language and Technology (Proceedings of NEALT).
 
-The event is open to all who wish to join the discussion. The programme includes three keynote presentations by **Alex Clark**, **Katrin Erk**, and **Joakim Nivre**, and talks by current and former CLASP researchers.
+In addition to the fifteen contributed papers in the program, the distinguished members of our Scientific Advisory Board, **Alex Clark**, **Katrin Erk**, and **Joakim Nivre**, are giving three plenary lectures. 
 
+The conference is open, registration is free, and we encourage  everyone to join us in the discussions that will be an integral part of the meeting. We also invite you to participate in the social event at the end of the first day of the conference. It is included in the registration. 
 
 ## Important dates
 
