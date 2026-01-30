@@ -16,5 +16,5 @@ The conference will take place October 5–6, 2026, in Gothenburg, Sweden, and b
 
 The event is open to all who wish to join the discussion. The programme includes three keynote presentations by **Alex Clark**, **Katrin Erk**, and **Joakim Nivre**, and talks by current and former CLASP researchers.
 
-
+**Conference website:** [https://gu-clasp.github.io/concluding-conference/](https://gu-clasp.github.io/concluding-conference/)
 
