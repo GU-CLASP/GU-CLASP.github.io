@@ -172,3 +172,7 @@ hr {
     border-radius: 1px;
 }
 
+nav ul li a {
+    background-color: purple !important;
+}
+
