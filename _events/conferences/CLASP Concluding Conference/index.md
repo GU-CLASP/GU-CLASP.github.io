@@ -11,7 +11,7 @@ expired: false
 
 2025 marked the tenth anniversary of CLASP and its official final year. 
 
-The conference is organised by the Centre for Linguistic Theory and Studies in Probability (CLASP, https://gu-clasp.github.io/), University of Gothenburg. The conference will be held between October 5 and 6 in Gothenburg, Sweden.
+The conference is organised by the Centre for Linguistic Theory and Studies in Probability [CLASP] (https://gu-clasp.github.io/), University of Gothenburg. The conference will be held between October 5 and 6 in Gothenburg, Sweden.
 
 
 
