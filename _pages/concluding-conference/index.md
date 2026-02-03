@@ -7,7 +7,7 @@ In 2025 the Centre for Linguistic Theory and Studies in Probability ([CLASP](htt
 
 To celebrate CLASP's tenure we invite you to the CLASP Concluding Conference, which is taking place on October 5-6, 2026, at the University of Gothenburg, Sweden. The conference will showcase work by current and past CLASP researchers, and the people with whom they have cooperated in their research. The papers in the program have been invited from CLASP members, PhD students, and alumnae. They present a broad view of the work that we have done over the years of the Centre. The authors constitute a large, representative group of CLASP people and our scientific partners. Revised versions of the papers will be published in a special issue of Proceedings of the Northern European Association for Language and Technology (Proceedings of NEALT).
 
-In addition to the fifteen contributed papers in the program, the distinguished members of our Scientific Advisory Board, [Alex Clark](clark.pdf), **Katrin Erk**, and [Joakim Nivre](nivre.pdf), are giving three plenary lectures. 
+In addition to the fifteen contributed papers in the program, the distinguished members of our Scientific Advisory Board, [Alex Clark](clark.pdf), [Katrin Erk](erk.pdf), and [Joakim Nivre](nivre.pdf), are giving three plenary lectures. 
 
 The conference is open, registration is free, and we encourage  everyone to join us in the discussions that will be an integral part of the meeting. We also invite you to participate in the social event at the end of the first day of the conference. It is included in the registration. 
 
