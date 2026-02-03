@@ -3,11 +3,13 @@ title: Venue
 layout: concluding-conference
 ---
 
-## Conference Venue
+# Event Venues
+
+## Conference
 
 The conference will take place at the [Humanisten](https://www.gu.se) building, [Renströmsgatan 6](https://www.google.com), room J222. The Humanisten building is located at Näckrosdammen, near the tram/bus stop Korsvägen. The facility is handicap-accessible and environmentally certified.
 
-## Dinner Venue
+## Dinner
 
 To appear
 
