@@ -17,7 +17,7 @@ To appear
 # Travel Information
 
 ## Train station  
-The Gothenburg Centralstation is located approximately 2km from the Humanisten building; you can either choose to walk or take the tram number 2 or 4 (direction: Mölndal) and get off at tram stop Korsvägen. For timetables and tickets, we recommend the app [Västtrafik To Go](https://www.vasttrafik.se), a simple way to purchase tickets with your mobile phone. It is also now possible to pay for a trip in Zone A by [tapping](https://www.vasttrafik.se) a contactless payment card or mobile device.
+The Gothenburg Centralstation is located approximately 2km from the Humanisten building; you can either choose to walk or take the tram number 12 or 4 (direction: Mölndal) and get off at tram stop Korsvägen. For timetables and tickets, we recommend the app [Västtrafik To Go](https://www.vasttrafik.se), a simple way to purchase tickets with your mobile phone. It is also now possible to pay for a trip in Zone A by [tapping](https://www.vasttrafik.se) a contactless payment card or mobile device.
 
 Other ways to purchase tickets can be found [here](https://www.vasttrafik.se).
 
