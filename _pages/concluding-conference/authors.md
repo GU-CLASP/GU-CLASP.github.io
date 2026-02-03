@@ -22,3 +22,9 @@ layout: concluding-conference
 **2027-06-01 (estimated):** Volume appears
 
 
+## Submissions
+
+All papers should follow the **COLI Journal template and style guidelines**, available here: [https://submissions.cljournal.org/index.php/cljournal/StyleGuide](https://submissions.cljournal.org/index.php/cljournal/StyleGuide)
+
+
+
