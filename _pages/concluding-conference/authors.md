@@ -24,7 +24,7 @@ layout: concluding-conference
 
 ## Submissions
 
-All papers should follow the **COLI Journal template and style guidelines**, available here: [https://submissions.cljournal.org/index.php/cljournal/StyleGuide](https://submissions.cljournal.org/index.php/cljournal/StyleGuide)
+All papers should follow the **COLI Journal template and style guidelines**, available here: https://submissions.cljournal.org/index.php/cljournal/StyleGuide
 
 
 
