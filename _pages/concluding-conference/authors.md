@@ -11,7 +11,7 @@ layout: concluding-conference
 
 **2026-06-08:** Internal reviewers' comments on the conference papers
 
-**2026-10-05-2026-10-06:** Concluding CLASP Conference (CCC) in Humanisten Building at GU
+**2026-10-05/06:** Concluding CLASP Conference (CCC) in Humanisten Building at GU
 
 **2026-11-23:** Draft volume version of paper
 
