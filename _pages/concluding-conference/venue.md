@@ -11,8 +11,7 @@ The conference will take place at the [Humanisten](https://www.gu.se) building, 
 
 ## Dinner
 
-To appear
-
+The social event will take place at the end of the first day, at [Villa Belparc](https://villabelparc.se/restaurang/). Make sure to specify any dietary restrictions in your registration form.
 
 # Travel Information
 
