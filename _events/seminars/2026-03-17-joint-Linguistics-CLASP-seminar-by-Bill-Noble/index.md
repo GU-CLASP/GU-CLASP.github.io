@@ -1,6 +1,6 @@
 ---
 presented_by: "Bill Noble from MIT & University of Gothenburg"
-title: "TBA"
+title: "Words that work: Ad-hoc lexical meaning in facilitated civic dialogue"
 type: seminar
 type-title: Joint Linguistics-CLASP Seminar
 date: 2026-03-17
@@ -13,3 +13,4 @@ slides: ""
 ---
 
 ## Abstract
+One of the things that makes human language so incredibly flexible is the ability to use common words and phrases with meanings that are specific to a particular communicative context. This phenomenon, which I will refer to as ad hoc lexical meaning, touches on a number of subfields in linguistics,  including lexical and compositional semantics, pragmatics, dialogue theory, and psycholinguistics. With accounts in prominent frameworks such as relevance theory, generative lexicon and construction grammar, there is no shortage of theoretical work on the topic. The work-in-progress presented in this talk takes inspiration from theoretical accounts to develop a computational approach for studying the role of ad hoc lexical meaning in the furtherance of constructive communication. Can a better understanding ad hoc lexical meaning aid in the development of facilitation strategies for advancing constructive civic dialogue?  We use the Fora corpus, a collection of 262 facilitated multi-party dialogues gathered in partnership with civic organizations across the US, as a starting point for an empirical investigation of this question. 
