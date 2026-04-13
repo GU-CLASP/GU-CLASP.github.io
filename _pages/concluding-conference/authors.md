@@ -24,10 +24,12 @@ layout: concluding-conference
 
 ## Submissions
 
-All papers should follow the provided template (which is based on the COLI Journal template and style guidelines), available here.
+All papers should follow the provided LaTeX template, available here:
+
+[Download template](/assets/CCC-template.zip)
+
+The template is based on the COLI Journal template and style guidelines. 
 
 Please submit your conference papers through Easychair at
 <https://easychair.org/conferences/?conf=ccc20260>
-
-
 
