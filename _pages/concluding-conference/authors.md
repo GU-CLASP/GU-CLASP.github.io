@@ -24,7 +24,7 @@ layout: concluding-conference
 
 ## Submissions
 
-All papers should follow the **COLI Journal template and style guidelines**, available here: <https://submissions.cljournal.org/index.php/cljournal/StyleGuide>
+All papers should follow the provided template (which is based on the COLI Journal template and style guidelines), available here.
 
 Please submit your conference papers through Easychair at
 <https://easychair.org/conferences/?conf=ccc20260>
