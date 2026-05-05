@@ -12,3 +12,4 @@ slides: ""
 ---
 
 ## Abstract
+The past decade has seen a steep rise in the use of machine learning (ML) fueled by developments in deep learning and generative AI (GenAI). The rapid evolution and adoption of these techniques brings unique opportunities and challenges, not least for cybersecurity. In this talk, I will give a high-level overview of the novel threats and possible solutions for securing GenAI systems (security for AI), as well the role of AI/ML in doing so (AI for security). The main focus will be on LLMs and AI agents – how they change the threat landscape and what to do about it.
