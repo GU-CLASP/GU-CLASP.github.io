@@ -1,6 +1,6 @@
 ---
 presented_by: "Sandro Stucki from Chalmers"
-title: "TBA"
+title: "GenAI Security – Promises and Challenges"
 type: seminar
 date: 2026-05-27
 time: 13:15-15:00
