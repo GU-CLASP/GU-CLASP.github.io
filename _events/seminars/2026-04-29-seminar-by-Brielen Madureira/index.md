@@ -8,7 +8,7 @@ venue: ONLINE
 address: n/a
 room: n/a
 zoom: https://gu-se.zoom.us/j/67063108947?pwd=kPpjvMLCekxNTBVzq4uYP5gFZ6Y6vd.1 
-slides: ""
+slides: "clasp_apr2026.pdf"
 ---
 
 ## Abstract
