@@ -288,6 +288,10 @@ hideInSearchResults: true
 
 ## PAPERS IN CONFERENCE PROCEEDINGS
 
+-   Hyewon Jang, Nikolai Ilinykh, Sharid Loáiciga, Jey Han Lau, Shalom Lappin (2026),
+    \"Predicting Sentence Acceptability Judgments in Multimodal Contexts\", *Proceedings
+    of the 15th Workshop on Cognitive Modeling and Computational Linguistics (CMCL)*,
+    LREC 2026, pp. 25–34.
 -   Nikolai Ilinykh, Shalom Lappin, Asad Sayeed, and Sharid Loáiciga (2025), \"Coreference
     as an Indicator of Context Scope in Multimodal Narrative\", *Proceedings of the Fourth
     Workshop on Generation, Evaluation and Metrics (GEM² 2025)*, ACL, pages 789–807.
