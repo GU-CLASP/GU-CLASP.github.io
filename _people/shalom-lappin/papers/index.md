@@ -8,6 +8,9 @@ hideInSearchResults: true
 
 # Recent Papers
 
+Hyewon Jang, Nikolai Ilinykh, Sharid Loáiciga, Jey Han Lau, Shalom Lappin (2026),
+[Predicting Sentence Acceptability Judgments in Multimodal Contexts](jang-etal26.pdf), *Proceedings of the 15th Workshop on Cognitive Modeling and Computational Linguistics (CMCL)*, LREC 2026, pp. 25–34.
+
 Shalom Lappin (2025), [Neuro-symbolic Models in AI](lappin_journal_of_applied_logics_oct25.pdf), *Journal
 of Applied Logics*, Vol. 12, No. 6, pp. 1631-1642.
 
