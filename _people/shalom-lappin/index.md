@@ -9,7 +9,7 @@ Shalom Lappin's research is in computational linguistics with a focus on the app
 
 As of June 30, 2026 Shalom Lappin has left the University of Gothenburg. His current affiliations are
 Professor of Natural Language Processing in the School of Electronic Engineering and Computer Science at 
-Queen Mary University of London and Emeritus Professor of Computational Linguistics in the Department of
+Queen Mary University of London, and Emeritus Professor of Computational Linguistics in the Department of
 Informatics at King's College London. His personal website is [here](https://sites.google.com/view/shalomlappin/home).
 
 - [Publications](./publications)
