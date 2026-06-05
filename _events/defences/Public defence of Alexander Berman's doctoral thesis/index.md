@@ -11,9 +11,7 @@ zoom: https://gu-se.zoom.us/j/67994493431
 ---
 
 
-## Title: What do you base that conclusion on? - Grounding explainable AI in human dialogue strategies
-
-[Link to thesis](./thesis.pdf).
+## What do you base that conclusion on? - Grounding explainable AI in human dialogue strategies
 
 ### Abstract
 
@@ -41,3 +39,5 @@ information-state updates conceived as linear implications. The proposed framewo
 complex explanantia, chained inferences, forward expansions and signalling of
 presupposition violations and answer unavailability. Future research challenges associated with emulating observed human explanation strategies are also identified
 and discussed.
+
+[Link to thesis](https://gupea.ub.gu.se/server/api/core/bitstreams/a2df60a4-9a5d-4002-9501-0998bce7d97c/content).
