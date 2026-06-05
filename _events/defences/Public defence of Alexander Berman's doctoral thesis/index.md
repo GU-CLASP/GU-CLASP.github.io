@@ -6,12 +6,32 @@ date: 2026-06-04
 venue: Gothenburg University, Humanisten and online
 address: Renströmsgatan 6, 412 55 Göteborg
 room: J222
-time: 10:15-15:00
+time: 10:15-13:00
 zoom: https://gu-se.zoom.us/j/67994493431
 ---
 
 
-## What do you base that conclusion on? - Grounding explainable AI in human dialogue strategies
+#### Thesis Title
+
+What do you base that conclusion on? Grounding explainable AI in human dialogue strategies
+
+#### Respondent:
+
+Alexander Berman Department of Philosophy, Linguistics and Theory of Science
+
+#### Examining committee:
+
+Professor Tim Miller, The University of Queensland, Australia<br>
+Docent Isabel Sassoon, Brunel University<br>
+Professor Peter Flach, University of Bristol
+
+#### Opponent:
+
+Professor Nicholas Asher, Centre National de Recherche Scientifique (CNRS)
+
+#### Chair:
+
+Professor Nina Tahmasebi, Göteborgs universitet
 
 ### Abstract
 
