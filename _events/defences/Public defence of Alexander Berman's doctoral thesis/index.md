@@ -6,7 +6,7 @@ date: 2026-06-04
 venue: Gothenburg University, Humanisten and online
 address: Renströmsgatan 6, 412 55 Göteborg
 room: J222
-time: 10:15
+time: 10:15-15:00
 zoom: https://gu-se.zoom.us/j/67994493431
 ---
 
