@@ -14,3 +14,4 @@ slides: ""
 ## Abstract
 
 In recent years we have seen rapid improvement of ML models on all levels of language (and related) processing. These models are typically developed using a wide range of benchmark datasets that rarely replicate the conditions that are relevant in a library context: noisy OCR, diachronic language variation, and heterogeneous historical documents. NLP research and development in libraries includes tasks like named entity recognition, entity linking, semantic search and summarization and presents both opportunities and challenges that can help us understand the limits of current models. This talk gives an overview of the data, processing challenges, and ongoing research at Staatsbibliothek zu Berlin that serves to make its data available to library users and humanities researchers as more than just text (or word clouds).
+
