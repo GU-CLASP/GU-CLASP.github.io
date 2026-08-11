@@ -32,9 +32,6 @@ The detailed schedule will be announced later. The conference will include the f
 - Disambiguation in Linguistic Evaluation Through Visual and Textual Context<br>
 *Hyewon Jang & Diego Frassinelli*
 
-- Learning and Representation: Between Deep Neural Networks and Human Cognition<br>
-*Shalom Lappin*
-
 - Working with Under-Resourced Languages in the Era of Large Language Models<br>
 *Sharid Loáiciga & Rolando Coto-Solano*
 
@@ -44,8 +41,8 @@ The detailed schedule will be announced later. The conference will include the f
 - Typicality is the Key Insight<br>
 *Asad Sayeed*
 
-- Ellipsis as Natural Language Inference: Can LLMs Infer Ellipsis Correctly?<br>
-*Symon Jory Stevens-Guille & Aleksandre Maskharashvili*
+- Probing Discourse Coherence with a Polarity Reversal and the Explanation Relation<br>
+*Aleksandre Maskharashvili and Symon Jory Stevens-Guille*
 
 - Computational Language Biomarkers: A Window into the Brain<br>
 *Charalambos Themistocleous*
