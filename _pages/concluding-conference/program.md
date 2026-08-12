@@ -11,28 +11,25 @@ The detailed schedule will be announced later. The conference will include the f
 - Recognizing Entailment: A Meta-inferential Study of Recognizing Textual Entailment<br>
 *Rasmus Blanck, Stergios Chatzikyriakidis & Bill Noble*
 
-- Zeugma: A Neuro-Symbolic System for Reasoning Over LLM-Generated Knowledge Graphs<br>
-*Stergios Chatzikyriakidis*
+- Zeugma: A Neuro-Symbolic System for Knowledge Graph Extraction and Reasoning over Historical Texts<br>
+*Stergios Chatzikyriakidis, Thanos Bitzilis & Giorgos Paspatis*
 
-- From Types to Vectors to Spiking neurons<br>
+- From Types to Vectors to Spiking Neurons<br>
 *Robin Cooper, Jonathan Ginzburg, Staffan Larsson, Andy Lücking & Bill Noble*
 
-- Seeing and Saying: The Missing Context in V&L Models<br>
-*Simon Dobnik & John Kelleher*
-
-- Show, Tell, and Infer at Inference-Time<br>
-*Mehdi Ghanimifard & Simon Dobnik*
+- Beyond Pixels and Words - Towards Grounded and Interactive Language Generation and Understanding<br>
+*Simon Dobnik*
 
 - The Informative Speech Act: Linguistic Disambiguation on the Basis of Epistemic Probability of Interpretations<br>
-*Julian Grove, Jean-Philippe Bernardy & Christine Howes*
+*Jean-Philippe Bernardy, Julian Grove & Christine Howes*
 
-- When is the Object More Than Its Name? The Effects of Context, Domain and Categories on Variation in Object Naming<br>
+- Right Words Wrong Choices: Probing Object Naming in Vision-and-Language Models<br>
 *Nikolai Ilinykh & Ece Takmaz*
 
-- Disambiguation in Linguistic Evaluation Through Visual and Textual Context<br>
+- Multimodal Cues for Sarcasm Identification-Signal or Noise?<br>
 *Hyewon Jang & Diego Frassinelli*
 
-- Working with Under-Resourced Languages in the Era of Large Language Models<br>
+- Working with Under-Resourced Languages in the Era of Large Language Models: Bribri case study<br>
 *Sharid Loáiciga & Rolando Coto-Solano*
 
 - Three Conversationalists Walk Into a Bar... Humorous Puzzles for Dialogue Inference<br>
@@ -44,7 +41,7 @@ The detailed schedule will be announced later. The conference will include the f
 - Probing Discourse Coherence with a Polarity Reversal and the Explanation Relation<br>
 *Aleksandre Maskharashvili and Symon Jory Stevens-Guille*
 
-- Computational Language Biomarkers: A Window into the Brain<br>
+- A Scalable Framework for Automated Multimodal Language Biomarkers in Clinical Neurology: The Open Brain AI Platform<br>
 *Charalambos Themistocleous*
 
 
