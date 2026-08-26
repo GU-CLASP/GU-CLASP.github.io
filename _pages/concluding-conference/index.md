@@ -14,4 +14,4 @@ The conference is open, registration is free, and we encourage  everyone to join
 
 ### Contact
 
-To contact the organizers, please send an email to {shalom.lappin, hyewon.jang, sharid.loaiciga}@gu.se
+To contact the organizers, please send an email to {hyewon.jang, sharid.loaiciga}@gu.se
