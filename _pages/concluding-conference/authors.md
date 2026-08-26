@@ -7,9 +7,9 @@ layout: concluding-conference
 
 ~~**2026-01-26:** Title and abstract due~~
 
-**2026-05-04:** Draft conference paper
+~~**2026-05-04:** Draft conference paper~~
 
-**2026-06-08:** Internal reviewers' comments on the conference papers
+~~**2026-06-08:** Internal reviewers' comments on the conference papers~~
 
 **2026-10-05/06:** Concluding CLASP Conference (CCC) in Humanisten Building at GU
 
