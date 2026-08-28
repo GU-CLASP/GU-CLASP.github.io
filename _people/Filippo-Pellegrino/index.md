@@ -1,7 +1,7 @@
 ---
 name: "Filippo Pellegrino"
-role: 6 
-title: "Post-doc"
+role: 3 
+title: "Research assistant"
 profileImage:
 ---
-Filippo Pellegrino is a Post-doc at CLASP, with specialisation in multimodal NLP.
+Filippo Pellegrino is a research assistant at CLASP.
