@@ -78,16 +78,6 @@ title: Home
         <img class="profileImage" src="/people/{{person}}/{{ people[0].profileImage }}">
         <p><p>{{people[0].content | strip_html | truncate: 120 }}</p></p>
     </div>
-    <div class="people-grid-2">
-        {% assign person = "shalom-lappin" %}
-        {% assign url = "/people/" | append: person | append: "/index.html" %}
-        {% assign people = site.people | where: "url", url | where: "slug", "index" %}
-        {% assign position = site.data.roles | where: "id", people[0].role | first %}
-        <p>Chief Scientist</p>
-        <p><a href="{{ people[0].url }}">{{ people[0].name }}</a></p>
-        <img class="profileImage" src="/people/{{person}}/{{ people[0].profileImage }}">
-        <p><p>{{people[0].content | strip_html | truncate: 120 }}</p></p>
-    </div>
     <div class="people-grid-4">
         {% assign person = "kaj-ailomaa" %}
         {% assign url = "/people/" | append: person | append: "/index.html" %}
