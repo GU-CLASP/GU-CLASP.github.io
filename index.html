@@ -68,7 +68,7 @@ title: Home
         <img class="profileImage" src="/people/{{person}}/{{ people[0].profileImage }}">
         <p><p>{{people[0].content | strip_html | truncate: 120 }}</p></p>
     </div>
-    <div class="people-grid-3">
+    <div class="people-grid-2">
         {% assign person = "sharid-loaiciga" %}
         {% assign url = "/people/" | append: person | append: "/index.html" %}
         {% assign people = site.people |  where: "url", url | where: "slug", "index" %}
@@ -78,7 +78,7 @@ title: Home
         <img class="profileImage" src="/people/{{person}}/{{ people[0].profileImage }}">
         <p><p>{{people[0].content | strip_html | truncate: 120 }}</p></p>
     </div>
-    <div class="people-grid-4">
+    <div class="people-grid-3">
         {% assign person = "kaj-ailomaa" %}
         {% assign url = "/people/" | append: person | append: "/index.html" %}
         {% assign people = site.people |  where: "url", url | where: "slug", "index" %}
