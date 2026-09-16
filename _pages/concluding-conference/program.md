@@ -3,6 +3,8 @@ title: Program
 layout: concluding-conference
 ---
 
+All sessions will be in room J222.
+
 ## Day 1
 
 | Time | Programme |
@@ -27,11 +29,11 @@ layout: concluding-conference
 |---|---|
 | 09:30 – 10:30 | **Oral session 5** *(chair: Jean-Phillippe Bernardy)*<br><br>**From Types to Vectors to Spiking Neurons.**<br>*Robin Cooper, Jonathan Ginzburg, Staffan Larsson, Andy Lücking & Bill Noble*<br><br>**Recognizing Entailment: A Meta-inferential Study of Recognizing Textual Entailment.**<br>*Rasmus Blanck, Stergios Chatzikyriakidis & Bill Noble*<br><br>**Zeugma: A Neuro-Symbolic System for Knowledge Graph Extraction and Reasoning over Historical Texts.**<br>*Stergios Chatzikyriakidis, Thanos Bitzilis & Giorgos Paspatis* |
 | 10:30 – 10:50 | Coffee break |
-| 10:50 – 11:30 | **Oral session 6** *(chair: Vladislav Maraev)*<br><br>**Right Words Wrong Choices: Probing Object Naming in Vision-and-Language Models.**<br>*Nikolai Ilinykh & Ece Takmaz*<br><br>**Beyond Pixels and Words - Towards Grounded and Interactive Language Generation and Understanding**<br>*Simon Dobnik* |
+| 10:50 – 11:30 | **Oral session 6** *(chair: Bill Noble)*<br><br>**Right Words Wrong Choices: Probing Object Naming in Vision-and-Language Models.**<br>*Nikolai Ilinykh & Ece Takmaz*<br><br>**Beyond Pixels and Words - Towards Grounded and Interactive Language Generation and Understanding**<br>*Simon Dobnik* |
 | 11:30 – 11:40 | Short break |
 | 11:40 – 12:40 | **Keynote 3:** Joakim Nivre *(chair: Christine Howes)* |
 | 12:40 – 12:45 | Closing remarks |
-| 12:40 – 13:40 | Lunch at Näckrosen |
+| 12:50 – 13:45 | Lunch at Näckrosen |
 
 
 
