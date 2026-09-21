@@ -20,7 +20,7 @@ All sessions will be in room J222.
 | 14:20 – 14:30 | Short break |
 | 14:30 – 15:10 | **Oral session 4** *(chair: Asad Sayeed)*<br><br>**Multimodal Cues for Sarcasm Identification-Signal or Noise?**<br>*Hyewon Jang & Diego Frassinelli*<br><br>**A Scalable Framework for Automated Multimodal Language Biomarkers in Clinical Neurology: The Open Brain AI Platform.**<br>*Charalambos Themistocleous* |
 | 15:10 – 15:30 | Coffee break |
-| 15:30 – 16:30 | **Keynote 2:** Alex Clark *(chair: Robin Cooper)* |
+| 15:30 – 16:30 | **Keynote 2:** Alex Clark *(chair: Robin Cooper)* <br><br> **Learnability of  Syntactic Structures beyond context-free grammars**|
 | 18:00 – 22:00 | Dinner at Villa Belparc |
 
 ## Day 2
@@ -31,7 +31,7 @@ All sessions will be in room J222.
 | 10:30 – 10:50 | Coffee break |
 | 10:50 – 11:30 | **Oral session 6** *(chair: Bill Noble)*<br><br>**Right Words Wrong Choices: Probing Object Naming in Vision-and-Language Models.**<br>*Nikolai Ilinykh & Ece Takmaz*<br><br>**Beyond Pixels and Words - Towards Grounded and Interactive Language Generation and Understanding**<br>*Simon Dobnik* |
 | 11:30 – 11:40 | Short break |
-| 11:40 – 12:40 | **Keynote 3:** Joakim Nivre *(chair: Christine Howes)* |
+| 11:40 – 12:40 | **Keynote 3:** Joakim Nivre *(chair: Christine Howes)* <br><br> **Perspectives on Universal Dependencies**|
 | 12:40 – 12:45 | Closing remarks |
 | 12:50 – 13:45 | Lunch at Näckrosen |
 
