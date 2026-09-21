@@ -10,7 +10,9 @@ All sessions will be in room J222.
 | Time | Programme |
 |---|---|
 | 09:15 – 09:30 | Registration and opening |
-| 09:30 – 10:30 | **Keynote 1:** Katrin Erk *(chair: Sharid Loáiciga)* |
+| 09:30 – 10:30 | **Keynote 1:** Katrin Erk *(chair: Sharid Loáiciga)* <br><br> **Exploring mental and computational representations of word meaning**<br> Mental theories of lexical meaning typically assume that word meanings are concepts, or made from conceptual material, and that there is no hard boundary between meaning that is relevant for language and general conceptual knowledge. We have partial characterizations of these mental representations of meaning, but much still remains to be fleshed out. Here, computational models are interesting as a stepping stone. Language models create internal representations that incorporate observed regularities in language. We can analyze these computational representations to detect observed regularities, and can then ask whether they are also relevant for human meaning representations. <br>
+
+In this talk I will discuss mental meaning representations in Conceptual Semantics,  and argue in favor of heterogeneous representations that are part symbolic, part analog, and that involve larger frames. I will introduce a recent extension to the expressivity of Conceptual Semantics to cover material “beyond reality.”  I focus on fiction, which we hypothesize to be a simplest case. The second part of the talk is about computational representations. We explore lexical patterns in language models through probes computed from experimental feature datasets. As these probes can only yield binary features, we also elicit componential representations of scenes.  |
 | 10:30 – 10:50 | Coffee break |
 | 10:50 – 11:30 | **Oral session 1** *(chair: Ellen Breitholtz)*<br><br>**The Informative Speech Act: Linguistic Disambiguation on the Basis of Epistemic Probability of Interpretations**<br>*Jean-Philippe Bernardy, Julian Grove & Christine Howes*<br><br>**Probing Discourse Coherence with a Polarity Reversal and the Explanation Relation**<br>*Aleksandre Maskharashvili and Symon Jory Stevens-Guille* |
 | 11:30 – 11:40 | Short break |
