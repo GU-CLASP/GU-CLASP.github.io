@@ -213,6 +213,21 @@ hr {
     margin: 8px 0;
     line-height: 1.6;
 }
+.keynote-abstract {
+  margin-top: 1.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid #ddd;
+}
+
+.keynote-abstract h4 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.15rem;
+}
+
+.keynote-abstract p {
+  line-height: 1.6;
+}
 
 /* Stack vertically on small screens */
 @media screen and (max-width: 800px) {
