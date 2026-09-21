@@ -17,7 +17,19 @@ Alexander Clark is a Visiting Research Fellow in CLASP (Centre for linguistic th
 His first degree was in Mathematics from the University of Cambridge, and his Ph.D. is from the University of Sussex. He did postdoctoral research at the University of Geneva.  His research is interdisciplinary and lies in the intersection between unsupervised learning in computational linguistics, and  theoretical and mathematical linguistics. 
  His most recent book "Empiricism and Language Learnability" with Nick Chater, John Goldsmith and Andy Perfors was  published by OUP.
     </p>
-  </div>
+
+<div class="keynote-abstract">
+  <h4>Learnability of  Syntactic Structures beyond context-free grammars</h4>
+
+  <p>
+    A fundamental question in theoretical linguistics is the nature of syntactic structure, and its acquisition. While there is general consensus that hierarchical structure is necessary, there is no such agreement about how to handle dependencies that can be arbitrarily far apart in those structures. Indeed a large fraction of theorizing concerns how to define locality constraints on movement. The well known non context-free properties of languages such as Swiss German, illustrate the issue in its strongest form. While there are many proposals on the table, none of them so far have any associated theory of learning. In this talk, we will look at this question through the lens of learnability; rather than  trying to model the phenomena and only then thinking about  how it might be learned, we start from learning hierarchical structure and seeing how that can be extended, in a natural way.
+  </p>
+
+  <p>
+    Our starting point is an algorithm for learning probabilistic context-free grammars from strings, (joint work with Nathanael Fijalkow). This can then be extended to learning a related class of context-free tree grammars from trees, using exactly the same techniques. We can then combine these two approaches to learn a class of grammars which consist of a tree grammar that generates a subset of the derivation trees of a context-free grammar; this requires overcoming two technical barriers. This results in a formalism that is very close to the Tree-Adjoining Grammar formalism of Joshi, both in the technical details of the formalism, and in the way TAG grammars are written for natural languages. This can learn some non context-free grammars that exhibit the cross-serial dependencies of the Swiss German type, using only strings as input. The resulting model provides some non stipulative locality conditions and makes some significant predictions about the sorts of long distance dependencies that are possible  including the adjunct island constraint and successive cyclic movement.
+  </p>
+</div>  
+</div>
 </div>
 
 <div class="speaker">
@@ -37,11 +49,10 @@ His first degree was in Mathematics from the University of Cambridge, and his Ph
   </p>
 
   <p>
-    In this talk I will discuss mental meaning representations in Conceptual Semantics, and argue in favor of heterogeneous representations that are part symbolic, part analog, and that involve larger frames. I will introduce a recent extension to the expressivity of Conceptual Semantics to cover material “beyond reality.” I focus on fiction, which we hypothesize to be a simplest case. The second part of the talk is about computational representations. We explore lexical patterns in language models through probes computed from experimental feature datasets. As these probes can only yield binary features, we also elicit componential representations of scenes.
+    In this talk I will discuss mental meaning representations in Conceptual Semantics,  and argue in favor of heterogeneous representations that are part symbolic, part analog, and that involve larger frames. I will introduce a recent extension to the expressivity of Conceptual Semantics to cover material “beyond reality.”  I focus on fiction, which we hypothesize to be a simplest case. The second part of the talk is about computational representations. We explore lexical patterns in language models through probes computed from experimental feature datasets. As these probes can only yield binary features, we also elicit componential representations of scenes.
   </p>
 </div>
-
-  </div>
+</div>
 </div>
 
 
@@ -53,7 +64,15 @@ His first degree was in Mathematics from the University of Cambridge, and his Ph
     <p>
     Joakim Nivre is Professor of Computational Linguistics at Uppsala University. He holds a Ph.D. in General Linguistics from the University of Gothenburg and a Ph.D. in Computer Science from Växjö University. His research focuses on data-driven methods for natural language processing, in particular for morphosyntactic and semantic analysis. He is one of the main developers of the transition-based approach to syntactic dependency parsing, described in his 2006 book Inductive Dependency Parsing and implemented in the widely used MaltParser system, and one of the founders of the Universal Dependencies project, which aims to develop cross-linguistically consistent treebank annotation for many languages and currently involves nearly 200 languages and over 700 researchers around the world. He has produced over 300 scientific publications and has over 27,000 citations according to Google Scholar (June, 2025). He is a fellow of the Association for Computational Linguistics and was the president of the association in 2017. 
     </p>
-  </div>
+
+<div class="keynote-abstract">
+  <h4>Perspectives on Universal Dependencies</h4>
+
+  <p>
+    Universal Dependencies (UD) is a project developing cross-linguistically consistent morphosyntactic annotation for many languages, with the goal of supporting multilingual research in natural language processing and linguistics. Since UD was launched in 2014, it has grown into a large community effort involving over 700 researchers around the world, together producing treebanks for over 190 languages. In this talk, I will first give a brief overview of the UD framework and its resources, and then present two ongoing projects related to UD. The first is MultiBLiMP, a massively multilingual benchmark for linguistic evaluation of language models, constructed by leveraging resources from Universal Dependencies and UniMorph. The second is the UD Constructicon project, which aims to develop a construction-oriented version of the UD guidelines and at the same time evaluate the typological validity of the UD framework.
+  </p>
+</div>
+</div>
 </div>
 
 
