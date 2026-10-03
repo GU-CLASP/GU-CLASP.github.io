@@ -9,7 +9,8 @@ All sessions will be in room J222.
 
 | Time | Programme |
 |---|---|
-| 09:15 – 09:30 | Registration and opening |
+| 09:00 – 09:15 | Registration |
+| 09:15 – 09:30 | Opening |
 | 09:30 – 10:30 | **Keynote 1:** Katrin Erk *(chair: Sharid Loáiciga)* <br><br> **Exploring mental and computational representations of word meaning**<br> |
 | 10:30 – 10:50 | Coffee break |
 | 10:50 – 11:30 | **Oral session 1** *(chair: Ellen Breitholtz)*<br><br>**The Informative Speech Act: Linguistic Disambiguation on the Basis of Epistemic Probability of Interpretations**<br>*Jean-Philippe Bernardy, Julian Grove & Christine Howes*<br><br>**Probing Discourse Coherence with a Polarity Reversal and the Explanation Relation**<br>*Aleksandre Maskharashvili and Symon Jory Stevens-Guille* |
