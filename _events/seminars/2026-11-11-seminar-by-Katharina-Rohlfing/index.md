@@ -1,6 +1,6 @@
 ---
 presented_by: "Katharina Rohlfing from Paderborn University"
-title: "TBA"
+title: "Developmental science innovating Explainable AI (XAI)."
 type: seminar
 date: 2026-11-11
 time: 13:15-15:00
@@ -12,4 +12,4 @@ slides: ""
 ---
 
 ## Abstract
-
+Developmental science is concerned with the development of a child and is my primary research area. In my presentation and along the key concepts “patterns”, “incrementality” and “multimodality”, I aim to show that studies on interactivity and dynamicity of social learning have great potential to inspire the field of Explainable AI. Being a PI and spokesperson of the Research Center Transregio 318 “Constructing Explainability”, I will illustrate how this inspiration materializes in concrete approaches and results for more social XAI.
