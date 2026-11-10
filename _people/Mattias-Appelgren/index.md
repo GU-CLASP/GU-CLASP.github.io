@@ -1,6 +1,6 @@
 ---
 name: "Mattias Appelgren"
-role: 6 
+role: 5 
 title: "Post-doc"
 ---
-Mattias Appelgren is a Post-doc at CLASP, with specialisation in language grounding to vision, robotics, and beyond.
+Mattias Appelgren was a Post-doc at CLASP.
