@@ -27,7 +27,7 @@ layout: concluding-conference
 
 ## Submissions
 
-The conference volume will be published by NEALT, with our external advisors serving as area chairs.
+The conference volume will be published by NEALT, with our external advisors serving as editors.
 
 Papers should be limited to **15 pages**, excluding references and appendices, and should follow the provided LaTeX template:
 
