@@ -11,25 +11,30 @@ layout: concluding-conference
 
 ~~**2026-06-08:** Internal reviewers' comments on the conference papers~~
 
-**2026-10-05/06:** Concluding CLASP Conference (CCC) in Humanisten Building at GU
+~~**2026-10-05/06:** Concluding CLASP Conference (CCC) in Humanisten Building at GU~~
 
-**2026-11-23:** Draft volume version of paper
+~~**2026-11-23:** Draft volume version of paper~~  
+**2027-02-17:** Full paper submission deadline
 
-**2027-02-27:** Reviewers' comments
+~~**2027-02-27:** Reviewers' comments~~  
+**End of March 2027:** External reviews expected
 
-**2027-03-15:** Final version of paper
+~~**2027-03-15:** Final version of paper~~  
+**Early May 2027:** Camera-ready version due
 
-**2027-06-01 (estimated):** Volume appears
-
+~~**2027-06-01 (estimated):** Volume appears~~  
+**End of June 2027 (estimated):** Publication of the volume
 
 ## Submissions
 
-All papers should follow the provided LaTeX template, available here:
+The conference volume will be published by NEALT, with our external advisors serving as area chairs.
+
+Papers should be limited to **15 pages**, excluding references and appendices, and should follow the provided LaTeX template:
 
 [Download template](/assets/CCC-template.zip)
 
-The template is based on the COLI Journal template and style guidelines. 
+The template is based on the COLI Journal template and style guidelines.
 
-Please submit your conference papers through Easychair at
-<https://easychair.org/conferences/?conf=ccc20260>
+Please submit your papers through EasyChair:
 
+[Submit your paper](https://easychair.org/my/conference?conf=cccpro2027)
