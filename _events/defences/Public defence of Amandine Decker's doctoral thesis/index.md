@@ -42,4 +42,4 @@ This thesis investigates three main research questions: (1) how dialogue can be 
 
 We answer these questions by proposing a principled characterisation of dialogue, CHIMERA — standing for CHaracterisation of dIalogue through Multidimensional Examination, Representation and Analysis — and by analysing the topical structure of dialogues across different interaction types, showing how CHIMERA can help determine the suitability of the resources employed and the scope of the analyses. 
 
-[Link to thesis]
+[Link to thesis](https://gupea.ub.gu.se/items/1ed23b2f-265a-4261-b4c4-98d56b3086aa).
